@@ -37,8 +37,8 @@ export function loadServiceAccount(cwd = process.cwd()) {
     if (c) return { credentials: c, source: "env FIREBASE_PROJECT_ID/CLIENT_EMAIL/PRIVATE_KEY" };
   }
   for (const file of serviceAccountCandidates(cwd)) {
-    if (existsSync(file)) {
-      const c = normalize(JSON.parse(readFileSync(file, "utf8")));
+    if (existsSync(/*turbopackIgnore: true*/ file)) {
+      const c = normalize(JSON.parse(readFileSync(/*turbopackIgnore: true*/ file, "utf8")));
       if (c) return { credentials: c, source: file };
     }
   }

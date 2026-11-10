@@ -1,0 +1,28 @@
+{
+ "id": "exvotos-01",
+ "slug": "exvotos-01",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "exvotos",
+ "images": [
+  {
+   "src": "/media/exvotos/exvotos-marc-augue-1105.jpg",
+   "alt": "Obra — Exvotos, 2012",
+   "width": 1105,
+   "height": 1423,
+   "widths": [
+    640,
+    1105
+   ],
+   "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoADYJEKcnEFjnfY39wAAPaZJccw13njI6qPgS2mzBF9NXEDkLVBv/FKz1XW0AlFonXh2R7KlT+Dazu2aKC0wCa/t7H2ZmPL3+cDJ0HXIiyRhYISehuV1v+zHA55U2+AAAA=",
+   "color": "rgb(40 24 8)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 1,
+ "year": "2012",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

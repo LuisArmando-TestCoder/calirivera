@@ -1,0 +1,27 @@
+{
+ "id": "america-descubierta",
+ "slug": "america-descubierta",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "América Descubierta",
+ "collectionId": "suenos-en-azul",
+ "images": [
+  {
+   "src": "/media/suenos-en-azul/america-oficial-835.jpg",
+   "alt": "América Descubierta — Sueños en Azul, 1996",
+   "width": 835,
+   "height": 1600,
+   "widths": [
+    640,
+    835
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAwBQCdASoQAB8APu1iqk4ppaQiMAgBMB2JbACdHYCDAKkARlXz0wg5nXfIgZu/xjpNAAD+9sJN5ES1uP2bD+ZxuNyEDS+JrWqa8xSrU+u0dFwE8gerBTeDwZo0rdPc0AezU/do35g7SBGa65X9ZHLjdbEflw3TxNjbinPkaekWZEJLKr9OIw9AihlKtdDnCUF8uswwwHRagAAA",
+   "color": "rgb(8 40 40)"
+  }
+ ],
+ "aiAltered": false,
+ "order": 4,
+ "year": "1996",
+ "technique": "óleo sobre tela"
+}

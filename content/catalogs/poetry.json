@@ -1,0 +1,24 @@
+{
+ "id": "poetry",
+ "slug": "poetry",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "kind": "project",
+ "title": "Poetry",
+ "year": "2001",
+ "summary": "Una poesía contada con imágenes y sonidos.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "poetry-2",
+   "text": "Como respuesta a una Convocatoria Nacional de Arte, en el año 2001 nació esta instalación. En mi desarrollo como artista he tratado de vivir mi propio tiempo y realidad y, pese a mi búsqueda de lo integral o multidisciplinario, la pintura y su valor dentro de la historia me importan, especialmente cuando nos enfrentamos a nuevas tendencias que dejan la pintura casi como una propuesta obsoleta. Así pues, replanteo la pintura desde una visión diferente, exponiendo la misma no solo colgada de la pared, sino también como parte integral de una instalación que evoca una ciudad con luz propia y que permite ver la pintura desde una visión distinta. De materiales mixtos como madera, aluminio, alambre de cobre, sensores infrarrojos y lámina acrílica transparente, Poetry tiene un claro interés de proteger la pintura como lenguaje contemporáneo mediante el mensaje logrado con la contraposición de dos objetos muy distintos entre sí, pero que juntos forman unidad: una poesía contada con imágenes y sonidos. El módulo o exhibidor, versus la pequeña bitácora intervenida con pintura, califican esta propuesta dentro de las actuales tendencias donde lo tecnológico y mecanizado está tomando por asalto las galerías en todo el mundo, creando una paradoja. Poetry pretende crear una reflexión inmediata en el espectador, quien se enfrenta a un artefacto “postmoderno” que alberga una bitácora de papel reciclado intervenida a mano. Esta instalación interactúa al momento de introducir las manos en la bóveda acrílica donde se alberga el libro, activando unos sensores infrarrojos que encienden una luz dentro de la misma, mientras una serie de sonidos que crean un nexo entre lo urbano y la naturaleza activan el oído y lo unen a las imágenes de la bitácora que están siendo manipuladas por el mismo espectador:"
+  },
+  {
+   "type": "paragraph",
+   "id": "poetry-3",
+   "text": "LOS SENTIDOS COMO FORMA PRIMARIA DE PERCIBIR LA REALIDAD"
+  }
+ ],
+ "order": 100
+}

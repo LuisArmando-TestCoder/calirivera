@@ -1,8 +1,15 @@
 import type { Metadata } from "next";
-import { Placeholder } from "@/components/Placeholder/Placeholder";
+import { notFound } from "next/navigation";
+import { ProgramPage } from "@/components/program/ProgramPage";
+import { getProgram, listPeople, listPosts } from "@/lib/content/repo";
 
-export const metadata: Metadata = { title: "Colaboración al Artista Nacional" };
+export async function generateMetadata(): Promise<Metadata> {
+  const p = await getProgram("colaboracion");
+  return { title: p?.title ?? "Taller del Artista", description: p?.summary };
+}
 
-export default function Page() {
-  return <Placeholder title="Colaboración al Artista Nacional" lead="Artistas, deportistas y causas que el Taller ha acompañado." />;
+export default async function Page() {
+  const [program, people, posts] = await Promise.all([getProgram("colaboracion"), listPeople("colaboracion"), listPosts("colaboracion")]);
+  if (!program) notFound();
+  return <ProgramPage program={program} people={people} posts={posts} beat="20" variant="colaboracion" />;
 }

@@ -1,0 +1,47 @@
+@use "../../styles/tokens" as *;
+
+.figure {
+  position: relative;
+  margin: 0;
+  aspect-ratio: var(--ratio);
+  background: var(--tint) var(--ph, none) center / cover no-repeat;
+  overflow: hidden;
+  isolation: isolate;
+}
+.framed { box-shadow: 0 0 0 1px var(--c-linea); }
+.fill { aspect-ratio: auto; height: 100%; }
+
+.pic { display: contents; }
+.img {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  @include motion {
+    transition: transform 1.2s var(--ease-out), filter 0.8s var(--ease-out);
+  }
+}
+.cover { object-fit: cover; }
+
+// Baja resolución: copia ampliada y desenfocada detrás + la obra a 72 % del marco
+.low {
+  aspect-ratio: 4 / 5;
+  display: grid;
+  place-items: center;
+  .img { width: 72%; height: 72%; filter: drop-shadow(0 1.2rem 2rem oklch(20% 0.05 270 / 0.35)); }
+}
+.echo {
+  position: absolute;
+  inset: -12%;
+  width: 124%;
+  height: 124%;
+  object-fit: cover;
+  filter: blur(28px) saturate(1.15);
+  opacity: 0.7;
+  transform: scale(1.1);
+  @include motion {
+    animation: breathe 14s var(--ease-in-out) infinite alternate;
+  }
+}
+@keyframes breathe { to { transform: scale(1.22) translate(-2%, 1%); } }

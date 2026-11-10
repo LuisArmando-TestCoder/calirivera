@@ -1,0 +1,27 @@
+{
+ "id": "detras-de-la-ventana-18",
+ "slug": "detras-de-la-ventana-18",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "detras-de-la-ventana",
+ "images": [
+  {
+   "src": "/media/detras-de-la-ventana/delirio-372.jpg",
+   "alt": "Obra — Detrás de la ventana, 2000",
+   "width": 372,
+   "height": 500,
+   "widths": [
+    372
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JZACdMoADSGu13nym+qisWcAA/pgHTBwJ7f6o+TY/enGEGPVpfgf67EIeX7i8AuyGT2AXv4/PN94GLVVW1+uAFUVhWyMwYg04t8PXmPU5Xw+USWgAAA==",
+   "color": "rgb(168 152 120)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 18,
+ "year": "2000",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

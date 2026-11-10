@@ -1,0 +1,28 @@
+{
+ "id": "exvotos-03",
+ "slug": "exvotos-03",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "exvotos",
+ "images": [
+  {
+   "src": "/media/exvotos/exvotos-mundo-material-1183.jpg",
+   "alt": "Obra — Exvotos, 2012",
+   "width": 1183,
+   "height": 1329,
+   "widths": [
+    640,
+    1183
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZACdMoADTrgtVZRKkNNlAAD+rT6D0a2H/evtrWH6cfJYSf33HiIXvBdKaMPfV/KLljOSOjhJgDKhbvtVKSbsDpQjidOl9z07GSY/BfiY9ngvm+Y+MEFmpaZi5McAAAA=",
+   "color": "rgb(8 8 8)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 3,
+ "year": "2012",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

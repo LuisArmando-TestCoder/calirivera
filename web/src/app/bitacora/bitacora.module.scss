@@ -1,0 +1,13 @@
+@use "../../styles/tokens" as *;
+
+.page { padding-top: var(--header-h); }
+.hero {
+  @include wrap;
+  padding-block: var(--space-2xl) var(--space-xl);
+  display: grid; gap: var(--space-s);
+  @include above($bp-m) { grid-template-columns: 1fr auto; align-items: end; }
+}
+.title { @include display(100, 860); font-size: clamp(3.4rem, 14vw, 13rem); line-height: 0.82; }
+.lead { font-size: var(--step-1); max-width: 30ch; @include above($bp-m) { grid-column: 1; } }
+.range { @include display(56, 200); font-size: var(--step-4); color: var(--c-azul); @include above($bp-m) { grid-row: 1 / span 2; grid-column: 2; align-self: end; } }
+.body { @include wrap; padding-bottom: var(--space-3xl); }

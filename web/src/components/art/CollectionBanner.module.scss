@@ -1,0 +1,32 @@
+@use "../../styles/tokens" as *;
+
+.banner {
+  --notch: 2.2rem;
+  display: block;
+  text-decoration: none;
+  transform-origin: 50% 0;
+  margin-top: calc(var(--drop) * var(--space-xl));
+  filter: drop-shadow(0 1rem 1.4rem oklch(20% 0.06 270 / 0.18));
+  transform: skewX(calc(var(--velocity, 0) * -3deg));
+  @include motion { transition: transform var(--dur-ui) var(--ease-out); }
+  &:hover, &:focus-visible { transform: translateY(0.6rem) rotate(-0.6deg); }
+  &:focus-visible { outline-offset: 6px; }
+}
+.cloth {
+  display: grid;
+  gap: var(--space-s);
+  padding: var(--space-s) var(--space-s) calc(var(--notch) + var(--space-m));
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% calc(100% - var(--notch)), 0 100%);
+  background-image: repeating-linear-gradient(90deg, oklch(100% 0 0 / 0.05) 0 1px, transparent 1px 5px);
+}
+.anil .cloth { background-color: var(--c-anil); color: var(--c-hilo); }
+.azul .cloth { background-color: var(--c-azul); color: var(--c-hilo); }
+.ocre .cloth { background-color: var(--c-ocre); color: var(--c-anil); }
+.hilo .cloth { background-color: var(--c-hilo); color: var(--c-anil); }
+
+.media { display: block; aspect-ratio: 4 / 5; overflow: hidden;
+  img { @include motion { transition: transform 1.2s var(--ease-out); } }
+}
+.banner:hover .media img { transform: scale(1.05); }
+.title { @include display(56, 800); font-size: var(--step-3); line-height: 0.9; text-wrap: balance; }
+.period { @include label; opacity: 0.8; }

@@ -1,0 +1,29 @@
+{
+ "id": "suenos-en-azul-01",
+ "slug": "suenos-en-azul-01",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "suenos-en-azul",
+ "images": [
+  {
+   "src": "/media/suenos-en-azul/hogar-donde-965.jpg",
+   "alt": "Obra — Sueños en Azul, 1996",
+   "width": 965,
+   "height": 1629,
+   "widths": [
+    640,
+    965
+   ],
+   "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBQCdASoQABsAPu1iqk2ppaQiMAgBMB2JbACdMoR4T5Xbg4zMClHLdf+sk60eDIqneAD+5Fh6kbfcOm1l4V9b1MxzBZ6zhNgjkvujOa5o8/tzww/yigODHx+APR8X7Z6ybXuLA/eOM1hT7vRASsafaU11XhUpR3cfeuPrXTnea+vre8NQn5+MtxcPPOYlRWm2UvWVSDV6CnumtLfYPsm7sZIhuQAA",
+   "color": "rgb(8 40 72)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 1,
+ "year": "1996",
+ "technique": "óleo sobre tela",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

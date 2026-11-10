@@ -1,0 +1,89 @@
+{
+ "id": "actividades-taller-del-artista-julio-2016",
+ "slug": "actividades-taller-del-artista-julio-2016",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Actividades Taller del Artista, Julio 2016",
+ "excerpt": "Mes de Julio, un mes de degustaciones, entran nuevas yuquitas café arte, el delicioso Tartar de salmón y las tostadas 4 quesos, nuevas delicias que te encantarán sorpresas y mas todos los días en nuestro mágico espacio.",
+ "body": [
+  {
+   "type": "image",
+   "id": "post-701",
+   "image": {
+    "src": "/media/archivo/agenda-julio-2016web-700.jpg",
+    "alt": "agenda julio 2016web",
+    "width": 700,
+    "height": 1023,
+    "widths": [
+     640,
+     700
+    ],
+    "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZwAAW4BhQDW6oThq/jXGAAD6n+VHSP4THWgdKAMeQPlgU7HYkRpQv5SzDnvlHx6NPa657Z1GVcQiBADtMMcSusCsuZgoD2gy/qz9wM4whzyASrAGlWhDInF7MRgD+ecy8AAA",
+    "color": "rgb(248 248 248)"
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "post-702",
+   "text": "Mes de Julio, un mes de degustaciones, entran nuevas yuquitas café arte, el delicioso Tartar de salmón y las tostadas 4 quesos, nuevas delicias que te encantarán sorpresas y mas todos los días en nuestro mágico espacio."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-703",
+   "text": "-En jueves de formato tenemos de invitado al escritor Manuel Iglesias los jueves 7 y 21 y el 28 la maravillosa voz de Katty Castro."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-704",
+   "text": "-Los viernes 1 y 29 - abrimos y cerramos con la música y buen ambiente de dj SIGNOS"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-705",
+   "text": "Viernes 8 y 22 – María Cardona."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-706",
+   "text": "-El vienes 15 ES SORPRESA"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-707",
+   "text": "-SABADO 9 DANZA Árabe con Madeleine Paris"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-708",
+   "text": "-Sábado 16 – yoga a las 3 pm y a las 9: 00 la hora de la tierra con la música de Sunset memories"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-709",
+   "text": "-Sábado 23- Mari Laguna – piano y voz"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-710",
+   "text": "-Sábado 30- Mariana Echeverría en su propuestas de amor – guitarra y voz"
+  }
+ ],
+ "publishedAt": "2016-07-01T12:00:00Z",
+ "tags": [
+  "archivo"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260115054359/https://www.calirivera.com/index.php/taller-del-artista/actividades/279-actividades-taller-del-artista-julio-2016",
+ "cover": {
+  "src": "/media/archivo/agenda-julio-2016web-700.jpg",
+  "alt": "agenda julio 2016web",
+  "width": 700,
+  "height": 1023,
+  "widths": [
+   640,
+   700
+  ],
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZwAAW4BhQDW6oThq/jXGAAD6n+VHSP4THWgdKAMeQPlgU7HYkRpQv5SzDnvlHx6NPa657Z1GVcQiBADtMMcSusCsuZgoD2gy/qz9wM4whzyASrAGlWhDInF7MRgD+ecy8AAA",
+  "color": "rgb(248 248 248)"
+ }
+}

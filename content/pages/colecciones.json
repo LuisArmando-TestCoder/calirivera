@@ -1,0 +1,27 @@
+{
+ "id": "colecciones",
+ "slug": "colecciones",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Colecciones",
+ "description": "Siete capítulos de la obra de Cali Rivera, de Atmósfera (1993) a La Cofradía (2017).",
+ "sections": [
+  {
+   "id": "intro",
+   "layout": "editorial-columns",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "id": "coll-1",
+     "text": "Cada colección representa un capítulo en la evolución creativa de Cali Rivera, donde la pintura se convierte en un lenguaje capaz de explorar la espiritualidad, la memoria, la identidad y la condición humana. Desde sus primeras investigaciones en óleo hasta sus propuestas conceptuales más profundas, cada serie posee una identidad propia y revela una nueva manera de interpretar el mundo."
+    },
+    {
+     "type": "paragraph",
+     "id": "coll-2",
+     "text": "Le invitamos a descubrir cada una de estas colecciones y adentrarse en un recorrido donde el color, el símbolo y la emoción construyen un legado artístico que trasciende el tiempo."
+    }
+   ]
+  }
+ ]
+}

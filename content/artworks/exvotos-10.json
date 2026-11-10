@@ -1,0 +1,29 @@
+{
+ "id": "exvotos-10",
+ "slug": "exvotos-10",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "exvotos",
+ "images": [
+  {
+   "src": "/media/exvotos/cali-exvotos-2007.jpg",
+   "alt": "Obra — Exvotos, 2012",
+   "width": 2007,
+   "height": 784,
+   "widths": [
+    640,
+    1280,
+    1920,
+    2007
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAYAA4BaJaACdAYrJk0UtrqigAD+8YCnnX4L5daeHpmcqY0YOCLVzlz7xFNNLmMDp+qFLQUsxK0lpHskuk6HMA7k3R0wegzaKwA7jr4d0cZC0gAAAA==",
+   "color": "rgb(8 8 8)"
+  }
+ ],
+ "aiAltered": false,
+ "order": 10,
+ "year": "2012",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

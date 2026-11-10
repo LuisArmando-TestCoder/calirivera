@@ -1,20 +1,82 @@
-@use "tokens";
+@use "tokens" as *;
 @use "reset";
 
-@font-face {
-  font-family: "Display Fallback";
-  src: local("Georgia");
-  size-adjust: 100%;
-}
-
-body {
+html {
   background: var(--c-bg);
   color: var(--c-fg);
-  font-family: var(--font-text);
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+
+}
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+.lenis.lenis-smooth [data-lenis-prevent] { overscroll-behavior: contain; }
+
+body {
+  @include text;
   font-size: var(--step-0);
+  background: var(--c-bg);
+  color: var(--c-fg);
+  min-height: 100svh;
+}
+
+::selection { background: var(--c-ocre); color: var(--c-anil); }
+
+a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+a:hover { text-decoration-thickness: 2px; }
+
+:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+h1, h2, h3 { @include display; font-weight: 760; }
+
+.skip-link {
+  position: fixed; inset-block-start: 0.5rem; inset-inline-start: 0.5rem; z-index: 200;
+  padding: 0.6rem 1rem; background: var(--c-anil); color: var(--c-hilo);
+  transform: translateY(-150%); transition: transform var(--dur-micro) var(--ease-out);
+  &:focus-visible { transform: none; }
 }
 
 .visually-hidden {
   position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
 }
+
+// Revelado por líneas (SplitText) — estado inicial solo cuando hay JS y movimiento permitido
+@include motion {
+  .js [data-reveal="lines"] .line-inner { display: inline-block; will-change: transform; }
+  .js [data-reveal="fade"] { opacity: 0; translate: 0 1.5rem; }
+}
+
+// CSS scroll-driven (compositor) para revelados simples
+@supports (animation-timeline: view()) {
+  @include motion {
+    [data-sd="rise"] {
+      animation: sd-rise linear both;
+      animation-timeline: view();
+      animation-range: entry 0% cover 30%;
+    }
+    [data-sd="unfurl"] {
+      animation: sd-unfurl linear both;
+      animation-timeline: view();
+      animation-range: entry 0% cover 45%;
+    }
+  }
+}
+@keyframes sd-rise { from { opacity: 0; translate: 0 2.5rem; } to { opacity: 1; translate: 0 0; } }
+@keyframes sd-unfurl { from { clip-path: inset(0 0 100% 0); } to { clip-path: inset(0 0 0 0); } }
+
+// Transiciones de vista (navegación entre páginas)
+::view-transition-old(.page) { animation: vt-out 380ms var(--ease-in-out) both; }
+::view-transition-new(.page) { animation: vt-in 620ms var(--ease-out) both; }
+@keyframes vt-out { to { opacity: 0; transform: translateY(-1.5rem); } }
+@keyframes vt-in { from { clip-path: inset(100% 0 0 0); } to { clip-path: inset(0 0 0 0); } }
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(.page), ::view-transition-new(.page) { animation: none; }
+}
+
+// El editor (/admin) usa su propio marco: sin cabecera ni pie del sitio
+body:has([data-cms-admin]) [data-site-chrome], body:has([data-cms-admin]) .skip-link { display: none; }

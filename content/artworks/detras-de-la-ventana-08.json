@@ -1,0 +1,27 @@
+{
+ "id": "detras-de-la-ventana-08",
+ "slug": "detras-de-la-ventana-08",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "detras-de-la-ventana",
+ "images": [
+  {
+   "src": "/media/detras-de-la-ventana/madre-tierra-2-1102.jpg",
+   "alt": "Obra — Detrás de la ventana, 2000",
+   "width": 1102,
+   "height": 1428,
+   "widths": [
+    640,
+    1102
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbAC7IExCTjZEzpaeod4VPYkagAD2+bOJCW41OjD+ICRvRnkg6QIVo/cYJ2zsrfhyPVH9KlrUT1EBuMMgq7fvYXakr7pTSA6TyILTTTs7f37m1DL3K1uk8yhZfoKQjX6U9kqN4wP2Ao5wevyX//XZNv38yU+NEPa2JHtn4Nt0QyqDeLAAAA==",
+   "color": "rgb(8 8 24)"
+  }
+ ],
+ "aiAltered": false,
+ "order": 8,
+ "year": "2000",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

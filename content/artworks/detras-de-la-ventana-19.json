@@ -1,0 +1,27 @@
+{
+ "id": "detras-de-la-ventana-19",
+ "slug": "detras-de-la-ventana-19",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "detras-de-la-ventana",
+ "images": [
+  {
+   "src": "/media/detras-de-la-ventana/ventana-blanca-png-1024.jpg",
+   "alt": "Obra — Detrás de la ventana, 2000",
+   "width": 1024,
+   "height": 1024,
+   "widths": [
+    640,
+    1024
+   ],
+   "placeholder": "data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoQABAAA4BaJaQAA3AA/vUIAAA=",
+   "color": "rgb(8 8 8)"
+  }
+ ],
+ "aiAltered": false,
+ "order": 19,
+ "year": "2000",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

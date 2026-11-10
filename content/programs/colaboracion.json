@@ -1,0 +1,28 @@
+{
+ "id": "colaboracion",
+ "slug": "colaboracion",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "kind": "colaboracion",
+ "title": "Programa de Colaboración al Artista Nacional",
+ "summary": "Durante 26 años el Taller del Artista ha puesto su espacio, su escenario y lo poco que tiene al servicio de otros artistas.",
+ "order": 0,
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "colaboracion-1",
+   "text": "Una primera tarima para quien empieza, vestuario para quien sale del país a competir, un recibimiento para quien vuelve con un premio, un evento para recaudar fondos cuando alguien lo necesita."
+  },
+  {
+   "type": "paragraph",
+   "id": "colaboracion-2",
+   "text": "Es trabajo que se hace desde el amor y que casi nunca se ve. Aquí queremos nombrar a quienes han pasado por el Taller y lo que lograron."
+  },
+  {
+   "type": "paragraph",
+   "id": "colaboracion-3",
+   "text": "Entre ellos: un artista del origami que hoy es primer lugar mundial en halterofilia; un grupo de porristas con síndrome de Down campeón del mundo; una cantante que obtuvo el segundo lugar en un festival internacional de ópera en Perú; y La Semilla de Danza, que dio sus primeros pasos en esta tarima antes de llegar al Teatro Nacional."
+  }
+ ]
+}

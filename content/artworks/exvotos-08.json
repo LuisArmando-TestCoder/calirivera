@@ -1,0 +1,28 @@
+{
+ "id": "exvotos-08",
+ "slug": "exvotos-08",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "exvotos",
+ "images": [
+  {
+   "src": "/media/exvotos/el-comienzo-exvotos-1182.jpg",
+   "alt": "Obra — Exvotos, 2012",
+   "width": 1182,
+   "height": 1331,
+   "widths": [
+    640,
+    1182
+   ],
+   "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JbACdMoRgC3DOVgMASVsaAuGivr/AAP6tQgSRXKtSnf/y1OSAVObgNt4IcwOdjtrr/shhnIEQJI99fVikp3rC7SKNWZncE6mkkBtKdrNe0yaBUlZay19jXPaA57QixpldlanSCWjw6jL9hUajnfI5RzvkcxmFgSRgAA==",
+   "color": "rgb(216 232 232)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 8,
+ "year": "2012",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

@@ -1,0 +1,55 @@
+@use "../../styles/tokens" as *;
+
+.hero {
+  @include wrap;
+  padding-top: calc(var(--header-h) + var(--space-2xl));
+  display: grid; gap: var(--space-l);
+  @include above($bp-m) { grid-template-columns: 1.3fr 1fr; align-items: end; }
+}
+.title { @include display(60, 860); font-size: clamp(3rem, 10vw, 9.5rem); line-height: 0.84; }
+.lead { font-size: var(--step-1); line-height: 1.4; max-width: 30ch; }
+.h2 { @include display(64, 780); font-size: var(--step-4); line-height: 0.95; margin-bottom: var(--space-l); }
+
+.shelfSection { padding-top: var(--space-2xl); overflow-x: auto; scrollbar-width: thin; }
+.shelf {
+  display: flex; align-items: flex-end; gap: 4px;
+  padding-inline: var(--gutter);
+  height: clamp(20rem, 52svh, 34rem);
+  width: max-content;
+  min-width: 100%;
+}
+.spine {
+  --c1: var(--c-anil); --c2: var(--c-hilo);
+  position: relative;
+  display: flex; flex-direction: column; justify-content: space-between; align-items: center;
+  width: clamp(3rem, 5.4vw, 4.6rem);
+  height: calc(var(--h) * 1%);
+  padding: var(--space-s) 0;
+  background: var(--c1); color: var(--c2);
+  text-decoration: none;
+  transform-origin: bottom left;
+  box-shadow: inset -6px 0 10px -6px oklch(0% 0 0 / 0.35), inset 3px 0 0 oklch(100% 0 0 / 0.08);
+  @include motion { transition: transform 600ms var(--ease-out), margin 600ms var(--ease-out); }
+  &:hover, &:focus-visible { transform: translateY(-1.2rem) rotate(-4deg); margin-inline: 0.8rem; }
+  &:nth-child(4n + 2) { --c1: var(--c-azul); }
+  &:nth-child(4n + 3) { --c1: var(--c-ocre); --c2: var(--c-anil); }
+  &:nth-child(4n + 4) { --c1: var(--c-hilo); --c2: var(--c-anil); box-shadow: inset 0 0 0 1px var(--c-linea), inset -6px 0 10px -6px oklch(0% 0 0 / 0.2); }
+}
+.spineTitle {
+  writing-mode: vertical-rl; transform: rotate(180deg);
+  @include display(70, 760); font-size: clamp(1rem, 1.6vw, 1.45rem); line-height: 1; white-space: nowrap;
+  overflow: hidden; text-overflow: ellipsis; max-height: 85%;
+}
+.spineYear { @include label; font-size: var(--step--2); writing-mode: vertical-rl; transform: rotate(180deg); opacity: 0.8; }
+.board { height: 10px; margin-inline: var(--gutter); background: var(--c-anil); width: auto; min-width: calc(100% - 2 * var(--gutter)); }
+
+.projects { @include wrap; padding-block: var(--space-3xl); }
+.projectList { list-style: none; padding: 0; border-top: 2px solid var(--c-anil); }
+.project {
+  display: grid; gap: 0.25rem var(--space-l); padding-block: var(--space-m); border-bottom: 1px solid var(--c-linea); text-decoration: none;
+  @include above($bp-m) { grid-template-columns: 8rem 1fr 1fr; align-items: baseline; }
+  &:hover .projectTitle { font-stretch: 120%; color: var(--c-azul); }
+}
+.projectYear { @include label; color: var(--c-muted); }
+.projectTitle { @include display(70, 800); font-size: var(--step-4); line-height: 0.95; @include motion { transition: font-stretch 600ms var(--ease-out), color 300ms; } }
+.projectSummary { color: var(--c-muted); }

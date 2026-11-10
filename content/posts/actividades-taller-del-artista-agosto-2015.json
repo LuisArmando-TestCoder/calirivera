@@ -1,0 +1,84 @@
+{
+ "id": "actividades-taller-del-artista-agosto-2015",
+ "slug": "actividades-taller-del-artista-agosto-2015",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Actividades Taller del Artista, Agosto 2015",
+ "excerpt": "Viernes 7: Música Trova con Poncho",
+ "body": [
+  {
+   "type": "image",
+   "id": "post-544",
+   "image": {
+    "src": "/media/archivo/239x256-images-agenda-agosto-2015-web-239.jpg",
+    "alt": "agenda agosto 2015 web",
+    "width": 239,
+    "height": 256,
+    "widths": [
+     239
+    ],
+    "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoQABIAPu1iqU2ppaQiMAgBMB2JZwDKACHfK9sjU2qXey5sAP7q76LTudglWT75N5ePk46rUOTnFnwmoYJKbybfZV5nlWCSOHbKT3MHnIOEeIAA",
+    "color": "rgb(248 248 248)",
+    "lowRes": true
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "post-545",
+   "text": "Viernes 7: Música Trova con Poncho"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-546",
+   "text": "Sábado 8: Signus Pro Arts Música Electrónica"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-547",
+   "text": "Viernes 14: Danza contemporanea Jesus Ramírez"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-548",
+   "text": "Sábado 15: Cena Especial Día de la madre / Ensamble Toca discos"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-549",
+   "text": "Viernes 21: Michael Brenes Saxofón"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-550",
+   "text": "Sábado 22: Signus Pro Arts Música Electrónica"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-551",
+   "text": "Viernes 28: Invitado Especial"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-552",
+   "text": "Sábado 29: Especial con María Pretiz"
+  }
+ ],
+ "publishedAt": "2015-08-01T12:00:00Z",
+ "tags": [
+  "archivo"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20161213121924/http://calirivera.com/index.php/taller-del-artista/actividades/246-actividades-taller-del-artista-agosto-2015.html",
+ "cover": {
+  "src": "/media/archivo/239x256-images-agenda-agosto-2015-web-239.jpg",
+  "alt": "agenda agosto 2015 web",
+  "width": 239,
+  "height": 256,
+  "widths": [
+   239
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoQABIAPu1iqU2ppaQiMAgBMB2JZwDKACHfK9sjU2qXey5sAP7q76LTudglWT75N5ePk46rUOTnFnwmoYJKbybfZV5nlWCSOHbKT3MHnIOEeIAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ }
+}

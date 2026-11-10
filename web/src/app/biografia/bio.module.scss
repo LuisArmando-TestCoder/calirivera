@@ -1,0 +1,52 @@
+@use "../../styles/tokens" as *;
+
+.page { position: relative; }
+
+// El hilo: una línea que se cose a medida que se lee (scroll-driven, compositor)
+.thread {
+  position: fixed; z-index: 3; top: 0; bottom: 0; left: calc(var(--gutter) * 0.45);
+  width: 2px; background: var(--c-azul); transform-origin: top; transform: scaleY(1);
+  pointer-events: none;
+  @include below($bp-s) { display: none; }
+  @supports (animation-timeline: scroll()) {
+    @include motion { animation: sew linear both; animation-timeline: scroll(root); }
+  }
+}
+@keyframes sew { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+
+.hero {
+  min-height: 92svh;
+  padding: calc(var(--header-h) + var(--space-xl)) var(--gutter) var(--space-2xl);
+  display: grid;
+  align-content: end;
+  gap: var(--space-l);
+}
+.name { margin: 0; display: grid; line-height: 0.8; }
+.n1, .n2 { display: block; @include display(50, 900); font-size: clamp(5rem, 26vw, 24rem); letter-spacing: -0.02em; }
+.n2 { justify-self: end; font-stretch: 112%; font-weight: 300; color: var(--c-azul); margin-top: -0.06em;
+  @include motion { animation: stretch 1600ms var(--ease-out) 200ms both; } }
+@keyframes stretch { from { font-stretch: 50%; opacity: 0; } }
+.sub { @include text; font-style: italic; font-size: var(--step-2); max-width: 24ch; line-height: 1.2; }
+
+.chapter { position: relative; }
+.year {
+  @include display(56, 200);
+  position: absolute;
+  top: var(--space-xl);
+  right: var(--gutter);
+  font-size: clamp(3rem, 12vw, 10rem);
+  line-height: 1;
+  color: color-mix(in oklch, var(--c-azul) 22%, transparent);
+  z-index: 2;
+  mix-blend-mode: multiply;
+  pointer-events: none;
+  @include below($bp-m) { position: relative; top: 0; right: 0; padding: var(--space-xl) var(--gutter) 0; margin-bottom: calc(var(--space-3xl) * -1); }
+}
+
+.next {
+  @include wrap;
+  display: grid; gap: var(--space-s);
+  padding-block: var(--space-3xl);
+  a { @include display(64, 760); font-size: var(--step-4); line-height: 1; text-decoration: none;
+    &:hover { color: var(--c-azul); } }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "exvotos-09",
+ "slug": "exvotos-09",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "exvotos",
+ "images": [
+  {
+   "src": "/media/exvotos/contemporaneo-exvotos-1163.jpg",
+   "alt": "Obra — Exvotos, 2012",
+   "width": 1163,
+   "height": 1352,
+   "widths": [
+    640,
+    1163
+   ],
+   "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoRwACnILJ96GcSGoAD+SfZOlgYuOGZVXZco4oadMGD2OlB/S+nFFjeY3KaOtPotSgKRQI+93jPWSnwvajp81JvLr55XZdexR6q4cBGLs48ZQx2R346GklyZFHJEgAAA",
+   "color": "rgb(168 136 24)"
+  }
+ ],
+ "aiAltered": false,
+ "order": 9,
+ "year": "2012",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

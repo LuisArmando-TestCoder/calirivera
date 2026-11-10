@@ -1,0 +1,7 @@
+@use "../styles/tokens" as *;
+.page { @include wrap; min-height: 90svh; padding-top: calc(var(--header-h) + var(--space-2xl)); display: grid; align-content: center; gap: var(--space-m); }
+.code { @include display(150, 200); font-size: clamp(6rem, 30vw, 26rem); line-height: 0.8; color: var(--c-azul); }
+.title { @include display(60, 820); font-size: var(--step-5); }
+.lead { font-size: var(--step-1); }
+.links { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: var(--space-m);
+  a { @include label; font-size: var(--step-0); text-decoration: none; border-bottom: 2px solid currentColor; padding-block: 0.4rem; } }

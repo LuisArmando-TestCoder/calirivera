@@ -1,0 +1,125 @@
+@use "../../styles/tokens" as *;
+
+.hero {
+  position: relative;
+  min-height: 100svh;
+  padding-top: var(--header-h);
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  overflow: clip;
+  @include above($bp-m) {
+    grid-template-columns: minmax(0, 6fr) minmax(0, 6fr);
+    grid-template-rows: auto 1fr;
+  }
+}
+
+// La vara de la que cuelgan
+.rod {
+  grid-column: 1 / -1;
+  height: 3px;
+  margin-inline: calc(var(--gutter) * 0.6);
+  margin-top: var(--space-m);
+  background: var(--c-anil);
+  border-radius: 2px;
+  position: relative;
+  &::before, &::after {
+    content: ""; position: absolute; top: -5px; width: 13px; height: 13px; border-radius: 50%;
+    background: var(--c-anil);
+  }
+  &::before { left: -4px; }
+  &::after { right: -4px; }
+  @include motion { animation: draw 900ms var(--ease-out) both; transform-origin: left; }
+}
+@keyframes draw { from { transform: scaleX(0); } to { transform: none; } }
+
+.banners {
+  display: flex;
+  gap: clamp(0.6rem, 2.5vw, 2.4rem);
+  padding-inline: var(--gutter);
+  align-items: flex-start;
+  margin: 0;
+  line-height: 1;
+  @include above($bp-m) { padding-inline-start: calc(var(--gutter) + 3vw); }
+}
+
+.banner {
+  --len: 4;
+  display: block;
+  transform-origin: 50% 0;
+  transform: skewX(calc(var(--velocity, 0) * -5deg)) rotate(calc(var(--velocity, 0) * 0.6deg));
+  filter: drop-shadow(0 1.4rem 1.6rem oklch(20% 0.06 270 / 0.22));
+}
+.cloth {
+  --notch: clamp(1.4rem, 5vw, 3.4rem);
+  display: grid;
+  justify-items: center;
+  padding: clamp(1rem, 2.4vw, 2rem) clamp(0.7rem, 1.8vw, 1.6rem) calc(var(--notch) + clamp(1rem, 2.5vw, 2rem));
+  // cola de golondrina, como los estandartes
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% calc(100% - var(--notch)), 0 100%);
+  // trama del tejido
+  background-image:
+    repeating-linear-gradient(90deg, oklch(100% 0 0 / 0.045) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(0deg, oklch(0% 0 0 / 0.05) 0 1px, transparent 1px 4px);
+  @include motion { animation: unroll 1100ms var(--ease-out) 150ms both; }
+}
+@keyframes unroll { from { clip-path: polygon(0 0, 100% 0, 100% 0, 50% 0, 0 0); } }
+
+.one .cloth { background-color: var(--c-anil); color: var(--c-ocre); }
+.two .cloth { background-color: var(--c-azul); color: var(--c-hilo); }
+.two { margin-top: clamp(2.5rem, 9vw, 8rem); }
+
+.letter {
+  display: block;
+  @include display(54, 880);
+  text-transform: uppercase;
+  font-size: min(var(--step-banner), 11.5svh);
+  line-height: 0.86;
+  @include above($bp-m) { font-stretch: 118%; font-size: min(10vw, 11.6svh); }
+  @include motion { animation: letter 900ms var(--ease-out) both; animation-delay: calc(380ms + var(--i) * 70ms); }
+}
+@keyframes letter { from { opacity: 0; transform: translateY(-0.4em); } }
+
+.copy {
+  padding: var(--space-xl) var(--gutter) var(--space-2xl);
+  display: grid;
+  gap: var(--space-l);
+  align-content: end;
+  @include above($bp-m) { padding-inline-start: 0; padding-bottom: var(--space-3xl); }
+}
+.tagline {
+  @include text;
+  font-size: var(--step-4);
+  @include above($bp-m) { font-size: clamp(3rem, 5.6vw, 6.4rem); }
+  font-weight: 330;
+  font-style: italic;
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  max-width: 11ch;
+  text-wrap: balance;
+  @include motion { animation: rise-in 1000ms var(--ease-out) 900ms both; }
+}
+@keyframes rise-in { from { opacity: 0; transform: translateY(1rem); } }
+
+.cta {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+  min-height: 48px;
+  padding: 0.85rem 1.4rem;
+  background: var(--c-anil);
+  color: var(--c-hilo);
+  text-decoration: none;
+  @include label;
+  font-size: var(--step-0);
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  &::before {
+    content: ""; position: absolute; inset: 0; z-index: -1; background: var(--c-azul);
+    transform: scaleY(0); transform-origin: top;
+    @include motion { transition: transform var(--dur-ui) var(--ease-out); }
+  }
+  &:hover::before, &:focus-visible::before { transform: none; }
+  @include motion { animation: rise-in 1000ms var(--ease-out) 1050ms both; }
+}

@@ -1,0 +1,503 @@
+{
+ "id": "trayectoria-and-entrevistas",
+ "slug": "trayectoria-and-entrevistas",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Trayectoria & Entrevistas",
+ "description": "Exposiciones, currículum, entrevistas y crítica sobre la obra de Cali Rivera.",
+ "sections": [
+  {
+   "id": "exposiciones",
+   "title": "Exposiciones destacadas",
+   "layout": "editorial-columns",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "id": "tray-3",
+     "text": "Una trayectoria artística desarrollada a través de exposiciones individuales y colectivas, instalaciones, intervenciones y proyectos presentados en Costa Rica y distintos escenarios internacionales."
+    },
+    {
+     "type": "timeline",
+     "id": "tray-4",
+     "items": [
+      {
+       "year": "2022",
+       "title": "El agua es Oro",
+       "detail": "Exposición individual y reinauguración oficial de la Galería del Taller del Artista. Costa Rica."
+      },
+      {
+       "year": "2022",
+       "title": "Sincretismos en la pintura de Costa Rica",
+       "detail": "Exposición colectiva. Museo de Arte Costarricense / Galería ECA, Escuela Casa del Artista. Costa Rica."
+      },
+      {
+       "year": "2021",
+       "title": "Colores y texturas del Bicentenario",
+       "detail": "Exposición colectiva itinerante. Galería Talentum. Costa Rica."
+      },
+      {
+       "year": "2020",
+       "title": "Mascarillas Solidarias",
+       "detail": "Exposición colectiva. Museo Municipal de Cartago. Costa Rica."
+      },
+      {
+       "year": "2020",
+       "title": "El Paraíso a la Vuelta de la Esquina",
+       "detail": "Trienal Internacional de Gráfica de Polonia de Unamos Culturas. Galería Bałucka, Polonia."
+      },
+      {
+       "year": "2019",
+       "title": "Casa Museo Ave Fénix",
+       "detail": "Inauguración e intervención arquitectónica del espacio."
+      },
+      {
+       "year": "2017",
+       "title": "La Cofradía",
+       "detail": "Exposición individual e inauguración de Sexto Sol como anfiteatro."
+      },
+      {
+       "year": "2016",
+       "title": "Canto a la Libertad Teatro Nacional de Costa Rica. Mayo de 2016.",
+       "detail": "Participación por invitación de la Orquesta Sinfónica Nacional para el IV Concierto de Temporada."
+      },
+      {
+       "year": "2015",
+       "title": "Plegarias – REVELACIONES",
+       "detail": "Exposición individual. Galería Klaus Steinmetz Contemporary, Escazú, Costa Rica. Julio."
+      },
+      {
+       "year": "2015",
+       "title": "Sincretismo Religioso: un camino para la Paz",
+       "detail": "Exposición individual. Museo Central de Arte Textil, Łódź, Polonia. Abril–junio."
+      },
+      {
+       "year": "2015",
+       "title": "Trienal de Riga",
+       "detail": "Participación en la Trienal Internacional de Arte Textil. Museo Nacional de Arte Textil, Riga, Letonia. Abril–junio."
+      },
+      {
+       "year": "2014",
+       "title": "CUD – MILAGRO Museo Central de Arte Textil, Łódź, Polonia."
+      },
+      {
+       "year": "2014",
+       "title": "CUD – MILAGRO Galería Nacional de Costa Rica."
+      },
+      {
+       "year": "2013",
+       "title": "Abstracción Movimiento Internacionalista Galería Andrómeda Contemporáneo. Costa Rica."
+      },
+      {
+       "year": "2012",
+       "title": "Banderas del Corpus Christi y la Cruz de San Pedro",
+       "detail": "Exposición. Terramall, Costa Rica. Abril."
+      },
+      {
+       "year": "2012",
+       "title": "EXVOTOS",
+       "detail": "Exposición. Taller del Artista, Tres Ríos, Costa Rica."
+      },
+      {
+       "year": "2011",
+       "title": "PLEGARIA por el planeta",
+       "detail": "Instalación retrospectiva. Museo Municipal de Cartago, Costa Rica. Marzo–junio."
+      },
+      {
+       "year": "2010",
+       "title": "ZENTICA Salón del Cuño: convivio entre Japón y Costa Rica. MADC, Costa Rica. Septiembre."
+      },
+      {
+       "year": "2010",
+       "title": "Red Textil Internacional Museo Municipal de Cartago y Centro Cultural Costarricense Norteamericano. Costa Rica. Septiembre. Ganador del Primer Lugar Iberoamericano en Arte Textil."
+      },
+      {
+       "year": "2010",
+       "title": "Banderas de Corpus Christi y PAZ con el Lago",
+       "detail": "Exposición individual realizada con motivo del X Aniversario de Taller del Artista. Costa Rica. Marzo."
+      },
+      {
+       "year": "2009",
+       "title": "La Cruz de San Pedro",
+       "detail": "Exposición individual e instalaciones. Universidad de San Carlos de Guatemala (USAC), Facultad de Arquitectura. Septiembre."
+      },
+      {
+       "year": "2009",
+       "title": "Un llamado a la humanidad para preservar la vida del Lago Atitlán, Patrimonio Natural de Guatemala."
+      },
+      {
+       "year": "2009",
+       "title": "El Beso – Es el tiempo del Abrazo",
+       "detail": "Exposición individual con artistas invitados. Taller del Artista, Tres Ríos, Costa Rica. Febrero."
+      },
+      {
+       "year": "2008",
+       "title": "ALQUIMIA",
+       "detail": "Exposición individual. Galería Kandinsky, San Pedro, Costa Rica. Junio."
+      },
+      {
+       "year": "2007",
+       "title": "El agua como elemento",
+       "detail": "Exposición individual y cierre del proyecto de los Elementos. Taller del Artista, Costa Rica. Noviembre."
+      },
+      {
+       "year": "2006",
+       "title": "BITÁCORA",
+       "detail": "Exposición colectiva. Association Culturelle Rousselande, Les Rousses, Jura, Francia. Julio–agosto."
+      },
+      {
+       "year": "2006",
+       "title": "Banderas de Oración",
+       "detail": "Exposición individual. Boulevard de las Artes, X Festival Internacional de las Artes (FIA), San José, Costa Rica. Marzo."
+      },
+      {
+       "year": "2005",
+       "title": "Después de 60 Lunas",
+       "detail": "Exposición colectiva. Galería San José, Okayama, Japón. Octubre."
+      },
+      {
+       "year": "2005",
+       "title": "IDENTIDAD",
+       "detail": "Exposición individual de pintura e instalación. Taller del Artista, Costa Rica. Septiembre. Celebración de 18 años de carrera artística."
+      },
+      {
+       "year": "2004",
+       "title": "Festival Fusión Artes Visuales 2004 Casa de los Tres Mundos, Granada, Nicaragua. 17 de noviembre–17 de diciembre."
+      },
+      {
+       "year": "2004",
+       "title": "ARTESSS COSTA RIC'ART",
+       "detail": "Exposición colectiva. París, Francia. Agosto."
+      },
+      {
+       "year": "2004",
+       "title": "COSTA RIC'ART",
+       "detail": "Exposición colectiva. Besançon, Francia. Julio."
+      },
+      {
+       "year": "2004",
+       "title": "Instalaciones Varias – Estreno de Globalización",
+       "detail": "Exposición individual en el XXVI Simposio Mundial de Ecologistas / Sea Turtle Symposium XXIV. Febrero."
+      },
+      {
+       "year": "2004",
+       "title": "Globalización consistió en una instalación de cinco banderas, una en representación de cada continente."
+      },
+      {
+       "year": "2003",
+       "title": "Prayer Flags",
+       "detail": "Exposición individual e instalación presentada por la Galería Nacional. Marzo."
+      },
+      {
+       "year": "2003",
+       "title": "Primera exposición itinerante para parques y plazas de Costa Rica: nueve banderas de seis metros de longitud instaladas sobre estructuras metálicas de nueve metros, presentadas en Parque México, Plaza Roosevelt y Parque de la Paz."
+      },
+      {
+       "year": "2003",
+       "title": "El aire como elemento Estandartes alegóricos de la Carta de la Tierra.",
+       "detail": "Obra vinculada al movimiento mundial pro cultura tibetana."
+      },
+      {
+       "year": "2002",
+       "title": "Detrás de la Ventana Centro Cultural e Histórico José Figueres Ferrer, San Ramón de Alajuela, Costa Rica. Junio. Selección de obras de la colección presentada con motivo del V Aniversario de la institución."
+      },
+      {
+       "year": "2002",
+       "title": "Expo de Abril",
+       "detail": "Exposición individual de resinas e instalaciones. VIII Festival Internacional de las Artes, San José, Costa Rica. Abril."
+      },
+      {
+       "year": "2001",
+       "title": "Plegaria",
+       "detail": "Exposición individual de acrílicos, videoinstalación y performance. Galería Nacional / Museo de los Niños, Costa Rica. 2 de noviembre."
+      },
+      {
+       "year": "2001",
+       "title": "El fuego como elemento."
+      },
+      {
+       "year": "2000",
+       "title": "Detrás de la Ventana",
+       "detail": "Exposición individual de pintura al óleo e inauguración de su estudio como espacio alternativo: Taller del Artista. 7 de marzo."
+      },
+      {
+       "year": "2000",
+       "title": "La tierra como elemento."
+      },
+      {
+       "year": "1996",
+       "title": "Sueños en Azul",
+       "detail": "Exposición individual de pintura al óleo. Centro Costarricense de la Ciencia y la Cultura, sede del Museo de los Niños, Costa Rica. Octubre."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "curriculum",
+   "layout": "editorial-columns",
+   "blocks": [
+    {
+     "type": "links",
+     "id": "tray-1",
+     "title": "Currículum",
+     "items": [
+      {
+       "label": "Curriculum vitae (English)",
+       "href": "/files/cv_cali_rivera_urena_en_with_photo.docx",
+       "note": "Word · <1 MB",
+       "kind": "doc"
+      },
+      {
+       "label": "Currículum en español",
+       "href": "/files/cv_cali_rivera_urena-1.pdf",
+       "note": "PDF · <1 MB",
+       "kind": "pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "entrevistas",
+   "layout": "editorial-columns",
+   "blocks": [
+    {
+     "type": "links",
+     "id": "tray-2",
+     "title": "Entrevistas nacionales e internacionales",
+     "items": [
+      {
+       "label": "La Nación",
+       "href": "https://www.nacion.com/viva/cultura/las-revelaciones-artisticas-de-cali-rivera/IM7MYDZUJJGMROL7IJZS3FGGGM/story/",
+       "kind": "external"
+      },
+      {
+       "label": "Meer Arte",
+       "href": "https://www.meer.com/es/66139-cali-rivera-y-la-energia-creativa",
+       "kind": "external"
+      },
+      {
+       "label": "Agulha Revista de Cultura",
+       "href": "https://arcagulharevistadecultura.blogspot.com/2017/09/alfonso-pena-cali-rivera-el-arte-para.html",
+       "kind": "external"
+      },
+      {
+       "label": "Teletica",
+       "href": "https://www.teletica.com/multimedia/cali-rivera-uno-de-los-artistas-plasticos-mas-exitosos-del-pais_957848",
+       "kind": "external"
+      },
+      {
+       "label": "Teatro Nacional",
+       "href": "https://www.teatronacional.go.cr/Comunicados/detalle/336/cali-rivera-exhibe-su-obra-revelaciones-durante-el-iv-concierto-de-temporada-de-la-orquesta-sinfonica-nacional-",
+       "kind": "external"
+      },
+      {
+       "label": "La Teja",
+       "href": "https://www.lateja.cr/sucesos/pintor-que-perdio-todo-en-un-incendio-quiero/FTOA3CSNYJBPLDYA5IJWNR32OE/story/",
+       "kind": "external"
+      },
+      {
+       "label": "Ticoclub",
+       "href": "https://www.ticoclub.com/cpcalirix11.htm",
+       "kind": "external"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "puntos-de-vista",
+   "layout": "editorial-columns",
+   "blocks": [
+    {
+     "type": "links",
+     "id": "tray-5",
+     "title": "Puntos de vista: crítica y prensa, 1995–2011",
+     "items": [
+      {
+       "label": "120 obras de arte elevan plegarias en cartago la nacion 10032011",
+       "href": "https://web.archive.org/web/20161206133917/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/180-120-obras-de-arte-elevan-plegarias-en-cartago-la-nacion-10032011.html",
+       "note": "Archivo del sitio original · 2011",
+       "kind": "external"
+      },
+      {
+       "label": "San jose volando feb2006",
+       "href": "https://web.archive.org/web/20161206210715/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/63-san-jose-volando-feb2006.html",
+       "note": "Archivo del sitio original · 2006",
+       "kind": "external"
+      },
+      {
+       "label": "La Nación, 03 de septiembre, 2005",
+       "href": "https://web.archive.org/web/20260115050924/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/18-la-nacion-03-de-septiembre-2005",
+       "note": "Archivo del sitio original · 2005",
+       "kind": "external"
+      },
+      {
+       "label": "Informa-tico.com 10 de octubre 2005",
+       "href": "https://web.archive.org/web/20260115051957/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/25-informa-ticocom-10-de-octubre-2005",
+       "note": "Archivo del sitio original · 2005",
+       "kind": "external"
+      },
+      {
+       "label": "La nacion sabado 24 de septiembre 2005",
+       "href": "https://web.archive.org/web/20161206210311/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/26-la-nacion-sabado-24-de-septiembre-2005.html",
+       "note": "Archivo del sitio original · 2005",
+       "kind": "external"
+      },
+      {
+       "label": "San jose volando julio 2004",
+       "href": "https://web.archive.org/web/20161206210537/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/62-san-jose-volando-julio-2004.html",
+       "note": "Archivo del sitio original · 2004",
+       "kind": "external"
+      },
+      {
+       "label": "Festival fusion nicaragua 2004",
+       "href": "https://web.archive.org/web/20161206134847/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/65-festival-fusion-nicaragua-2004.html",
+       "note": "Archivo del sitio original · 2004",
+       "kind": "external"
+      },
+      {
+       "label": "La Nación, 01 Noviembre 2003",
+       "href": "https://web.archive.org/web/20260115055554/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/19-la-nacion-01-noviembre-2003",
+       "note": "Archivo del sitio original · 2003",
+       "kind": "external"
+      },
+      {
+       "label": "La Nación, Martes 15 de abril, 2003",
+       "href": "https://web.archive.org/web/20260609154830/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/20-la-nacion-martes-15-de-abril-2003",
+       "note": "Archivo del sitio original · 2003",
+       "kind": "external"
+      },
+      {
+       "label": "La Nación, Viernes 14 de marzo, 2003",
+       "href": "https://web.archive.org/web/20260115062244/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/21-la-nacion-viernes-14-de-marzo-2003",
+       "note": "Archivo del sitio original · 2003",
+       "kind": "external"
+      },
+      {
+       "label": "Iniciativa de la carta de la tierra 04 april 04 may 2003",
+       "href": "https://web.archive.org/web/20161206210117/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/27-iniciativa-de-la-carta-de-la-tierra-04-april-04-may-2003.html",
+       "note": "Archivo del sitio original · 2003",
+       "kind": "external"
+      },
+      {
+       "label": "La Nación, Martes 13 de noviembre, 2001",
+       "href": "https://web.archive.org/web/20260609151731/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/22-la-nacion-martes-13-de-noviembre-2001",
+       "note": "Archivo del sitio original · 2001",
+       "kind": "external"
+      },
+      {
+       "label": "La Nación, Viernes 2 de noviembre, 2001",
+       "href": "https://web.archive.org/web/20260609141133/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/23-la-nacion-viernes-2-de-noviembre-2001",
+       "note": "Archivo del sitio original · 2001",
+       "kind": "external"
+      },
+      {
+       "label": "La Nación, Miércoles 20 de junio, 2001",
+       "href": "https://web.archive.org/web/20260115043417/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/24-la-nacion-miercoles-20-de-junio-2001",
+       "note": "Archivo del sitio original · 2001",
+       "kind": "external"
+      },
+      {
+       "label": "Camila shumacher la nacion 7 de marzo 2000",
+       "href": "https://web.archive.org/web/20260616032142/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000",
+       "note": "Archivo del sitio original · 2000",
+       "kind": "external"
+      },
+      {
+       "label": "Paola Ramírez-La República, marzo 2000",
+       "href": "https://web.archive.org/web/20260115053758/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/12-paola-ramirez-la-republica-marzo-2000",
+       "note": "Archivo del sitio original · 2000",
+       "kind": "external"
+      },
+      {
+       "label": "Mario Mafiolli -año 2000",
+       "href": "https://web.archive.org/web/20260115044510/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/5-mario-mafiolli-ano-2000",
+       "note": "Archivo del sitio original · 2000",
+       "kind": "external"
+      },
+      {
+       "label": "Art.-En Costa Rica. II, 1999",
+       "href": "https://web.archive.org/web/20260115052135/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/13-art-en-costa-rica-ii-1999",
+       "note": "Archivo del sitio original · 1999",
+       "kind": "external"
+      },
+      {
+       "label": "Periódico El Heraldo, v, abril 1998",
+       "href": "https://web.archive.org/web/20251215121900/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/14-periodico-el-heraldo-v-abril-1998",
+       "note": "Archivo del sitio original · 1998",
+       "kind": "external"
+      },
+      {
+       "label": "Revista Internacional Join US, año 1996",
+       "href": "https://web.archive.org/web/20260609142115/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/15-revista-internacional-join-us-ano-1996",
+       "note": "Archivo del sitio original · 1996",
+       "kind": "external"
+      },
+      {
+       "label": "Anuarium de arte y cultura, Edición 1995",
+       "href": "https://web.archive.org/web/20251215121613/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/16-anuarium-de-arte-y-cultura-edicion-1995",
+       "note": "Archivo del sitio original · 1995",
+       "kind": "external"
+      },
+      {
+       "label": "Tiempo de Vivir - Revista Rumbo S.J. Costa Rica, Edic Enero 1995",
+       "href": "https://web.archive.org/web/20260115044712/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/17-tiempo-de-vivir-revista-rumbo-sj-costa-rica-edic-enero-1995",
+       "note": "Archivo del sitio original · 1995",
+       "kind": "external"
+      },
+      {
+       "label": "Fabio Herrrera- Detrás de la ventana",
+       "href": "https://web.archive.org/web/20260115060552/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/10-fabio-herrrera-detras-de-la-ventana",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      },
+      {
+       "label": "Alfonso chase sobre el libro «Elementos»",
+       "href": "https://web.archive.org/web/20161206133943/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/109-alfonso-chase-sobre-el-libro-qelementosq.html",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      },
+      {
+       "label": "Plegarias por la madre tierra la nacion",
+       "href": "https://web.archive.org/web/20161206210215/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/178-plegarias-por-la-madre-tierra-la-nacion.html",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      },
+      {
+       "label": "Cali rivera repartira un beso",
+       "href": "https://web.archive.org/web/20161206134758/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/179-cali-rivera-repartira-un-beso.html",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      },
+      {
+       "label": "Revista Estilos y Casas",
+       "href": "https://web.archive.org/web/20260115060455/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/4-revista-estilos-y-casas",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      },
+      {
+       "label": "Galería y Consultoría de Arte Kandinsky",
+       "href": "https://web.archive.org/web/20260115042726/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/6-galeria-y-consultoria-de-arte-kandinsky",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      },
+      {
+       "label": "Entre luces y suenos por monthia sancho",
+       "href": "https://web.archive.org/web/20161206133835/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/66-entre-luces-y-suenos-por-monthia-sancho.html",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      },
+      {
+       "label": "Susan H Liang-The Tico Times",
+       "href": "https://web.archive.org/web/20260115062647/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/9-susan-h-liang-the-tico-times",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+@use "../../styles/tokens" as *;
+
+.page { background: var(--c-bg); color: var(--c-fg); }
+.colaboracion { @include tone(clay); }
+.incubadora { @include tone(paper); }
+.jovenes { @include tone(blue); }
+
+.hero {
+  @include wrap;
+  min-height: 86svh;
+  padding-top: calc(var(--header-h) + var(--space-2xl));
+  padding-bottom: var(--space-2xl);
+  display: grid; align-content: end; gap: var(--space-m);
+}
+.day { @include display(120, 300); font-size: var(--step-3); }
+.title { @include display(60, 880); font-size: clamp(3.2rem, 11vw, 11.5rem); line-height: 0.84; letter-spacing: -0.02em; max-width: 12ch; }
+.summary { @include text; font-size: var(--step-3); line-height: 1.12; font-weight: 340; max-width: 22ch; }
+
+.body {
+  @include wrap; padding-bottom: var(--space-2xl);
+  display: grid; gap: var(--space-m);
+  @include above($bp-m) { grid-template-columns: 1fr 1fr; > * { grid-column: 2; } }
+}
+.h2 { @include display(70, 800); font-size: var(--step-4); line-height: 0.95; margin-bottom: var(--space-l); }
+.people, .posts { @include wrap; padding-block: var(--space-2xl); border-top: 2px solid currentColor; }
+.peopleGrid { display: grid; gap: var(--space-l); grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); }
+.person { margin: 0; display: grid; gap: var(--space-s); align-content: start; }
+.personName { @include display(80, 760); font-size: var(--step-2); line-height: 1; }
+.personMeta { @include label; color: var(--c-muted); }
+.personBio { font-size: var(--step--1); }
+.empty { p { font-size: var(--step-1); max-width: 40ch; color: var(--c-muted); } }
+.back { @include wrap; padding-block: var(--space-xl) var(--space-3xl); @include label; a { text-decoration: none; border-bottom: 2px solid currentColor; padding-block: 0.4rem; } }
+
+// La Incubadora: página de libro, centrada
+.incubadora {
+  .hero { text-align: center; justify-items: center; }
+  .title { @include display(100, 300); font-style: normal; max-width: 14ch; }
+  .summary { font-style: italic; margin-inline: auto; }
+  .body { @include above($bp-m) { grid-template-columns: 1fr; justify-items: center; > * { grid-column: 1; text-align: center; } } }
+}
+// Jóvenes Talentos: cartel, palabras que empujan
+.jovenes {
+  .title { font-stretch: 140%; font-weight: 900; max-width: none; }
+  .day { color: var(--c-ocre); }
+}

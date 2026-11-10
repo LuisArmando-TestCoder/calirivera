@@ -1,0 +1,9 @@
+{
+  "name": "cali-rivera-tools",
+  "private": true,
+  "type": "module",
+  "description": "Scripts de contenido (rama 5): model-content.py y optimize-media.mjs",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}

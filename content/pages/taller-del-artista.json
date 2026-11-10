@@ -1,0 +1,142 @@
+{
+ "id": "taller-del-artista",
+ "slug": "taller-del-artista",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Taller del Artista",
+ "description": "Desde el año 2000, un espacio en Tres Ríos donde el arte, la gastronomía y la historia se encuentran.",
+ "hero": {
+  "title": "Taller del Artista",
+  "subtitle": "Donde el arte, la gastronomía y la historia se encuentran para crear una experiencia que no existe en ningún otro lugar.",
+  "image": {
+   "src": "/media/taller-del-artista/edificio-1122.jpg",
+   "alt": "Taller del Artista, Tres Ríos",
+   "width": 1122,
+   "height": 1402,
+   "widths": [
+    640,
+    1122
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JQBYdhD4aylC2QrtkXXyaraAA/vQjvPN9TkixdTegHtbDv81hujMzepl5WuZxacbsrqaNtkwGkNoTQ1YACwXp8i/sboVye3QOkzXege9luWT0zAGuJxwSii0gNWkxbZCeXAUIHA78XBJBowAAAA==",
+   "color": "rgb(8 8 8)",
+   "aiAltered": true
+  }
+ },
+ "sections": [
+  {
+   "id": "origen",
+   "layout": "split-sticky",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "taller-1",
+     "level": 2,
+     "text": "Un lugar nacido del arte"
+    },
+    {
+     "type": "paragraph",
+     "id": "taller-2",
+     "text": "En el año 2000, el artista visual Cali Rivera abrió por primera vez las puertas de su estudio creativo al público, dando origen a un espacio que rompería con todos los esquemas tradicionales de una galería de arte."
+    },
+    {
+     "type": "paragraph",
+     "id": "taller-3",
+     "text": "Lo que comenzó como un taller dedicado a la creación artística evolucionó rápidamente hasta convertirse en un punto de encuentro para artistas, escritores, músicos, intelectuales, viajeros y amantes de la cultura. Cada rincón fue concebido para inspirar conversaciones, despertar emociones y acercar el arte a quienes buscaban vivirlo más allá de una exposición."
+    },
+    {
+     "type": "paragraph",
+     "id": "taller-4",
+     "text": "Desde entonces, Taller del Artista ha permanecido como un espacio independiente donde la creatividad no solo se contempla: se comparte, se experimenta y se convierte en parte de la vida cotidiana."
+    },
+    {
+     "type": "image",
+     "id": "taller-5",
+     "image": {
+      "src": "/media/taller-del-artista/edificio-1122.jpg",
+      "alt": "Taller del Artista",
+      "width": 1122,
+      "height": 1402,
+      "widths": [
+       640,
+       1122
+      ],
+      "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JQBYdhD4aylC2QrtkXXyaraAA/vQjvPN9TkixdTegHtbDv81hujMzepl5WuZxacbsrqaNtkwGkNoTQ1YACwXp8i/sboVye3QOkzXege9luWT0zAGuJxwSii0gNWkxbZCeXAUIHA78XBJBowAAAA==",
+      "color": "rgb(8 8 8)",
+      "aiAltered": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "visita",
+   "layout": "editorial-columns",
+   "blocks": [
+    {
+     "type": "links",
+     "id": "taller-12",
+     "title": "Visitar el Taller",
+     "items": [
+      {
+       "label": "Escribir por WhatsApp",
+       "href": "https://wa.me/50683483785",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Cómo llegar",
+       "href": "https://maps.google.com/maps?q=Taller%20del%20Artista%2C%20Tres%20R%C3%ADos%2C%20Cartago",
+       "kind": "map"
+      },
+      {
+       "label": "Menú del Taller",
+       "href": "/files/menu-taller-del-artista.pdf",
+       "note": "PDF · 32 MB",
+       "kind": "pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "videoteca",
+   "layout": "horizontal-track",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "taller-6",
+     "level": 2,
+     "text": "Videoteca"
+    },
+    {
+     "type": "paragraph",
+     "id": "taller-7",
+     "text": "Descubra el universo del Taller del Artista a través de videos que reúnen arte, gastronomía, exposiciones, conciertos, talleres y experiencias que dan vida a este espacio único."
+    },
+    {
+     "type": "video",
+     "id": "taller-8",
+     "url": "https://www.youtube.com/watch?v=cVzMeR0X4Tk",
+     "poster": "https://i.ytimg.com/vi/cVzMeR0X4Tk/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-9",
+     "url": "https://www.youtube.com/watch?v=NtVLZw40tLk",
+     "poster": "https://i.ytimg.com/vi/NtVLZw40tLk/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-10",
+     "url": "https://www.youtube.com/watch?v=1YvCZqRK5Gw&t=1s",
+     "poster": "https://i.ytimg.com/vi/1YvCZqRK5Gw/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-11",
+     "url": "https://www.youtube.com/watch?v=pweKLVPB_tI",
+     "poster": "https://i.ytimg.com/vi/pweKLVPB_tI/hqdefault.jpg"
+    }
+   ]
+  }
+ ]
+}

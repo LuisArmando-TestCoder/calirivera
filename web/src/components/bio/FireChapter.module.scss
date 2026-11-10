@@ -1,0 +1,120 @@
+@use "../../styles/tokens" as *;
+
+.chapter {
+  --progress: 0;
+  position: relative;
+  @include tone(ink);
+  background: var(--c-anil);
+  color: var(--c-hilo);
+}
+.stage { position: relative; padding: var(--space-3xl) var(--gutter); overflow: clip; }
+.backdrop { position: absolute; inset: 0; opacity: 0.25; }
+.photo { position: absolute; inset: 0; filter: grayscale(0.6) blur(4px) contrast(1.1); }
+.photo:not(:first-child) { display: none; }
+.embers, .phoenix { display: none; }
+.date { @include display(52, 900); font-size: var(--step-5); line-height: 0.85; color: var(--c-brasa); margin-bottom: var(--space-l);
+  span { display: block; } }
+.text { position: relative; display: grid; gap: var(--space-m); max-width: 40rem; }
+.title { @include display(60, 820); font-size: var(--step-5); line-height: 0.9; }
+.p { font-size: var(--step-1); line-height: 1.45; }
+
+// Versión cinematográfica (con JS y movimiento permitido)
+@include motion {
+  :global(.js) .chapter {
+    height: 420svh;
+    background:
+      color-mix(in oklab,
+        color-mix(in oklab, var(--c-anil), var(--c-brasa) calc(min(1, var(--progress) * 3.2) * 100%)),
+        oklch(26% 0.012 60) calc(clamp(0, (var(--progress) - 0.4) * 3, 1) * 100%));
+  }
+  :global(.js) .stage {
+    position: sticky; top: 0; height: 100svh;
+    padding: calc(var(--header-h) + var(--space-l)) var(--gutter) var(--space-xl);
+    display: grid; align-items: end;
+  }
+  :global(.js) .stage::after {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: linear-gradient(to left, oklch(14% 0.02 40 / 0.62), oklch(14% 0.02 40 / 0.2) 55%, transparent 80%);
+    @include below($bp-m) { background: linear-gradient(to top, oklch(14% 0.02 40 / 0.75), transparent 75%); }
+  }
+  :global(.js) .text { z-index: 2; text-shadow: 0 1px 14px oklch(10% 0.02 40 / 0.5); }
+  :global(.js) .backdrop { opacity: calc(0.12 + min(0.4, var(--progress) * 0.8)); transition: none; }
+  :global(.js) .photo {
+    display: block !important;
+    opacity: clamp(0, calc(1 - max(var(--progress) * 3 - var(--k), var(--k) - var(--progress) * 3)), 1);
+    transform: scale(calc(1.15 - var(--progress) * 0.15));
+    filter: grayscale(calc(1 - min(1, var(--progress) * 2))) blur(3px) contrast(1.2) sepia(0.4);
+  }
+  :global(.js) .date {
+    position: absolute; top: calc(var(--header-h) + var(--space-m)); left: var(--gutter);
+    font-size: clamp(5rem, 24vw, 22rem);
+    color: color-mix(in oklch, var(--c-hilo), var(--c-brasa) calc(min(1, var(--progress) * 4) * 100%));
+    opacity: clamp(0, calc(1.6 - var(--progress) * 3), 1);
+    transform: translateY(calc(var(--progress) * -30vh));
+    margin: 0;
+  }
+  :global(.js) .text {
+    max-width: 34rem;
+    display: grid;
+    grid-template-areas: "t" "p";
+    align-content: end;
+    gap: var(--space-m);
+    @include above($bp-m) { margin-inline-start: auto; margin-inline-end: 6vw; }
+  }
+  :global(.js) .title { grid-area: t; }
+  :global(.js) .title {
+    opacity: clamp(0, calc((var(--progress) - 0.12) * 8), 1);
+    transform: translateY(calc((1 - clamp(0, (var(--progress) - 0.12) * 8, 1)) * 2rem));
+  }
+  // Un párrafo a la vez, en la misma celda: entra, se sostiene, sale (el último se queda)
+  :global(.js) .p {
+    grid-area: p;
+    align-self: end;
+    font-size: var(--step-0);
+    @include above($bp-m) { font-size: var(--step-1); }
+    --in: clamp(0, calc((var(--progress) - var(--a)) * 12), 1);
+    --out: clamp(0, calc((var(--b) - var(--progress)) * 12), 1);
+    opacity: min(var(--in), var(--out));
+    transform: translateY(calc((1 - var(--in)) * 1.5rem + (1 - var(--out)) * -1.5rem));
+  }
+  :global(.js) .p0 { --a: 0.18; --b: 0.42; }
+  :global(.js) .p1 { --a: 0.44; --b: 0.66; }
+  :global(.js) .p2 { --a: 0.68; --b: 2; }
+
+  // brasas
+  :global(.js) .embers {
+    display: block; position: absolute; inset: 0; pointer-events: none;
+    opacity: clamp(0, calc(1 - max(var(--progress) * 2.4 - 1.1, 1.1 - var(--progress) * 2.4)), 1);
+    i {
+      position: absolute; bottom: -2vh;
+      left: calc(4% + var(--e) * 4.3%);
+      width: calc(3px + var(--sz) * 1.5px); aspect-ratio: 1; border-radius: 50%;
+      background: oklch(80% 0.17 60);
+      box-shadow: 0 0 10px 2px oklch(70% 0.2 45 / 0.8);
+      animation: ember calc(5s + var(--dur) * 1.3s) linear infinite;
+      animation-delay: calc(var(--e) * -0.37s);
+    }
+  }
+
+  // Ave Fénix: siete estandartes que se abren como alas
+  :global(.js) .phoenix {
+    display: block; position: absolute; left: 50%; bottom: 8svh; width: 0; height: 0;
+    @include above($bp-m) { left: 28%; bottom: 12svh; }
+    @include below($bp-m) { opacity: calc(clamp(0, (var(--progress) - 0.62) * 5, 1) * 0.45) !important; }
+    opacity: clamp(0, calc((var(--progress) - 0.62) * 5), 1);
+    span {
+      position: absolute; bottom: 0; left: -1.6rem; width: 3.2rem; height: clamp(12rem, 40svh, 26rem);
+      transform-origin: 50% 100%;
+      transform: rotate(calc(var(--w) * clamp(0, (var(--progress) - 0.62) * 2.6, 1) * 19deg)) scaleY(calc(0.4 + clamp(0, (var(--progress) - 0.62) * 2.6, 1) * 0.6));
+      background: linear-gradient(to top, var(--c-brasa), var(--c-ocre) 70%, oklch(92% 0.08 85));
+      clip-path: polygon(0 0, 50% 1.4rem, 100% 0, 100% 100%, 0 100%);
+      opacity: 0.9;
+      mix-blend-mode: screen;
+    }
+  }
+}
+@keyframes ember {
+  from { transform: translate(0, 0); opacity: 0; }
+  10% { opacity: 1; }
+  to { transform: translate(calc(var(--dx) * 6vw), -105svh); opacity: 0; }
+}

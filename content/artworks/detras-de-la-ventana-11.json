@@ -1,0 +1,28 @@
+{
+ "id": "detras-de-la-ventana-11",
+ "slug": "detras-de-la-ventana-11",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "detras-de-la-ventana",
+ "images": [
+  {
+   "src": "/media/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-1030.jpg",
+   "alt": "Obra — Detrás de la ventana, 2000",
+   "width": 1030,
+   "height": 1527,
+   "widths": [
+    640,
+    1030
+   ],
+   "placeholder": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoR4NaAEDAHZqdXFSCapZIKGGAD+ih7rvHXzf6oyOVhAUD3IYF8kjCftRTkNaje3o1VlshXVWIiMAiTv4gw0SQhnPcVH2TCdaBIEyGD+sYOAuKgLeqhrqtr9h4kig/xYfG+pvSMQUAGlFonvMhuuqiuvuI96xIpzouglqaX3vZcNe6o2l5X1FT/zGt3PHs/j9CiG82ej/oe1i8fa0KJFa58KWspf0ryGxYgq9YrL6nn2g562uqLzxa5VpJAAAA==",
+   "color": "rgb(8 8 8)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 11,
+ "year": "2000",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

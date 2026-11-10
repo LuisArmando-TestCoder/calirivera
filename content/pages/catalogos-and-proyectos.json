@@ -1,0 +1,34 @@
+{
+ "id": "catalogos-and-proyectos",
+ "slug": "catalogos-and-proyectos",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Catálogos & Proyectos",
+ "description": "Catálogos digitales, fichas técnicas y el archivo de proyectos de Cali Rivera.",
+ "sections": [
+  {
+   "id": "intro",
+   "layout": "editorial-columns",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "id": "catp-1",
+     "text": "Para examinar dimensiones, fichas técnicas y la historia detrás de cada colección, te invitamos a explorar nuestro archivo completo."
+    }
+   ]
+  },
+  {
+   "id": "resena",
+   "layout": "poem-center",
+   "blocks": [
+    {
+     "type": "quote",
+     "id": "catp-2",
+     "text": "Es uno de los escasos pintores ecológicos, si así podemos decir, que se atreve a llevar a extremos su propuesta, desde la pintura convencional, en sus inicios, hasta las formas más audaces de explicitarla que le ponen en contacto directo con el público, no la masa, en diversos actos, o actividades, en donde su arte pueda ser visto, vivido y hecho propio por los observantes.",
+     "cite": "Alfonso Chase, La Prensa Libre, 5 de marzo de 2009"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "agenda-cultural-mayo-2018",
+ "slug": "agenda-cultural-mayo-2018",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Agenda Cultural mayo 2018",
+ "excerpt": "El mes de mayo 2018 celebramos el comienzo de una nueva etapa - el Ave Fenix se va vislumbrando y para celebrar: abrimos nuestros viernes de artistas invitados con la extraordinaria voz de Nana Echeverria una de nuestras artistas favoritas,…",
+ "body": [
+  {
+   "type": "image",
+   "id": "post-775",
+   "image": {
+    "src": "/media/archivo/agenda-mayo2018web-616.jpg",
+    "alt": "agenda mayo2018web",
+    "width": 616,
+    "height": 900,
+    "widths": [
+     616
+    ],
+    "placeholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JaADCgdwLgOcumLm5sClZ/koE/rKrgAD+6sXqnNil6CsbC1oui0KwaNCnoTsr8kBEUvpoptkckQFQrQVtvz2J/VB/+IPFTspFKsr1sO81FnYDVabkRpTBhhDehrdlB6yv0c+IGmMJmSGqwp1z5yzC7ogJpruB1+y8BqxAMvR9MF7Rb3Ic8jsvFkkbTOwkUbRM9vnuzTK7yfsC7uoUOHXsEDXcPbY+nfptz0izXAA=",
+    "color": "rgb(248 248 248)",
+    "lowRes": true
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "post-776",
+   "text": "El mes de mayo 2018 celebramos el comienzo de una nueva etapa - el Ave Fenix se va vislumbrando y para celebrar: abrimos nuestros viernes de artistas invitados con la extraordinaria voz de Nana Echeverria una de nuestras artistas favoritas, ex vocalista de el grupo Passiflora abre el viernes 4 con un concierto en la intimidad del Taller. Juan Dahik y Martín Gonsalez, Michael Brenes y Rene Monterrey para un cóctel de lujo."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-777",
+   "text": "• Viernes 4 - Nana Echeverria"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-778",
+   "text": "• Sábado 5 y viernes 25 Nuestro saxofonista - Michael Brenes nos dos noches de buena música."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-779",
+   "text": "• Viernes 11 y sábado 26 Rene Monterrey y su amplísimo registro de voz con la mejor música del mundo."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-780",
+   "text": "• Sábado 12 Juan Dahik con su guitarra."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-781",
+   "text": "• Sábado 19 junto a Walter Campos."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-782",
+   "text": "• Viernes 18 desde cuba -Martin González."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-783",
+   "text": "-Lunes de descuento"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-784",
+   "text": "-Martes cafés y martinis 2x1"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-785",
+   "text": "-Miércoles agrandados 2x 1 en margaritas martinis vino de la casa"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-786",
+   "text": "-Jueves mojitos 2x1"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-787",
+   "text": "Todos los sábados a las 10am hay clases de yoga en la 3ra planta"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-788",
+   "text": "Info en este link:"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-789",
+   "text": "http://www.yoguiandoencasa.com/index.php/eventos/76-clases-de-yoga.html"
+  }
+ ],
+ "publishedAt": "2018-05-01T12:00:00Z",
+ "tags": [
+  "archivo"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260115044751/https://www.calirivera.com/index.php/taller-del-artista/actividades/286-agenda-cultural-mayo-2018",
+ "cover": {
+  "src": "/media/archivo/agenda-mayo2018web-616.jpg",
+  "alt": "agenda mayo2018web",
+  "width": 616,
+  "height": 900,
+  "widths": [
+   616
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JaADCgdwLgOcumLm5sClZ/koE/rKrgAD+6sXqnNil6CsbC1oui0KwaNCnoTsr8kBEUvpoptkckQFQrQVtvz2J/VB/+IPFTspFKsr1sO81FnYDVabkRpTBhhDehrdlB6yv0c+IGmMJmSGqwp1z5yzC7ogJpruB1+y8BqxAMvR9MF7Rb3Ic8jsvFkkbTOwkUbRM9vnuzTK7yfsC7uoUOHXsEDXcPbY+nfptz0izXAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ }
+}

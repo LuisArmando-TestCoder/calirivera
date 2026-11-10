@@ -1,0 +1,27 @@
+{
+ "id": "exvotos-06",
+ "slug": "exvotos-06",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "exvotos",
+ "images": [
+  {
+   "src": "/media/exvotos/exvotos-mirar-1189.jpg",
+   "alt": "Obra — Exvotos, 2012",
+   "width": 1189,
+   "height": 1323,
+   "widths": [
+    640,
+    1189
+   ],
+   "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZACdMoR3ACmUW8+7xT80LMAA/olEV6Wu1FqLTjEYZoOezd475J1KlgZeg2fHnISJrYVpVECyae8EzH8IBPDMLrMgvUkcwZixPo/SJYE4xvi8pVtgHqXXI9Fdqy5ludQuQbhD42JPdEAA",
+   "color": "rgb(216 216 216)"
+  }
+ ],
+ "aiAltered": false,
+ "order": 6,
+ "year": "2012",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

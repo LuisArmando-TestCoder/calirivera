@@ -1,0 +1,23 @@
+@use "../../styles/tokens" as *;
+
+.page { @include tone(blue); background: var(--c-bg); color: var(--c-fg); }
+.motto {
+  min-height: 100svh;
+  padding: calc(var(--header-h) + var(--space-xl)) var(--gutter) var(--space-2xl);
+  display: flex; flex-wrap: wrap; align-content: end; gap: 0 0.22em;
+  margin: 0;
+  line-height: 0.86;
+}
+.word {
+  @include display(100, 860);
+  font-stretch: calc(var(--w) * 1%);
+  font-size: clamp(3.4rem, 13.5vw, 15rem);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  @include motion {
+    animation: weave 1.3s var(--ease-out) both;
+    animation-delay: calc(200ms + var(--i) * 110ms);
+  }
+}
+.word:nth-child(even) { color: var(--c-ocre); }
+@keyframes weave { from { font-stretch: 50%; opacity: 0; transform: translateY(0.3em); } }

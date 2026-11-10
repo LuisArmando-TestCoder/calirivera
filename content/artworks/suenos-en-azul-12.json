@@ -1,0 +1,29 @@
+{
+ "id": "suenos-en-azul-12",
+ "slug": "suenos-en-azul-12",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "suenos-en-azul",
+ "images": [
+  {
+   "src": "/media/suenos-en-azul/sueaos-10-1087.jpg",
+   "alt": "Obra — Sueños en Azul, 1996",
+   "width": 1087,
+   "height": 1446,
+   "widths": [
+    640,
+    1087
+   ],
+   "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JQBdgA9LpcIJPU85H3n6ZK6AA/unZSVWfzMYk4row6Kykk+WB8MZj+su3JfOeM8Nv2dgti/IW9BOgRwxo6bG8MQoioGuwx+EJ+NiyiL2nlJWzB5/daJFzGzvU++ewqfT3pgAgBibOYzVf/YYaNlL30PPDsiBivHUoqPzifn/uLyMZP22fj7+AAAA=",
+   "color": "rgb(24 24 24)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 12,
+ "year": "1996",
+ "technique": "óleo sobre tela",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

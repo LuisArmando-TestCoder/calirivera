@@ -1,0 +1,28 @@
+{
+ "id": "frida-kahlo",
+ "slug": "frida-kahlo",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Frida Kahlo",
+ "collectionId": "suenos-en-azul",
+ "images": [
+  {
+   "src": "/media/suenos-en-azul/frida-1116.jpg",
+   "alt": "Frida Kahlo — Sueños en Azul, 1996",
+   "width": 1116,
+   "height": 1409,
+   "widths": [
+    640,
+    1116
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoFWAAHOS/5TDiZ1XRAA/u9O9V00vvzTxE3mPQp9Cf+TGYYkGyKpofGhI2hM7A0vNh5hVvpany2bt1kB/yqCSVG9ET7zHpZwkngITrdLfMNHdlw7PMcjK8cndh4TkYWyuZdzElLmUmGJ96WQ+dcZBcAA",
+   "color": "rgb(8 8 8)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 2,
+ "year": "1996",
+ "technique": "óleo sobre tela"
+}

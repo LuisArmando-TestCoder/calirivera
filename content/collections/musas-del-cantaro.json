@@ -1,0 +1,52 @@
+{
+ "id": "musas-del-cantaro",
+ "slug": "musas-del-cantaro",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Musas del Cántaro",
+ "artworkIds": [
+  "musas-del-cantaro-01",
+  "musas-del-cantaro-02",
+  "musas-del-cantaro-03"
+ ],
+ "order": 1,
+ "period": "1995–1996",
+ "technique": "técnica mixta sobre papel",
+ "statement": "Musas del Cántaro pertenece a una de las primeras etapas de la producción artística de Cali Rivera, un momento en el que la figura femenina se convierte en vehículo de espiritualidad, contemplación y búsqueda de un mundo distinto.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "musas-del-cantaro-4",
+   "text": "Mujeres, cántaros, paisajes y figuras de apariencia onírica construyen un universo donde el color y el gesto trascienden la representación. Las musas aparecen silenciosas, introspectivas, como habitantes de un territorio imaginario sin fronteras ni guerras. En ellas comienza a manifestarse una inquietud que acompañará a Rivera durante toda su trayectoria: la tolerancia, la espiritualidad, la paz y la relación del ser humano con el mundo que habita."
+  },
+  {
+   "type": "paragraph",
+   "id": "musas-del-cantaro-5",
+   "text": "El propio artista describió estas primeras figuras como mujeres de colores pertenecientes a un planeta sin fronteras ni guerras; seres de meditación que, desde su silencio, hablan de tolerancia y representan el lado femenino de la humanidad."
+  },
+  {
+   "type": "paragraph",
+   "id": "musas-del-cantaro-6",
+   "text": "Realizada principalmente en técnica mixta sobre papel, Musas del Cántaro constituye además un antecedente formal de Sueños en Azul y posteriormente de Detrás de la Ventana. En estas colecciones tempranas empiezan a definirse elementos que después atravesarán buena parte del universo creativo de Cali Rivera."
+  },
+  {
+   "type": "paragraph",
+   "id": "musas-del-cantaro-7",
+   "text": "La serie fue presentada en Costa Rica durante la década de 1990 y se encuentra documentada entre las primeras exposiciones y colecciones de la trayectoria del artista."
+  }
+ ],
+ "cover": {
+  "src": "/media/musas-del-cantaro/musa-1-933.jpg",
+  "alt": "Musas del Cántaro",
+  "width": 933,
+  "height": 1686,
+  "widths": [
+   640,
+   933
+  ],
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACwBACdASoQAB0APu1iqU2ppaOiMAgBMB2JbACdMoC4AKC0XwqOJBHc2MujjxoAAP29Tcaf9JMPy3gAijEHPHhnaJ0491hn0xonrW1KwmYPlAXsQdizF9m3YCZf3pVciM1j2uiW+1nLKSByEB7v1y+hLfSsDgYUkn4i/XgFBAXgXzd2ANi6d/0GzbVdMDt90qdcjW7EPxfhoC1v3CTG0TVIrszuppvYnmvTgy834qGev75/dsQh9QK8n6m6lXs/waigfd0yCxnGZ49Ly7sj2CSDWj/ISvkqZtVqUjv5LkQQAA==",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ }
+}

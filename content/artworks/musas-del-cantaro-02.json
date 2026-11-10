@@ -1,0 +1,29 @@
+{
+ "id": "musas-del-cantaro-02",
+ "slug": "musas-del-cantaro-02",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "musas-del-cantaro",
+ "images": [
+  {
+   "src": "/media/musas-del-cantaro/musa-2-oficial-973.jpg",
+   "alt": "Obra — Musas del Cántaro, 1995–1996",
+   "width": 973,
+   "height": 1617,
+   "widths": [
+    640,
+    973
+   ],
+   "placeholder": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAAAwBgCdASoQABsAPu1iqk2ppaQiMAgBMB2JbACdMoRwGQAsADpbEaCuAde1CRF4eIc42LnG0evAxGKAAP4FS5BalZC/5+aOLLWAV3HlWmwGVLWHhG7RUrJPXYQsYlHcvF80GMHe+c/gdRQNaNru/G0fl43r6lEB9SGUivpBE3gxxqMZXlmsvMCaVzDDr5ARJhx7aQ9mj8gW2MnxSjiBt8PsU25nfvniB6Hg9Xs/XX0wDlLfn8Vb9w89/LswpN5kEwPOvxQ5KzWhCfkXF/zYSc5kzyXmigvR/8NnLtrgzEwpdFcetTB+J2B8WswAAA==",
+   "color": "rgb(232 232 216)",
+   "aiAltered": true
+  }
+ ],
+ "aiAltered": true,
+ "order": 2,
+ "year": "1995–1996",
+ "technique": "técnica mixta sobre papel",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

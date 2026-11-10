@@ -51,5 +51,6 @@ service cloud.firestore {
     match /authCodes/{id}   { allow read, write: if false; }
     match /rateLimits/{id}  { allow read, write: if false; }
     match /auditLog/{id}    { allow read, write: if false; }
+    match /drafts/{id}      { allow read, write: if false; }
   }
 }

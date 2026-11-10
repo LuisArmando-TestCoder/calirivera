@@ -1,0 +1,85 @@
+{
+ "id": "no-bienal-lerche-wolf-2020",
+ "slug": "no-bienal-lerche-wolf-2020",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "No bienal Lerche Wolf 2020",
+ "excerpt": "Hemos recibido formal invitación del creador intelectual y dueño de la marca registrada",
+ "body": [
+  {
+   "type": "image",
+   "id": "post-920",
+   "image": {
+    "src": "/media/archivo/image2-600.jpg",
+    "alt": "image2",
+    "width": 600,
+    "height": 161,
+    "widths": [
+     600
+    ],
+    "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAQAA4BaJaQAAlxCtwEgAP2wefjLp+BnFaNuiArb6nszYIrrepfMQAAAAA==",
+    "color": "rgb(120 120 120)",
+    "lowRes": true
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "post-921",
+   "text": "Hemos recibido formal invitación del creador intelectual y dueño de la marca registrada"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-922",
+   "text": "La No bienal Lerche Wolf para difundir las bases y justificación de la Edición 2020 - de dicha iniciativa, este año enfocada en el Land Art - Desde el programa de colaboración al artista nacional el Taller del Artista se une a este esfuerzo por mantener el arte Vivo a pesar de las dificultades de nuestros tiempos."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-923",
+   "text": "El Arte es para ser libres."
+  },
+  {
+   "type": "paragraph",
+   "id": "post-924",
+   "text": "Haga click aquí para ver pdf la NObienal 2020 VF"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-925",
+   "text": "Haga click aquí para ver pdf la NObienal 2020 bases"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-926",
+   "text": "DIRECTOR"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-927",
+   "text": "www.calirivera.com"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-928",
+   "text": "Tel: 83483785"
+  }
+ ],
+ "publishedAt": "2020-01-01T12:00:00Z",
+ "tags": [
+  "archivo",
+  "fecha-aproximada"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260115041602/https://www.calirivera.com/index.php/taller-del-artista/actividades/292-no-bienal-lerche-wolf-2020",
+ "cover": {
+  "src": "/media/archivo/image2-600.jpg",
+  "alt": "image2",
+  "width": 600,
+  "height": 161,
+  "widths": [
+   600
+  ],
+  "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAQAA4BaJaQAAlxCtwEgAP2wefjLp+BnFaNuiArb6nszYIrrepfMQAAAAA==",
+  "color": "rgb(120 120 120)",
+  "lowRes": true
+ }
+}

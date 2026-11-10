@@ -1,0 +1,103 @@
+@use "../../styles/tokens" as *;
+
+.header {
+  position: fixed;
+  inset: 0 0 auto 0;
+  z-index: var(--z-header);
+  color: var(--c-anil);
+  @include motion { transition: transform var(--dur-ui) var(--ease-out); }
+}
+.hidden { transform: translateY(-100%); }
+.bar {
+  @include wrap;
+  height: var(--header-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-s);
+  position: relative;
+  z-index: 2;
+}
+.header::before {
+  content: "";
+  position: absolute; inset: 0 0 auto 0; height: var(--header-h);
+  background: color-mix(in oklch, var(--c-ceniza) 86%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--c-linea);
+}
+.isOpen::before { background: transparent; border-color: transparent; backdrop-filter: none; }
+.isOpen { color: var(--c-hilo); }
+
+.mark {
+  @include display(74, 800);
+  font-size: var(--step-1);
+  text-decoration: none;
+  letter-spacing: -0.005em;
+  line-height: 1;
+  padding-block: 0.6rem;
+}
+.toggle {
+  display: inline-flex; align-items: center; gap: 0.7rem;
+  min-height: 44px; padding-inline: 0.25rem;
+  @include label;
+  font-size: var(--step-0);
+}
+.toggleIcon {
+  position: relative; width: 1.6rem; height: 0.7rem; display: block;
+  i { position: absolute; left: 0; right: 0; height: 2px; background: currentColor;
+    @include motion { transition: transform var(--dur-ui) var(--ease-out), top var(--dur-ui) var(--ease-out); } }
+  i:first-child { top: 0; }
+  i:last-child { top: calc(100% - 2px); right: 30%; }
+}
+.isOpen .toggleIcon i:first-child { top: calc(50% - 1px); transform: rotate(14deg); }
+.isOpen .toggleIcon i:last-child { top: calc(50% - 1px); right: 0; transform: rotate(-14deg); }
+
+.panel {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  background: var(--c-anil);
+  color: var(--c-hilo);
+  padding: calc(var(--header-h) + var(--space-l)) var(--gutter) var(--space-l);
+  display: grid;
+  grid-template-rows: 1fr auto;
+  gap: var(--space-xl);
+  overflow-y: auto;
+  @include motion { animation: unfurl 640ms var(--ease-out) both; }
+  &[hidden] { display: none; }
+}
+@keyframes unfurl { from { clip-path: inset(0 0 100% 0); } to { clip-path: inset(0 0 0 0); } }
+
+.nav {
+  display: grid;
+  gap: var(--space-xl);
+  align-content: start;
+  width: min(100%, var(--max-w));
+  margin-inline: auto;
+  @include above($bp-m) { grid-template-columns: 1fr 1fr; }
+  ul { list-style: none; padding: 0; display: grid; gap: 0.1em; }
+}
+.groupLabel { @include label; color: oklch(80% 0.04 260); margin-bottom: var(--space-s); }
+.link {
+  @include display(60, 720);
+  font-size: var(--step-4);
+  line-height: 1;
+  text-decoration: none;
+  display: inline-block;
+  padding-block: 0.08em;
+  @include motion {
+    transition: font-stretch var(--dur-ui) var(--ease-out), color var(--dur-micro);
+    li & { animation: rise 700ms var(--ease-out) both; animation-delay: calc(140ms + var(--i) * 45ms); }
+  }
+  &:hover, &:focus-visible { font-stretch: 100%; color: var(--c-ocre); }
+  &[aria-current="page"] { color: var(--c-ocre); }
+}
+@keyframes rise { from { opacity: 0; transform: translateY(0.6em); } to { opacity: 1; transform: none; } }
+
+.contact {
+  width: min(100%, var(--max-w)); margin-inline: auto;
+  display: flex; flex-wrap: wrap; gap: var(--space-s) var(--space-l);
+  @include label; font-size: var(--step-0);
+  a { text-decoration: none; border-bottom: 1px solid currentColor; padding-block: 0.4rem; }
+}

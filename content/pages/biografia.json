@@ -1,0 +1,428 @@
+{
+ "id": "biografia",
+ "slug": "biografia",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Biografía",
+ "description": "Artista multidisciplinario costarricense, San José, 1969. Pintura, textiles, instalación y el Taller del Artista.",
+ "hero": {
+  "title": "Cali Rivera",
+  "subtitle": "Artista multidisciplinario costarricense · San José, 1969"
+ },
+ "sections": [
+  {
+   "id": "quien",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "bio1-1",
+     "level": 2,
+     "text": "¿Quién es Cali?"
+    },
+    {
+     "type": "image",
+     "id": "bio1-2",
+     "image": {
+      "src": "/media/biografia/cali-bebe-1087.jpg",
+      "alt": "Cali Rivera",
+      "width": 1087,
+      "height": 1447,
+      "widths": [
+       640,
+       1087
+      ],
+      "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoMljEtt5bueMk3lQJ5Ef8AAAP5SN2nN6AtFBnPSr24jOKIIJHg8KimM9ldKz8E/I9KN+bU2jbL7flOxPXjbW5bHuf4iqO60k6CMnY68/5SJfTERXwjhRgtq82hPxAJO5AJei7IG3w2/lwsK9P2BRqeLzW+EmekdJw8oAA==",
+      "color": "rgb(216 168 104)",
+      "aiAltered": true
+     }
+    },
+    {
+     "type": "paragraph",
+     "id": "bio1-3",
+     "text": "Cali Rivera es un artista multidisciplinario costarricense nacido en San José en 1969. Pintor, creador de instalaciones, arte objeto y obras textiles, su trayectoria se ha construido desde una búsqueda permanente de libertad, experimentación y reflexión.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio1-4",
+     "text": "Desde temprana edad encontró en el arte una forma natural de expresión. Con el paso de los años, su universo creativo trascendió los límites de la pintura para incorporar textiles, instalaciones, arquitectura, sonido, performance y experiencias donde el espectador deja de ser únicamente observador para convertirse en parte de la obra."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio1-5",
+     "text": "Su trabajo aborda temas como la espiritualidad, la tolerancia, la identidad, la naturaleza, la paz y la relación del ser humano con el planeta. Más que adscribirse a una tendencia específica, Rivera ha defendido una idea que atraviesa toda su trayectoria: el arte como territorio de libertad."
+    }
+   ]
+  },
+  {
+   "id": "una-vocacion-que-comenzo-en-la-infancia",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "bio2-1",
+     "level": 2,
+     "text": "Una vocación que comenzó en la infancia"
+    },
+    {
+     "type": "paragraph",
+     "id": "bio2-2",
+     "text": "La relación de Cali Rivera con la creación comenzó mucho antes de convertirse en una profesión. Desde niño reconoció en el arte un espacio donde imaginar, experimentar y construir su propia manera de entender el mundo.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio2-3",
+     "text": "Su formación transitó por diferentes disciplinas. Realizó estudios de arquitectura en Collegium Veritas, se formó en técnicas de producción y posproducción audiovisual y concluyó estudios de Publicidad en la Universidad Latina de Costa Rica. Su recorrido profesional y creativo también se vinculó con la comunicación, el mercadeo, la producción de eventos, el cine, la televisión y la música."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio2-4",
+     "text": "Su formación artística inició bajo la guía del maestro sueco Arvid Röström, con quien realizó estudios de pintura al óleo entre 1994 y 1998. Posteriormente amplió su preparación con talleres de dibujo impartidos por Fabio Herrera y estudios de grabado junto a Mario Maffioli y el propio Herrera, fortaleciendo una base técnica que ha acompañado la evolución de su lenguaje artístico.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio2-5",
+     "text": "Esta diversidad terminaría convirtiéndose en una característica esencial de su obra: para Rivera, las disciplinas no existen necesariamente como territorios separados. Pintura, espacio, objeto, sonido, arquitectura y experiencia pueden encontrarse dentro de una misma propuesta artística."
+    },
+    {
+     "type": "image",
+     "id": "bio2-6",
+     "image": {
+      "src": "/media/biografia/cali-rivera-3-1511.jpg",
+      "alt": "Cali Rivera",
+      "width": 1511,
+      "height": 1041,
+      "widths": [
+       640,
+       1280,
+       1511
+      ],
+      "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQAAsAA4BaJbACdAYtzN4WwLNAAP7uq9z3ePX15x05PTPfba7ezN80H6Zbd2yNl3bTtHj6353Z4mVE1lRj4yw9Q66dezBUhGhrzJOZFx/+zQWrS+C1icAhkpuuMUAAAAA=",
+      "color": "rgb(248 248 248)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "de-la-pintura-a-un-universo-multidisciplinario",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "bio3-1",
+     "level": 2,
+     "text": "De la pintura a un universo multidisciplinario"
+    },
+    {
+     "type": "paragraph",
+     "id": "bio3-2",
+     "text": "Durante la década de 1990 comenzó a consolidarse el lenguaje artístico de Cali Rivera. Obras como Atmósfera, Musas del Cántaro y Sueños en Azul antecedieron una etapa de transformación en la que la pintura comenzó a dialogar cada vez más con otros lenguajes.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio3-3",
+     "text": "Con Detrás de la Ventana, Ave Fénix y posteriormente Plegaria y Poetry, Rivera amplió progresivamente los límites de su práctica artística."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio3-4",
+     "text": "La obra dejó de existir únicamente sobre el lienzo."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio3-5",
+     "text": "Aparecieron instalaciones, textiles, objetos, luz, sonido, tecnología y participación del espectador. Esta búsqueda multidisciplinaria se convertiría en uno de los elementos constantes de su trayectoria."
+    },
+    {
+     "type": "image",
+     "id": "bio3-6",
+     "image": {
+      "src": "/media/biografia/cali-exvotos-2007.jpg",
+      "alt": "Cali Rivera",
+      "width": 2007,
+      "height": 784,
+      "widths": [
+       640,
+       1280,
+       1920,
+       2007
+      ],
+      "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAYAA4BaJaACdAYrJk0UtrqigAD+8YCnnX4L5daeHpmcqY0YOCLVzlz7xFNNLmMDp+qFLQUsxK0lpHskuk6HMA7k3R0wegzaKwA7jr4d0cZC0gAAAA==",
+      "color": "rgb(8 8 8)",
+      "aiAltered": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "un-espacio-para-vivir-el-arte",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "bio4-1",
+     "level": 2,
+     "text": "Un espacio para vivir el arte"
+    },
+    {
+     "type": "image",
+     "id": "bio4-2",
+     "image": {
+      "src": "/media/biografia/taller-del-artista-1024.jpg",
+      "alt": "Cali Rivera",
+      "width": 1024,
+      "height": 1536,
+      "widths": [
+       640,
+       1024
+      ],
+      "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZACdMoADTnu5UnoVSqNSfI8AAP7y4es0C6/8NC5fpoXwEX1wNNAYHZzgETLU7yLZZq3cYbJwEIrnVjRz3pjA5VF8l7490nN+ZDALjkBzpPjMU4ArqvEb+0/5Y9jSxQ+90e6xL4Ne0WqykcrUgAAA",
+      "color": "rgb(8 8 8)",
+      "aiAltered": true
+     }
+    },
+    {
+     "type": "paragraph",
+     "id": "bio4-3",
+     "text": "La búsqueda de Cali Rivera trascendió también el espacio tradicional de exhibición.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio4-4",
+     "text": "El 7 de marzo de 2000, con la exposición Detrás de la Ventana, abrió oficialmente el Taller del Artista en Tres Ríos, Costa Rica: un espacio concebido para el encuentro entre diferentes manifestaciones artísticas y para acercar el proceso creativo al público."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio4-5",
+     "text": "Con el tiempo, el Taller evolucionó hasta convertirse en una extensión del propio universo de Rivera. Pintura, textiles, instalaciones, arquitectura, música, gastronomía y encuentro comenzaron a convivir dentro de un mismo lugar."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio4-6",
+     "text": "Más que una galería, el Taller del Artista se convirtió en una obra en permanente transformación y en una plataforma para artistas nacionales e internacionales."
+    }
+   ]
+  },
+  {
+   "id": "crear-tambien-es-tomar-posicion",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "bio5-1",
+     "level": 2,
+     "text": "Crear también es tomar posición"
+    },
+    {
+     "type": "paragraph",
+     "id": "bio5-2",
+     "text": "La obra de Cali Rivera ha mantenido una relación constante con su tiempo. La paz, la espiritualidad, la tolerancia, la protección del planeta y la convivencia entre culturas aparecen reiteradamente en su producción.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio5-3",
+     "text": "A partir de textiles, estandartes, pintura e instalaciones, desarrolló proyectos vinculados con la Carta de la Tierra, la globalización, la cultura tibetana y la preservación de los recursos naturales."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio5-4",
+     "text": "En 2009 trasladó temporalmente su práctica a San Pedro La Laguna, Guatemala, a orillas del Lago Atitlán. Allí se involucró con la comunidad y desarrolló obras orientadas a llamar la atención sobre la protección del lago, entre ellas La Cruz de San Pedro."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio5-5",
+     "text": "Su investigación con textiles y estandartes alcanzaría reconocimiento internacional en 2010, cuando obtuvo el Primer Lugar Iberoamericano en Arte Textil de la Red Textil Iberoamerica na."
+    },
+    {
+     "type": "image",
+     "id": "bio5-6",
+     "image": {
+      "src": "/media/biografia/obra-mundial-1290.jpg",
+      "alt": "Cali Rivera",
+      "width": 1290,
+      "height": 1219,
+      "widths": [
+       640,
+       1280,
+       1290
+      ],
+      "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAA8AA4BaJbACdAEDpEDlTLvgAAD+6agkKKLxdcFhxZgjOnqe9i+1F0/YZs7LJgejYFRK0G/5bDDQ0YudJrAOzTNLm/qom/uY1Gekst+AAA==",
+      "color": "rgb(8 8 8)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "una-obra-que-traspasa-fronteras",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "image",
+     "id": "bio6-1",
+     "image": {
+      "src": "/media/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-1122.jpg",
+      "alt": "Cali Rivera",
+      "width": 1122,
+      "height": 1402,
+      "widths": [
+       640,
+       1122
+      ],
+      "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYgCo9CFw2PmUT0jgfQxqEAD94oAmjiln2hHsfCdyaxaoBpZ33A6elm5nZSRFDLVswYMcKSW4mVMNGn+lYJN6XY4ZRy3q3ROGUvp7wXGT/0CmAY5ntOhXb4ylWdoNH8ctX+CS8oAAAA==",
+      "color": "rgb(232 200 152)",
+      "aiAltered": true
+     }
+    },
+    {
+     "type": "image",
+     "id": "bio6-2",
+     "image": {
+      "src": "/media/biografia/riga-2-1448.jpg",
+      "alt": "Cali Rivera",
+      "width": 1448,
+      "height": 1086,
+      "widths": [
+       640,
+       1280,
+       1448
+      ],
+      "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQAAwAA4BaJQBOgMXrlAoAo0YAAP6jSxUyAxYSrWhinb9GJ/rjUFUAvolmMZE13spkESIhOceOH3HaLnVBS5GLOwlksW3ywGIRR0sK8J1eLMTJ7tDcio+GspVBlOY9iIQ8QAAA",
+      "color": "rgb(8 8 8)",
+      "aiAltered": true
+     }
+    },
+    {
+     "type": "heading",
+     "id": "bio6-3",
+     "level": 2,
+     "text": "Una obra que traspasa fronteras"
+    },
+    {
+     "type": "paragraph",
+     "id": "bio6-4",
+     "text": "La trayectoria de Cali Rivera ha llevado su trabajo fuera de Costa Rica y a espacios culturales de Europa, Asia y América.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio6-5",
+     "text": "Sus proyectos han formado parte de exposiciones y encuentros en países como Guatemala, Nicaragua, Francia, Japón, Polonia y Letonia, además de numerosas exhibiciones en Costa Rica."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio6-6",
+     "text": "En 2014 presentó CUD – MILAGRO en el Museo Central de Arte Textil de Łódź, Polonia. En 2015 regresó a Polonia con la exposición individual Sincretismo Religioso: un camino para la Paz y participó en la Trienal Internacional de Riga, Letonia."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio6-7",
+     "text": "En 2016, su obra volvió a encontrarse con otra de sus grandes influencias, la música, al participar en Canto a la Libertad en el Teatro Nacional de Costa Rica, por invitación de la Orquesta Sinfónica Nacional."
+    },
+    {
+     "type": "image",
+     "id": "bio6-8",
+     "image": {
+      "src": "/media/biografia/teatro-1086.jpg",
+      "alt": "Cali Rivera",
+      "width": 1086,
+      "height": 1448,
+      "widths": [
+       640,
+       1086
+      ],
+      "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JaAC7ACHT3v3JxS8Yu7aAAP7j5TDQe1CW+dSqu2TXjvnrRwZeIluMCbjEIhZNv/Wik/3vJpX1a3KXeFosYSbvD3Bdj9+jwGG5ptdHChUkEefk/R9GD+cDKvX/ndLIHB8z7DeeAAA=",
+      "color": "rgb(8 8 8)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "de-las-cenizas",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "bio7-1",
+     "level": 2,
+     "text": "2017 - de las cenizas"
+    },
+    {
+     "type": "image",
+     "id": "bio7-2",
+     "image": {
+      "src": "/media/biografia/incendio-1-1086.jpg",
+      "alt": "Cali Rivera",
+      "width": 1086,
+      "height": 1448,
+      "widths": [
+       640,
+       1086
+      ],
+      "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACw7CG8WwMln1gAAP7xgK4DyLx88urnkI+m8rlEUq+xzDR47r4QF1aBdX0p3Kk077v5LS0xzM/XwyIgUHrqmb/aq2Kgk6k8AAAA",
+      "color": "rgb(8 8 8)",
+      "aiAltered": true
+     }
+    },
+    {
+     "type": "paragraph",
+     "id": "bio7-3",
+     "text": "La noche del 8 de noviembre de 2017, el fuego marcó un antes y un después en la vida y en la obra de Cali Rivera. Un incendio consumió gran parte de su casa y del museo que había construido dentro del universo del Taller del Artista, en La Unión de Cartago. Entre aquellas paredes no había únicamente objetos: permanecían años de creación, memoria y vida. Lienzos, instalaciones, piezas, recuerdos y obras que habían formado parte de su trayectoria dentro y fuera de Costa Rica desaparecieron entre las llamas. Se estimó que cerca del 80 % de las obras que se encontraban en el lugar fueron destruidas. En cuestión de horas, una parte irrepetible de décadas de creación quedó reducida a cenizas.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "bio7-4",
+     "text": "La pérdida fue material, artística y profundamente personal, pero no significó el final. Paradójicamente, muchos años antes del incendio, Rivera ya había incorporado a su universo creativo la figura del Ave Fénix, símbolo de transformación y renacimiento. Después del fuego, aquella imagen adquirió un significado distinto: dejó de ser únicamente parte de su lenguaje artístico para convertirse también en reflejo de su propia historia."
+    },
+    {
+     "type": "paragraph",
+     "id": "bio7-5",
+     "text": "Cali comenzó entonces un proceso de reconstrucción que trascendió las paredes del espacio perdido. Reconstruir significó volver a crear, recuperar un lugar para el arte y transformar una experiencia devastadora en el comienzo de una nueva etapa. El fuego destruyó una parte de su obra, pero no pudo destruir al artista. De las cenizas comenzó el renacer."
+    },
+    {
+     "type": "image",
+     "id": "bio7-6",
+     "image": {
+      "src": "/media/biografia/incendio-2-1078.jpg",
+      "alt": "Cali Rivera",
+      "width": 1078,
+      "height": 1460,
+      "widths": [
+       640,
+       1078
+      ],
+      "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JaAC06CHN1Ci1jGp4NDrQAP70KnSH+pEDLLbrvkZ3hD1aPjlYdPV1n/VaPmfVMW/M/0847ne2WX6UR1n/5/Nbpdag/abJXQsgiRqtjbruAAAA",
+      "color": "rgb(8 8 8)",
+      "aiAltered": true
+     }
+    },
+    {
+     "type": "image",
+     "id": "bio7-7",
+     "image": {
+      "src": "/media/biografia/incendio-3-1450.jpg",
+      "alt": "Cali Rivera",
+      "width": 1450,
+      "height": 1085,
+      "widths": [
+       640,
+       1280,
+       1450
+      ],
+      "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAwAA4BaJagC7AC4curfNmkkAAD9JHwgkoz42hj3ZeHiwmLDlOJPGbWI4YeP905MEiZEbPnAmS91GCJ7APB/ASLX4dDa1Q3iPADt3Fm/6W1Gv7LgAAAA",
+      "color": "rgb(120 120 120)",
+      "aiAltered": true
+     }
+    }
+   ],
+   "tone": "ink"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": "exvotos-05",
+ "slug": "exvotos-05",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Sin título",
+ "collectionId": "exvotos",
+ "images": [
+  {
+   "src": "/media/exvotos/luna-azul-1148.jpg",
+   "alt": "Obra — Exvotos, 2012",
+   "width": 1148,
+   "height": 1371,
+   "widths": [
+    640,
+    1148
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoRwEGAASjReHRAwrv2wAP55AMSQGkd43fStLa26TIxoC3/wUib1JwciCXUdzO3o222RBsr/4pl4uAP8hibVTpfzgZxIJTMfbSFur8w/pzlCptSZmZUThmI51wE3ngCdUhiEoG3aIUNYe0AAAAA=",
+   "color": "rgb(168 136 40)"
+  }
+ ],
+ "aiAltered": false,
+ "order": 5,
+ "year": "2012",
+ "notes": "Ficha técnica pendiente (título, medidas)."
+}

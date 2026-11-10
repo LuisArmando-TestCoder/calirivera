@@ -1,0 +1,69 @@
+{
+ "id": "agenda-cultural-octubre-2017",
+ "slug": "agenda-cultural-octubre-2017",
+ "status": "published",
+ "createdAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-10T23:54:17Z",
+ "title": "Agenda Cultural Octubre 2017",
+ "excerpt": "Han pasado 14 años desde que el Taller del Artista asumiera el reto de de abrir el Café Arte Costa Rica, este mes celebramos el Teatro la poesía y la música con cuatro actividades especiales que a continuación les compartimos",
+ "body": [
+  {
+   "type": "image",
+   "id": "post-759",
+   "image": {
+    "src": "/media/archivo/agenda-octubre-2017-684.jpg",
+    "alt": "agenda Octubre 2017",
+    "width": 684,
+    "height": 1000,
+    "widths": [
+     640,
+     684
+    ],
+    "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZAC7AB6Q8t3s9hoxrN9RDXAA/P2iTZTBm2HLn/grAEURnWroDmoNwmvE7z7ERis1LIObdsX5X0KsBzOBFc0CHH2lUa/4041UymIyuoXIqcPXM3CMArxlRagtikd86J+sr0YX5nrPVdlkb3jSOCBxCIxUMW7OkMK7KkGNGrqj7TftcAA=",
+    "color": "rgb(248 248 248)"
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "post-760",
+   "text": "Han pasado 14 años desde que el Taller del Artista asumiera el reto de de abrir el Café Arte Costa Rica, este mes celebramos el Teatro la poesía y la música con cuatro actividades especiales que a continuación les compartimos"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-761",
+   "text": "Miércoles 4 - Festival Internacional de poesía- Gratis - 8:00 pm"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-762",
+   "text": "Viernes 6 y sábado 7 desde México Teatro con el grupo OHANA Teatro admisión 5000 colones 8:00 pm"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-763",
+   "text": "Sábado 14 recital de saxofón con Michael Brenes - Gratis"
+  },
+  {
+   "type": "paragraph",
+   "id": "post-764",
+   "text": "Viernes 27 de la Trova al Son cubano con con Martín González desde Cuba- Gratis"
+  }
+ ],
+ "publishedAt": "2017-10-01T12:00:00Z",
+ "tags": [
+  "archivo"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260115052416/https://www.calirivera.com/index.php/taller-del-artista/actividades/284-agenda-cultural-octubre-2017",
+ "cover": {
+  "src": "/media/archivo/agenda-octubre-2017-684.jpg",
+  "alt": "agenda Octubre 2017",
+  "width": 684,
+  "height": 1000,
+  "widths": [
+   640,
+   684
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZAC7AB6Q8t3s9hoxrN9RDXAA/P2iTZTBm2HLn/grAEURnWroDmoNwmvE7z7ERis1LIObdsX5X0KsBzOBFc0CHH2lUa/4041UymIyuoXIqcPXM3CMArxlRagtikd86J+sr0YX5nrPVdlkb3jSOCBxCIxUMW7OkMK7KkGNGrqj7TftcAA=",
+  "color": "rgb(248 248 248)"
+ }
+}

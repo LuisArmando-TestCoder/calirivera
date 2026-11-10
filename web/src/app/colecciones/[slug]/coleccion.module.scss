@@ -1,0 +1,60 @@
+@use "../../../styles/tokens" as *;
+
+.hero {
+  @include wrap;
+  padding-top: calc(var(--header-h) + var(--space-2xl));
+  padding-bottom: var(--space-xl);
+  display: grid;
+  gap: var(--space-s);
+}
+.period { @include display(120, 300); font-size: var(--step-2); color: var(--c-azul); }
+.title { @include display(52, 880); font-size: clamp(3.6rem, 13vw, 14rem); line-height: 0.82; letter-spacing: -0.025em; max-width: 9ch; }
+.subtitle { @include text; font-style: italic; font-size: var(--step-2); }
+.tech { @include label; color: var(--c-muted); }
+
+.statement { @include wrap; padding-block: var(--space-xl) var(--space-2xl); }
+.statementText {
+  @include text; font-size: var(--step-2); line-height: 1.32; font-weight: 360; max-width: 34ch;
+  @include above($bp-m) { margin-inline-start: 34%; }
+}
+
+// Muro de obras: columnas con desfase, como un montaje de sala
+.works { padding-block: var(--space-xl); }
+.wall {
+  @include wrap;
+  columns: 2;
+  column-gap: var(--space-s);
+  @include above($bp-m) { columns: 3; column-gap: var(--space-l); }
+}
+.work {
+  display: grid; gap: var(--space-2xs);
+  break-inside: avoid;
+  margin-bottom: var(--space-l);
+  text-decoration: none;
+  &:nth-child(3n + 2) { @include above($bp-m) { padding-top: var(--space-2xl); } }
+  img { @include motion { transition: transform 1.1s var(--ease-out); } }
+  &:hover img { transform: scale(1.03); }
+}
+.workLabel { display: flex; justify-content: space-between; gap: var(--space-s); @include label; }
+.workYear { color: var(--c-muted); }
+
+.extras { @include wrap; display: grid; gap: var(--space-l); padding-block: var(--space-xl); @include above($bp-m) { grid-template-columns: 1fr 1fr; } }
+.catalog {
+  display: grid; gap: 0.3rem; align-content: end;
+  min-height: 12rem; padding: var(--space-m);
+  background: var(--c-anil); color: var(--c-hilo); text-decoration: none;
+  @include motion { transition: background-color var(--dur-ui) var(--ease-out); }
+  &:hover { background: var(--c-azul); }
+}
+.catalogLabel { @include display(70, 760); font-size: var(--step-3); line-height: 1; }
+.catalogNote { @include label; opacity: 0.8; }
+
+.next {
+  display: grid; gap: var(--space-2xs);
+  padding: var(--space-3xl) var(--gutter);
+  border-top: 2px solid var(--c-anil);
+  text-decoration: none;
+  &:hover .nextTitle { font-stretch: 120%; color: var(--c-azul); }
+}
+.nextLabel { @include label; color: var(--c-muted); }
+.nextTitle { @include display(60, 820); font-size: var(--step-6); line-height: 0.85; @include motion { transition: font-stretch 700ms var(--ease-out), color 300ms; } }
