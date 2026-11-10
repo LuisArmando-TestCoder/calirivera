@@ -1,0 +1,123 @@
+{
+  "slug": "la-cofradia",
+  "url": "https://calirivera.com/la-cofradia",
+  "title": "La Cofradía",
+  "name": "La Cofradía",
+  "meta": {
+    "og:url": "https://calirivera.com/la-cofradia",
+    "og:title": "La Cofradía",
+    "twitter:title": "La Cofradía",
+    "og:type": "website",
+    "twitter:card": "summary_large_image",
+    "noindex": false,
+    "ogImageAlt": ""
+  },
+  "sections": [
+    {
+      "blockId": "zLNp5l",
+      "heading": "LA COFRADÍA",
+      "paragraphs": [
+        "2017"
+      ],
+      "images": [],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
+        "localPath": "assets/la-cofradia/candela-SjvXHdgnaGUodgNo.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 430,
+        "height": 548,
+        "bytes": 336868,
+        "role": "background",
+        "overlayOpacity": "0.57"
+      },
+      "elements": [
+        {
+          "id": "zNXdwL",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 50,
+            "left": 309,
+            "width": 606,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "LA COFRADÍA"
+            }
+          ]
+        },
+        {
+          "id": "z-nFpU",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 120,
+            "left": 360,
+            "width": 503,
+            "height": 25
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "2017"
+            }
+          ]
+        }
+      ],
+      "level": "h1"
+    },
+    {
+      "blockId": "zAHRiL",
+      "heading": null,
+      "paragraphs": [],
+      "images": [],
+      "links": [
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf",
+          "text": "Ver La Cofradía",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf"
+        }
+      ],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-exvotos-siu4fNQNNshF3q2C.png",
+        "localPath": "assets/la-cofradia/cali-exvotos-siu4fNQNNshF3q2C.png",
+        "alt": null,
+        "caption": null,
+        "width": 2007,
+        "height": 784,
+        "bytes": 2640347,
+        "role": "background",
+        "overlayOpacity": "0.83"
+      },
+      "elements": [
+        {
+          "id": "zVSVKi",
+          "type": "GridButton",
+          "desktop": {
+            "top": 145,
+            "left": 523,
+            "width": 178,
+            "height": 55,
+            "fontSize": 18
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf",
+            "text": "Ver La Cofradía",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf"
+          }
+        }
+      ]
+    }
+  ],
+  "rawTextHash": "c1f47703335d809795e5cbab502ac0722e51d04259622c0ffd5edf6abdc74d03",
+  "wordCount": 3,
+  "source": "zyro pageData (astro-island props) + html meta"
+}

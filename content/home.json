@@ -1,0 +1,249 @@
+{
+  "slug": "home",
+  "url": "https://calirivera.com/",
+  "title": "Inicio",
+  "name": "Inicio",
+  "meta": {
+    "og:url": "https://calirivera.com/",
+    "og:title": "Inicio",
+    "twitter:title": "Inicio",
+    "og:type": "website",
+    "twitter:card": "summary_large_image"
+  },
+  "sections": [
+    {
+      "blockId": "zcfdHu",
+      "heading": "CALI",
+      "paragraphs": [
+        "RIVERA",
+        "EL ARTE ES PARA SER LIBRES."
+      ],
+      "images": [],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/f25f1380-c63d-42a7-bb08-38116fdc92ba-7AqHJk6Tuz7v1Se1.jpeg",
+        "localPath": "assets/home/f25f1380-c63d-42a7-bb08-38116fdc92ba-7AqHJk6Tuz7v1Se1.jpeg",
+        "alt": null,
+        "caption": null,
+        "width": 900,
+        "height": 1600,
+        "bytes": 138667,
+        "role": "background",
+        "overlayOpacity": "0.67"
+      },
+      "elements": [
+        {
+          "id": "zLVl-v",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 182,
+            "left": 50,
+            "width": 731,
+            "height": 217
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "CALI"
+            },
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "RIVERA"
+            }
+          ]
+        },
+        {
+          "id": "zd0q_L",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 393,
+            "left": 54,
+            "width": 484,
+            "height": 31
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "EL ARTE ES PARA SER LIBRES."
+            }
+          ]
+        }
+      ],
+      "level": "h3"
+    },
+    {
+      "blockId": "hb2TDx",
+      "heading": "QUIÉN ES",
+      "paragraphs": [
+        "CALI?",
+        "Una vida dedicada a transformar ideas, símbolos y emociones en arte."
+      ],
+      "images": [],
+      "links": [
+        {
+          "href": "/biografia",
+          "text": "DESCUBRELO",
+          "linkType": "page",
+          "linkedPageId": "biografia"
+        }
+      ],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-rivera-3-SuAA23MNKG2LcZp8.png",
+        "localPath": "assets/home/cali-rivera-3-SuAA23MNKG2LcZp8.png",
+        "alt": null,
+        "caption": null,
+        "width": 1511,
+        "height": 1041,
+        "bytes": 1007616,
+        "role": "background",
+        "overlayOpacity": "0.63"
+      },
+      "elements": [
+        {
+          "id": "zHBk8t",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 62,
+            "left": 0,
+            "width": 701,
+            "height": 217
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "QUIÉN ES"
+            },
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "CALI?"
+            }
+          ]
+        },
+        {
+          "id": "zTqJs6",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 264,
+            "left": 13,
+            "width": 517,
+            "height": 59
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "Una vida dedicada a transformar ideas, símbolos y emociones en arte."
+            }
+          ]
+        },
+        {
+          "id": "pSCysQ",
+          "type": "GridButton",
+          "desktop": {
+            "top": 480,
+            "left": 9,
+            "width": 200,
+            "height": 53,
+            "fontSize": 17
+          },
+          "link": {
+            "href": "/biografia",
+            "text": "DESCUBRELO",
+            "linkType": "page",
+            "linkedPageId": "biografia"
+          }
+        }
+      ],
+      "level": "h3"
+    },
+    {
+      "blockId": "z5g-W7",
+      "heading": "COLECCIONES",
+      "paragraphs": [
+        "Una trayectoria contada a través de obras, símbolos y distintas etapas de creación."
+      ],
+      "images": [],
+      "links": [
+        {
+          "href": "/catalogos-and-proyectos",
+          "text": "OBRA",
+          "linkType": "page",
+          "linkedPageId": "galeria"
+        }
+      ],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/beso-II4wdOCaLll6pSMP.PNG",
+        "localPath": "assets/home/beso-II4wdOCaLll6pSMP.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 680,
+        "height": 536,
+        "bytes": 521444,
+        "role": "background",
+        "overlayOpacity": "0.59"
+      },
+      "elements": [
+        {
+          "id": "z_0ghi",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 0,
+            "left": 261,
+            "width": 701,
+            "height": 162
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "COLECCIONES"
+            }
+          ]
+        },
+        {
+          "id": "zdRgem",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 165,
+            "left": 251,
+            "width": 722,
+            "height": 59
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "Una trayectoria contada a través de obras, símbolos y distintas etapas de creación."
+            }
+          ]
+        },
+        {
+          "id": "zK8c6M",
+          "type": "GridButton",
+          "desktop": {
+            "top": 504,
+            "left": 509,
+            "width": 200,
+            "height": 53,
+            "fontSize": 17
+          },
+          "link": {
+            "href": "/catalogos-and-proyectos",
+            "text": "OBRA",
+            "linkType": "page",
+            "linkedPageId": "galeria"
+          }
+        }
+      ],
+      "level": "h3"
+    }
+  ],
+  "rawTextHash": "e0df9272912d763d25e620d87947311adb8d8b9864ef43c0b57016209d9a1af1",
+  "wordCount": 36,
+  "source": "zyro pageData (astro-island props) + html meta"
+}

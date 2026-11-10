@@ -1,0 +1,83 @@
+{
+  "slug": "colecciones",
+  "url": "https://calirivera.com/colecciones",
+  "title": "Colecciones",
+  "name": "Colecciones",
+  "meta": {
+    "og:url": "https://calirivera.com/colecciones",
+    "og:title": "Colecciones",
+    "twitter:title": "Colecciones",
+    "og:type": "website",
+    "twitter:card": "summary_large_image",
+    "noindex": false,
+    "ogImageAlt": ""
+  },
+  "sections": [
+    {
+      "blockId": "zTu4wJ",
+      "heading": "COLECCIONES",
+      "paragraphs": [
+        "Cada colección representa un capítulo en la evolución creativa de Cali Rivera, donde la pintura se convierte en un lenguaje capaz de explorar la espiritualidad, la memoria, la identidad y la condición humana. Desde sus primeras investigaciones en óleo hasta sus propuestas conceptuales más profundas, cada serie posee una identidad propia y revela una nueva manera de interpretar el mundo.",
+        "Le invitamos a descubrir cada una de estas colecciones y adentrarse en un recorrido donde el color, el símbolo y la emoción construyen un legado artístico que trasciende el tiempo."
+      ],
+      "images": [],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/teatro-HqcXaKuhRk4u6mfY.png",
+        "localPath": "assets/colecciones/teatro-HqcXaKuhRk4u6mfY.png",
+        "alt": null,
+        "caption": null,
+        "width": 1116,
+        "height": 1410,
+        "bytes": 2167000,
+        "role": "background",
+        "overlayOpacity": "0.79"
+      },
+      "elements": [
+        {
+          "id": "zBtjl-",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 82,
+            "left": 360,
+            "width": 503,
+            "height": 62
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "COLECCIONES"
+            }
+          ]
+        },
+        {
+          "id": "zqObiy",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 160,
+            "left": 137,
+            "width": 950,
+            "height": 200
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Cada colección representa un capítulo en la evolución creativa de Cali Rivera, donde la pintura se convierte en un lenguaje capaz de explorar la espiritualidad, la memoria, la identidad y la condición humana. Desde sus primeras investigaciones en óleo hasta sus propuestas conceptuales más profundas, cada serie posee una identidad propia y revela una nueva manera de interpretar el mundo."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Le invitamos a descubrir cada una de estas colecciones y adentrarse en un recorrido donde el color, el símbolo y la emoción construyen un legado artístico que trasciende el tiempo."
+            }
+          ]
+        }
+      ],
+      "level": "h3"
+    }
+  ],
+  "rawTextHash": "5a06a65f6fd71ef0b5a12eeedb368df44cfbb7a118be0b23f37036cca362d5b4",
+  "wordCount": 91,
+  "source": "zyro pageData (astro-island props) + html meta"
+}

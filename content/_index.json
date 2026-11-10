@@ -1,0 +1,109 @@
+{
+  "pages": [
+    {
+      "slug": "catalogos-and-proyectos",
+      "url": "https://calirivera.com/catalogos-and-proyectos",
+      "title": "Catálogos & Proyectos",
+      "sections": 9,
+      "images": 27,
+      "words": 833
+    },
+    {
+      "slug": "taller-del-artista",
+      "url": "https://calirivera.com/taller-del-artista",
+      "title": "Taller del Artista",
+      "sections": 9,
+      "images": 18,
+      "words": 220
+    },
+    {
+      "slug": "colecciones",
+      "url": "https://calirivera.com/colecciones",
+      "title": "Colecciones",
+      "sections": 2,
+      "images": 1,
+      "words": 91
+    },
+    {
+      "slug": "home",
+      "url": "https://calirivera.com/",
+      "title": "Inicio",
+      "sections": 12,
+      "images": 5,
+      "words": 67
+    },
+    {
+      "slug": "biografia",
+      "url": "https://calirivera.com/biografia",
+      "title": "Biografía",
+      "sections": 51,
+      "images": 31,
+      "words": 1850
+    },
+    {
+      "slug": "atmosfera",
+      "url": "https://calirivera.com/atmosfera",
+      "title": "Atmósfera",
+      "sections": 1,
+      "images": 0,
+      "words": 1
+    },
+    {
+      "slug": "musas-del-cantaro",
+      "url": "https://calirivera.com/musas-del-cantaro",
+      "title": "Musas del Cántaro",
+      "sections": 6,
+      "images": 9,
+      "words": 222
+    },
+    {
+      "slug": "suenos-en-azul",
+      "url": "https://calirivera.com/suenos-en-azul",
+      "title": "Sueños en Azul",
+      "sections": 14,
+      "images": 38,
+      "words": 1783
+    },
+    {
+      "slug": "detras-de-la-ventana",
+      "url": "https://calirivera.com/detras-de-la-ventana",
+      "title": "Detras de la ventana",
+      "sections": 11,
+      "images": 45,
+      "words": 530
+    },
+    {
+      "slug": "exvotos",
+      "url": "https://calirivera.com/exvotos",
+      "title": "Exvotos",
+      "sections": 6,
+      "images": 14,
+      "words": 204
+    },
+    {
+      "slug": "plegaria",
+      "url": "https://calirivera.com/plegaria",
+      "title": "Plegaria",
+      "sections": 0,
+      "images": 0,
+      "words": 0
+    },
+    {
+      "slug": "la-cofradia",
+      "url": "https://calirivera.com/la-cofradia",
+      "title": "La Cofradía",
+      "sections": 4,
+      "images": 2,
+      "words": 3
+    },
+    {
+      "slug": "trayectoria-and-entrevistas",
+      "url": "https://calirivera.com/trayectoria-and-entrevistas",
+      "title": "Trayectoria & Entrevistas",
+      "sections": 4,
+      "images": 4,
+      "words": 5
+    }
+  ],
+  "files": []
+}

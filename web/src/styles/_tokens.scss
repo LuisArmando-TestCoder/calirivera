@@ -1,0 +1,70 @@
+// Design tokens — Cali Rivera / Taller del Artista
+// Colour in oklch; fluid type via clamp (360px → 1440px viewport).
+:root {
+  // Colour — warm earth (cántaro), deep night blue (Sueños en Azul), ochre/gold accent
+  --c-ink: oklch(18% 0.02 60);
+  --c-paper: oklch(96% 0.012 85);
+  --c-clay: oklch(58% 0.12 45);
+  --c-blue: oklch(36% 0.11 260);
+  --c-gold: oklch(78% 0.13 85);
+  --c-muted: oklch(55% 0.02 70);
+  --c-line: oklch(85% 0.015 80);
+  --c-bg: var(--c-paper);
+  --c-fg: var(--c-ink);
+  --c-accent: var(--c-clay);
+
+  // Type families (self-hosted subsets go in /public/fonts — branch 5)
+  --font-display: "Display", "Display Fallback", Georgia, serif;
+  --font-text: "Text", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  // Fluid type scale
+  --step--1: clamp(0.83rem, 0.8rem + 0.15vw, 0.94rem);
+  --step-0: clamp(1rem, 0.95rem + 0.25vw, 1.19rem);
+  --step-1: clamp(1.25rem, 1.15rem + 0.45vw, 1.6rem);
+  --step-2: clamp(1.56rem, 1.38rem + 0.8vw, 2.2rem);
+  --step-3: clamp(1.95rem, 1.6rem + 1.5vw, 3.2rem);
+  --step-4: clamp(2.44rem, 1.8rem + 2.8vw, 4.8rem);
+  --step-5: clamp(3.05rem, 1.9rem + 5vw, 8rem);
+  --step-hero: clamp(3.5rem, 1rem + 11vw, 13rem);
+
+  // Space
+  --space-3xs: clamp(0.25rem, 0.23rem + 0.1vw, 0.31rem);
+  --space-2xs: clamp(0.5rem, 0.46rem + 0.2vw, 0.63rem);
+  --space-xs: clamp(0.75rem, 0.7rem + 0.25vw, 0.94rem);
+  --space-s: clamp(1rem, 0.93rem + 0.35vw, 1.25rem);
+  --space-m: clamp(1.5rem, 1.4rem + 0.5vw, 1.88rem);
+  --space-l: clamp(2rem, 1.85rem + 0.7vw, 2.5rem);
+  --space-xl: clamp(3rem, 2.75rem + 1.1vw, 3.75rem);
+  --space-2xl: clamp(4rem, 3.6rem + 1.8vw, 5rem);
+  --space-3xl: clamp(6rem, 5.3rem + 3vw, 8rem);
+  --gutter: clamp(1rem, 0.5rem + 2.5vw, 3rem);
+  --max-w: 90rem;
+
+  // Motion
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur-xs: 120ms;
+  --dur-s: 240ms;
+  --dur-m: 480ms;
+  --dur-l: 900ms;
+  --dur-xl: 1400ms;
+  --stagger: 60ms;
+
+  --radius: 2px;
+  --z-header: 50;
+  --z-overlay: 90;
+  --z-editor: 100;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-xs: 0ms; --dur-s: 0ms; --dur-m: 0ms; --dur-l: 0ms; --dur-xl: 0ms; --stagger: 0ms;
+  }
+}
+
+// SCSS helpers
+$bp-s: 40em;
+$bp-m: 64em;
+$bp-l: 90em;
+@mixin above($bp) { @media (min-width: $bp) { @content; } }

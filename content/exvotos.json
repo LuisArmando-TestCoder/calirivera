@@ -1,0 +1,199 @@
+{
+  "slug": "exvotos",
+  "url": "https://calirivera.com/exvotos",
+  "title": "Exvotos",
+  "meta": {
+    "og:url": "https://calirivera.com/exvotos",
+    "og:title": "Exvotos",
+    "twitter:title": "Exvotos",
+    "og:type": "website",
+    "twitter:card": "summary_large_image"
+  },
+  "sections": [
+    {
+      "blockId": "zrpdjZ",
+      "heading": null,
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-portada-ba7rdXaDBkP1atAo.png",
+          "localPath": "assets/exvotos/exvotos-portada-ba7rdXaDBkP1atAo.png",
+          "alt": null,
+          "caption": null,
+          "width": 1693,
+          "height": 929,
+          "role": "block-background__image"
+        }
+      ],
+      "links": []
+    },
+    {
+      "blockId": "zrpdjZ",
+      "heading": "EXVOTOS",
+      "level": "h1",
+      "paragraphs": [],
+      "images": [],
+      "links": []
+    },
+    {
+      "blockId": "zrpdjZ",
+      "heading": "Religiones del mundo",
+      "level": "h5",
+      "paragraphs": [],
+      "images": [],
+      "links": []
+    },
+    {
+      "blockId": "zrpdjZ",
+      "heading": "2012",
+      "level": "h5",
+      "paragraphs": [],
+      "images": [],
+      "links": []
+    },
+    {
+      "blockId": "z5VjL7",
+      "heading": null,
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-exvotos-siu4fNQNNshF3q2C.png",
+          "localPath": "assets/exvotos/cali-exvotos-siu4fNQNNshF3q2C.png",
+          "alt": null,
+          "caption": null,
+          "width": 2007,
+          "height": 784,
+          "role": "block-background__image block-background__image--fixed"
+        }
+      ],
+      "links": []
+    },
+    {
+      "blockId": "z5VjL7",
+      "heading": "Galería",
+      "level": "h3",
+      "paragraphs": [
+        "Los objetos hablan. Conservan las huellas del tiempo, la memoria de quienes los tocaron y las historias que permanecen ocultas entre sus formas. Exvotos surge de la búsqueda de esos elementos cotidianos que, tras ser encontrados y transformados, adquieren un nuevo significado. Lo que alguna vez fue ignorado o desechado renace como un símbolo capaz de despertar reflexión, emoción y contemplación.",
+        "Inspirada en la antigua tradición de las ofrendas votivas, esta serie traslada el concepto del exvoto al lenguaje del arte contemporáneo. Cada obra establece un diálogo entre pintura, ensamblaje y objetos recuperados, donde la materia deja de ser únicamente un material para convertirse en testimonio del tiempo, la gratitud, la espiritualidad y la condición humana.",
+        "Más que representar una idea, Exvotos invita a vivir una experiencia. Cada pieza propone mirar más allá de lo evidente y descubrir que incluso aquello que parece insignificante puede contener una profunda carga simbólica. En este universo, lo ordinario se transforma en extraordinario y cada objeto encuentra una nueva vida, convirtiéndose en una ofrenda silenciosa a la memoria, a la naturaleza y a la permanente capacidad del ser humano de encontrar belleza y significado donde otros solo ven el paso del tiempo."
+      ],
+      "images": [
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-marc-augue-gr3QVzvtJrsnIMAn.png",
+          "localPath": "assets/exvotos/exvotos-marc-augue-gr3QVzvtJrsnIMAn.png",
+          "alt": null,
+          "caption": null,
+          "width": 1105,
+          "height": 1423,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-ofrenda-xgubenOeiH5TBXzu.png",
+          "localPath": "assets/exvotos/exvotos-ofrenda-xgubenOeiH5TBXzu.png",
+          "alt": null,
+          "caption": null,
+          "width": 1175,
+          "height": 1339,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-mundo-material-UWPmxP3SXFHZxL3U.png",
+          "localPath": "assets/exvotos/exvotos-mundo-material-UWPmxP3SXFHZxL3U.png",
+          "alt": null,
+          "caption": null,
+          "width": 1183,
+          "height": 1329,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/camino-hacia-la-luz-krtwID89pTZiOeRF.png",
+          "localPath": "assets/exvotos/camino-hacia-la-luz-krtwID89pTZiOeRF.png",
+          "alt": null,
+          "caption": null,
+          "width": 1173,
+          "height": 1341,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/luna-azul-sJNevcciZEpaggyc.png",
+          "localPath": "assets/exvotos/luna-azul-sJNevcciZEpaggyc.png",
+          "alt": null,
+          "caption": null,
+          "width": 1148,
+          "height": 1371,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png",
+          "localPath": "assets/exvotos/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png",
+          "alt": null,
+          "caption": null,
+          "width": 1189,
+          "height": 1323,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png",
+          "localPath": "assets/exvotos/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png",
+          "alt": null,
+          "caption": null,
+          "width": 1170,
+          "height": 1345,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/el-comienzo-exvotos-3chw9cSgWSbo0eFB.png",
+          "localPath": "assets/exvotos/el-comienzo-exvotos-3chw9cSgWSbo0eFB.png",
+          "alt": null,
+          "caption": null,
+          "width": 1182,
+          "height": 1331,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/contemporaneo-exvotos-SE4162FEEGeZHj5W.png",
+          "localPath": "assets/exvotos/contemporaneo-exvotos-SE4162FEEGeZHj5W.png",
+          "alt": null,
+          "caption": null,
+          "width": 1163,
+          "height": 1352,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-exvotos-siu4fNQNNshF3q2C.png",
+          "localPath": "assets/exvotos/cali-exvotos-siu4fNQNNshF3q2C.png",
+          "alt": null,
+          "caption": null,
+          "width": 2007,
+          "height": 784,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-portada-ba7rdXaDBkP1atAo.png",
+          "localPath": "assets/exvotos/exvotos-portada-ba7rdXaDBkP1atAo.png",
+          "alt": null,
+          "caption": null,
+          "width": 1693,
+          "height": 929,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-2-PTzyFCT3Zpj7VAnk.png",
+          "localPath": "assets/exvotos/exvotos-2-PTzyFCT3Zpj7VAnk.png",
+          "alt": null,
+          "caption": null,
+          "width": 1421,
+          "height": 1107,
+          "role": "image__image"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_exvotos-uIXdGIVcNwEmZQ1a.pdf",
+          "text": "Ver Exvotos"
+        }
+      ]
+    }
+  ],
+  "rawTextHash": "b99503071e9f907068a83dd09516793f652c367b52cdb87f8c7a05040e0900af"
+}

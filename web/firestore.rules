@@ -1,0 +1,55 @@
+rules_version = '2';
+// Cali Rivera — public reads of published content; writes only by the artist.
+// The server (firebase-admin) bypasses these rules; they protect direct client SDK access.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAdmin() {
+      return request.auth != null
+        && (request.auth.token.admin == true
+            || (request.auth.token.email == 'arte@calirivera.com' && request.auth.token.email_verified == true));
+    }
+
+    function isPublished() {
+      return resource.data.status == 'published';
+    }
+
+    match /pages/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
+    match /artworks/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
+    match /collections/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
+    match /catalogs/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
+    match /programs/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
+    match /people/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
+    match /posts/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /settings/{id} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Login codes, rate-limit counters, audit log: server-only.
+    match /authCodes/{id}   { allow read, write: if false; }
+    match /rateLimits/{id}  { allow read, write: if false; }
+    match /auditLog/{id}    { allow read, write: if false; }
+  }
+}

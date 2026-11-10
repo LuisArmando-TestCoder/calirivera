@@ -1,0 +1,121 @@
+{
+  "slug": "trayectoria-and-entrevistas",
+  "url": "https://calirivera.com/trayectoria-and-entrevistas",
+  "title": "Trayectoria & Entrevistas",
+  "meta": {
+    "og:url": "https://calirivera.com/trayectoria-and-entrevistas",
+    "og:title": "Trayectoria & Entrevistas",
+    "twitter:title": "Trayectoria & Entrevistas",
+    "og:type": "website",
+    "twitter:card": "summary_large_image"
+  },
+  "sections": [
+    {
+      "blockId": "zxL4vf",
+      "heading": null,
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+          "localPath": "assets/trayectoria-and-entrevistas/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+          "alt": null,
+          "caption": null,
+          "width": 388,
+          "height": 353,
+          "role": "block-background__image block-background__image--fixed"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
+          "localPath": "assets/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
+          "alt": null,
+          "caption": null,
+          "width": 800,
+          "height": 1000,
+          "role": "image__image"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
+          "localPath": "assets/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
+          "alt": null,
+          "caption": null,
+          "width": 800,
+          "height": 1000,
+          "role": "image__image"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx",
+          "text": "ENGLISH"
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf",
+          "text": "ESPAÑOL"
+        }
+      ]
+    },
+    {
+      "blockId": "zxL4vf",
+      "heading": "CURRÍCULUM",
+      "level": "h3",
+      "paragraphs": [],
+      "images": [],
+      "links": []
+    },
+    {
+      "blockId": "zqme2f",
+      "heading": null,
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
+          "localPath": "assets/trayectoria-and-entrevistas/obra-mundial-3rGopp802cP96lZh.jpeg",
+          "alt": null,
+          "caption": null,
+          "width": 1290,
+          "height": 1219,
+          "role": "block-background__image"
+        }
+      ],
+      "links": []
+    },
+    {
+      "blockId": "zqme2f",
+      "heading": "Entrevistas Nacionales & Internacionales",
+      "level": "h1",
+      "paragraphs": [],
+      "images": [],
+      "links": [
+        {
+          "href": "https://www.meer.com/es/66139-cali-rivera-y-la-energia-creativa?utm_source=chatgpt.com",
+          "text": "MEER ARTE"
+        },
+        {
+          "href": "https://arcagulharevistadecultura.blogspot.com/2017/09/alfonso-pena-cali-rivera-el-arte-para.html?utm_source=chatgpt.com",
+          "text": "AGULHA REVISTA DE CULTURA"
+        },
+        {
+          "href": "https://www.nacion.com/viva/cultura/las-revelaciones-artisticas-de-cali-rivera/IM7MYDZUJJGMROL7IJZS3FGGGM/story/?utm_source=chatgpt.com",
+          "text": "LA NACIÓN"
+        },
+        {
+          "href": "https://www.teletica.com/multimedia/cali-rivera-uno-de-los-artistas-plasticos-mas-exitosos-del-pais_957848?utm_source=chatgpt.com",
+          "text": "TELETICA"
+        },
+        {
+          "href": "https://www.teatronacional.go.cr/Comunicados/detalle/336/cali-rivera-exhibe-su-obra-revelaciones-durante-el-iv-concierto-de-temporada-de-la-orquesta-sinfonica-nacional-?utm_source=chatgpt.com",
+          "text": "TEATRO NACIONAL"
+        },
+        {
+          "href": "https://www.lateja.cr/sucesos/pintor-que-perdio-todo-en-un-incendio-quiero/FTOA3CSNYJBPLDYA5IJWNR32OE/story/?utm_source=chatgpt.com",
+          "text": "LA TEJA"
+        },
+        {
+          "href": "https://www.ticoclub.com/cpcalirix11.htm",
+          "text": "TICOCLUB"
+        }
+      ]
+    }
+  ],
+  "rawTextHash": "c9588e4d9be5a8e69506f3d53af96b004289806bc044c65e856bd08869795f56"
+}

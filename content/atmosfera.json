@@ -1,0 +1,50 @@
+{
+  "slug": "atmosfera",
+  "url": "https://calirivera.com/atmosfera",
+  "title": "Atmósfera",
+  "name": "Atmósfera",
+  "meta": {
+    "og:url": "https://calirivera.com/atmosfera",
+    "og:title": "Atmósfera",
+    "twitter:title": "Atmósfera",
+    "og:type": "website",
+    "twitter:card": "summary_large_image",
+    "noindex": false,
+    "ogImageAlt": ""
+  },
+  "sections": [
+    {
+      "blockId": "zY3JY7",
+      "heading": "Atmósfera",
+      "paragraphs": [],
+      "images": [],
+      "links": [],
+      "background": {
+        "color": "rgb(255, 255, 255)"
+      },
+      "elements": [
+        {
+          "id": "zvejAx",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 80,
+            "left": 309,
+            "width": 606,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "Atmósfera"
+            }
+          ]
+        }
+      ],
+      "level": "h1"
+    }
+  ],
+  "rawTextHash": "9f79a6735af4504a0e0c1ff8448348775d97a9a72d472505ada054e94db00cd8",
+  "wordCount": 1,
+  "source": "zyro pageData (astro-island props) + html meta"
+}

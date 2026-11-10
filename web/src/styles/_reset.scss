@@ -1,0 +1,14 @@
+*, *::before, *::after { box-sizing: border-box; }
+* { margin: 0; }
+html { -webkit-text-size-adjust: none; text-size-adjust: none; }
+html:focus-within { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html:focus-within { scroll-behavior: auto; } }
+body { min-height: 100svh; line-height: 1.5; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+img, picture, video, canvas, svg { display: block; max-width: 100%; height: auto; }
+input, button, textarea, select { font: inherit; color: inherit; }
+p, h1, h2, h3, h4, h5, h6 { overflow-wrap: break-word; }
+h1, h2, h3, h4 { text-wrap: balance; line-height: 1.05; }
+p { text-wrap: pretty; }
+a { color: inherit; }
+button { cursor: pointer; background: none; border: 0; }
+:focus-visible { outline: 2px solid var(--c-accent); outline-offset: 3px; }
