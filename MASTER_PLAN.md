@@ -51,10 +51,16 @@ Redes: facebook.com/elarteparaserlibres · instagram.com/caliriveraartista. Lema
 9. Deploy: GitHub + Netlify + DNS Hostinger + entrega del sobrino     [bloqueada: permisos]
 10. Update final "award-winning / product-market fit" + verificación  [al final]
 
-## Permisos / insumos pendientes de Luis
-- [ ] Service account de Firebase (JSON) → .secrets/ (nunca al repo)
-- [ ] Repo GitHub (nombre/org) y acceso de push
-- [ ] Cuenta Netlify (token o conexión con GitHub)
-- [ ] Acceso DNS en Hostinger (vía José Carlos) para calirivera.com y tallerdelartista.com
-- [ ] Audios de WhatsApp de Cali + su OK explícito para clonar la voz
-- [ ] Fotos originales en alta de las obras que existan
+## Permisos / insumos (actualizado 2026-11-10)
+- [x] Borrado habilitado en la carpeta (locks de git limpiados)
+- [x] Firebase preparado: `service-account.json` en la RAÍZ del repo (gitignored) → `cd web && npm install && npm run firebase:setup`
+- [ ] Luis conecta el service account (crear Firestore + activar Authentication en la consola)
+- [ ] Luis crea el repo en GitHub y lo conecta (el código ya tiene git local)
+- [ ] DNS Hostinger: se pide cuando el sitio esté listo (rama 9)
+- [x] OK de Cali para clonar su voz · [ ] Luis consigue los audios de WhatsApp
+- [x] Guión de voz: doc "Guión de voz · Cali Rivera" (24 beats) — pendientes marcados ahí
+- Fotos: se usan las extraídas del sitio (assets/ y legacy/assets/). OJO: 59/79 imágenes del sitio actual tienen firma C2PA de OpenAI (pasaron por IA) → Cali revisa antes de publicarlas como obra.
+
+## Hallazgos de ramas 1–2
+- content/_notes.md: páginas vacías (Atmósfera, Plegaria, La Cofradía), 11 imágenes <1000 px, 18 archivos (PDFs, CV, mp3).
+- legacy/README.md: sitio Joomla 2001–2026 rescatado de Wayback: 544 páginas, 364 imágenes, 16 PDFs, agenda del Taller 2012–2020 (evidencia para Colaboración/Bitácora), 34 críticas de prensa, redirects.csv.
