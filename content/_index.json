@@ -1,109 +1,466 @@
 {
+  "source": "https://calirivera.com",
+  "extractedAt": "2026-11-10",
+  "generator": "Hostinger AI Builder (Zyro/Astro)",
   "pages": [
-    {
-      "slug": "catalogos-and-proyectos",
-      "url": "https://calirivera.com/catalogos-and-proyectos",
-      "title": "Catálogos & Proyectos",
-      "sections": 9,
-      "images": 27,
-      "words": 833
-    },
-    {
-      "slug": "taller-del-artista",
-      "url": "https://calirivera.com/taller-del-artista",
-      "title": "Taller del Artista",
-      "sections": 9,
-      "images": 18,
-      "words": 220
-    },
-    {
-      "slug": "colecciones",
-      "url": "https://calirivera.com/colecciones",
-      "title": "Colecciones",
-      "sections": 2,
-      "images": 1,
-      "words": 91
-    },
     {
       "slug": "home",
       "url": "https://calirivera.com/",
-      "title": "Inicio",
-      "sections": 12,
-      "images": 5,
-      "words": 67
+      "name": "Inicio",
+      "sections": 3,
+      "images": 3,
+      "words": 36,
+      "json": "content/home.json"
     },
     {
       "slug": "biografia",
       "url": "https://calirivera.com/biografia",
-      "title": "Biografía",
-      "sections": 51,
-      "images": 31,
-      "words": 1850
+      "name": "Biografía",
+      "sections": 9,
+      "images": 20,
+      "words": 1850,
+      "json": "content/biografia.json"
+    },
+    {
+      "slug": "catalogos-and-proyectos",
+      "url": "https://calirivera.com/catalogos-and-proyectos",
+      "name": "Catálogos & Proyectos",
+      "sections": 5,
+      "images": 20,
+      "words": 833,
+      "json": "content/catalogos-and-proyectos.json"
+    },
+    {
+      "slug": "taller-del-artista",
+      "url": "https://calirivera.com/taller-del-artista",
+      "name": "Taller del Artista",
+      "sections": 5,
+      "images": 6,
+      "words": 220,
+      "json": "content/taller-del-artista.json"
+    },
+    {
+      "slug": "colecciones",
+      "url": "https://calirivera.com/colecciones",
+      "name": "Colecciones",
+      "sections": 1,
+      "images": 1,
+      "words": 91,
+      "json": "content/colecciones.json"
     },
     {
       "slug": "atmosfera",
       "url": "https://calirivera.com/atmosfera",
-      "title": "Atmósfera",
+      "name": "Atmósfera",
       "sections": 1,
       "images": 0,
-      "words": 1
+      "words": 1,
+      "json": "content/atmosfera.json"
     },
     {
       "slug": "musas-del-cantaro",
       "url": "https://calirivera.com/musas-del-cantaro",
-      "title": "Musas del Cántaro",
-      "sections": 6,
-      "images": 9,
-      "words": 222
+      "name": "Musas del Cántaro",
+      "sections": 3,
+      "images": 6,
+      "words": 222,
+      "json": "content/musas-del-cantaro.json"
     },
     {
       "slug": "suenos-en-azul",
       "url": "https://calirivera.com/suenos-en-azul",
-      "title": "Sueños en Azul",
-      "sections": 14,
-      "images": 38,
-      "words": 1783
+      "name": "Sueños en Azul",
+      "sections": 6,
+      "images": 22,
+      "words": 1783,
+      "json": "content/suenos-en-azul.json"
     },
     {
       "slug": "detras-de-la-ventana",
       "url": "https://calirivera.com/detras-de-la-ventana",
-      "title": "Detras de la ventana",
-      "sections": 11,
-      "images": 45,
-      "words": 530
+      "name": "Detras de la ventana",
+      "sections": 4,
+      "images": 24,
+      "words": 530,
+      "json": "content/detras-de-la-ventana.json"
     },
     {
       "slug": "exvotos",
       "url": "https://calirivera.com/exvotos",
-      "title": "Exvotos",
-      "sections": 6,
+      "name": "Exvotos",
+      "sections": 2,
       "images": 14,
-      "words": 204
+      "words": 204,
+      "json": "content/exvotos.json"
     },
     {
       "slug": "plegaria",
       "url": "https://calirivera.com/plegaria",
-      "title": "Plegaria",
+      "name": "Plegaria",
       "sections": 0,
       "images": 0,
-      "words": 0
+      "words": 0,
+      "json": "content/plegaria.json"
     },
     {
       "slug": "la-cofradia",
       "url": "https://calirivera.com/la-cofradia",
-      "title": "La Cofradía",
-      "sections": 4,
+      "name": "La Cofradía",
+      "sections": 2,
       "images": 2,
-      "words": 3
+      "words": 3,
+      "json": "content/la-cofradia.json"
     },
     {
       "slug": "trayectoria-and-entrevistas",
       "url": "https://calirivera.com/trayectoria-and-entrevistas",
-      "title": "Trayectoria & Entrevistas",
-      "sections": 4,
-      "images": 4,
-      "words": 5
+      "name": "Trayectoria & Entrevistas",
+      "sections": 2,
+      "images": 3,
+      "words": 5,
+      "json": "content/trayectoria-and-entrevistas.json"
     }
   ],
-  "files": []
+  "collections": [
+    {
+      "slug": "atmosfera",
+      "name": "Atmósfera",
+      "years": null,
+      "technique": null,
+      "status": "página vacía (solo título)",
+      "images": [],
+      "namedWorks": [],
+      "catalog": null
+    },
+    {
+      "slug": "musas-del-cantaro",
+      "name": "Musas del Cántaro",
+      "years": "1995–1996",
+      "technique": "técnica mixta sobre papel",
+      "images": [
+        "assets/musas-del-cantaro/musa-1-fsAYJ1F4qImm3JpI.png",
+        "assets/musas-del-cantaro/musa-2-oficial-SidoKYv96HPNvG7H.png",
+        "assets/musas-del-cantaro/musa-3-SYjwiaBnj0dDUNsO.png"
+      ],
+      "namedWorks": [],
+      "catalog": null
+    },
+    {
+      "slug": "suenos-en-azul",
+      "name": "Sueños en Azul",
+      "years": "1996",
+      "technique": "óleo sobre tela",
+      "venue": "Museo del Niño (Centro Costarricense de la Ciencia y la Cultura)",
+      "images": [
+        "assets/suenos-en-azul/america-oficial-Shy93QR6kRaf7u0j.jpeg",
+        "assets/suenos-en-azul/hogar-donde-7AQ0WDPNzicL3Dw4.png",
+        "assets/suenos-en-azul/frida-TVyRcbUkKaSvmHI1.png",
+        "assets/suenos-en-azul/hogar-donde-7AQ0WDPNzicL3Dw4.png",
+        "assets/suenos-en-azul/frida-TVyRcbUkKaSvmHI1.png",
+        "assets/suenos-en-azul/canta-guitarra-canta-9abTLbg45XIT23LR.png",
+        "assets/suenos-en-azul/america-oficial-Shy93QR6kRaf7u0j.jpeg",
+        "assets/suenos-en-azul/suea--os-1-L2mimsM01dqMZxze.png",
+        "assets/suenos-en-azul/suea--os-2-3FmZnRPgZLC0Qa94.png",
+        "assets/suenos-en-azul/niaa-de-tulipanes-Xd3tbVY7Ken7voq5.png",
+        "assets/suenos-en-azul/sueaos-4-MOSjeuI2q936U1zL.png",
+        "assets/suenos-en-azul/sueaos-5-00SvgqqSJvjeKmXi.png",
+        "assets/suenos-en-azul/sueaos-6-UIxoz1Q29rxbSBNg.png",
+        "assets/suenos-en-azul/sueaos-9-NBNuS1x6EWZB6n9s.png",
+        "assets/suenos-en-azul/sueaos-10-dLJHYtNAC8uSUfrR.png",
+        "assets/suenos-en-azul/42e3d130-9fa6-47ae-8540-6bbae0e5c90e-pXMyr8DCVofk3adN.png"
+      ],
+      "namedWorks": [
+        {
+          "title": "América Descubierta"
+        },
+        {
+          "title": "Un corazón herido, encuentra un lugar donde descansar.",
+          "note": "robada; paradero desconocido"
+        },
+        {
+          "title": "Frida Kahlo",
+          "note": "homenaje"
+        }
+      ],
+      "catalog": null
+    },
+    {
+      "slug": "detras-de-la-ventana",
+      "name": "Detrás de la ventana",
+      "subtitle": "La Tierra como Elemento",
+      "years": "2000",
+      "technique": null,
+      "images": [
+        "assets/detras-de-la-ventana/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
+        "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
+        "assets/detras-de-la-ventana/amanecer-4k-cVV8w62WCE5PqU16.png",
+        "assets/detras-de-la-ventana/detras-6-LMqTlI3KPPMhQavk.png",
+        "assets/detras-de-la-ventana/detras-5-9NB3iQTtYOxW0xCQ.png",
+        "assets/detras-de-la-ventana/detras-7-fpoInVMlV9etmOSL.png",
+        "assets/detras-de-la-ventana/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
+        "assets/detras-de-la-ventana/36c7a4a5-0565-420f-84cd-7d635622575a-uOcKha8KQS6JQOMn.png",
+        "assets/detras-de-la-ventana/calas-Lb3ffYKBJdYhMe32.png",
+        "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
+        "assets/detras-de-la-ventana/detras-de-la-ventana-1-2av25lPFrd3HfXqp.png",
+        "assets/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
+        "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
+        "assets/detras-de-la-ventana/detras-13-RoUlERPZ61f3uBTU.png",
+        "assets/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
+        "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
+        "assets/detras-de-la-ventana/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-0J3ckGTqfd7uBvSI.png",
+        "assets/detras-de-la-ventana/detras-18-mhFwsQCmzC4qNwE4.png",
+        "assets/detras-de-la-ventana/oficial-detras-itB5cNPPfydQ5HS2.png",
+        "assets/detras-de-la-ventana/delirio-12W8wojiBV02mYAN.jpg"
+      ],
+      "namedWorks": [],
+      "media": [
+        "assets/files/detras_de_la_ventana-fVMZLFhKNhdnyDgA.mp3",
+        "https://www.youtube.com/watch?v=Dmzp57etvX0"
+      ],
+      "catalog": null
+    },
+    {
+      "slug": "exvotos",
+      "name": "Exvotos",
+      "subtitle": "Religiones del mundo",
+      "years": "2012",
+      "technique": null,
+      "images": [
+        "assets/exvotos/exvotos-marc-augue-gr3QVzvtJrsnIMAn.png",
+        "assets/exvotos/exvotos-ofrenda-xgubenOeiH5TBXzu.png",
+        "assets/exvotos/exvotos-mundo-material-UWPmxP3SXFHZxL3U.png",
+        "assets/exvotos/camino-hacia-la-luz-krtwID89pTZiOeRF.png",
+        "assets/exvotos/luna-azul-sJNevcciZEpaggyc.png",
+        "assets/exvotos/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png",
+        "assets/exvotos/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png",
+        "assets/exvotos/el-comienzo-exvotos-3chw9cSgWSbo0eFB.png",
+        "assets/exvotos/contemporaneo-exvotos-SE4162FEEGeZHj5W.png",
+        "assets/exvotos/cali-exvotos-siu4fNQNNshF3q2C.png",
+        "assets/exvotos/exvotos-portada-ba7rdXaDBkP1atAo.png",
+        "assets/exvotos/exvotos-2-PTzyFCT3Zpj7VAnk.png"
+      ],
+      "namedWorks": [],
+      "catalog": "assets/files/catalogo_exvotos-uIXdGIVcNwEmZQ1a.pdf"
+    },
+    {
+      "slug": "plegaria",
+      "name": "Plegaria",
+      "years": null,
+      "technique": null,
+      "status": "página sin bloques (vacía)",
+      "images": [],
+      "namedWorks": [],
+      "catalog": "assets/files/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf"
+    },
+    {
+      "slug": "la-cofradia",
+      "name": "La Cofradía",
+      "years": "2017",
+      "technique": null,
+      "images": [],
+      "namedWorks": [],
+      "catalog": "assets/files/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf"
+    }
+  ],
+  "catalogs": [
+    {
+      "title": "PRAYER FLAGS",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/prayer_flags-Mo60EVm2XYBIWBzM.pdf",
+      "localPath": "assets/files/prayer_flags-Mo60EVm2XYBIWBzM.pdf"
+    },
+    {
+      "title": "IDENTIDAD",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/identidad-1-091rtdf8ceodkkzv-7GGtEgacy8wnBkOQ.pdf",
+      "localPath": "assets/files/identidad-1-091rtdf8ceodkkzv-7GGtEgacy8wnBkOQ.pdf"
+    },
+    {
+      "title": "ALQUIMIA 2008",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_alquimia_2008-uiEiuMjRIE13cWog.pdf",
+      "localPath": "assets/files/catalogo_alquimia_2008-uiEiuMjRIE13cWog.pdf"
+    },
+    {
+      "title": "ELEMENTOS",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/elementos2-i0x392U8WHZBiX4Z.pdf",
+      "localPath": "assets/files/elementos2-i0x392U8WHZBiX4Z.pdf"
+    },
+    {
+      "title": "CORPUS CHRISTI",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf",
+      "localPath": "assets/files/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf"
+    },
+    {
+      "title": "PLEGARIA",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf",
+      "localPath": "assets/files/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf"
+    },
+    {
+      "title": "REVELACIONES",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf",
+      "localPath": "assets/files/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf"
+    },
+    {
+      "title": "SINCRETISMO RELIGIOSO",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/sincretismo_religioso-KmltoISzDg3fhR6R.pdf",
+      "localPath": "assets/files/sincretismo_religioso-KmltoISzDg3fhR6R.pdf"
+    },
+    {
+      "title": "LA COFRADÍA",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf",
+      "localPath": "assets/files/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf"
+    },
+    {
+      "title": "EL AGUA ES ORO",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf",
+      "localPath": "assets/files/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf"
+    },
+    {
+      "title": "ALQUIMIA DE ALMAS",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf",
+      "localPath": "assets/files/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf"
+    },
+    {
+      "title": "BIOMASTER",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/biomaster-PLgC2qSOueVU0ewH.pdf",
+      "localPath": "assets/files/biomaster-PLgC2qSOueVU0ewH.pdf"
+    },
+    {
+      "title": "GEOMETRÍA DEL SILENCIO",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/geometria-2n5zF00jCip5s3xz.pdf",
+      "localPath": "assets/files/geometria-2n5zF00jCip5s3xz.pdf"
+    }
+  ],
+  "pressAndCV": [
+    {
+      "title": "ENGLISH",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx",
+      "localPath": "assets/files/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx"
+    },
+    {
+      "title": "ESPAÑOL",
+      "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf",
+      "localPath": "assets/files/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf"
+    },
+    {
+      "title": "LA NACIÓN",
+      "href": "https://www.nacion.com/viva/cultura/las-revelaciones-artisticas-de-cali-rivera/IM7MYDZUJJGMROL7IJZS3FGGGM/story/?utm_source=chatgpt.com",
+      "localPath": null
+    },
+    {
+      "title": "MEER ARTE",
+      "href": "https://www.meer.com/es/66139-cali-rivera-y-la-energia-creativa?utm_source=chatgpt.com",
+      "localPath": null
+    },
+    {
+      "title": "AGULHA REVISTA DE CULTURA",
+      "href": "https://arcagulharevistadecultura.blogspot.com/2017/09/alfonso-pena-cali-rivera-el-arte-para.html?utm_source=chatgpt.com",
+      "localPath": null
+    },
+    {
+      "title": "TELETICA",
+      "href": "https://www.teletica.com/multimedia/cali-rivera-uno-de-los-artistas-plasticos-mas-exitosos-del-pais_957848?utm_source=chatgpt.com",
+      "localPath": null
+    },
+    {
+      "title": "TEATRO NACIONAL",
+      "href": "https://www.teatronacional.go.cr/Comunicados/detalle/336/cali-rivera-exhibe-su-obra-revelaciones-durante-el-iv-concierto-de-temporada-de-la-orquesta-sinfonica-nacional-?utm_source=chatgpt.com",
+      "localPath": null
+    },
+    {
+      "title": "LA TEJA",
+      "href": "https://www.lateja.cr/sucesos/pintor-que-perdio-todo-en-un-incendio-quiero/FTOA3CSNYJBPLDYA5IJWNR32OE/story/?utm_source=chatgpt.com",
+      "localPath": null
+    },
+    {
+      "title": "TICOCLUB",
+      "href": "https://www.ticoclub.com/cpcalirix11.htm",
+      "localPath": null
+    }
+  ],
+  "taller": {
+    "whatsapp": "+506 8348 3785",
+    "map": "Taller del Artista, Tres Ríos, Cartago",
+    "menuPdf": "assets/files/menu-taller-del-artista-5YyXIMvaUiNULD9j.pdf"
+  },
+  "files": [
+    {
+      "path": "assets/files/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf",
+      "bytes": 33084781
+    },
+    {
+      "path": "assets/files/biomaster-PLgC2qSOueVU0ewH.pdf",
+      "bytes": 7492141
+    },
+    {
+      "path": "assets/files/catalogo_alquimia_2008-uiEiuMjRIE13cWog.pdf",
+      "bytes": 28064332
+    },
+    {
+      "path": "assets/files/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf",
+      "bytes": 2076729
+    },
+    {
+      "path": "assets/files/catalogo_exvotos-uIXdGIVcNwEmZQ1a.pdf",
+      "bytes": 15084269
+    },
+    {
+      "path": "assets/files/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf",
+      "bytes": 56433
+    },
+    {
+      "path": "assets/files/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx",
+      "bytes": 111627
+    },
+    {
+      "path": "assets/files/detras_de_la_ventana-fVMZLFhKNhdnyDgA.mp3",
+      "bytes": 668302
+    },
+    {
+      "path": "assets/files/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf",
+      "bytes": 11143067
+    },
+    {
+      "path": "assets/files/elementos2-i0x392U8WHZBiX4Z.pdf",
+      "bytes": 8426106
+    },
+    {
+      "path": "assets/files/geometria-2n5zF00jCip5s3xz.pdf",
+      "bytes": 7740018
+    },
+    {
+      "path": "assets/files/identidad-1-091rtdf8ceodkkzv-7GGtEgacy8wnBkOQ.pdf",
+      "bytes": 8313031
+    },
+    {
+      "path": "assets/files/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf",
+      "bytes": 44407246
+    },
+    {
+      "path": "assets/files/menu-taller-del-artista-5YyXIMvaUiNULD9j.pdf",
+      "bytes": 32487559
+    },
+    {
+      "path": "assets/files/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf",
+      "bytes": 2007450
+    },
+    {
+      "path": "assets/files/prayer_flags-Mo60EVm2XYBIWBzM.pdf",
+      "bytes": 13849602
+    },
+    {
+      "path": "assets/files/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf",
+      "bytes": 40007022
+    },
+    {
+      "path": "assets/files/sincretismo_religioso-KmltoISzDg3fhR6R.pdf",
+      "bytes": 4645613
+    }
+  ],
+  "images": {
+    "totalReferences": 107,
+    "uniqueFiles": 79,
+    "withOpenAIC2PA": 59,
+    "lowRes<1000px": 11
+  },
+  "site": "content/_site.json",
+  "imageAudit": "content/_images.json"
 }

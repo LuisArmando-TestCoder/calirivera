@@ -45,5 +45,8 @@ next-env.d.ts
 
 # secrets — service account etc. NEVER commit
 /.secrets/
+service-account.json
+*service-account*.json
+*-firebase-adminsdk-*.json
 .env*
 !.env.example

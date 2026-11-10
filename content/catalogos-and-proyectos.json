@@ -2,103 +2,451 @@
   "slug": "catalogos-and-proyectos",
   "url": "https://calirivera.com/catalogos-and-proyectos",
   "title": "Catálogos & Proyectos",
+  "name": "Catálogos & Proyectos",
   "meta": {
     "og:url": "https://calirivera.com/catalogos-and-proyectos",
     "og:title": "Catálogos & Proyectos",
     "twitter:title": "Catálogos & Proyectos",
     "og:type": "website",
-    "twitter:card": "summary_large_image"
+    "twitter:card": "summary_large_image",
+    "noindex": false,
+    "ogImageAlt": ""
   },
   "sections": [
     {
-      "blockId": "cta-galeria",
-      "heading": null,
+      "blockId": "xnOGVX",
+      "heading": "Catálogos Digitales",
       "paragraphs": [
         "Para examinar dimensiones, fichas técnicas y la historia detrás de cada colección, te invitamos a explorar nuestro archivo completo."
       ],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
-          "localPath": "assets/catalogos-and-proyectos/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 412,
-          "height": 553,
-          "role": "block-background__image"
-        }
-      ],
-      "links": [
-        {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/elementos2-i0x392U8WHZBiX4Z.pdf",
-          "text": "ELEMENTOS"
-        }
-      ]
-    },
-    {
-      "blockId": "cta-galeria",
-      "heading": "Catálogos Digitales",
-      "level": "h1",
-      "paragraphs": [],
       "images": [],
       "links": [
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/prayer_flags-Mo60EVm2XYBIWBzM.pdf",
-          "text": "PRAYER FLAGS"
+          "text": "PRAYER FLAGS",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/prayer_flags-Mo60EVm2XYBIWBzM.pdf"
         },
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/identidad-1-091rtdf8ceodkkzv-7GGtEgacy8wnBkOQ.pdf",
-          "text": "IDENTIDAD"
-        },
-        {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf",
-          "text": "ALQUIMIA DE ALMAS"
-        },
-        {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf",
-          "text": "REVELACIONES"
-        },
-        {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf",
-          "text": "EL AGUA ES ORO"
-        },
-        {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf",
-          "text": "CORPUS CHRISTI"
-        },
-        {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/sincretismo_religioso-KmltoISzDg3fhR6R.pdf",
-          "text": "SINCRETISMO RELIGIOSO"
+          "text": "IDENTIDAD",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/identidad-1-091rtdf8ceodkkzv-7GGtEgacy8wnBkOQ.pdf"
         },
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_alquimia_2008-uiEiuMjRIE13cWog.pdf",
-          "text": "ALQUIMIA 2008"
+          "text": "ALQUIMIA 2008",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/catalogo_alquimia_2008-uiEiuMjRIE13cWog.pdf"
         },
         {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf",
-          "text": "LA COFRADÍA"
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/elementos2-i0x392U8WHZBiX4Z.pdf",
+          "text": "ELEMENTOS",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/elementos2-i0x392U8WHZBiX4Z.pdf"
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf",
+          "text": "CORPUS CHRISTI",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf"
         },
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf",
-          "text": "PLEGARIA"
+          "text": "PLEGARIA ",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf"
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf",
+          "text": "REVELACIONES",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf"
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/sincretismo_religioso-KmltoISzDg3fhR6R.pdf",
+          "text": "SINCRETISMO RELIGIOSO",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/sincretismo_religioso-KmltoISzDg3fhR6R.pdf"
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf",
+          "text": "LA COFRADÍA",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf"
+        },
+        {
+          "href": "",
+          "text": "LA CASA MUSEO",
+          "linkType": "anchored-section",
+          "linkedPageId": null
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf",
+          "text": "EL AGUA ES ORO",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf"
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf",
+          "text": "ALQUIMIA DE ALMAS",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf"
         },
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/biomaster-PLgC2qSOueVU0ewH.pdf",
-          "text": "BIOMASTER"
+          "text": "BIOMASTER",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/biomaster-PLgC2qSOueVU0ewH.pdf"
         },
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/geometria-2n5zF00jCip5s3xz.pdf",
-          "text": "GEOMETRÍA DEL SILENCIO"
+          "text": "GEOMETRÍA DEL SILENCIO",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/geometria-2n5zF00jCip5s3xz.pdf"
         },
         {
           "href": "/exvotos",
-          "text": "EXVOTOS"
+          "text": "EXVOTOS",
+          "linkType": "page",
+          "linkedPageId": "zPcM51"
         }
-      ]
+      ],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
+        "localPath": "assets/catalogos-and-proyectos/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 412,
+        "height": 553,
+        "bytes": 235638,
+        "role": "background",
+        "overlayOpacity": "0.70"
+      },
+      "elements": [
+        {
+          "id": "zHvaW7",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 40,
+            "left": 173,
+            "width": 878,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "Catálogos Digitales"
+            }
+          ]
+        },
+        {
+          "id": "m_kCgT",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 144,
+            "left": 78,
+            "width": 1068,
+            "height": 47
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body-small",
+              "text": "Para examinar dimensiones, fichas técnicas y la historia detrás de cada colección, te invitamos a explorar nuestro archivo completo."
+            }
+          ]
+        },
+        {
+          "id": "zBwjym",
+          "type": "GridButton",
+          "desktop": {
+            "top": 250,
+            "left": 309,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/prayer_flags-Mo60EVm2XYBIWBzM.pdf",
+            "text": "PRAYER FLAGS",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/prayer_flags-Mo60EVm2XYBIWBzM.pdf"
+          }
+        },
+        {
+          "id": "z65fe9",
+          "type": "GridButton",
+          "desktop": {
+            "top": 250,
+            "left": 515,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/identidad-1-091rtdf8ceodkkzv-7GGtEgacy8wnBkOQ.pdf",
+            "text": "IDENTIDAD",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/identidad-1-091rtdf8ceodkkzv-7GGtEgacy8wnBkOQ.pdf"
+          }
+        },
+        {
+          "id": "zvIUaW",
+          "type": "GridButton",
+          "desktop": {
+            "top": 250,
+            "left": 721,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_alquimia_2008-uiEiuMjRIE13cWog.pdf",
+            "text": "ALQUIMIA 2008",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/catalogo_alquimia_2008-uiEiuMjRIE13cWog.pdf"
+          }
+        },
+        {
+          "id": "qE9zes",
+          "type": "GridButton",
+          "desktop": {
+            "top": 251,
+            "left": 100,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/elementos2-i0x392U8WHZBiX4Z.pdf",
+            "text": "ELEMENTOS",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/elementos2-i0x392U8WHZBiX4Z.pdf"
+          }
+        },
+        {
+          "id": "zYHE8x",
+          "type": "GridButton",
+          "desktop": {
+            "top": 251,
+            "left": 927,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf",
+            "text": "CORPUS CHRISTI",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/catalogo_banderas_corpus_christi-tv52jl535JAaywt3.pdf"
+          }
+        },
+        {
+          "id": "z2Op6Z",
+          "type": "GridButton",
+          "desktop": {
+            "top": 347,
+            "left": 100,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf",
+            "text": "PLEGARIA ",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/plegaria_catalogo-b2WVoeDLiDSOTp6q.pdf"
+          }
+        },
+        {
+          "id": "zqZqbt",
+          "type": "GridButton",
+          "desktop": {
+            "top": 347,
+            "left": 309,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf",
+            "text": "REVELACIONES",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/revelaciones_plegarias_por_los_pueblos-34VO4QbYOBLCSiyZ.pdf"
+          }
+        },
+        {
+          "id": "znpEsE",
+          "type": "GridButton",
+          "desktop": {
+            "top": 347,
+            "left": 515,
+            "width": 172,
+            "height": 53,
+            "fontSize": 11
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/sincretismo_religioso-KmltoISzDg3fhR6R.pdf",
+            "text": "SINCRETISMO RELIGIOSO",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/sincretismo_religioso-KmltoISzDg3fhR6R.pdf"
+          }
+        },
+        {
+          "id": "zEwkMk",
+          "type": "GridButton",
+          "desktop": {
+            "top": 347,
+            "left": 721,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf",
+            "text": "LA COFRADÍA",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/la-cofradia-2026-1BoknpQ8u6F5f86h.pdf"
+          }
+        },
+        {
+          "id": "z-AlNA",
+          "type": "GridButton",
+          "desktop": {
+            "top": 347,
+            "left": 927,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "",
+            "text": "LA CASA MUSEO",
+            "linkType": "anchored-section",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "zuUtcM",
+          "type": "GridButton",
+          "desktop": {
+            "top": 440,
+            "left": 100,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf",
+            "text": "EL AGUA ES ORO",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/el-agua-es-oro-mac-8VOX2zhzeE6ufDBr.pdf"
+          }
+        },
+        {
+          "id": "zxIUO6",
+          "type": "GridButton",
+          "desktop": {
+            "top": 440,
+            "left": 309,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf",
+            "text": "ALQUIMIA DE ALMAS",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/alquimia_de_almas-gPEOSPEeVR50gtaK.pdf"
+          }
+        },
+        {
+          "id": "zZUdE8",
+          "type": "GridButton",
+          "desktop": {
+            "top": 440,
+            "left": 515,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/biomaster-PLgC2qSOueVU0ewH.pdf",
+            "text": "BIOMASTER",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/biomaster-PLgC2qSOueVU0ewH.pdf"
+          }
+        },
+        {
+          "id": "zwFYER",
+          "type": "GridButton",
+          "desktop": {
+            "top": 440,
+            "left": 721,
+            "width": 172,
+            "height": 53,
+            "fontSize": 11
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/geometria-2n5zF00jCip5s3xz.pdf",
+            "text": "GEOMETRÍA DEL SILENCIO",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/geometria-2n5zF00jCip5s3xz.pdf"
+          }
+        },
+        {
+          "id": "z-hQPk",
+          "type": "GridButton",
+          "desktop": {
+            "top": 440,
+            "left": 927,
+            "width": 172,
+            "height": 53,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "/exvotos",
+            "text": "EXVOTOS",
+            "linkType": "page",
+            "linkedPageId": "zPcM51"
+          }
+        }
+      ],
+      "level": "h1"
     },
     {
       "blockId": "zg1D25",
       "heading": null,
       "paragraphs": [
+        "★★★★★",
         "Es uno de los escasos pintores ecológicos, si así podemos decir, que se atreve a llevar a extremos su propuesta, desde la pintura convencional, en sus inicios, hasta las formas más audaces de explicitarla que le ponen en contacto directo con el público, no la masa, en diversos actos, o actividades, en donde su arte pueda ser visto, vivido y hecho propio por los observantes.",
         "La vida de Rivera, su labor, son parte de una epifanía personal que resurge en las diferentes etapas que se nos muestran en el libro-catálogo. No es que esté detrás de una ventana, en sus inicios, sino que se ha convertido en La Ventana misma, eje de lo que vemos, sentimos y apreciamos en su labor, desde 1995 a la fecha.",
         "Hay algo de propuesta cósmica, más allá de lo religioso tradicional, en lo que este artista propone, al hacer suyos los elementos singulares que mantienen la vida en nuestra tierra: aire, fuego, tierra, agua, más el elemento espiritual que da sentido a su labor y que lo hace expresarse por medio de palabras, “Manifiesto” lo llama él, que nos muestran a un artista dueño de su arte, en el cual la palabra, como elemento vivo, nos permite penetrar en su universo de color, de símbolos activos que dan fe de una construcción intelectual definida en su tiempo.",
@@ -107,144 +455,232 @@
         "Cali Rivera es uno de los artistas más refinados del medio cultural costarricense, al hacer de su vida, y su pintura, un espectáculo íntimo y una singular comunión pública. Es tan atrayente su experimentación continua, que lo convierte en un artista hiperactivo, cambiando de ideas con frecuencia, reinventándose a sí mismo como creador.",
         "Todo lo anterior unido a la calidad de su propuesta pictórica, sus ideas , los resultados de su inventiva. Porque en Cali Rivera no tienen edad, en ese privilegio de inventarse a sí mismo como persona, como creador, como personaje de su propia necesidad de ser en su pintura y que nunca es la misma, aunque sigue la línea directa de ser solo eso: “Elementos”.",
         "ALFONSO CHASE",
-        "★★★★★",
         "“La Prensa Libre”",
         "El  05 de Marzo del 2009"
       ],
       "images": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/esfera-oficial-XjBqPXfN2Znbch01.PNG",
-          "localPath": "assets/catalogos-and-proyectos/esfera-oficial-XjBqPXfN2Znbch01.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 388,
-          "height": 353,
-          "role": "block-background__image"
-        },
-        {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/chase-2-eOMZM2Q9DuC2xuPI.jpeg",
           "localPath": "assets/catalogos-and-proyectos/chase-2-eOMZM2Q9DuC2xuPI.jpeg",
           "alt": null,
           "caption": null,
           "width": 579,
           "height": 501,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/chase-2-eOMZM2Q9DuC2xuPI.jpeg",
-          "localPath": "assets/catalogos-and-proyectos/chase-2-eOMZM2Q9DuC2xuPI.jpeg",
-          "alt": null,
-          "caption": null,
-          "width": 579,
-          "height": 501,
-          "role": "image__image"
+          "bytes": 45179,
+          "role": "image",
+          "fullResolution": [
+            579,
+            501
+          ],
+          "href": null
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "znnXzY",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+        "localPath": "assets/catalogos-and-proyectos/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 388,
+        "height": 353,
+        "bytes": 258037,
+        "role": "background",
+        "overlayOpacity": "0.88"
+      },
+      "elements": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
-          "localPath": "assets/catalogos-and-proyectos/candela-SjvXHdgnaGUodgNo.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 430,
-          "height": 548,
-          "role": "block-background__image block-background__image--fixed"
+          "id": "zjCiWF",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 104,
+            "left": 515,
+            "width": 194,
+            "height": 29
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body-large",
+              "text": "★★★★★"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
-          "localPath": "assets/catalogos-and-proyectos/candela-SjvXHdgnaGUodgNo.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 430,
-          "height": 548,
-          "role": "image__image"
+          "id": "z0dHMJ",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 146,
+            "left": 168,
+            "width": 928,
+            "height": 871
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Es uno de los escasos pintores ecológicos, si así podemos decir, que se atreve a llevar a extremos su propuesta, desde la pintura convencional, en sus inicios, hasta las formas más audaces de explicitarla que le ponen en contacto directo con el público, no la masa, en diversos actos, o actividades, en donde su arte pueda ser visto, vivido y hecho propio por los observantes."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "La vida de Rivera, su labor, son parte de una epifanía personal que resurge en las diferentes etapas que se nos muestran en el libro-catálogo. No es que esté detrás de una ventana, en sus inicios, sino que se ha convertido en La Ventana misma, eje de lo que vemos, sentimos y apreciamos en su labor, desde 1995 a la fecha."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Hay algo de propuesta cósmica, más allá de lo religioso tradicional, en lo que este artista propone, al hacer suyos los elementos singulares que mantienen la vida en nuestra tierra: aire, fuego, tierra, agua, más el elemento espiritual que da sentido a su labor y que lo hace expresarse por medio de palabras, “Manifiesto” lo llama él, que nos muestran a un artista dueño de su arte, en el cual la palabra, como elemento vivo, nos permite penetrar en su universo de color, de símbolos activos que dan fe de una construcción intelectual definida en su tiempo."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Sus primeros trabajos, entre lo surreal y lo maravilloso, lo hacen avanzar hacia cambios apreciables, buscando alzarse sobre banderas, fuegos, observantes observados, aguas estáticas o temblando en su pupila y en la nuestra, todo diferenciado por esos ciclos cronológicos que son la sustancia del texto gráfico y de sus propias palabras, que no justifican nada, sino que se abren hacia su manera de percibir el mundo en el aspecto religioso, profano, místico."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Como es un arte en permanente mutación, y siendo el artista sujeto de esos cambios, la pintura que hace se refiere a lo visto pero también a lo que adivina si se le mira con detenimiento."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Cali Rivera es uno de los artistas más refinados del medio cultural costarricense, al hacer de su vida, y su pintura, un espectáculo íntimo y una singular comunión pública. Es tan atrayente su experimentación continua, que lo convierte en un artista hiperactivo, cambiando de ideas con frecuencia, reinventándose a sí mismo como creador."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Todo lo anterior unido a la calidad de su propuesta pictórica, sus ideas , los resultados de su inventiva. Porque en Cali Rivera no tienen edad, en ese privilegio de inventarse a sí mismo como persona, como creador, como personaje de su propia necesidad de ser en su pintura y que nunca es la misma, aunque sigue la línea directa de ser solo eso: “Elementos”."
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
-          "localPath": "assets/catalogos-and-proyectos/candela-SjvXHdgnaGUodgNo.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 430,
-          "height": 548,
-          "role": "image__image"
+          "id": "zhGEU2",
+          "type": "GridImage",
+          "desktop": {
+            "top": 1064,
+            "left": 588,
+            "width": 48,
+            "height": 48,
+            "borderRadius": "50%"
+          },
+          "image": "assets/catalogos-and-proyectos/chase-2-eOMZM2Q9DuC2xuPI.jpeg"
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cama-1YtbTvTIoHTpOrkA.PNG",
-          "localPath": "assets/catalogos-and-proyectos/cama-1YtbTvTIoHTpOrkA.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 776,
-          "height": 571,
-          "role": "image__image"
+          "id": "zlrVFW",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 1120,
+            "left": 412,
+            "width": 400,
+            "height": 28
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "ALFONSO CHASE"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cama-1YtbTvTIoHTpOrkA.PNG",
-          "localPath": "assets/catalogos-and-proyectos/cama-1YtbTvTIoHTpOrkA.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 776,
-          "height": 571,
-          "role": "image__image"
+          "id": "zliLr_",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 1148,
+            "left": 412,
+            "width": 400,
+            "height": 28
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "“La Prensa Libre”"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/beso-II4wdOCaLll6pSMP.PNG",
-          "localPath": "assets/catalogos-and-proyectos/beso-II4wdOCaLll6pSMP.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 680,
-          "height": 536,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/beso-II4wdOCaLll6pSMP.PNG",
-          "localPath": "assets/catalogos-and-proyectos/beso-II4wdOCaLll6pSMP.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 680,
-          "height": 536,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/sexto-sol-t89E6rzBvHb0tenu.PNG",
-          "localPath": "assets/catalogos-and-proyectos/sexto-sol-t89E6rzBvHb0tenu.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 767,
-          "height": 576,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/sexto-sol-t89E6rzBvHb0tenu.PNG",
-          "localPath": "assets/catalogos-and-proyectos/sexto-sol-t89E6rzBvHb0tenu.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 767,
-          "height": 576,
-          "role": "image__image"
+          "id": "zwntyT",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 1172,
+            "left": 412,
+            "width": 400,
+            "height": 28
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El  05 de Marzo del 2009"
+            }
+          ]
         }
-      ],
-      "links": []
+      ]
     },
     {
       "blockId": "znnXzY",
       "heading": "Archivo de Proyectos",
-      "level": "h1",
       "paragraphs": [],
       "images": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/teatro-nSaSnE9MNoF7vqEM.jpeg",
-          "localPath": "assets/catalogos-and-proyectos/teatro-nSaSnE9MNoF7vqEM.jpeg",
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
+          "localPath": "assets/catalogos-and-proyectos/candela-SjvXHdgnaGUodgNo.PNG",
           "alt": null,
           "caption": null,
-          "width": 1086,
-          "height": 1448,
-          "role": "image__image"
+          "width": 430,
+          "height": 548,
+          "bytes": 504948,
+          "role": "image",
+          "fullResolution": [
+            430,
+            548
+          ],
+          "href": null
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cama-1YtbTvTIoHTpOrkA.PNG",
+          "localPath": "assets/catalogos-and-proyectos/cama-1YtbTvTIoHTpOrkA.PNG",
+          "alt": null,
+          "caption": null,
+          "width": 776,
+          "height": 571,
+          "bytes": 631265,
+          "role": "image",
+          "fullResolution": [
+            776,
+            571
+          ],
+          "href": null
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/beso-II4wdOCaLll6pSMP.PNG",
+          "localPath": "assets/catalogos-and-proyectos/beso-II4wdOCaLll6pSMP.PNG",
+          "alt": null,
+          "caption": null,
+          "width": 680,
+          "height": 536,
+          "bytes": 364397,
+          "role": "image",
+          "fullResolution": [
+            680,
+            536
+          ],
+          "href": null
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/sexto-sol-t89E6rzBvHb0tenu.PNG",
+          "localPath": "assets/catalogos-and-proyectos/sexto-sol-t89E6rzBvHb0tenu.PNG",
+          "alt": null,
+          "caption": null,
+          "width": 767,
+          "height": 576,
+          "bytes": 1408547,
+          "role": "image",
+          "fullResolution": [
+            767,
+            576
+          ],
+          "href": null
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/teatro-nSaSnE9MNoF7vqEM.jpeg",
@@ -253,7 +689,13 @@
           "caption": null,
           "width": 1086,
           "height": 1448,
-          "role": "image__image"
+          "bytes": 358210,
+          "role": "image",
+          "fullResolution": [
+            1086,
+            1448
+          ],
+          "href": null
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
@@ -262,64 +704,208 @@
           "caption": null,
           "width": 1290,
           "height": 1219,
-          "role": "image__image"
+          "bytes": 406730,
+          "role": "image",
+          "fullResolution": [
+            1290,
+            1219
+          ],
+          "href": null
+        }
+      ],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
+        "localPath": "assets/catalogos-and-proyectos/candela-SjvXHdgnaGUodgNo.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 430,
+        "height": 548,
+        "bytes": 504948,
+        "role": "background",
+        "overlayOpacity": "0.90"
+      },
+      "elements": [
+        {
+          "id": "z_cqIK",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 64,
+            "left": 289,
+            "width": 646,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "Archivo de Proyectos"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "localPath": "assets/catalogos-and-proyectos/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "alt": null,
-          "caption": null,
-          "width": 1290,
-          "height": 1219,
-          "role": "image__image"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "zeuwbD",
-      "heading": null,
-      "paragraphs": [
-        "Como respuesta a una Convocatoria Nacional de Arte, en el año 2001 nació esta instalación. En mi desarrollo como artista he tratado de vivir mi propio tiempo y realidad y, pese a mi búsqueda de lo integral o multidisciplinario, la pintura y su valor dentro de la historia me importan, especialmente cuando nos enfrentamos a nuevas tendencias que dejan la pintura casi como una propuesta obsoleta. Así pues, replanteo la pintura desde una visión diferente, exponiendo la misma no solo colgada de la pared, sino también como parte integral de una instalación que evoca una ciudad con luz propia y que permite ver la pintura desde una visión distinta. De materiales mixtos como madera, aluminio, alambre de cobre, sensores infrarrojos y lámina acrílica transparente, Poetry tiene un claro interés de proteger la pintura como lenguaje contemporáneo mediante el mensaje logrado con la contraposición de dos objetos muy distintos entre sí, pero que juntos forman unidad: una poesía contada con imágenes y sonidos. El módulo o exhibidor, versus la pequeña bitácora intervenida con pintura, califican esta propuesta dentro de las actuales tendencias donde lo tecnológico y mecanizado está tomando por asalto las galerías en todo el mundo, creando una paradoja. Poetry pretende crear una reflexión inmediata en el espectador, quien se enfrenta a un artefacto “postmoderno” que alberga una bitácora de papel reciclado intervenida a mano. Esta instalación interactúa al momento de introducir las manos en la bóveda acrílica donde se alberga el libro, activando unos sensores infrarrojos que encienden una luz dentro de la misma, mientras una serie de sonidos que crean un nexo entre lo urbano y la naturaleza activan el oído y lo unen a las imágenes de la bitácora que están siendo manipuladas por el mismo espectador:",
-        "LOS SENTIDOS COMO FORMA PRIMARIA DE PERCIBIR LA REALIDAD"
-      ],
-      "images": [
+          "id": "zsXNz3",
+          "type": "GridImage",
+          "desktop": {
+            "top": 210,
+            "left": 49,
+            "width": 503,
+            "height": 360,
+            "borderRadius": "20px"
+          },
+          "image": "assets/catalogos-and-proyectos/candela-SjvXHdgnaGUodgNo.PNG"
+        },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "localPath": "assets/catalogos-and-proyectos/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "alt": null,
-          "caption": null,
-          "width": 1290,
-          "height": 1219,
-          "role": "block-background__image"
+          "id": "zp4Ty2",
+          "type": "GridImage",
+          "desktop": {
+            "top": 210,
+            "left": 618,
+            "width": 503,
+            "height": 360,
+            "borderRadius": "20px"
+          },
+          "image": "assets/catalogos-and-proyectos/cama-1YtbTvTIoHTpOrkA.PNG"
+        },
+        {
+          "id": "zV_tjF",
+          "type": "GridImage",
+          "desktop": {
+            "top": 624,
+            "left": 49,
+            "width": 503,
+            "height": 360,
+            "borderRadius": "20px"
+          },
+          "image": "assets/catalogos-and-proyectos/beso-II4wdOCaLll6pSMP.PNG"
+        },
+        {
+          "id": "z4-jVS",
+          "type": "GridImage",
+          "desktop": {
+            "top": 624,
+            "left": 630,
+            "width": 503,
+            "height": 360,
+            "borderRadius": "20px"
+          },
+          "image": "assets/catalogos-and-proyectos/sexto-sol-t89E6rzBvHb0tenu.PNG"
+        },
+        {
+          "id": "z7ly5S",
+          "type": "GridImage",
+          "desktop": {
+            "top": 1040,
+            "left": 49,
+            "width": 503,
+            "height": 360,
+            "borderRadius": "20px"
+          },
+          "image": "assets/catalogos-and-proyectos/teatro-nSaSnE9MNoF7vqEM.jpeg"
+        },
+        {
+          "id": "zjj9SA",
+          "type": "GridImage",
+          "desktop": {
+            "top": 1040,
+            "left": 630,
+            "width": 503,
+            "height": 360,
+            "borderRadius": "20px"
+          },
+          "image": "assets/catalogos-and-proyectos/obra-mundial-3rGopp802cP96lZh.jpeg"
         }
       ],
-      "links": []
+      "level": "h1"
     },
     {
       "blockId": "zeuwbD",
       "heading": "POETRY",
-      "level": "h1",
       "paragraphs": [
-        "Una poesía contada con imágenes y sonidos (2001)"
+        "Una poesía contada con imágenes y sonidos (2001)",
+        "Como respuesta a una Convocatoria Nacional de Arte, en el año 2001 nació esta instalación. En mi desarrollo como artista he tratado de vivir mi propio tiempo y realidad y, pese a mi búsqueda de lo integral o multidisciplinario, la pintura y su valor dentro de la historia me importan, especialmente cuando nos enfrentamos a nuevas tendencias que dejan la pintura casi como una propuesta obsoleta. Así pues, replanteo la pintura desde una visión diferente, exponiendo la misma no solo colgada de la pared, sino también como parte integral de una instalación que evoca una ciudad con luz propia y que permite ver la pintura desde una visión distinta. De materiales mixtos como madera, aluminio, alambre de cobre, sensores infrarrojos y lámina acrílica transparente, Poetry tiene un claro interés de proteger la pintura como lenguaje contemporáneo mediante el mensaje logrado con la contraposición de dos objetos muy distintos entre sí, pero que juntos forman unidad: una poesía contada con imágenes y sonidos. El módulo o exhibidor, versus la pequeña bitácora intervenida con pintura, califican esta propuesta dentro de las actuales tendencias donde lo tecnológico y mecanizado está tomando por asalto las galerías en todo el mundo, creando una paradoja. Poetry pretende crear una reflexión inmediata en el espectador, quien se enfrenta a un artefacto “postmoderno” que alberga una bitácora de papel reciclado intervenida a mano. Esta instalación interactúa al momento de introducir las manos en la bóveda acrílica donde se alberga el libro, activando unos sensores infrarrojos que encienden una luz dentro de la misma, mientras una serie de sonidos que crean un nexo entre lo urbano y la naturaleza activan el oído y lo unen a las imágenes de la bitácora que están siendo manipuladas por el mismo espectador:",
+        "LOS SENTIDOS COMO FORMA PRIMARIA DE PERCIBIR LA REALIDAD"
       ],
       "images": [],
-      "links": []
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
+        "localPath": "assets/catalogos-and-proyectos/obra-mundial-3rGopp802cP96lZh.jpeg",
+        "alt": null,
+        "caption": null,
+        "width": 1290,
+        "height": 1219,
+        "bytes": 406730,
+        "role": "background",
+        "overlayOpacity": "0.75"
+      },
+      "elements": [
+        {
+          "id": "zorL1P",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 80,
+            "left": 448,
+            "width": 328,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "POETRY"
+            }
+          ]
+        },
+        {
+          "id": "zspNGX",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 161,
+            "left": 163,
+            "width": 897,
+            "height": 23
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body-small",
+              "text": "Una poesía contada con imágenes y sonidos (2001)"
+            }
+          ]
+        },
+        {
+          "id": "zDBdBm",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 224,
+            "left": 89,
+            "width": 1045,
+            "height": 480
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Como respuesta a una Convocatoria Nacional de Arte, en el año 2001 nació esta instalación. En mi desarrollo como artista he tratado de vivir mi propio tiempo y realidad y, pese a mi búsqueda de lo integral o multidisciplinario, la pintura y su valor dentro de la historia me importan, especialmente cuando nos enfrentamos a nuevas tendencias que dejan la pintura casi como una propuesta obsoleta. Así pues, replanteo la pintura desde una visión diferente, exponiendo la misma no solo colgada de la pared, sino también como parte integral de una instalación que evoca una ciudad con luz propia y que permite ver la pintura desde una visión distinta. De materiales mixtos como madera, aluminio, alambre de cobre, sensores infrarrojos y lámina acrílica transparente, Poetry tiene un claro interés de proteger la pintura como lenguaje contemporáneo mediante el mensaje logrado con la contraposición de dos objetos muy distintos entre sí, pero que juntos forman unidad: una poesía contada con imágenes y sonidos. El módulo o exhibidor, versus la pequeña bitácora intervenida con pintura, califican esta propuesta dentro de las actuales tendencias donde lo tecnológico y mecanizado está tomando por asalto las galerías en todo el mundo, creando una paradoja. Poetry pretende crear una reflexión inmediata en el espectador, quien se enfrenta a un artefacto “postmoderno” que alberga una bitácora de papel reciclado intervenida a mano. Esta instalación interactúa al momento de introducir las manos en la bóveda acrílica donde se alberga el libro, activando unos sensores infrarrojos que encienden una luz dentro de la misma, mientras una serie de sonidos que crean un nexo entre lo urbano y la naturaleza activan el oído y lo unen a las imágenes de la bitácora que están siendo manipuladas por el mismo espectador:"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "LOS SENTIDOS COMO FORMA PRIMARIA DE PERCIBIR LA REALIDAD"
+            }
+          ]
+        }
+      ],
+      "level": "h1"
     },
     {
-      "blockId": "obras",
-      "heading": null,
-      "paragraphs": [],
+      "blockId": "hrKHIV",
+      "heading": "Archivo de obras",
+      "paragraphs": [
+        "Sumérgete en la obra viva de Cali Rivera, donde cada colección es un fragmento de tiempo archivado, listo para ser habitado por tu mirada. La luz, la tierra y la abstracción lírica se entrelazan en cada trazo."
+      ],
       "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/amanecer-4k-cVV8w62WCE5PqU16.png",
-          "localPath": "assets/catalogos-and-proyectos/amanecer-4k-cVV8w62WCE5PqU16.png",
-          "alt": null,
-          "caption": null,
-          "width": 1107,
-          "height": 1421,
-          "role": "block-background__image"
-        },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-5-9NB3iQTtYOxW0xCQ.png",
           "localPath": "assets/catalogos-and-proyectos/detras-5-9NB3iQTtYOxW0xCQ.png",
@@ -327,7 +913,8 @@
           "caption": null,
           "width": 1210,
           "height": 1300,
-          "role": "image__image"
+          "bytes": 2628372,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
@@ -336,7 +923,8 @@
           "caption": null,
           "width": 1101,
           "height": 1429,
-          "role": "image__image"
+          "bytes": 2957943,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/amanecer-4k-cVV8w62WCE5PqU16.png",
@@ -345,7 +933,8 @@
           "caption": null,
           "width": 1107,
           "height": 1421,
-          "role": "image__image"
+          "bytes": 2881720,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/camino-hacia-la-luz-krtwID89pTZiOeRF.png",
@@ -354,7 +943,8 @@
           "caption": null,
           "width": 1173,
           "height": 1341,
-          "role": "image__image"
+          "bytes": 2720088,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/luna-azul-sJNevcciZEpaggyc.png",
@@ -363,7 +953,8 @@
           "caption": null,
           "width": 1148,
           "height": 1371,
-          "role": "image__image"
+          "bytes": 2752401,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png",
@@ -372,7 +963,8 @@
           "caption": null,
           "width": 1170,
           "height": 1345,
-          "role": "image__image"
+          "bytes": 2966867,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png",
@@ -381,7 +973,8 @@
           "caption": null,
           "width": 1189,
           "height": 1323,
-          "role": "image__image"
+          "bytes": 2849804,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/contemporaneo-exvotos-SE4162FEEGeZHj5W.png",
@@ -390,21 +983,84 @@
           "caption": null,
           "width": 1163,
           "height": 1352,
-          "role": "image__image"
+          "bytes": 3098133,
+          "role": "gallery"
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "obras",
-      "heading": "Archivo de obras",
-      "level": "h1",
-      "paragraphs": [
-        "Sumérgete en la obra viva de Cali Rivera, donde cada colección es un fragmento de tiempo archivado, listo para ser habitado por tu mirada. La luz, la tierra y la abstracción lírica se entrelazan en cada trazo."
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/amanecer-4k-cVV8w62WCE5PqU16.png",
+        "localPath": "assets/catalogos-and-proyectos/amanecer-4k-cVV8w62WCE5PqU16.png",
+        "alt": null,
+        "caption": null,
+        "width": 1107,
+        "height": 1421,
+        "bytes": 2881720,
+        "role": "background",
+        "overlayOpacity": "0.81"
+      },
+      "elements": [
+        {
+          "id": "zkxynR",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 120,
+            "left": 173,
+            "width": 878,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "Archivo de obras"
+            }
+          ]
+        },
+        {
+          "id": "zduD9P",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 208,
+            "left": 173,
+            "width": 878,
+            "height": 56
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Sumérgete en la obra viva de Cali Rivera, donde cada colección es un fragmento de tiempo archivado, listo para ser habitado por tu mirada. La luz, la tierra y la abstracción lírica se entrelazan en cada trazo."
+            }
+          ]
+        },
+        {
+          "id": "vFINcg",
+          "type": "GridGallery",
+          "desktop": {
+            "top": 336,
+            "left": 80,
+            "width": 1056,
+            "height": 1056,
+            "columnGap": 16,
+            "columnCount": 3
+          },
+          "gallery": [
+            "assets/catalogos-and-proyectos/detras-5-9NB3iQTtYOxW0xCQ.png",
+            "assets/catalogos-and-proyectos/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
+            "assets/catalogos-and-proyectos/amanecer-4k-cVV8w62WCE5PqU16.png",
+            "assets/catalogos-and-proyectos/camino-hacia-la-luz-krtwID89pTZiOeRF.png",
+            "assets/catalogos-and-proyectos/luna-azul-sJNevcciZEpaggyc.png",
+            "assets/catalogos-and-proyectos/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png",
+            "assets/catalogos-and-proyectos/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png",
+            "assets/catalogos-and-proyectos/contemporaneo-exvotos-SE4162FEEGeZHj5W.png"
+          ]
+        }
       ],
-      "images": [],
-      "links": []
+      "level": "h1"
     }
   ],
-  "rawTextHash": "aa3960e84d704a702d0afa68b9020af55e056c40667907de7de59eb0ecfde94c"
+  "rawTextHash": "af055f144fde02fe70e733e0b4fc7aba91fa17f0dc4c4077028f5ceb2408fa06",
+  "wordCount": 833,
+  "source": "zyro pageData (astro-island props) + html meta"
 }

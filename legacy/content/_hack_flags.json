@@ -10,5 +10,360 @@
   "flags": [
    "iframe:http://www.virtualtourscr.com/expo/vt.html"
   ]
+ },
+ {
+  "url": "calirivera.com/index.php/obras/revelaciones-2015/tour-virtual-plegarias-2015.html",
+  "flags": [
+   "iframe:http://www.virtualtourscr.com/expo/vt.html"
+  ]
+ },
+ {
+  "url": "calirivera.com/component/option,com_frontpage/Itemid,1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/blogcategory/18/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/category/1/5/14/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/2/3/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/29/18/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/33/28/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/37/1/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/50/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/51/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/52/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/53/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/54/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/54/99999999/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/55/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/56/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/57/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/58/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/60/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/61/1/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/61/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/62/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/63/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/63/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/64/1/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/64/29/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/68/33/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/69/29/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/70/29/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/71/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/72/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/73/",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/content/view/8/17/",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/cpael",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/flash/main.html",
+  "flags": [
+   "script:../img/Cali_functions.js"
+  ]
+ },
+ {
+  "url": "calirivera.com/flash/main_eng.html",
+  "flags": [
+   "script:../img/Cali_functions.js"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php/component/wrapper/?Itemid=800227",
+  "flags": [
+   "iframe:https://"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php/contactanos-2.html",
+  "flags": [
+   "script:\n\t\t   \t\t\t\t\n\t\t\t\t\t\twindow.addEvent( 'domready', function() {\n\t\t\t\t\t\t\t\tonsubmitFunct"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=101&Itemid=29",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=104&Itemid=85",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=105&Itemid=1",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=114&Itemid=93",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=84&Itemid=1",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=87&Itemid=1",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=88&Itemid=1",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=89&Itemid=1",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=90&Itemid=1",
+  "flags": [
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=93",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=94",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht"
+  ]
+ },
+ {
+  "url": "calirivera.com/index.php?option=com_content&task=view&id=95",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht"
+  ]
+ },
+ {
+  "url": "calirivera.com/my/swtreg.asp?title=%CE%D2%D2%AA%C9%EA%C7%EB%B3%C9%CE%AA%C9%CC%CE%F1%CD%A8%BB%E1%D4%B1%A3%AC%B7%FE%CE%F1%B7%D1%C3%BF%D4%C2200%D4%AA",
+  "flags": [
+   "script:\n<!-- Begin\n\nfunction popUp(URL) {\nday = new Date();\nid = day.getTime();\neval(\"p",
+   "iframe:http://www.calirivera.com/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "calirivera.com/old/index.php",
+  "flags": [
+   "script:DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js",
+   "script:\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"ht",
+   "iframe:http://www.calirivera.com/old/index2.php?option=shoutit&task=showshouts"
+  ]
+ },
+ {
+  "url": "tallerdelartista.com/category/uncategorized/",
+  "flags": [
+   "script:\nwindow._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/1"
+  ]
  }
 ]

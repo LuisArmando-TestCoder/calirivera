@@ -452,3 +452,703 @@ ok https://web.archive.org/web/20260115050438id_/https://www.calirivera.com/inde
 ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
 ok https://web.archive.org/web/20161015190653id_/http://calirivera.com/index.php/obras/obras-recientes.html
 ok https://web.archive.org/web/20260115055244id_/https://www.calirivera.com/index.php/obras/identidad?task=view&id=75
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20251015120959id_/http://calirivera.com/index.php/obras/cofradia-2017
+ok https://web.archive.org/web/20260115043510id_/https://www.calirivera.com/index.php/obras/detras-de-la-ventana-marzo-2000?task=view&id=34
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20211026022047id_/https://calirivera.com/index.php/obras/obras-recientes/129-taller-de-artista-guatemala-obras-en-proceso-2009.html
+ok https://web.archive.org/web/20211026011847id_/https://calirivera.com/index.php/obras/obras-recientes/130-taller-de-artista-guatemala-cruz-de-san-pedro-2009.html
+ok https://web.archive.org/web/20251015113919id_/http://calirivera.com/index.php/obras/player-flags/bandera2-frente
+ok https://web.archive.org/web/20251015113036id_/http://calirivera.com/index.php/obras/player-flags/bandera1-frente
+ok https://web.archive.org/web/20251015114707id_/http://calirivera.com/index.php/obras/player-flags/bandera3-frente
+ok https://web.archive.org/web/20251015120246id_/http://calirivera.com/index.php/obras/player-flags/bandera5-frente
+ok https://web.archive.org/web/20251015115531id_/http://calirivera.com/index.php/obras/player-flags/bandera4-frente
+ok https://web.archive.org/web/20251015121037id_/http://calirivera.com/index.php/obras/player-flags/bandera6-frente
+ok https://web.archive.org/web/20251015122534id_/http://calirivera.com/index.php/obras/player-flags/bandera8-frente
+ok https://web.archive.org/web/20251015123223id_/http://calirivera.com/index.php/obras/player-flags/bandera9-frente
+ok https://web.archive.org/web/20260115054633id_/https://www.calirivera.com/index.php/obras/player-flags?task=view&id=37
+err0 https://web.archive.org/web/20251015104918id_/http://calirivera.com/index.php/obras/plegaria-2011 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20251015121756id_/http://calirivera.com/index.php/obras/player-flags/bandera7-frente <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20251015104918id_/http://calirivera.com/index.php/obras/plegaria-2011 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20251015121756id_/http://calirivera.com/index.php/obras/player-flags/bandera7-frente <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20251015104918id_/http://calirivera.com/index.php/obras/plegaria-2011 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20251015121756id_/http://calirivera.com/index.php/obras/player-flags/bandera7-frente <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20251015120809id_/http://calirivera.com/index.php/obras/plegaria-tica-en-francia-julio-2006 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260115051828id_/https://www.calirivera.com/index.php/obras/plegaria?task=view&id=72 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20251015120809id_/http://calirivera.com/index.php/obras/plegaria-tica-en-francia-julio-2006
+ok https://web.archive.org/web/20260115051828id_/https://www.calirivera.com/index.php/obras/plegaria?task=view&id=72
+ok https://web.archive.org/web/20260115051309id_/https://www.calirivera.com/index.php/obras/poetry?task=view&id=76
+ok https://web.archive.org/web/20251015120923id_/http://calirivera.com/index.php/obras/revelaciones-2015/revelations-2015
+ok https://web.archive.org/web/20251015113954id_/http://calirivera.com/index.php/obras/revelaciones-2015
+ok https://web.archive.org/web/20161015134407id_/http://calirivera.com/index.php/obras/revelaciones-2015/tour-virtual-plegarias-2015.html
+ok https://web.archive.org/web/20190820211731id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014/73-obras.html
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260115060621id_/https://www.calirivera.com/index.php/obras/suenos-en-azul-1996?task=view&id=70
+ok https://web.archive.org/web/20260510113910id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=article&id=258:religious-syncretism-as-a-path-for-peace&catid=73
+ok https://web.archive.org/web/20210926145700id_/https://calirivera.com/index.php/obras/transmutaci%EF%BF%BD%EF%BF%BDn.html?task=view&id=59
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20251015112716id_/http://calirivera.com/index.php/taller-del-artista
+ok https://web.archive.org/web/20140828002800id_/http://calirivera.com/index.php/taller-del-artista-17.html
+ok https://web.archive.org/web/20130828043727id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/195-actividades-del-mes-de-abril-del-2012
+ok https://web.archive.org/web/20140827062408id_/http://calirivera.com/index.php/taller-del-artista-17/actividades.html
+err0 https://web.archive.org/web/20130828043742id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/200-actividades-setiembre-del-2012 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20130828043552id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/197-actividades-del-mes-de-junio-del-2012
+ok https://web.archive.org/web/20130828043742id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/200-actividades-setiembre-del-2012
+err0 https://web.archive.org/web/20130828001016id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/203-actividades-setiembre-del-20125 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20130828001016id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/203-actividades-setiembre-del-20125 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20130828001016id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/203-actividades-setiembre-del-20125 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20130828043747id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/202-x-aniversario-cafe-arte-costa-rica
+err0 https://web.archive.org/web/20140827185227id_/http://calirivera.com/index.php/taller-del-artista-17/caf%C3%A9---arte.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20140827185227id_/http://calirivera.com/index.php/taller-del-artista-17/caf%C3%A9---arte.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20140827185227id_/http://calirivera.com/index.php/taller-del-artista-17/caf%C3%A9---arte.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20251015121756id_/http://calirivera.com/index.php/obras/player-flags/bandera7-frente
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20251015104918id_/http://calirivera.com/index.php/obras/plegaria-2011
+ok https://web.archive.org/web/20130828001016id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades/203-actividades-setiembre-del-20125
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20140827052424id_/http://calirivera.com/index.php/taller-del-artista-17/recomendaciones.html
+ok https://web.archive.org/web/20140827185227id_/http://calirivera.com/index.php/taller-del-artista-17/caf%C3%A9---arte.html
+ok https://web.archive.org/web/20140828033724id_/http://calirivera.com/index.php/taller-del-artista-17/vistas-del-cafe-arte.html
+ok https://web.archive.org/web/20251015104821id_/http://calirivera.com/index.php/taller-del-artista/actividades
+ok https://web.archive.org/web/20230925053248id_/https://calirivera.com/index.php/taller-del-artista/actividades/185-festeja-el-dia-de-la-mcoleccion-circo-de-fantasia-en-el-taller-del-artista-de-victor-quirosadre-en-el-taller-del-artista.html
+ok https://web.archive.org/web/20230925054154id_/https://calirivera.com/index.php/taller-del-artista/actividades/207-actividades-taller-del-artista-diciembre-del-2012.html
+ok https://web.archive.org/web/20190820201518id_/http://calirivera.com/index.php/taller-del-artista/actividades/206-festival-camino-hacia-la-luz-15-dic-2012.html
+err0 https://web.archive.org/web/20190820204215id_/http://calirivera.com/index.php/taller-del-artista/actividades/210-actividades-taller-del-artista-feb-2013.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20190820205458id_/http://calirivera.com/index.php/taller-del-artista/actividades/209-actividades-taller-del-artista-enero-2013.html
+err0 https://web.archive.org/web/20230925063916id_/https://calirivera.com/index.php/taller-del-artista/actividades/211-actividades-taller-del-artista-mar-2013.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190820204215id_/http://calirivera.com/index.php/taller-del-artista/actividades/210-actividades-taller-del-artista-feb-2013.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20230925063916id_/https://calirivera.com/index.php/taller-del-artista/actividades/211-actividades-taller-del-artista-mar-2013.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20190820204215id_/http://calirivera.com/index.php/taller-del-artista/actividades/210-actividades-taller-del-artista-feb-2013.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20230925063916id_/https://calirivera.com/index.php/taller-del-artista/actividades/211-actividades-taller-del-artista-mar-2013.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20230925071811id_/https://calirivera.com/index.php/taller-del-artista/actividades/212-festival-alasax-xiii-aniversario.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20190821135840id_/http://calirivera.com/index.php/taller-del-artista/actividades/213-actividades-taller-del-artista-abr-2013.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20230925071811id_/https://calirivera.com/index.php/taller-del-artista/actividades/212-festival-alasax-xiii-aniversario.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190821135840id_/http://calirivera.com/index.php/taller-del-artista/actividades/213-actividades-taller-del-artista-abr-2013.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20230925071811id_/https://calirivera.com/index.php/taller-del-artista/actividades/212-festival-alasax-xiii-aniversario.html
+ok https://web.archive.org/web/20190821135840id_/http://calirivera.com/index.php/taller-del-artista/actividades/213-actividades-taller-del-artista-abr-2013.html
+ok https://web.archive.org/web/20230925064239id_/https://calirivera.com/index.php/taller-del-artista/actividades/214-actividades-taller-del-artista-mayo-2013.html
+ok https://web.archive.org/web/20230925073159id_/https://calirivera.com/index.php/taller-del-artista/actividades/215-actividades-taller-del-artista-junio-2014.html
+ok https://web.archive.org/web/20230925052402id_/https://calirivera.com/index.php/taller-del-artista/actividades/216-actividades-taller-del-artista-julio-2015.html
+ok https://web.archive.org/web/20230925070338id_/https://calirivera.com/index.php/taller-del-artista/actividades/217-actividades-taller-del-artista-agosto-2013.html
+ok https://web.archive.org/web/20190820205628id_/http://calirivera.com/index.php/taller-del-artista/actividades/218-actividades-taller-del-artista-set-2013.html
+ok https://web.archive.org/web/20190820202801id_/http://calirivera.com/index.php/taller-del-artista/actividades/220-actividades-taller-del-artista-octubre-2013.html
+ok https://web.archive.org/web/20260510110503id_/http://calirivera.com/index.php/taller-del-artista/actividades/219-talleres-de-experimentacion-artistica
+ok https://web.archive.org/web/20190820205937id_/http://calirivera.com/index.php/taller-del-artista/actividades/221-taller-del-artista-noviembre.html
+ok https://web.archive.org/web/20230925055944id_/https://calirivera.com/index.php/taller-del-artista/actividades/222-gatma-en-concierto-10-11-16-nov-2013.html
+err0 https://web.archive.org/web/20230925063551id_/https://calirivera.com/index.php/taller-del-artista/actividades/224-actividades-taller-del-artista-febrero-2014.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20230925052232id_/https://calirivera.com/index.php/taller-del-artista/actividades/223-taller-del-artist-dic.html
+ok https://web.archive.org/web/20230925063551id_/https://calirivera.com/index.php/taller-del-artista/actividades/224-actividades-taller-del-artista-febrero-2014.html
+ok https://web.archive.org/web/20161213003757id_/http://calirivera.com/index.php/taller-del-artista/actividades/226-actividades-taller-del-artista-marzo-2014.html
+ok https://web.archive.org/web/20161214043602id_/http://calirivera.com/index.php/taller-del-artista/actividades/228-actividades-taller-del-artista-mayo-2014.html
+err0 https://web.archive.org/web/20161212192127id_/http://calirivera.com/index.php/taller-del-artista/actividades/229-actividades-taller-del-artista-junio2-2014.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161213231553id_/http://calirivera.com/index.php/taller-del-artista/actividades/227-actividades-taller-del-artista-abril-2014.html
+ok https://web.archive.org/web/20161212192127id_/http://calirivera.com/index.php/taller-del-artista/actividades/229-actividades-taller-del-artista-junio2-2014.html
+ok https://web.archive.org/web/20190821140506id_/http://calirivera.com/index.php/taller-del-artista/actividades/230-actividades-taller-del-artista-julio-2014.html
+ok https://web.archive.org/web/20190821132739id_/http://calirivera.com/index.php/taller-del-artista/actividades/232-actividades-taller-del-artista-setiembre-2014.html
+ok https://web.archive.org/web/20190821132803id_/http://calirivera.com/index.php/taller-del-artista/actividades/231-actividades-taller-del-artista-agosto-2014.html
+err0 https://web.archive.org/web/20190821132709id_/http://calirivera.com/index.php/taller-del-artista/actividades/236-actividades-taller-del-artista-noviembre-2014.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20241112101312id_/https://calirivera.com/index.php/taller-del-artista/actividades/237-actividades-taller-del-artista-diciembre-2014.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190821132709id_/http://calirivera.com/index.php/taller-del-artista/actividades/236-actividades-taller-del-artista-noviembre-2014.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20241112101312id_/https://calirivera.com/index.php/taller-del-artista/actividades/237-actividades-taller-del-artista-diciembre-2014.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20190821132709id_/http://calirivera.com/index.php/taller-del-artista/actividades/236-actividades-taller-del-artista-noviembre-2014.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20241112101312id_/https://calirivera.com/index.php/taller-del-artista/actividades/237-actividades-taller-del-artista-diciembre-2014.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20190820204215id_/http://calirivera.com/index.php/taller-del-artista/actividades/210-actividades-taller-del-artista-feb-2013.html
+ok https://web.archive.org/web/20230925063916id_/https://calirivera.com/index.php/taller-del-artista/actividades/211-actividades-taller-del-artista-mar-2013.html
+err0 https://web.archive.org/web/20241112101312id_/https://calirivera.com/index.php/taller-del-artista/actividades/237-actividades-taller-del-artista-diciembre-2014.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20241112101312id_/https://calirivera.com/index.php/taller-del-artista/actividades/237-actividades-taller-del-artista-diciembre-2014.html
+ok https://web.archive.org/web/20190821132709id_/http://calirivera.com/index.php/taller-del-artista/actividades/236-actividades-taller-del-artista-noviembre-2014.html
+ok https://web.archive.org/web/20241112083500id_/https://calirivera.com/index.php/taller-del-artista/actividades/239-actividades-taller-del-artista-febrero-2015.html
+ok https://web.archive.org/web/20241112094015id_/https://calirivera.com/index.php/taller-del-artista/actividades/238-actividades-taller-del-artista-enero-2015.html
+ok https://web.archive.org/web/20161215204029id_/http://calirivera.com/index.php/taller-del-artista/actividades/242-cali-rivera-artista-tico-expone-simultaneamente-en-dos-museos-de-europa.html
+ok https://web.archive.org/web/20241112093120id_/https://calirivera.com/index.php/taller-del-artista/actividades/241-actividades-taller-del-artista-marzo-2015.html
+ok https://web.archive.org/web/20190719161614id_/http://www.calirivera.com/index.php/taller-del-artista/actividades/243-actividades-taller-del-artista-junio-2015.html
+ok https://web.archive.org/web/20190817113053id_/http://www.calirivera.com/index.php/taller-del-artista/actividades/244-julio2015.html
+ok https://web.archive.org/web/20161213121924id_/http://calirivera.com/index.php/taller-del-artista/actividades/246-actividades-taller-del-artista-agosto-2015.html
+err0 https://web.archive.org/web/20161212182609id_/http://calirivera.com/index.php/taller-del-artista/actividades/248-actividades-taller-del-artista-setiembre-2015.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161212034759id_/http://calirivera.com/index.php/taller-del-artista/actividades/245-exposicion-plegarias-2015.html
+err0 https://web.archive.org/web/20260115043841id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/250-actividades-taller-del-artista-octubre-2015 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161212182609id_/http://calirivera.com/index.php/taller-del-artista/actividades/248-actividades-taller-del-artista-setiembre-2015.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115043841id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/250-actividades-taller-del-artista-octubre-2015 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20161212182609id_/http://calirivera.com/index.php/taller-del-artista/actividades/248-actividades-taller-del-artista-setiembre-2015.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20260115043841id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/250-actividades-taller-del-artista-octubre-2015 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20161206193948id_/http://calirivera.com/index.php/taller-del-artista/actividades/251-actividades-taller-del-artista-noviembre-2015.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260115062045id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/252-plegarias-tour-virtual-2 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161206193948id_/http://calirivera.com/index.php/taller-del-artista/actividades/251-actividades-taller-del-artista-noviembre-2015.html
+err0 https://web.archive.org/web/20260609142618id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/253-actividades-taller-del-artista-enero-2016 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115062045id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/252-plegarias-tour-virtual-2
+err1 https://web.archive.org/web/20260609142618id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/253-actividades-taller-del-artista-enero-2016 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115045816id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/255-actividades-taller-del-artista-febrero-2016
+ok https://web.archive.org/web/20260115052716id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/256-actividades-taller-del-artista-marzo-2016-2
+ok https://web.archive.org/web/20260115055450id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/259-actividades-taller-del-artista-abril-2016
+ok https://web.archive.org/web/20260609142618id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/253-actividades-taller-del-artista-enero-2016
+ok https://web.archive.org/web/20260115062005id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/260-actividades-taller-del-artista-mayo-2016
+ok https://web.archive.org/web/20260115053940id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/278-actividades-taller-del-artista-junio-2016
+ok https://web.archive.org/web/20260115054359id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/279-actividades-taller-del-artista-julio-2016
+ok https://web.archive.org/web/20260115052751id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/281-el-triunfo-del-tiempo-2016
+ok https://web.archive.org/web/20260115060647id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/280-actividades-taller-del-artista-setiembre-2016
+ok https://web.archive.org/web/20260115054225id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/282-la-cofradia-2017
+ok https://web.archive.org/web/20260115052416id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/284-agenda-cultural-octubre-2017
+ok https://web.archive.org/web/20260115053616id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/285-agenda-cultural-noviembre-2017
+ok https://web.archive.org/web/20260115044751id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/286-agenda-cultural-mayo-2018
+ok https://web.archive.org/web/20260115052335id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/287-agenda-cultural-junio-2018
+ok https://web.archive.org/web/20260214165153id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/288-agenda-cultural-marzo-2019
+ok https://web.archive.org/web/20260115053830id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/289-agenda-cultural-marzo-2020
+ok https://web.archive.org/web/20260115044138id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/290-un-recorrido-por-la-vida-de-cali-rivera
+err0 https://web.archive.org/web/20251015112403id_/http://calirivera.com/index.php/taller-del-artista/cafe-arte <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115041602id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/292-no-bienal-lerche-wolf-2020
+err0 https://web.archive.org/web/20260115060204id_/https://www.calirivera.com/index.php/taller-del-artista/cafe-arte?view=article&id=30:exposiciones&catid=17 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20251015112403id_/http://calirivera.com/index.php/taller-del-artista/cafe-arte <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115060204id_/https://www.calirivera.com/index.php/taller-del-artista/cafe-arte?view=article&id=30:exposiciones&catid=17 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20251015112403id_/http://calirivera.com/index.php/taller-del-artista/cafe-arte <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20260115060204id_/https://www.calirivera.com/index.php/taller-del-artista/cafe-arte?view=article&id=30:exposiciones&catid=17 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+err0 https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+err0 https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+err1 https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+err0 https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+err0 https://web.archive.org/web/20260115043841id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/250-actividades-taller-del-artista-octubre-2015 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161212182609id_/http://calirivera.com/index.php/taller-del-artista/actividades/248-actividades-taller-del-artista-setiembre-2015.html
+ok https://web.archive.org/web/20251015112403id_/http://calirivera.com/index.php/taller-del-artista/cafe-arte
+ok https://web.archive.org/web/20260115043841id_/https://www.calirivera.com/index.php/taller-del-artista/actividades/250-actividades-taller-del-artista-octubre-2015
+ok https://web.archive.org/web/20260115060204id_/https://www.calirivera.com/index.php/taller-del-artista/cafe-arte?view=article&id=30:exposiciones&catid=17
+err0 https://web.archive.org/web/20260115061831id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/146-soy-gitano <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20251015113420id_/http://calirivera.com/index.php/taller-del-artista/recomendaciones
+ok https://web.archive.org/web/20260115053540id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/156-soy-gitano2
+ok https://web.archive.org/web/20260115061739id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/158-la-voz-de-carmen-naranjo
+ok https://web.archive.org/web/20260115061831id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/146-soy-gitano
+ok https://web.archive.org/web/20260115062608id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/161-zentica
+ok https://web.archive.org/web/20260115045850id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/170-poesia
+ok https://web.archive.org/web/20260214154425id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/167-obra-de-teatro-qmi-primera-vezq
+err0 https://web.archive.org/web/20260115051348id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/182-recomendamos-4to-sax-fest-costa-rica-2011 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115060146id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/181-recomendamos-el-22-de-mayo-en-el-dia-de-la-biodiversidad-se-estara-realizando-en-el-inbio-parque-el-festival-de-yoga-y-biodiversidad-qpaz-con-la-tierraq
+err0 https://web.archive.org/web/20260115060859id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/186-recomendamos-dovorciadas-evangelicas-y-vegetarianas-teatro-torres <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115051348id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/182-recomendamos-4to-sax-fest-costa-rica-2011 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115060859id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/186-recomendamos-dovorciadas-evangelicas-y-vegetarianas-teatro-torres <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20260115051348id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/182-recomendamos-4to-sax-fest-costa-rica-2011 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20260115060859id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/186-recomendamos-dovorciadas-evangelicas-y-vegetarianas-teatro-torres <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115050227id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/204-recomendamos-la-obra-de-teatro1969-historia-de-una-casa
+ok https://web.archive.org/web/20260115042119id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/188-casa-927-diseno-artesanal-galeria-y-cafe
+err0 https://web.archive.org/web/20260115055214id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/233-xxxi-festival-de-coreografos <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20251015102933id_/http://calirivera.com/index.php/taller-del-artista/vistas-del-cafe-arte <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20251015102933id_/http://calirivera.com/index.php/taller-del-artista/vistas-del-cafe-arte
+ok https://web.archive.org/web/20260115055214id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/233-xxxi-festival-de-coreografos
+ok https://web.archive.org/web/20260115042519id_/https://www.calirivera.com/index.php/taller-del-artista/vistas-del-cafe-arte?view=article&id=151:banderas-de-corpus-christi-y-paz-con-el-lago&catid=17
+err0 https://web.archive.org/web/20260115050126id_/https://www.calirivera.com/index.php/taller-del-artista?view=article&id=31:artistas-invitads&catid=17 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115054329id_/https://www.calirivera.com/index.php/taller-del-artista/vistas-del-cafe-arte?view=article&id=91:mas-alla-comer-bien-tambien-tiene-su-arte&catid=17
+err0 https://web.archive.org/web/20140827085414id_/http://calirivera.com/index.php/videos.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115050126id_/https://www.calirivera.com/index.php/taller-del-artista?view=article&id=31:artistas-invitads&catid=17 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20140827085414id_/http://calirivera.com/index.php/videos.html
+ok https://web.archive.org/web/20260115045222id_/https://www.calirivera.com/index.php/videos/100-todos-somos-uno
+ok https://web.archive.org/web/20260115052529id_/https://www.calirivera.com/index.php/videos/120-video-estudiantes-usac-guatemala
+ok https://web.archive.org/web/20260115043034id_/https://www.calirivera.com/index.php/videos/126-canto-a-la-madre-tierra-grupo-arbol-de-pie
+ok https://web.archive.org/web/20260115062130id_/https://www.calirivera.com/index.php/videos/128-comercial-derechos-de-autor-2001
+ok https://web.archive.org/web/20260115050126id_/https://www.calirivera.com/index.php/taller-del-artista?view=article&id=31:artistas-invitads&catid=17
+ok https://web.archive.org/web/20260115061205id_/https://www.calirivera.com/index.php/videos/132-propuesta-de-los-elementos-parte-1-de-4
+ok https://web.archive.org/web/20260218025131id_/http://calirivera.com/index.php/videos/133-propuesta-de-los-elementos-parte-2-de-4
+ok https://web.archive.org/web/20260115043640id_/https://www.calirivera.com/index.php/videos/134-propuesta-de-los-elementos-parte-3-de-4
+err0 https://web.archive.org/web/20260115060302id_/https://www.calirivera.com/index.php/videos/135-propuesta-de-los-elementos-parte-4-de-4 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260115054730id_/https://www.calirivera.com/index.php/videos/138-entrevista-a-cali-rivera-habitat-soluciones <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115060302id_/https://www.calirivera.com/index.php/videos/135-propuesta-de-los-elementos-parte-4-de-4
+ok https://web.archive.org/web/20260115054730id_/https://www.calirivera.com/index.php/videos/138-entrevista-a-cali-rivera-habitat-soluciones
+ok https://web.archive.org/web/20260115054257id_/https://www.calirivera.com/index.php/videos/139-taller-del-artista-tres-rios-costa-rica-davidsbeenherecom
+ok https://web.archive.org/web/20260115045005id_/https://www.calirivera.com/index.php/videos/97-estandarte-del-amor-y-actividades-en-el-taller
+err0 https://web.archive.org/web/20161206122102id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/biografia.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260218034838id_/http://calirivera.com/index.php/videos/99-homenaje-a-cesar-vallejo
+err0 https://web.archive.org/web/20161206134736id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/curriculum-vitae.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161206122102id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/biografia.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161206134736id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/curriculum-vitae.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20161206122102id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/biografia.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20161206134736id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/curriculum-vitae.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+err0 https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+err0 https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+err1 https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115051348id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/182-recomendamos-4to-sax-fest-costa-rica-2011
+ok https://web.archive.org/web/20260115060859id_/https://www.calirivera.com/index.php/taller-del-artista/recomendaciones/186-recomendamos-dovorciadas-evangelicas-y-vegetarianas-teatro-torres
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20161206122102id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/biografia.html
+ok https://web.archive.org/web/20161206134736id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/curriculum-vitae.html
+ok https://web.archive.org/web/20161206205313id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/exposiciones.html
+err0 https://web.archive.org/web/20161206133959id_/http://calirivera.com/~calirive/index.php/obras.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161206210139id_/http://calirivera.com/~calirive/index.php/cali-rivera-74/puntos-de-vista.html
+err0 https://web.archive.org/web/20161206205838id_/http://calirivera.com/~calirive/index.php/obras/alquimia-2008.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161206133959id_/http://calirivera.com/~calirive/index.php/obras.html
+ok https://web.archive.org/web/20161206205838id_/http://calirivera.com/~calirive/index.php/obras/alquimia-2008.html
+ok https://web.archive.org/web/20161206210125id_/http://calirivera.com/~calirive/index.php/obras/atmosfera-1993.html
+ok https://web.archive.org/web/20161206194007id_/http://calirivera.com/~calirive/index.php/obras/ave-f%C3%A9nix.html
+err0 https://web.archive.org/web/20161206135321id_/http://calirivera.com/~calirive/index.php/obras/detras-de-la-ventana-marzo-2000.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161206195555id_/http://calirivera.com/~calirive/index.php/obras/banderas-de-corpus-christi-2010-.html
+err0 https://web.archive.org/web/20161206085912id_/http://calirivera.com/~calirive/index.php/obras/el-agua-como-elemento-marzo-2006.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161206135321id_/http://calirivera.com/~calirive/index.php/obras/detras-de-la-ventana-marzo-2000.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161206085912id_/http://calirivera.com/~calirive/index.php/obras/el-agua-como-elemento-marzo-2006.html
+err2 https://web.archive.org/web/20161206135321id_/http://calirivera.com/~calirive/index.php/obras/detras-de-la-ventana-marzo-2000.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20161206133745id_/http://calirivera.com/~calirive/index.php/obras/exvotos-2012.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161206133745id_/http://calirivera.com/~calirive/index.php/obras/exvotos-2012.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20161206133745id_/http://calirivera.com/~calirive/index.php/obras/exvotos-2012.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20161206134826id_/http://calirivera.com/~calirive/index.php/obras/globalizacion.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161206134826id_/http://calirivera.com/~calirive/index.php/obras/globalizacion.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161206134927id_/http://calirivera.com/~calirive/index.php/obras/identidad.html
+ok https://web.archive.org/web/20161206134826id_/http://calirivera.com/~calirive/index.php/obras/globalizacion.html
+ok https://web.archive.org/web/20161206210351id_/http://calirivera.com/~calirive/index.php/obras/musas-del-cantaro-1995.html
+ok https://web.archive.org/web/20161206194900id_/http://calirivera.com/~calirive/index.php/obras/player-flags.html
+ok https://web.archive.org/web/20161206133656id_/http://calirivera.com/~calirive/index.php/obras/obras-recientes.html
+ok https://web.archive.org/web/20161206134729id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera1-frente.html
+ok https://web.archive.org/web/20161206205611id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera2-frente.html
+ok https://web.archive.org/web/20161206134807id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera3-frente.html
+ok https://web.archive.org/web/20161206133932id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera5-frente.html
+ok https://web.archive.org/web/20161206124903id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera4-frente.html
+ok https://web.archive.org/web/20161206210034id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera6-frente.html
+ok https://web.archive.org/web/20161206205931id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera7-frente.html
+ok https://web.archive.org/web/20161206194912id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera8-frente.html
+ok https://web.archive.org/web/20161206195523id_/http://calirivera.com/~calirive/index.php/obras/player-flags/bandera9-frente.html
+ok https://web.archive.org/web/20161206080938id_/http://calirivera.com/~calirive/index.php/obras/plegaria-2011.html
+ok https://web.archive.org/web/20161206133704id_/http://calirivera.com/~calirive/index.php/obras/plegaria-tica-en-francia-julio-2006.html
+ok https://web.archive.org/web/20161207015312id_/http://calirivera.com/~calirive/index.php/obras/poetry.html
+ok https://web.archive.org/web/20161206133706id_/http://calirivera.com/~calirive/index.php/obras/plegaria.html
+ok https://web.archive.org/web/20161206133642id_/http://calirivera.com/~calirive/index.php/obras/revelaciones-2015.html
+ok https://web.archive.org/web/20161206195420id_/http://calirivera.com/~calirive/index.php/obras/revelaciones-2015/revelations-2015.html
+err0 https://web.archive.org/web/20161206195406id_/http://calirivera.com/~calirive/index.php/obras/suenos-en-azul-1996.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20161206133821id_/http://calirivera.com/~calirive/index.php/obras/sincretismo-religioso-2014.html
+err1 https://web.archive.org/web/20161206195406id_/http://calirivera.com/~calirive/index.php/obras/suenos-en-azul-1996.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20161207015913id_/http://calirivera.com/~calirive/index.php/obras/transmutaci%C3%B3n.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161207015913id_/http://calirivera.com/~calirive/index.php/obras/transmutaci%C3%B3n.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20161206195406id_/http://calirivera.com/~calirive/index.php/obras/suenos-en-azul-1996.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20161207015913id_/http://calirivera.com/~calirive/index.php/obras/transmutaci%C3%B3n.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20161206133745id_/http://calirivera.com/~calirive/index.php/obras/exvotos-2012.html
+ok https://web.archive.org/web/20161206135321id_/http://calirivera.com/~calirive/index.php/obras/detras-de-la-ventana-marzo-2000.html
+ok https://web.archive.org/web/20161206195406id_/http://calirivera.com/~calirive/index.php/obras/suenos-en-azul-1996.html
+ok https://web.archive.org/web/20161207015913id_/http://calirivera.com/~calirive/index.php/obras/transmutaci%C3%B3n.html
+ok https://web.archive.org/web/20161206210154id_/http://calirivera.com/~calirive/index.php/taller-del-artista.html
+ok https://web.archive.org/web/20161207015335id_/http://calirivera.com/~calirive/index.php/taller-del-artista/actividades.html
+ok https://web.archive.org/web/20161206194029id_/http://calirivera.com/~calirive/index.php/taller-del-artista/cafe-arte.html
+ok https://web.archive.org/web/20161206195328id_/http://calirivera.com/~calirive/index.php/taller-del-artista/vistas-del-cafe-arte.html
+ok https://web.archive.org/web/20161206072818id_/http://calirivera.com/~calirive/index.php/videos.html
+ok https://web.archive.org/web/20161206195315id_/http://calirivera.com/~calirive/index.php/taller-del-artista/recomendaciones.html
+ok https://web.archive.org/web/20100206205148id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=article&id=117:ceremonia-de-celebracion-en-guatemala-del-cafe-arte-6to-aniversario-31-octubre-09&catid=1
+err0 https://web.archive.org/web/20100202111418id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=article&id=96&Itemid=80 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20100205080215id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=article&id=140:ceremonia-de-la-luz-enero-2010&catid=1
+err0 https://web.archive.org/web/20100206003309id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=category&id=5&Itemid=25 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20100206003309id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=category&id=5&Itemid=25 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20100202111418id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=article&id=96&Itemid=80
+err0 https://web.archive.org/web/20060219054011id_/http://www.calirivera.com:80/component/option,com_frontpage/Itemid,1/ <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20060219054011id_/http://www.calirivera.com:80/component/option,com_frontpage/Itemid,1/ <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20100206003309id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=category&id=5&Itemid=25 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20060219054011id_/http://www.calirivera.com:80/component/option,com_frontpage/Itemid,1/ <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20060404060822id_/http://www.calirivera.com:80/content/blogcategory/18/29/
+ok https://web.archive.org/web/20060204201440id_/http://www.calirivera.com:80/content/category/1/5/14/
+ok https://web.archive.org/web/20060219053915id_/http://www.calirivera.com:80/content/view/2/3/
+ok https://web.archive.org/web/20060204164333id_/http://www.calirivera.com:80/content/view/29/18/
+ok https://web.archive.org/web/20060827061324id_/http://www.calirivera.com:80/content/view/37/1/
+ok https://web.archive.org/web/20060204171217id_/http://www.calirivera.com:80/content/view/33/28/
+ok https://web.archive.org/web/20060228182611id_/http://www.calirivera.com:80/content/view/50/1/
+ok https://web.archive.org/web/20060219053940id_/http://www.calirivera.com:80/content/view/51/1/
+ok https://web.archive.org/web/20060219053927id_/http://www.calirivera.com:80/content/view/53/1/
+ok https://web.archive.org/web/20060219054017id_/http://www.calirivera.com:80/content/view/54/1/
+ok https://web.archive.org/web/20060219053921id_/http://www.calirivera.com:80/content/view/52/1/
+ok https://web.archive.org/web/20060219053933id_/http://www.calirivera.com:80/content/view/55/1/
+ok https://web.archive.org/web/20060404060815id_/http://www.calirivera.com:80/content/view/54/99999999/
+ok https://web.archive.org/web/20060404060741id_/http://www.calirivera.com:80/content/view/56/29/
+ok https://web.archive.org/web/20060404060748id_/http://www.calirivera.com:80/content/view/57/29/
+err0 https://web.archive.org/web/20060404060803id_/http://www.calirivera.com:80/content/view/60/29/ <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20060404060756id_/http://www.calirivera.com:80/content/view/58/29/
+ok https://web.archive.org/web/20060519004825id_/http://www.calirivera.com:80/content/view/61/1/
+ok https://web.archive.org/web/20060404060803id_/http://www.calirivera.com:80/content/view/60/29/
+ok https://web.archive.org/web/20060427110455id_/http://www.calirivera.com:80/content/view/61/29/
+err0 https://web.archive.org/web/20060427110426id_/http://www.calirivera.com:80/content/view/62/29/ <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20060426024735id_/http://www.calirivera.com:80/content/view/63/1/ <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20060427110426id_/http://www.calirivera.com:80/content/view/62/29/ <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20060426024735id_/http://www.calirivera.com:80/content/view/63/1/ <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20060426024735id_/http://www.calirivera.com:80/content/view/63/1/ <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20060427110426id_/http://www.calirivera.com:80/content/view/62/29/
+err0 https://web.archive.org/web/20060427110305id_/http://www.calirivera.com:80/content/view/63/29/ <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20060427110305id_/http://www.calirivera.com:80/content/view/63/29/ <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20060427110305id_/http://www.calirivera.com:80/content/view/63/29/ <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20100206003309id_/http://www.calirivera.com:80/cali15/index.php?option=com_content&view=category&id=5&Itemid=25
+ok https://web.archive.org/web/20060219054011id_/http://www.calirivera.com:80/component/option,com_frontpage/Itemid,1/
+ok https://web.archive.org/web/20060426024735id_/http://www.calirivera.com:80/content/view/63/1/
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20060426024741id_/http://www.calirivera.com:80/content/view/64/1/
+ok https://web.archive.org/web/20060427110305id_/http://www.calirivera.com:80/content/view/63/29/
+ok https://web.archive.org/web/20060427110400id_/http://www.calirivera.com:80/content/view/64/29/
+ok https://web.archive.org/web/20060823215433id_/http://www.calirivera.com:80/content/view/68/33/
+ok https://web.archive.org/web/20060810174751id_/http://www.calirivera.com:80/content/view/70/29/
+ok https://web.archive.org/web/20060810175130id_/http://www.calirivera.com:80/content/view/69/29/
+ok https://web.archive.org/web/20060810175008id_/http://www.calirivera.com:80/content/view/72/
+ok https://web.archive.org/web/20060810174737id_/http://www.calirivera.com:80/content/view/71/
+err0 https://web.archive.org/web/20060204164418id_/http://www.calirivera.com:80/content/view/8/17/ <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20060204164418id_/http://www.calirivera.com:80/content/view/8/17/ <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20060810175049id_/http://www.calirivera.com:80/content/view/73/
+err0 https://web.archive.org/web/20091130172504id_/http://www.calirivera.com:80/cpael <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20091130172504id_/http://www.calirivera.com:80/cpael <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20060204164418id_/http://www.calirivera.com:80/content/view/8/17/ <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20091130172504id_/http://www.calirivera.com:80/cpael <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20040118042756id_/http://www.calirivera.com:80/flash/caligb.html
+ok https://web.archive.org/web/20021030181744id_/http://www.calirivera.com:80/flash/hidden.html
+ok https://web.archive.org/web/20040118123230id_/http://www.calirivera.com:80/flash/main.html
+ok https://web.archive.org/web/20040118123505id_/http://www.calirivera.com:80/flash/main_eng.html
+ok https://web.archive.org/web/20091225175703id_/http://www.calirivera.com:80/galeria/index.php
+ok https://web.archive.org/web/20091226034200id_/http://www.calirivera.com:80/galeria/login.php?referer=thumbnails.php
+ok https://web.archive.org/web/20091226034231id_/http://www.calirivera.com:80/galeria/thumbnails.php?album=toprated
+err0 https://web.archive.org/web/20010307063548id_/http://www.calirivera.com:80/index.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20150817015220id_/http://www.calirivera.com/index.php/catalogo-sincretismo.html
+err1 https://web.archive.org/web/20010307063548id_/http://www.calirivera.com:80/index.html <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20230530014205id_/https://calirivera.com/index.php/component/content/
+ok https://web.archive.org/web/20190821132724id_/http://calirivera.com/index.php/component/content/?task=view&id=86&Itemid=1
+ok https://web.archive.org/web/20010307063548id_/http://www.calirivera.com:80/index.html
+ok https://web.archive.org/web/20230326113159id_/https://www.calirivera.com/index.php/component/wrapper/?Itemid=800227
+ok https://web.archive.org/web/20140827163921id_/http://calirivera.com/index.php/contactanos-2.html
+ok https://web.archive.org/web/20161015134318id_/http://calirivera.com/index.php/contactanos.html
+ok https://web.archive.org/web/20130827182304id_/http://www.calirivera.com:80/index.php/index.php
+ok https://web.archive.org/web/20090215015918id_/http://calirivera.com:80/index.php?option=com_content&task=view&id=104&Itemid=85
+ok https://web.archive.org/web/20090214125757id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=101&Itemid=29
+err0 https://web.archive.org/web/20090214125812id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=105&Itemid=1 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20090930004239id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=114&Itemid=93 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20090214125812id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=105&Itemid=1
+ok https://web.archive.org/web/20090930004239id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=114&Itemid=93
+err0 https://web.archive.org/web/20071122141858id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=84&Itemid=1 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20071122141858id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=84&Itemid=1 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20071122141913id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=87&Itemid=1
+err0 https://web.archive.org/web/20071122141919id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=88&Itemid=1 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20071122141858id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=84&Itemid=1 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20071122141919id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=88&Itemid=1 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20071122141919id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=88&Itemid=1 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20060204164418id_/http://www.calirivera.com:80/content/view/8/17/
+ok https://web.archive.org/web/20091130172504id_/http://www.calirivera.com:80/cpael
+ok https://web.archive.org/web/20071122141858id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=84&Itemid=1
+ok https://web.archive.org/web/20071122141919id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=88&Itemid=1
+ok https://web.archive.org/web/20080414204159id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=90&Itemid=1
+ok https://web.archive.org/web/20081230234037id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=93
+ok https://web.archive.org/web/20080330015936id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=89&Itemid=1
+ok https://web.archive.org/web/20081230203024id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=94
+ok https://web.archive.org/web/20081230212401id_/http://www.calirivera.com:80/index.php?option=com_content&task=view&id=95
+ok https://web.archive.org/web/20110101054208id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=113:cali-en-guatemala&catid=1
+ok https://web.archive.org/web/20110101054214id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=127&Itemid=21
+err0 https://web.archive.org/web/20110101053908id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=164&Itemid=800007 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101053903id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=118&Itemid=800005
+err1 https://web.archive.org/web/20110101053908id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=164&Itemid=800007 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20110101054225id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=168:mes-de-noviembre-actividades&catid=32&Itemid=800002 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20110101054225id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=168:mes-de-noviembre-actividades&catid=32&Itemid=800002 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20110101053908id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=164&Itemid=800007 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20110101054225id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=168:mes-de-noviembre-actividades&catid=32&Itemid=800002 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110910051246id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=169:cali-rivera-expone-en-cartago&catid=32&Itemid=800002
+ok https://web.archive.org/web/20110910103726id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=183:clausura-de-la-exposici&catid=1
+ok https://web.archive.org/web/20110910055139id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=184&Itemid=800008
+ok https://web.archive.org/web/20111108012102id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=190:portada-san-jose-volando&catid=32:actividades-taller-del-artista&Itemid=800002
+ok https://web.archive.org/web/20111108012056id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=189:exposicion-gastronomica&catid=32:actividades-taller-del-artista&Itemid=800002
+ok https://web.archive.org/web/20130507030734id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=205&Itemid=800009
+ok https://web.archive.org/web/20110101054231id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=2&Itemid=3
+ok https://web.archive.org/web/20110101053918id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=29&Itemid=18
+ok https://web.archive.org/web/20110101054236id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=33&Itemid=28
+ok https://web.archive.org/web/20110101053923id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=34&Itemid=37
+ok https://web.archive.org/web/20110101054241id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=37&Itemid=44
+ok https://web.archive.org/web/20110101053928id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=38&Itemid=48
+ok https://web.archive.org/web/20110101053933id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=40&Itemid=52
+err0 https://web.archive.org/web/20110101054251id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=41&Itemid=53 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101054246id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=39&Itemid=49
+ok https://web.archive.org/web/20110101054251id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=41&Itemid=53
+ok https://web.archive.org/web/20110101054259id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=42&Itemid=50
+ok https://web.archive.org/web/20110101054304id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=44&Itemid=58
+err0 https://web.archive.org/web/20110101054310id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=45&Itemid=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101053938id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=43&Itemid=51
+err1 https://web.archive.org/web/20110101054310id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=45&Itemid=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101053943id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=46&Itemid=60
+ok https://web.archive.org/web/20110101053948id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=47&Itemid=61
+err0 https://web.archive.org/web/20110101053954id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=48&Itemid=63 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20110101054310id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=45&Itemid=59 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20110101053954id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=48&Itemid=63 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20110101053954id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=48&Itemid=63 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+err0 https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20110101053908id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=164&Itemid=800007
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+err0 https://web.archive.org/web/20110101054310id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=45&Itemid=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101054225id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=168:mes-de-noviembre-actividades&catid=32&Itemid=800002
+ok https://web.archive.org/web/20110101053954id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=48&Itemid=63
+ok https://web.archive.org/web/20110101054310id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=45&Itemid=59
+err0 https://web.archive.org/web/20110101054008id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=50&Itemid=54 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101053959id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=49&Itemid=64
+err0 https://web.archive.org/web/20110101054315id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=51&Itemid=55 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101054008id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=50&Itemid=54
+ok https://web.archive.org/web/20110101054315id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=51&Itemid=55
+ok https://web.archive.org/web/20110101054013id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=52&Itemid=56
+ok https://web.archive.org/web/20110101054018id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=53&Itemid=57
+err0 https://web.archive.org/web/20110101054320id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=54&Itemid=62 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20110101054023id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=59&Itemid=43 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20110101054023id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=59&Itemid=43 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101054320id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=54&Itemid=62
+ok https://web.archive.org/web/20110101054028id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=60&Itemid=45
+ok https://web.archive.org/web/20110101054325id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=68&Itemid=33
+err2 https://web.archive.org/web/20110101054023id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=59&Itemid=43 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20110101054330id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=69&Itemid=34 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20110101054330id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=69&Itemid=34 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20110101054330id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=69&Itemid=34 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20110101054336id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=7&Itemid=65 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20110101054336id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=7&Itemid=65 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20110101054336id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=7&Itemid=65 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20110101054033id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=70&Itemid=35 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20110101054033id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=70&Itemid=35 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20110101054033id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=70&Itemid=35
+ok https://web.archive.org/web/20110101054341id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=71&Itemid=41
+ok https://web.archive.org/web/20110101054039id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=72&Itemid=42
+ok https://web.archive.org/web/20110101054050id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=75&Itemid=46
+ok https://web.archive.org/web/20110101054055id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=76&Itemid=47
+ok https://web.archive.org/web/20110101054100id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=8&Itemid=17
+ok https://web.archive.org/web/20110101054346id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=92&Itemid=73
+ok https://web.archive.org/web/20110910063315id_/http://www.calirivera.com:80/index.php?option=com_content&view=category&layout=blog&id=63&Itemid=800003
+ok https://web.archive.org/web/20190107142117id_/http://calirivera.com/index.php?start=0
+ok https://web.archive.org/web/20161015134421id_/http://calirivera.com/index.php?start=1
+ok https://web.archive.org/web/20140827084543id_/http://calirivera.com/index.php?start=10
+ok https://web.archive.org/web/20161206195533id_/http://calirivera.com/index.php?start=11
+ok https://web.archive.org/web/20130829004254id_/http://www.calirivera.com:80/index.php?start=12
+ok https://web.archive.org/web/20161206210708id_/http://calirivera.com/index.php?start=13
+ok https://web.archive.org/web/20140827150020id_/http://calirivera.com/index.php?start=14
+ok https://web.archive.org/web/20190817112713id_/http://www.calirivera.com/index.php?start=15
+err0 https://web.archive.org/web/20140826193744id_/http://calirivera.com/index.php?start=18 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20130829004259id_/http://www.calirivera.com:80/index.php?start=16
+err1 https://web.archive.org/web/20140826193744id_/http://calirivera.com/index.php?start=18 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20140826181334id_/http://calirivera.com/index.php?start=2
+err0 https://web.archive.org/web/20190817111357id_/http://www.calirivera.com/index.php?start=21 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20140826193744id_/http://calirivera.com/index.php?start=18
+err1 https://web.archive.org/web/20190817111357id_/http://www.calirivera.com/index.php?start=21 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20190718053131id_/http://calirivera.com/index.php?start=24 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190718053131id_/http://calirivera.com/index.php?start=24 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20190817111357id_/http://www.calirivera.com/index.php?start=21 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20190718053131id_/http://calirivera.com/index.php?start=24 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20110101054023id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=59&Itemid=43
+ok https://web.archive.org/web/20110101054330id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=69&Itemid=34
+ok https://web.archive.org/web/20110101054336id_/http://www.calirivera.com:80/index.php?option=com_content&view=article&id=7&Itemid=65
+ok https://web.archive.org/web/20190718053131id_/http://calirivera.com/index.php?start=24
+ok https://web.archive.org/web/20190817111357id_/http://www.calirivera.com/index.php?start=21
+ok https://web.archive.org/web/20190718043423id_/http://calirivera.com/index.php?start=27
+ok https://web.archive.org/web/20160611211739id_/http://www.calirivera.com:80/index.php?start=3
+ok https://web.archive.org/web/20190817112545id_/http://www.calirivera.com/index.php?start=30
+ok https://web.archive.org/web/20190821134724id_/http://calirivera.com/index.php?start=33
+err0 https://web.archive.org/web/20190821134937id_/http://calirivera.com/index.php?start=36 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20190820203958id_/http://calirivera.com/index.php?start=39 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190821134937id_/http://calirivera.com/index.php?start=36 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20190820203958id_/http://calirivera.com/index.php?start=39
+ok https://web.archive.org/web/20130829004305id_/http://www.calirivera.com:80/index.php?start=4
+ok https://web.archive.org/web/20140827114917id_/http://calirivera.com/index.php?start=48
+err2 https://web.archive.org/web/20190821134937id_/http://calirivera.com/index.php?start=36 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20161015134358id_/http://calirivera.com/index.php?start=5 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20161015134358id_/http://calirivera.com/index.php?start=5 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20161015134358id_/http://calirivera.com/index.php?start=5 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20150205122435id_/http://calirivera.com/index.php?start=56 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20150205122435id_/http://calirivera.com/index.php?start=56 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20150205122435id_/http://calirivera.com/index.php?start=56 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20190821134027id_/http://calirivera.com/index.php?start=57 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190821134027id_/http://calirivera.com/index.php?start=57 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20190821134027id_/http://calirivera.com/index.php?start=57 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20140828020743id_/http://calirivera.com/index.php?start=6
+ok https://web.archive.org/web/20190821142237id_/http://calirivera.com/index.php?start=60
+ok https://web.archive.org/web/20150810051856id_/http://calirivera.com/index.php?start=62
+ok https://web.archive.org/web/20190821142449id_/http://calirivera.com/index.php?start=63
+ok https://web.archive.org/web/20161206195026id_/http://calirivera.com/index.php?start=69
+ok https://web.archive.org/web/20151227142703id_/http://calirivera.com/index.php?start=66
+ok https://web.archive.org/web/20160115074746id_/http://calirivera.com/index.php?start=70
+ok https://web.archive.org/web/20161015132639id_/http://calirivera.com/index.php?start=7
+ok https://web.archive.org/web/20161207015326id_/http://calirivera.com/index.php?start=71
+ok https://web.archive.org/web/20160401223833id_/http://calirivera.com/index.php?start=72
+ok https://web.archive.org/web/20161206193924id_/http://calirivera.com/index.php?start=73
+ok https://web.archive.org/web/20161206134751id_/http://calirivera.com/index.php?start=75
+ok https://web.archive.org/web/20161206211255id_/http://calirivera.com/index.php?start=74
+ok https://web.archive.org/web/20161206133756id_/http://calirivera.com/index.php?start=77
+ok https://web.archive.org/web/20161206195335id_/http://calirivera.com/index.php?start=76
+ok https://web.archive.org/web/20161015132954id_/http://calirivera.com/index.php?start=78
+ok https://web.archive.org/web/20190108075157id_/http://calirivera.com/index.php?start=79
+ok https://web.archive.org/web/20130829004331id_/http://www.calirivera.com:80/index.php?start=8
+ok https://web.archive.org/web/20171115202451id_/http://www.calirivera.com:80/index.php?start=80
+err0 https://web.archive.org/web/20190108102859id_/http://calirivera.com/index.php?start=81 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20190108054430id_/http://calirivera.com/index.php?start=82 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190108102859id_/http://calirivera.com/index.php?start=81 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190108054430id_/http://calirivera.com/index.php?start=82 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20190108102859id_/http://calirivera.com/index.php?start=81 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20190108054430id_/http://calirivera.com/index.php?start=82 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+err0 https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+err0 https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+err0 https://web.archive.org/web/20190821134937id_/http://calirivera.com/index.php?start=36 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20190821134937id_/http://calirivera.com/index.php?start=36
+ok https://web.archive.org/web/20161015134358id_/http://calirivera.com/index.php?start=5
+err0 https://web.archive.org/web/20190821134027id_/http://calirivera.com/index.php?start=57 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20150205122435id_/http://calirivera.com/index.php?start=56
+ok https://web.archive.org/web/20190108102859id_/http://calirivera.com/index.php?start=81
+err0 https://web.archive.org/web/20190108054430id_/http://calirivera.com/index.php?start=82 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20190821134027id_/http://calirivera.com/index.php?start=57
+err0 https://web.archive.org/web/20180815161853id_/http://calirivera.com/index.php?start=83 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20190108054430id_/http://calirivera.com/index.php?start=82 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20180815161853id_/http://calirivera.com/index.php?start=83
+ok https://web.archive.org/web/20190107172554id_/http://calirivera.com/index.php?start=84
+ok https://web.archive.org/web/20190108054430id_/http://calirivera.com/index.php?start=82
+ok https://web.archive.org/web/20201024175756id_/http://calirivera.com/index.php?start=87
+ok https://web.archive.org/web/20161015134503id_/http://calirivera.com/index.php?start=9
+ok https://web.archive.org/web/20010303024529id_/http://www.calirivera.com:80/index2.html
+err0 https://web.archive.org/web/20060219054516id_/http://www.calirivera.com:80/my/swtreg.asp?title=%CE%D2%D2%AA%C9%EA%C7%EB%B3%C9%CE%AA%C9%CC%CE%F1%CD%A8%BB%E1%D4%B1%A3%AC%B7%FE%CE%F1%B7%D1%C3%BF%D4%C2200%D4%AA <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20060219054516id_/http://www.calirivera.com:80/my/swtreg.asp?title=%CE%D2%D2%AA%C9%EA%C7%EB%B3%C9%CE%AA%C9%CC%CE%F1%CD%A8%BB%E1%D4%B1%A3%AC%B7%FE%CE%F1%B7%D1%C3%BF%D4%C2200%D4%AA <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20130813012026id_/http://www.calirivera.com:80/jupgrade/
+err0 https://web.archive.org/web/20021031210136id_/http://calirivera.com:80/obras/mc_comment.html <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20021031210136id_/http://calirivera.com:80/obras/mc_comment.html <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20060219054516id_/http://www.calirivera.com:80/my/swtreg.asp?title=%CE%D2%D2%AA%C9%EA%C7%EB%B3%C9%CE%AA%C9%CC%CE%F1%CD%A8%BB%E1%D4%B1%A3%AC%B7%FE%CE%F1%B7%D1%C3%BF%D4%C2200%D4%AA <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20021031210136id_/http://calirivera.com:80/obras/mc_comment.html <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20100214093058id_/http://www.calirivera.com:80/old/index.php? <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20100214093058id_/http://www.calirivera.com:80/old/index.php?
+ok https://web.archive.org/web/20161206205440id_/http://calirivera.com/version1/
+ok https://web.archive.org/web/20161206203912id_/http://calirivera.com/poetry/index.html
+ok https://web.archive.org/web/20161206205504id_/http://calirivera.com/~calirive/index.php
+ok https://web.archive.org/web/20161206133807id_/http://calirivera.com/~calirive/
+ok https://web.archive.org/web/20161206194936id_/http://calirivera.com/~calirive/index.php/contactanos.html
+err0 https://web.archive.org/web/20221020174521id_/https://tallerdelartista.com/category/uncategorized/ <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20090901110625id_/http://www.tallerdelartista.com:80/index.php?option=com_frontpage&Itemid=1
+err0 https://web.archive.org/web/20241112103712id_/https://calirivera.com/index.php/historico.html?start=30 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20221020174521id_/https://tallerdelartista.com/category/uncategorized/
+ok https://web.archive.org/web/20241112103712id_/https://calirivera.com/index.php/historico.html?start=30
+ok https://web.archive.org/web/20241112103828id_/https://calirivera.com/index.php/historico.html?start=33
+err0 https://web.archive.org/web/20241112104107id_/https://calirivera.com/index.php/historico.html?start=39 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20241112104027id_/https://calirivera.com/index.php/historico.html?start=36
+ok https://web.archive.org/web/20250328045752id_/https://calirivera.com/index.php/historico.html?start=48
+ok https://web.archive.org/web/20241112104107id_/https://calirivera.com/index.php/historico.html?start=39
+err0 https://web.archive.org/web/20250328051523id_/https://calirivera.com/index.php/historico.html?start=51 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20250328052100id_/https://calirivera.com/index.php/historico.html?start=57 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20250328051523id_/https://calirivera.com/index.php/historico.html?start=51 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20250328052100id_/https://calirivera.com/index.php/historico.html?start=57
+err0 https://web.archive.org/web/20241112092531id_/https://calirivera.com/index.php/historico.html?start=60 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20250328051523id_/https://calirivera.com/index.php/historico.html?start=51
+ok https://web.archive.org/web/20241112092817id_/https://calirivera.com/index.php/historico.html?start=63
+ok https://web.archive.org/web/20241112092531id_/https://calirivera.com/index.php/historico.html?start=60
+ok https://web.archive.org/web/20241112093156id_/https://calirivera.com/index.php/historico.html?start=66
+ok https://web.archive.org/web/20241112093305id_/https://calirivera.com/index.php/historico.html?start=69
+err0 https://web.archive.org/web/20241112095232id_/https://calirivera.com/index.php/historico.html?start=75 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20241112095017id_/https://calirivera.com/index.php/historico.html?start=72
+err0 https://web.archive.org/web/20241112095617id_/https://calirivera.com/index.php/historico.html?start=78 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20241112095232id_/https://calirivera.com/index.php/historico.html?start=75 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20241112095617id_/https://calirivera.com/index.php/historico.html?start=78 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20241112095232id_/https://calirivera.com/index.php/historico.html?start=75 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20241112095617id_/https://calirivera.com/index.php/historico.html?start=78 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260616024658id_/https://calirivera.com/index.php/cali-rivera-74/biografia?view=article&id=235:curriculum-vitae-2&catid=61
+ok https://web.archive.org/web/20260616032142id_/https://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/11-camila-shumacher-la-nacion-7-de-marzo-2000
+ok https://web.archive.org/web/20260616033116id_/https://calirivera.com/index.php/mi-obra
+ok https://web.archive.org/web/20260616021453id_/https://calirivera.com/index.php/mi-vision
+ok https://web.archive.org/web/20260616020917id_/https://calirivera.com/index.php/obras/ave-f%C3%A9nix?task=view&id=71
+ok https://web.archive.org/web/20260616031500id_/https://calirivera.com/index.php/obras/musas-del-cantaro-1995?task=view&id=69
+ok https://web.archive.org/web/20260616030449id_/http://calirivera.com/index.php/obras/sincretismo-religioso-2014?view=category&id=73
+ok https://web.archive.org/web/20260616033059id_/https://calirivera.com/index.php/obras/transmutaci%C3%B3n?task=view&id=59
+ok https://web.archive.org/web/20060219054516id_/http://www.calirivera.com:80/my/swtreg.asp?title=%CE%D2%D2%AA%C9%EA%C7%EB%B3%C9%CE%AA%C9%CC%CE%F1%CD%A8%BB%E1%D4%B1%A3%AC%B7%FE%CE%F1%B7%D1%C3%BF%D4%C2200%D4%AA
+ok https://web.archive.org/web/20021031210136id_/http://calirivera.com:80/obras/mc_comment.html
+err0 https://web.archive.org/web/20241112095617id_/https://calirivera.com/index.php/historico.html?start=78 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20241112095232id_/https://calirivera.com/index.php/historico.html?start=75
+ok https://web.archive.org/web/20241112101425id_/https://calirivera.com/index.php/historico.html?start=81
+err0 https://web.archive.org/web/20241112101520id_/https://calirivera.com/index.php/historico.html?start=84 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20241112095617id_/https://calirivera.com/index.php/historico.html?start=78
+err0 https://web.archive.org/web/20260115050637id_/https://www.calirivera.com/index.php/historico?start=12 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20241112101520id_/https://calirivera.com/index.php/historico.html?start=84
+err1 https://web.archive.org/web/20260115050637id_/https://www.calirivera.com/index.php/historico?start=12 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260115060806id_/https://www.calirivera.com/index.php/historico?start=15 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115060806id_/https://www.calirivera.com/index.php/historico?start=15
+err0 https://web.archive.org/web/20260115050332id_/https://www.calirivera.com/index.php/historico?start=18 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115050637id_/https://www.calirivera.com/index.php/historico?start=12
+ok https://web.archive.org/web/20260115050037id_/https://www.calirivera.com/index.php/historico?start=21
+ok https://web.archive.org/web/20260115050332id_/https://www.calirivera.com/index.php/historico?start=18
+ok https://web.archive.org/web/20260115060035id_/https://www.calirivera.com/index.php/historico?start=24
+err0 https://web.archive.org/web/20260115054431id_/https://www.calirivera.com/index.php/historico?start=3 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115045621id_/https://www.calirivera.com/index.php/historico?start=27
+err0 https://web.archive.org/web/20260510104458id_/http://calirivera.com/index.php/historico?start=6 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115054431id_/https://www.calirivera.com/index.php/historico?start=3 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260510104458id_/http://calirivera.com/index.php/historico?start=6 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20260115054431id_/https://www.calirivera.com/index.php/historico?start=3 <urlopen error [Errno 111] Connection refused>
+err2 https://web.archive.org/web/20260510104458id_/http://calirivera.com/index.php/historico?start=6 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260115061226id_/https://www.calirivera.com/index.php/historico?start=87 <urlopen error [Errno 111] Connection refused>
+err0 https://web.archive.org/web/20260115045543id_/https://www.calirivera.com/index.php/historico?start=9 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115061226id_/https://www.calirivera.com/index.php/historico?start=87 <urlopen error [Errno 111] Connection refused>
+err1 https://web.archive.org/web/20260115045543id_/https://www.calirivera.com/index.php/historico?start=9 <urlopen error [Errno 111] Connection refused>
+ok https://web.archive.org/web/20260115061226id_/https://www.calirivera.com/index.php/historico?start=87
+ok https://web.archive.org/web/20260115045543id_/https://www.calirivera.com/index.php/historico?start=9
+ok https://web.archive.org/web/20130828043424id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades?start=15
+ok https://web.archive.org/web/20130828043419id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades?start=10
+ok https://web.archive.org/web/20130828043842id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades?start=20
+ok https://web.archive.org/web/20130827182350id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades?start=25
+ok https://web.archive.org/web/20130827182357id_/http://calirivera.com:80/index.php/taller-del-artista-17/actividades?start=5
+ok https://web.archive.org/web/20260115052214id_/https://www.calirivera.com/index.php/taller-del-artista/actividades?start=20
+ok https://web.archive.org/web/20260115060106id_/https://www.calirivera.com/index.php/videos?start=12
+ok https://web.archive.org/web/20260609153239id_/https://www.calirivera.com/index.php/taller-del-artista/actividades?start=40
+ok https://web.archive.org/web/20260115045426id_/https://www.calirivera.com/index.php/videos?start=4
+ok https://web.archive.org/web/20260115050153id_/https://www.calirivera.com/index.php/videos?start=8

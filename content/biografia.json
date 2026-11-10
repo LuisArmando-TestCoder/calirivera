@@ -2,6 +2,7 @@
   "slug": "biografia",
   "url": "https://calirivera.com/biografia",
   "title": "Biografía",
+  "name": "Biografía",
   "meta": {
     "og:url": "https://calirivera.com/biografia",
     "og:title": "Biografía",
@@ -11,78 +12,74 @@
   },
   "sections": [
     {
-      "blockId": "hero",
-      "heading": null,
-      "paragraphs": [
-        "Artista multidisciplinario costarricense · San José, 1969"
-      ],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-8uAZ6Wg1pDNZsEID.png",
-          "localPath": "assets/biografia/cali-8uAZ6Wg1pDNZsEID.png",
-          "alt": null,
-          "caption": null,
-          "width": 1140,
-          "height": 1380,
-          "role": "block-background__image block-background__image--fixed"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "hero",
+      "blockId": "eVujSj",
       "heading": "CALI",
-      "level": "h3",
-      "paragraphs": [],
+      "paragraphs": [
+        "Artista multidisciplinario costarricense · San José, 1969",
+        "RIVERA"
+      ],
       "images": [],
-      "links": []
-    },
-    {
-      "blockId": "hero",
-      "heading": "RIVERA",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "z4qp4I",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-8uAZ6Wg1pDNZsEID.png",
+        "localPath": "assets/biografia/cali-8uAZ6Wg1pDNZsEID.png",
+        "alt": null,
+        "caption": null,
+        "width": 1140,
+        "height": 1380,
+        "bytes": 2717577,
+        "role": "background",
+        "overlayOpacity": "0.60"
+      },
+      "elements": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cama-1YtbTvTIoHTpOrkA.PNG",
-          "localPath": "assets/biografia/cama-1YtbTvTIoHTpOrkA.PNG",
-          "alt": "red blue and black abstract painting",
-          "caption": null,
-          "width": 776,
-          "height": 571,
-          "role": "block-background__image"
+          "id": "ofK2vR",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 52,
+            "left": 103,
+            "width": 508,
+            "height": 28
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Artista multidisciplinario costarricense · San José, 1969"
+            }
+          ]
+        },
+        {
+          "id": "zyMzZ2",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 142,
+            "left": 81,
+            "width": 731,
+            "height": 217
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "CALI"
+            },
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "RIVERA"
+            }
+          ]
         }
       ],
-      "links": []
+      "level": "h3"
     },
     {
       "blockId": "z4qp4I",
       "heading": "QUIÉN",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "z4qp4I",
-      "heading": "ES CALI?",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "z4qp4I",
-      "heading": "Cali Rivera es un artista multidisciplinario costarricense nacido en San José en 1969. Pintor, creador de instalaciones, arte objeto y obras textiles, su trayectoria se ha construido desde una búsqueda permanente de libertad, experimentación y reflexión.",
-      "level": "h5",
       "paragraphs": [
+        "ES CALI?",
+        "Cali Rivera es un artista multidisciplinario costarricense nacido en San José en 1969. Pintor, creador de instalaciones, arte objeto y obras textiles, su trayectoria se ha construido desde una búsqueda permanente de libertad, experimentación y reflexión.",
         "Desde temprana edad encontró en el arte una forma natural de expresión. Con el paso de los años, su universo creativo trascendió los límites de la pintura para incorporar textiles, instalaciones, arquitectura, sonido, performance y experiencias donde el espectador deja de ser únicamente observador para convertirse en parte de la obra.",
         "Su trabajo aborda temas como la espiritualidad, la tolerancia, la identidad, la naturaleza, la paz y la relación del ser humano con el planeta. Más que adscribirse a una tendencia específica, Rivera ha defendido una idea que atraviesa toda su trayectoria: el arte como territorio de libertad."
       ],
@@ -94,60 +91,99 @@
           "caption": null,
           "width": 1087,
           "height": 1447,
-          "role": "image__image"
+          "bytes": 2263715,
+          "role": "image",
+          "fullResolution": [
+            1087,
+            1447
+          ],
+          "href": null
+        }
+      ],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cama-1YtbTvTIoHTpOrkA.PNG",
+        "localPath": "assets/biografia/cama-1YtbTvTIoHTpOrkA.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 776,
+        "height": 571,
+        "bytes": 975213,
+        "role": "background",
+        "overlayOpacity": "0.89"
+      },
+      "elements": [
+        {
+          "id": "zc3Oxt",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 144,
+            "left": 0,
+            "width": 772,
+            "height": 178
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "QUIÉN"
+            },
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "ES CALI?"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-bebe-Q3bueZvpl0M9YJuu.png",
-          "localPath": "assets/biografia/cali-bebe-Q3bueZvpl0M9YJuu.png",
-          "alt": null,
-          "caption": null,
-          "width": 1087,
-          "height": 1447,
-          "role": "image__image"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "hitos",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+          "id": "zCZ2oQ",
+          "type": "GridImage",
+          "desktop": {
+            "top": 271,
+            "left": 721,
+            "width": 410,
+            "height": 540,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/cali-bebe-Q3bueZvpl0M9YJuu.png"
+        },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/luna-azul-sJNevcciZEpaggyc.png",
-          "localPath": "assets/biografia/luna-azul-sJNevcciZEpaggyc.png",
-          "alt": "red blue and black abstract painting",
-          "caption": null,
-          "width": 1148,
-          "height": 1371,
-          "role": "block-background__image"
+          "id": "zDnG5k",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 440,
+            "left": 0,
+            "width": 635,
+            "height": 378
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "Cali Rivera es un artista multidisciplinario costarricense nacido en San José en 1969. Pintor, creador de instalaciones, arte objeto y obras textiles, su trayectoria se ha construido desde una búsqueda permanente de libertad, experimentación y reflexión."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Desde temprana edad encontró en el arte una forma natural de expresión. Con el paso de los años, su universo creativo trascendió los límites de la pintura para incorporar textiles, instalaciones, arquitectura, sonido, performance y experiencias donde el espectador deja de ser únicamente observador para convertirse en parte de la obra."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Su trabajo aborda temas como la espiritualidad, la tolerancia, la identidad, la naturaleza, la paz y la relación del ser humano con el planeta. Más que adscribirse a una tendencia específica, Rivera ha defendido una idea que atraviesa toda su trayectoria: el arte como territorio de libertad."
+            }
+          ]
         }
       ],
-      "links": []
+      "level": "h3"
     },
     {
-      "blockId": "hitos",
+      "blockId": "fb9Ou_",
       "heading": "UNA VOCACIÓN QUE COMENZÓ EN LA INFANCIA",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "hitos",
-      "heading": "La relación de Cali Rivera con la creación comenzó mucho antes de convertirse en una profesión. Desde niño reconoció en el arte un espacio donde imaginar, experimentar y construir su propia manera de entender el mundo.",
-      "level": "h5",
       "paragraphs": [
-        "Su formación transitó por diferentes disciplinas. Realizó estudios de arquitectura en Collegium Veritas, se formó en técnicas de producción y posproducción audiovisual y concluyó estudios de Publicidad en la Universidad Latina de Costa Rica. Su recorrido profesional y creativo también se vinculó con la comunicación, el mercadeo, la producción de eventos, el cine, la televisión y la música."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "hitos",
-      "heading": "Su formación artística inició bajo la guía del maestro sueco Arvid Röström, con quien realizó estudios de pintura al óleo entre 1994 y 1998. Posteriormente amplió su preparación con talleres de dibujo impartidos por Fabio Herrera y estudios de grabado junto a Mario Maffioli y el propio Herrera, fortaleciendo una base técnica que ha acompañado la evolución de su lenguaje artístico.",
-      "level": "h5",
-      "paragraphs": [
+        "La relación de Cali Rivera con la creación comenzó mucho antes de convertirse en una profesión. Desde niño reconoció en el arte un espacio donde imaginar, experimentar y construir su propia manera de entender el mundo.",
+        "Su formación transitó por diferentes disciplinas. Realizó estudios de arquitectura en Collegium Veritas, se formó en técnicas de producción y posproducción audiovisual y concluyó estudios de Publicidad en la Universidad Latina de Costa Rica. Su recorrido profesional y creativo también se vinculó con la comunicación, el mercadeo, la producción de eventos, el cine, la televisión y la música.",
+        "Su formación artística inició bajo la guía del maestro sueco Arvid Röström, con quien realizó estudios de pintura al óleo entre 1994 y 1998. Posteriormente amplió su preparación con talleres de dibujo impartidos por Fabio Herrera y estudios de grabado junto a Mario Maffioli y el propio Herrera, fortaleciendo una base técnica que ha acompañado la evolución de su lenguaje artístico.",
         "Esta diversidad terminaría convirtiéndose en una característica esencial de su obra: para Rivera, las disciplinas no existen necesariamente como territorios separados. Pintura, espacio, objeto, sonido, arquitectura y experiencia pueden encontrarse dentro de una misma propuesta artística."
       ],
       "images": [
@@ -158,50 +194,97 @@
           "caption": null,
           "width": 1511,
           "height": 1041,
-          "role": "image__image"
+          "bytes": 2421617,
+          "role": "image",
+          "fullResolution": [
+            1511,
+            1041
+          ],
+          "href": null
+        }
+      ],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/luna-azul-sJNevcciZEpaggyc.png",
+        "localPath": "assets/biografia/luna-azul-sJNevcciZEpaggyc.png",
+        "alt": null,
+        "caption": null,
+        "width": 1148,
+        "height": 1371,
+        "bytes": 2805821,
+        "role": "background",
+        "overlayOpacity": "0.89"
+      },
+      "elements": [
+        {
+          "id": "znE1FN",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 84,
+            "left": 0,
+            "width": 1121,
+            "height": 156
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "UNA VOCACIÓN QUE COMENZÓ EN LA INFANCIA"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-rivera-3-SuAA23MNKG2LcZp8.png",
-          "localPath": "assets/biografia/cali-rivera-3-SuAA23MNKG2LcZp8.png",
-          "alt": null,
-          "caption": null,
-          "width": 1511,
-          "height": 1041,
-          "role": "image__image"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "z4gcIi",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+          "id": "zuVIgg",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 331,
+            "left": 0,
+            "width": 681,
+            "height": 475
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "La relación de Cali Rivera con la creación comenzó mucho antes de convertirse en una profesión. Desde niño reconoció en el arte un espacio donde imaginar, experimentar y construir su propia manera de entender el mundo."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Su formación transitó por diferentes disciplinas. Realizó estudios de arquitectura en Collegium Veritas, se formó en técnicas de producción y posproducción audiovisual y concluyó estudios de Publicidad en la Universidad Latina de Costa Rica. Su recorrido profesional y creativo también se vinculó con la comunicación, el mercadeo, la producción de eventos, el cine, la televisión y la música."
+            },
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "Su formación artística inició bajo la guía del maestro sueco Arvid Röström, con quien realizó estudios de pintura al óleo entre 1994 y 1998. Posteriormente amplió su preparación con talleres de dibujo impartidos por Fabio Herrera y estudios de grabado junto a Mario Maffioli y el propio Herrera, fortaleciendo una base técnica que ha acompañado la evolución de su lenguaje artístico."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Esta diversidad terminaría convirtiéndose en una característica esencial de su obra: para Rivera, las disciplinas no existen necesariamente como territorios separados. Pintura, espacio, objeto, sonido, arquitectura y experiencia pueden encontrarse dentro de una misma propuesta artística."
+            }
+          ]
+        },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
-          "localPath": "assets/biografia/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
-          "alt": "red blue and black abstract painting",
-          "caption": null,
-          "width": 412,
-          "height": 553,
-          "role": "block-background__image"
+          "id": "zpjrB_",
+          "type": "GridImage",
+          "desktop": {
+            "top": 331,
+            "left": 721,
+            "width": 493,
+            "height": 481,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/cali-rivera-3-SuAA23MNKG2LcZp8.png"
         }
       ],
-      "links": []
+      "level": "h3"
     },
     {
       "blockId": "z4gcIi",
       "heading": "DE LA PINTURA A UN UNIVERSO MULTIDISCIPLINARIO",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "z4gcIi",
-      "heading": "Durante la década de 1990 comenzó a consolidarse el lenguaje artístico de Cali Rivera. Obras como Atmósfera , Musas del Cántaro y Sueños en Azul antecedieron una etapa de transformación en la que la pintura comenzó a dialogar cada vez más con otros lenguajes.",
-      "level": "h5",
       "paragraphs": [
+        "Durante la década de 1990 comenzó a consolidarse el lenguaje artístico de Cali Rivera. Obras como Atmósfera , Musas del Cántaro y Sueños en Azul antecedieron una etapa de transformación en la que la pintura comenzó a dialogar cada vez más con otros lenguajes.",
         "Con Detrás de la Ventana , Ave Fénix y posteriormente Plegaria y Poetry , Rivera amplió progresivamente los límites de su práctica artística.",
         "La obra dejó de existir únicamente sobre el lienzo.",
         "Aparecieron instalaciones, textiles, objetos, luz, sonido, tecnología y participación del espectador. Esta búsqueda multidisciplinaria se convertiría en uno de los elementos constantes de su trayectoria."
@@ -214,50 +297,97 @@
           "caption": null,
           "width": 2007,
           "height": 784,
-          "role": "image__image"
+          "bytes": 2679853,
+          "role": "image",
+          "fullResolution": [
+            435,
+            170
+          ],
+          "href": null
+        }
+      ],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
+        "localPath": "assets/biografia/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 412,
+        "height": 553,
+        "bytes": 431219,
+        "role": "background",
+        "overlayOpacity": "0.89"
+      },
+      "elements": [
+        {
+          "id": "z62nOm",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 61,
+            "left": 24,
+            "width": 1149,
+            "height": 178
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "DE LA PINTURA A UN UNIVERSO MULTIDISCIPLINARIO"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali-exvotos-siu4fNQNNshF3q2C.png",
-          "localPath": "assets/biografia/cali-exvotos-siu4fNQNNshF3q2C.png",
-          "alt": null,
-          "caption": null,
-          "width": 2007,
-          "height": 784,
-          "role": "image__image"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "ztQ7eq",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+          "id": "zrGJ-E",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 302,
+            "left": 31,
+            "width": 596,
+            "height": 263
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "Durante la década de 1990 comenzó a consolidarse el lenguaje artístico de Cali Rivera. Obras como Atmósfera , Musas del Cántaro y Sueños en Azul antecedieron una etapa de transformación en la que la pintura comenzó a dialogar cada vez más con otros lenguajes."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Con Detrás de la Ventana , Ave Fénix y posteriormente Plegaria y Poetry , Rivera amplió progresivamente los límites de su práctica artística."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "La obra dejó de existir únicamente sobre el lienzo."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Aparecieron instalaciones, textiles, objetos, luz, sonido, tecnología y participación del espectador. Esta búsqueda multidisciplinaria se convertiría en uno de los elementos constantes de su trayectoria."
+            }
+          ]
+        },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/delirio-12W8wojiBV02mYAN.jpg",
-          "localPath": "assets/biografia/delirio-12W8wojiBV02mYAN.jpg",
-          "alt": "red blue and black abstract painting",
-          "caption": null,
-          "width": 372,
-          "height": 500,
-          "role": "block-background__image"
+          "id": "zknojL",
+          "type": "GridImage",
+          "desktop": {
+            "top": 327,
+            "left": 690,
+            "width": 486,
+            "height": 207,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/cali-exvotos-siu4fNQNNshF3q2C.png"
         }
       ],
-      "links": []
+      "level": "h3"
     },
     {
       "blockId": "ztQ7eq",
       "heading": "UN ESPACIO PARA VIVIR EL ARTE",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "ztQ7eq",
-      "heading": "La búsqueda de Cali Rivera trascendió también el espacio tradicional de exhibición.",
-      "level": "h5",
       "paragraphs": [
+        "La búsqueda de Cali Rivera trascendió también el espacio tradicional de exhibición.",
         "El 7 de marzo de 2000, con la exposición Detrás de la Ventana , abrió oficialmente el Taller del Artista en Tres Ríos, Costa Rica: un espacio concebido para el encuentro entre diferentes manifestaciones artísticas y para acercar el proceso creativo al público.",
         "Con el tiempo, el Taller evolucionó hasta convertirse en una extensión del propio universo de Rivera. Pintura, textiles, instalaciones, arquitectura, música, gastronomía y encuentro comenzaron a convivir dentro de un mismo lugar.",
         "Más que una galería, el Taller del Artista se convirtió en una obra en permanente transformación y en una plataforma para artistas nacionales e internacionales."
@@ -270,55 +400,106 @@
           "caption": null,
           "width": 1024,
           "height": 1536,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/taller-del-artista-UJK3bqdZmx7TConb.png",
-          "localPath": "assets/biografia/taller-del-artista-UJK3bqdZmx7TConb.png",
-          "alt": null,
-          "caption": null,
-          "width": 1024,
-          "height": 1536,
-          "role": "image__image"
+          "bytes": 2653923,
+          "role": "image",
+          "fullResolution": [
+            1024,
+            1536
+          ],
+          "href": null
         }
       ],
       "links": [
         {
           "href": "/taller-del-artista",
           "text": "Taller del Artista"
-        }
-      ]
-    },
-    {
-      "blockId": "zKu8LQ",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+        },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cruz-QHEzudwnpfog8IR0.png",
-          "localPath": "assets/biografia/cruz-QHEzudwnpfog8IR0.png",
-          "alt": "red blue and black abstract painting",
-          "caption": null,
-          "width": 1447,
-          "height": 1087,
-          "role": "block-background__image"
+          "href": "/taller-del-artista",
+          "text": "Taller"
         }
       ],
-      "links": []
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/delirio-12W8wojiBV02mYAN.jpg",
+        "localPath": "assets/biografia/delirio-12W8wojiBV02mYAN.jpg",
+        "alt": null,
+        "caption": null,
+        "width": 372,
+        "height": 500,
+        "bytes": 98027,
+        "role": "background",
+        "overlayOpacity": "0.89"
+      },
+      "elements": [
+        {
+          "id": "zZ_D3x",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 64,
+            "left": 24,
+            "width": 750,
+            "height": 156
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "UN ESPACIO PARA VIVIR EL ARTE"
+            }
+          ]
+        },
+        {
+          "id": "zERBQl",
+          "type": "GridImage",
+          "desktop": {
+            "top": 224,
+            "left": 639,
+            "width": 491,
+            "height": 395,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/taller-del-artista-UJK3bqdZmx7TConb.png"
+        },
+        {
+          "id": "zubOYP",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 264,
+            "left": 32,
+            "width": 549,
+            "height": 348
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "La búsqueda de Cali Rivera trascendió también el espacio tradicional de exhibición."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El 7 de marzo de 2000, con la exposición Detrás de la Ventana , abrió oficialmente el Taller del Artista en Tres Ríos, Costa Rica: un espacio concebido para el encuentro entre diferentes manifestaciones artísticas y para acercar el proceso creativo al público."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Con el tiempo, el Taller evolucionó hasta convertirse en una extensión del propio universo de Rivera. Pintura, textiles, instalaciones, arquitectura, música, gastronomía y encuentro comenzaron a convivir dentro de un mismo lugar."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Más que una galería, el Taller del Artista se convirtió en una obra en permanente transformación y en una plataforma para artistas nacionales e internacionales."
+            }
+          ]
+        }
+      ],
+      "level": "h3"
     },
     {
       "blockId": "zKu8LQ",
       "heading": "CREAR TAMBIÉN ES TOMAR POSICIÓN",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zKu8LQ",
-      "heading": "La obra de Cali Rivera ha mantenido una relación constante con su tiempo. La paz, la espiritualidad, la tolerancia, la protección del planeta y la convivencia entre culturas aparecen reiteradamente en su producción.",
-      "level": "h5",
       "paragraphs": [
+        "La obra de Cali Rivera ha mantenido una relación constante con su tiempo. La paz, la espiritualidad, la tolerancia, la protección del planeta y la convivencia entre culturas aparecen reiteradamente en su producción.",
         "A partir de textiles, estandartes, pintura e instalaciones, desarrolló proyectos vinculados con la Carta de la Tierra, la globalización, la cultura tibetana y la preservación de los recursos naturales.",
         "En 2009 trasladó temporalmente su práctica a San Pedro La Laguna, Guatemala, a orillas del Lago Atitlán. Allí se involucró con la comunidad y desarrolló obras orientadas a llamar la atención sobre la protección del lago, entre ellas La Cruz de San Pedro .",
         "Su investigación con textiles y estandartes alcanzaría reconocimiento internacional en 2010, cuando obtuvo el Primer Lugar Iberoamericano en Arte Textil de la Red Textil Iberoamerica na."
@@ -331,99 +512,131 @@
           "caption": null,
           "width": 1290,
           "height": 1219,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "localPath": "assets/biografia/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "alt": null,
-          "caption": null,
-          "width": 1290,
-          "height": 1219,
-          "role": "image__image"
+          "bytes": 419480,
+          "role": "image",
+          "fullResolution": [
+            1290,
+            1219
+          ],
+          "href": null
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "zorR20",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cruz-QHEzudwnpfog8IR0.png",
+        "localPath": "assets/biografia/cruz-QHEzudwnpfog8IR0.png",
+        "alt": null,
+        "caption": null,
+        "width": 1447,
+        "height": 1087,
+        "bytes": 2549175,
+        "role": "background",
+        "overlayOpacity": "0.89"
+      },
+      "elements": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/teatro-HqcXaKuhRk4u6mfY.png",
-          "localPath": "assets/biografia/teatro-HqcXaKuhRk4u6mfY.png",
-          "alt": null,
-          "caption": null,
-          "width": 1116,
-          "height": 1410,
-          "role": "block-background__image"
+          "id": "zsbpQf",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 120,
+            "left": 56,
+            "width": 980,
+            "height": 195
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "CREAR TAMBIÉN ES TOMAR POSICIÓN"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/riga-2-0zyzVsHjxPSVPu43.png",
-          "localPath": "assets/biografia/riga-2-0zyzVsHjxPSVPu43.png",
-          "alt": null,
-          "caption": null,
-          "width": 1448,
-          "height": 1086,
-          "role": "image__image"
+          "id": "zi0duD",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 356,
+            "left": 61,
+            "width": 551,
+            "height": 461
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "La obra de Cali Rivera ha mantenido una relación constante con su tiempo. La paz, la espiritualidad, la tolerancia, la protección del planeta y la convivencia entre culturas aparecen reiteradamente en su producción."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "A partir de textiles, estandartes, pintura e instalaciones, desarrolló proyectos vinculados con la Carta de la Tierra, la globalización, la cultura tibetana y la preservación de los recursos naturales."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "En 2009 trasladó temporalmente su práctica a San Pedro La Laguna, Guatemala, a orillas del Lago Atitlán. Allí se involucró con la comunidad y desarrolló obras orientadas a llamar la atención sobre la protección del lago, entre ellas La Cruz de San Pedro ."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Su investigación con textiles y estandartes alcanzaría reconocimiento internacional en 2010, cuando obtuvo el Primer Lugar Iberoamericano en Arte Textil de la Red Textil Iberoamerica na."
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/riga-2-0zyzVsHjxPSVPu43.png",
-          "localPath": "assets/biografia/riga-2-0zyzVsHjxPSVPu43.png",
-          "alt": null,
-          "caption": null,
-          "width": 1448,
-          "height": 1086,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png",
-          "localPath": "assets/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png",
-          "alt": null,
-          "caption": null,
-          "width": 1122,
-          "height": 1402,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png",
-          "localPath": "assets/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png",
-          "alt": null,
-          "caption": null,
-          "width": 1122,
-          "height": 1402,
-          "role": "image__image"
+          "id": "zWZQlK",
+          "type": "GridImage",
+          "desktop": {
+            "top": 393,
+            "left": 675,
+            "width": 406,
+            "height": 327,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/obra-mundial-3rGopp802cP96lZh.jpeg"
         }
       ],
-      "links": []
+      "level": "h3"
     },
     {
       "blockId": "zorR20",
       "heading": "UNA OBRA QUE TRASPASA FRONTERAS",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zorR20",
-      "heading": "La trayectoria de Cali Rivera ha llevado su trabajo fuera de Costa Rica y a espacios culturales de Europa, Asia y América.",
-      "level": "h5",
       "paragraphs": [
+        "La trayectoria de Cali Rivera ha llevado su trabajo fuera de Costa Rica y a espacios culturales de Europa, Asia y América.",
         "Sus proyectos han formado parte de exposiciones y encuentros en países como Guatemala, Nicaragua, Francia, Japón, Polonia y Letonia, además de numerosas exhibiciones en Costa Rica.",
         "En 2014 presentó CUD – MILAGRO en el Museo Central de Arte Textil de Łódź, Polonia. En 2015 regresó a Polonia con la exposición individual Sincretismo Religioso: un camino para la Paz y participó en la Trienal Internacional de Riga, Letonia.",
         "En 2016, su obra volvió a encontrarse con otra de sus grandes influencias, la música, al participar en Canto a la Libertad en el Teatro Nacional de Costa Rica, por invitación de la Orquesta Sinfónica Nacional."
       ],
       "images": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/teatro-nSaSnE9MNoF7vqEM.jpeg",
-          "localPath": "assets/biografia/teatro-nSaSnE9MNoF7vqEM.jpeg",
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png",
+          "localPath": "assets/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png",
           "alt": null,
           "caption": null,
-          "width": 1086,
-          "height": 1448,
-          "role": "image__image"
+          "width": 1122,
+          "height": 1402,
+          "bytes": 2447340,
+          "role": "image",
+          "fullResolution": [
+            1122,
+            1402
+          ],
+          "href": null
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/riga-2-0zyzVsHjxPSVPu43.png",
+          "localPath": "assets/biografia/riga-2-0zyzVsHjxPSVPu43.png",
+          "alt": null,
+          "caption": null,
+          "width": 1448,
+          "height": 1086,
+          "bytes": 2209252,
+          "role": "image",
+          "fullResolution": [
+            1448,
+            1086
+          ],
+          "href": null
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/teatro-nSaSnE9MNoF7vqEM.jpeg",
@@ -432,89 +645,154 @@
           "caption": null,
           "width": 1086,
           "height": 1448,
-          "role": "image__image"
+          "bytes": 365944,
+          "role": "image",
+          "fullResolution": [
+            1086,
+            1448
+          ],
+          "href": null
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "z34HzQ",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/teatro-HqcXaKuhRk4u6mfY.png",
+        "localPath": "assets/biografia/teatro-HqcXaKuhRk4u6mfY.png",
+        "alt": null,
+        "caption": null,
+        "width": 1116,
+        "height": 1410,
+        "bytes": 2271349,
+        "role": "background",
+        "overlayOpacity": "0.85"
+      },
+      "elements": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "localPath": "assets/biografia/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "alt": null,
-          "caption": null,
-          "width": 1102,
-          "height": 1428,
-          "role": "block-background__image"
+          "id": "z5EQJq",
+          "type": "GridImage",
+          "desktop": {
+            "top": 296,
+            "left": 73,
+            "width": 400,
+            "height": 303,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png"
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-1-DsoRLwPRK7X04U7U.png",
-          "localPath": "assets/biografia/incendio-1-DsoRLwPRK7X04U7U.png",
-          "alt": null,
-          "caption": null,
-          "width": 1086,
-          "height": 1448,
-          "role": "image__image"
+          "id": "zWeGwH",
+          "type": "GridImage",
+          "desktop": {
+            "top": 296,
+            "left": 721,
+            "width": 402,
+            "height": 302,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/riga-2-0zyzVsHjxPSVPu43.png"
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-1-DsoRLwPRK7X04U7U.png",
-          "localPath": "assets/biografia/incendio-1-DsoRLwPRK7X04U7U.png",
-          "alt": null,
-          "caption": null,
-          "width": 1086,
-          "height": 1448,
-          "role": "image__image"
+          "id": "zwXjxY",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 664,
+            "left": 64,
+            "width": 1032,
+            "height": 195
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "UNA OBRA QUE TRASPASA FRONTERAS"
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-2-fiX7isAhh1AegYgy.png",
-          "localPath": "assets/biografia/incendio-2-fiX7isAhh1AegYgy.png",
-          "alt": null,
-          "caption": null,
-          "width": 1078,
-          "height": 1460,
-          "role": "image__image"
+          "id": "zpNkXz",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 920,
+            "left": 60,
+            "width": 552,
+            "height": 410
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "La trayectoria de Cali Rivera ha llevado su trabajo fuera de Costa Rica y a espacios culturales de Europa, Asia y América."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Sus proyectos han formado parte de exposiciones y encuentros en países como Guatemala, Nicaragua, Francia, Japón, Polonia y Letonia, además de numerosas exhibiciones en Costa Rica."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "En 2014 presentó CUD – MILAGRO en el Museo Central de Arte Textil de Łódź, Polonia. En 2015 regresó a Polonia con la exposición individual Sincretismo Religioso: un camino para la Paz y participó en la Trienal Internacional de Riga, Letonia."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "En 2016, su obra volvió a encontrarse con otra de sus grandes influencias, la música, al participar en Canto a la Libertad en el Teatro Nacional de Costa Rica, por invitación de la Orquesta Sinfónica Nacional."
+            }
+          ]
         },
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-2-fiX7isAhh1AegYgy.png",
-          "localPath": "assets/biografia/incendio-2-fiX7isAhh1AegYgy.png",
-          "alt": null,
-          "caption": null,
-          "width": 1078,
-          "height": 1460,
-          "role": "image__image"
+          "id": "z3zeq7",
+          "type": "GridImage",
+          "desktop": {
+            "top": 920,
+            "left": 671,
+            "width": 466,
+            "height": 375,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/teatro-nSaSnE9MNoF7vqEM.jpeg"
         }
       ],
-      "links": []
+      "level": "h3"
     },
     {
       "blockId": "z34HzQ",
       "heading": "2017 - DE LAS CENIZAS",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "z34HzQ",
-      "heading": "La noche del 8 de noviembre de 2017, el fuego marcó un antes y un después en la vida y en la obra de Cali Rivera. Un incendio consumió gran parte de su casa y del museo que había construido dentro del universo del Taller del Artista, en La Unión de Cartago. Entre aquellas paredes no había únicamente objetos: permanecían años de creación, memoria y vida. Lienzos, instalaciones, piezas, recuerdos y obras que habían formado parte de su trayectoria dentro y fuera de Costa Rica desaparecieron entre las llamas. Se estimó que cerca del 80 % de las obras que se encontraban en el lugar fueron destruidas. En cuestión de horas, una parte irrepetible de décadas de creación quedó reducida a cenizas.",
-      "level": "h5",
       "paragraphs": [
+        "La noche del 8 de noviembre de 2017, el fuego marcó un antes y un después en la vida y en la obra de Cali Rivera. Un incendio consumió gran parte de su casa y del museo que había construido dentro del universo del Taller del Artista, en La Unión de Cartago. Entre aquellas paredes no había únicamente objetos: permanecían años de creación, memoria y vida. Lienzos, instalaciones, piezas, recuerdos y obras que habían formado parte de su trayectoria dentro y fuera de Costa Rica desaparecieron entre las llamas. Se estimó que cerca del 80 % de las obras que se encontraban en el lugar fueron destruidas. En cuestión de horas, una parte irrepetible de décadas de creación quedó reducida a cenizas.",
         "La pérdida fue material, artística y profundamente personal, pero no significó el final. Paradójicamente, muchos años antes del incendio, Rivera ya había incorporado a su universo creativo la figura del Ave Fénix, símbolo de transformación y renacimiento. Después del fuego, aquella imagen adquirió un significado distinto: dejó de ser únicamente parte de su lenguaje artístico para convertirse también en reflejo de su propia historia.",
         "Cali comenzó entonces un proceso de reconstrucción que trascendió las paredes del espacio perdido. Reconstruir significó volver a crear, recuperar un lugar para el arte y transformar una experiencia devastadora en el comienzo de una nueva etapa. El fuego destruyó una parte de su obra, pero no pudo destruir al artista. De las cenizas comenzó el renacer."
       ],
       "images": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-3-UNUlBYXlGqcvQu8j.png",
-          "localPath": "assets/biografia/incendio-3-UNUlBYXlGqcvQu8j.png",
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-1-DsoRLwPRK7X04U7U.png",
+          "localPath": "assets/biografia/incendio-1-DsoRLwPRK7X04U7U.png",
           "alt": null,
           "caption": null,
-          "width": 1450,
-          "height": 1085,
-          "role": "image__image"
+          "width": 1086,
+          "height": 1448,
+          "bytes": 1831583,
+          "role": "image",
+          "fullResolution": [
+            1086,
+            1448
+          ],
+          "href": null
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-2-fiX7isAhh1AegYgy.png",
+          "localPath": "assets/biografia/incendio-2-fiX7isAhh1AegYgy.png",
+          "alt": null,
+          "caption": null,
+          "width": 1078,
+          "height": 1460,
+          "bytes": 1940135,
+          "role": "image",
+          "fullResolution": [
+            1078,
+            1460
+          ],
+          "href": null
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/incendio-3-UNUlBYXlGqcvQu8j.png",
@@ -523,289 +801,572 @@
           "caption": null,
           "width": 1450,
           "height": 1085,
-          "role": "image__image"
+          "bytes": 3314446,
+          "role": "image",
+          "fullResolution": [
+            1450,
+            1085
+          ],
+          "href": null
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": null,
-      "paragraphs": [
-        "Una trayectoria artística desarrollada a través de exposiciones individuales y colectivas, instalaciones, intervenciones y proyectos presentados en Costa Rica y distintos escenarios internacionales."
-      ],
-      "images": [
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-2-l5v43ilwBciFXAUf.png",
+        "localPath": "assets/biografia/madre-tierra-2-l5v43ilwBciFXAUf.png",
+        "alt": null,
+        "caption": null,
+        "width": 1102,
+        "height": 1428,
+        "bytes": 2871972,
+        "role": "background",
+        "overlayOpacity": "0.93"
+      },
+      "elements": [
         {
-          "src": "https://cdn.zyrosite.com/cdn-builder-placeholders/asset-manager/6AEYm85N10s.jpeg?w=1366&q=70&auto=format",
-          "localPath": "assets/biografia/6AEYm85N10s.jpeg",
-          "alt": "blue and white smoke illustration",
-          "caption": null,
-          "width": 560,
-          "height": 373,
-          "role": "block-background__image"
+          "id": "zeAlHj",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 104,
+            "left": 60,
+            "width": 919,
+            "height": 102
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "2017 - DE LAS CENIZAS"
+            }
+          ]
+        },
+        {
+          "id": "zLNszj",
+          "type": "GridImage",
+          "desktop": {
+            "top": 224,
+            "left": 592,
+            "width": 426,
+            "height": 320,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/incendio-1-DsoRLwPRK7X04U7U.png"
+        },
+        {
+          "id": "z4VezZ",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 256,
+            "left": 60,
+            "width": 417,
+            "height": 850
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "La noche del 8 de noviembre de 2017, el fuego marcó un antes y un después en la vida y en la obra de Cali Rivera. Un incendio consumió gran parte de su casa y del museo que había construido dentro del universo del Taller del Artista, en La Unión de Cartago. Entre aquellas paredes no había únicamente objetos: permanecían años de creación, memoria y vida. Lienzos, instalaciones, piezas, recuerdos y obras que habían formado parte de su trayectoria dentro y fuera de Costa Rica desaparecieron entre las llamas. Se estimó que cerca del 80 % de las obras que se encontraban en el lugar fueron destruidas. En cuestión de horas, una parte irrepetible de décadas de creación quedó reducida a cenizas."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "La pérdida fue material, artística y profundamente personal, pero no significó el final. Paradójicamente, muchos años antes del incendio, Rivera ya había incorporado a su universo creativo la figura del Ave Fénix, símbolo de transformación y renacimiento. Después del fuego, aquella imagen adquirió un significado distinto: dejó de ser únicamente parte de su lenguaje artístico para convertirse también en reflejo de su propia historia."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Cali comenzó entonces un proceso de reconstrucción que trascendió las paredes del espacio perdido. Reconstruir significó volver a crear, recuperar un lugar para el arte y transformar una experiencia devastadora en el comienzo de una nueva etapa. El fuego destruyó una parte de su obra, pero no pudo destruir al artista. De las cenizas comenzó el renacer."
+            }
+          ]
+        },
+        {
+          "id": "zaNUnT",
+          "type": "GridImage",
+          "desktop": {
+            "top": 595,
+            "left": 601,
+            "width": 408,
+            "height": 309,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/incendio-2-fiX7isAhh1AegYgy.png"
+        },
+        {
+          "id": "zgDM_t",
+          "type": "GridImage",
+          "desktop": {
+            "top": 960,
+            "left": 606,
+            "width": 412,
+            "height": 331,
+            "borderRadius": "20px"
+          },
+          "image": "assets/biografia/incendio-3-UNUlBYXlGqcvQu8j.png"
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2022",
-      "level": "h2",
-      "paragraphs": [
-        "El agua es Oro Exposición individual y reinauguración oficial de la Galería del Taller del Artista. Costa Rica.",
-        "Sincretismos en la pintura de Costa Rica Exposición colectiva. Museo de Arte Costarricense / Galería ECA, Escuela Casa del Artista. Costa Rica."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2021",
-      "level": "h2",
-      "paragraphs": [
-        "Colores y texturas del Bicentenario Exposición colectiva itinerante. Galería Talentum. Costa Rica."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2020",
-      "level": "h2",
-      "paragraphs": [
-        "Mascarillas Solidarias Exposición colectiva. Museo Municipal de Cartago. Costa Rica.",
-        "El Paraíso a la Vuelta de la Esquina Trienal Internacional de Gráfica de Polonia de Unamos Culturas. Galería Bałucka, Polonia."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2019",
-      "level": "h2",
-      "paragraphs": [
-        "Casa Museo Ave Fénix Inauguración e intervención arquitectónica del espacio."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2017",
-      "level": "h2",
-      "paragraphs": [
-        "La Cofradía Exposición individual e inauguración de Sexto Sol como anfiteatro."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2016",
-      "level": "h2",
-      "paragraphs": [
-        "Canto a la Libertad Teatro Nacional de Costa Rica. Mayo de 2016. Participación por invitación de la Orquesta Sinfónica Nacional para el IV Concierto de Temporada."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2015",
-      "level": "h2",
-      "paragraphs": [
-        "Plegarias – REVELACIONES Exposición individual. Galería Klaus Steinmetz Contemporary, Escazú, Costa Rica. Julio.",
-        "Sincretismo Religioso: un camino para la Paz Exposición individual. Museo Central de Arte Textil, Łódź, Polonia. Abril–junio.",
-        "Trienal de Riga Participación en la Trienal Internacional de Arte Textil. Museo Nacional de Arte Textil, Riga, Letonia. Abril–junio."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2014",
-      "level": "h2",
-      "paragraphs": [
-        "CUD – MILAGRO Museo Central de Arte Textil, Łódź, Polonia.",
-        "CUD – MILAGRO Galería Nacional de Costa Rica."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2013",
-      "level": "h2",
-      "paragraphs": [
-        "Abstracción Movimiento Internacionalista Galería Andrómeda Contemporáneo. Costa Rica."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2012",
-      "level": "h2",
-      "paragraphs": [
-        "Banderas del Corpus Christi y la Cruz de San Pedro Exposición. Terramall, Costa Rica. Abril.",
-        "EXVOTOS Exposición. Taller del Artista, Tres Ríos, Costa Rica."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2011",
-      "level": "h2",
-      "paragraphs": [
-        "PLEGARIA por el planeta Instalación retrospectiva. Museo Municipal de Cartago, Costa Rica. Marzo–junio."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2010",
-      "level": "h2",
-      "paragraphs": [
-        "ZENTICA Salón del Cuño: convivio entre Japón y Costa Rica. MADC, Costa Rica. Septiembre.",
-        "Red Textil Internacional Museo Municipal de Cartago y Centro Cultural Costarricense Norteamericano. Costa Rica. Septiembre. Ganador del Primer Lugar Iberoamericano en Arte Textil.",
-        "Banderas de Corpus Christi y PAZ con el Lago Exposición individual realizada con motivo del X Aniversario de Taller del Artista. Costa Rica. Marzo."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2009",
-      "level": "h2",
-      "paragraphs": [
-        "La Cruz de San Pedro Exposición individual e instalaciones. Universidad de San Carlos de Guatemala (USAC), Facultad de Arquitectura. Septiembre.",
-        "Un llamado a la humanidad para preservar la vida del Lago Atitlán, Patrimonio Natural de Guatemala.",
-        "El Beso – Es el tiempo del Abrazo Exposición individual con artistas invitados. Taller del Artista, Tres Ríos, Costa Rica. Febrero."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2008",
-      "level": "h2",
-      "paragraphs": [
-        "ALQUIMIA Exposición individual. Galería Kandinsky, San Pedro, Costa Rica. Junio."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2007",
-      "level": "h2",
-      "paragraphs": [
-        "El agua como elemento Exposición individual y cierre del proyecto de los Elementos. Taller del Artista, Costa Rica. Noviembre."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2006",
-      "level": "h2",
-      "paragraphs": [
-        "BITÁCORA Exposición colectiva. Association Culturelle Rousselande, Les Rousses, Jura, Francia. Julio–agosto.",
-        "Banderas de Oración Exposición individual. Boulevard de las Artes, X Festival Internacional de las Artes (FIA), San José, Costa Rica. Marzo."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2005",
-      "level": "h2",
-      "paragraphs": [
-        "Después de 60 Lunas Exposición colectiva. Galería San José, Okayama, Japón. Octubre.",
-        "IDENTIDAD Exposición individual de pintura e instalación. Taller del Artista, Costa Rica. Septiembre. Celebración de 18 años de carrera artística."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2004",
-      "level": "h2",
-      "paragraphs": [
-        "Festival Fusión Artes Visuales 2004 Casa de los Tres Mundos, Granada, Nicaragua. 17 de noviembre–17 de diciembre.",
-        "ARTESSS COSTA RIC'ART Exposición colectiva. París, Francia. Agosto.",
-        "COSTA RIC'ART Exposición colectiva. Besançon, Francia. Julio.",
-        "Instalaciones Varias – Estreno de Globalización Exposición individual en el XXVI Simposio Mundial de Ecologistas / Sea Turtle Symposium XXIV. Febrero.",
-        "Globalización consistió en una instalación de cinco banderas, una en representación de cada continente."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2003",
-      "level": "h2",
-      "paragraphs": [
-        "Prayer Flags Exposición individual e instalación presentada por la Galería Nacional. Marzo.",
-        "Primera exposición itinerante para parques y plazas de Costa Rica: nueve banderas de seis metros de longitud instaladas sobre estructuras metálicas de nueve metros, presentadas en Parque México, Plaza Roosevelt y Parque de la Paz.",
-        "El aire como elemento Estandartes alegóricos de la Carta de la Tierra. Obra vinculada al movimiento mundial pro cultura tibetana."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2002",
-      "level": "h2",
-      "paragraphs": [
-        "Detrás de la Ventana Centro Cultural e Histórico José Figueres Ferrer, San Ramón de Alajuela, Costa Rica. Junio. Selección de obras de la colección presentada con motivo del V Aniversario de la institución.",
-        "Expo de Abril Exposición individual de resinas e instalaciones. VIII Festival Internacional de las Artes, San José, Costa Rica. Abril."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2001",
-      "level": "h2",
-      "paragraphs": [
-        "Plegaria Exposición individual de acrílicos, videoinstalación y performance. Galería Nacional / Museo de los Niños, Costa Rica. 2 de noviembre.",
-        "El fuego como elemento."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "2000",
-      "level": "h2",
-      "paragraphs": [
-        "Detrás de la Ventana Exposición individual de pintura al óleo e inauguración de su estudio como espacio alternativo: Taller del Artista. 7 de marzo.",
-        "La tierra como elemento."
-      ],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zRH84u",
-      "heading": "1996",
-      "level": "h2",
-      "paragraphs": [
-        "Sueños en Azul Exposición individual de pintura al óleo. Centro Costarricense de la Ciencia y la Cultura, sede del Museo de los Niños, Costa Rica. Octubre."
-      ],
-      "images": [],
-      "links": []
+      "level": "h3"
     },
     {
       "blockId": "zRH84u",
       "heading": "EXPOSICIONES DESTACADAS",
-      "level": "h3",
-      "paragraphs": [],
+      "paragraphs": [
+        "Una trayectoria artística desarrollada a través de exposiciones individuales y colectivas, instalaciones, intervenciones y proyectos presentados en Costa Rica y distintos escenarios internacionales.",
+        "2022",
+        "El agua es Oro Exposición individual y reinauguración oficial de la Galería del Taller del Artista. Costa Rica.",
+        "Sincretismos en la pintura de Costa Rica Exposición colectiva. Museo de Arte Costarricense / Galería ECA, Escuela Casa del Artista. Costa Rica.",
+        "2021",
+        "Colores y texturas del Bicentenario Exposición colectiva itinerante. Galería Talentum. Costa Rica.",
+        "2020",
+        "Mascarillas Solidarias Exposición colectiva. Museo Municipal de Cartago. Costa Rica.",
+        "El Paraíso a la Vuelta de la Esquina Trienal Internacional de Gráfica de Polonia de Unamos Culturas. Galería Bałucka, Polonia.",
+        "2019",
+        "Casa Museo Ave Fénix Inauguración e intervención arquitectónica del espacio.",
+        "2017",
+        "La Cofradía Exposición individual e inauguración de Sexto Sol como anfiteatro.",
+        "2016",
+        "Canto a la Libertad Teatro Nacional de Costa Rica. Mayo de 2016. Participación por invitación de la Orquesta Sinfónica Nacional para el IV Concierto de Temporada.",
+        "2015",
+        "Plegarias – REVELACIONES Exposición individual. Galería Klaus Steinmetz Contemporary, Escazú, Costa Rica. Julio.",
+        "Sincretismo Religioso: un camino para la Paz Exposición individual. Museo Central de Arte Textil, Łódź, Polonia. Abril–junio.",
+        "Trienal de Riga Participación en la Trienal Internacional de Arte Textil. Museo Nacional de Arte Textil, Riga, Letonia. Abril–junio.",
+        "2014",
+        "CUD – MILAGRO Museo Central de Arte Textil, Łódź, Polonia.",
+        "CUD – MILAGRO Galería Nacional de Costa Rica.",
+        "2013",
+        "Abstracción Movimiento Internacionalista Galería Andrómeda Contemporáneo. Costa Rica.",
+        "2012",
+        "Banderas del Corpus Christi y la Cruz de San Pedro Exposición. Terramall, Costa Rica. Abril.",
+        "EXVOTOS Exposición. Taller del Artista, Tres Ríos, Costa Rica.",
+        "2011",
+        "PLEGARIA por el planeta Instalación retrospectiva. Museo Municipal de Cartago, Costa Rica. Marzo–junio.",
+        "2010",
+        "ZENTICA Salón del Cuño: convivio entre Japón y Costa Rica. MADC, Costa Rica. Septiembre.",
+        "Red Textil Internacional Museo Municipal de Cartago y Centro Cultural Costarricense Norteamericano. Costa Rica. Septiembre. Ganador del Primer Lugar Iberoamericano en Arte Textil.",
+        "Banderas de Corpus Christi y PAZ con el Lago Exposición individual realizada con motivo del X Aniversario de Taller del Artista. Costa Rica. Marzo.",
+        "2009",
+        "La Cruz de San Pedro Exposición individual e instalaciones. Universidad de San Carlos de Guatemala (USAC), Facultad de Arquitectura. Septiembre.",
+        "Un llamado a la humanidad para preservar la vida del Lago Atitlán, Patrimonio Natural de Guatemala.",
+        "El Beso – Es el tiempo del Abrazo Exposición individual con artistas invitados. Taller del Artista, Tres Ríos, Costa Rica. Febrero.",
+        "2008",
+        "ALQUIMIA Exposición individual. Galería Kandinsky, San Pedro, Costa Rica. Junio.",
+        "2007",
+        "El agua como elemento Exposición individual y cierre del proyecto de los Elementos. Taller del Artista, Costa Rica. Noviembre.",
+        "2006",
+        "BITÁCORA Exposición colectiva. Association Culturelle Rousselande, Les Rousses, Jura, Francia. Julio–agosto.",
+        "Banderas de Oración Exposición individual. Boulevard de las Artes, X Festival Internacional de las Artes (FIA), San José, Costa Rica. Marzo.",
+        "2005",
+        "Después de 60 Lunas Exposición colectiva. Galería San José, Okayama, Japón. Octubre.",
+        "IDENTIDAD Exposición individual de pintura e instalación. Taller del Artista, Costa Rica. Septiembre. Celebración de 18 años de carrera artística.",
+        "2004",
+        "Festival Fusión Artes Visuales 2004 Casa de los Tres Mundos, Granada, Nicaragua. 17 de noviembre–17 de diciembre.",
+        "ARTESSS COSTA RIC'ART Exposición colectiva. París, Francia. Agosto.",
+        "COSTA RIC'ART Exposición colectiva. Besançon, Francia. Julio.",
+        "Instalaciones Varias – Estreno de Globalización Exposición individual en el XXVI Simposio Mundial de Ecologistas / Sea Turtle Symposium XXIV. Febrero.",
+        "Globalización consistió en una instalación de cinco banderas, una en representación de cada continente.",
+        "2003",
+        "Prayer Flags Exposición individual e instalación presentada por la Galería Nacional. Marzo.",
+        "Primera exposición itinerante para parques y plazas de Costa Rica: nueve banderas de seis metros de longitud instaladas sobre estructuras metálicas de nueve metros, presentadas en Parque México, Plaza Roosevelt y Parque de la Paz.",
+        "El aire como elemento Estandartes alegóricos de la Carta de la Tierra. Obra vinculada al movimiento mundial pro cultura tibetana.",
+        "2002",
+        "Detrás de la Ventana Centro Cultural e Histórico José Figueres Ferrer, San Ramón de Alajuela, Costa Rica. Junio. Selección de obras de la colección presentada con motivo del V Aniversario de la institución.",
+        "Expo de Abril Exposición individual de resinas e instalaciones. VIII Festival Internacional de las Artes, San José, Costa Rica. Abril.",
+        "2001",
+        "Plegaria Exposición individual de acrílicos, videoinstalación y performance. Galería Nacional / Museo de los Niños, Costa Rica. 2 de noviembre.",
+        "El fuego como elemento.",
+        "2000",
+        "Detrás de la Ventana Exposición individual de pintura al óleo e inauguración de su estudio como espacio alternativo: Taller del Artista. 7 de marzo.",
+        "La tierra como elemento.",
+        "1996",
+        "Sueños en Azul Exposición individual de pintura al óleo. Centro Costarricense de la Ciencia y la Cultura, sede del Museo de los Niños, Costa Rica. Octubre."
+      ],
       "images": [],
-      "links": []
+      "links": [],
+      "background": {
+        "src": "https://cdn.zyrosite.com/cdn-builder-placeholders/asset-manager/6AEYm85N10s.jpeg?w=1366&q=70&auto=format",
+        "localPath": "assets/biografia/6AEYm85N10s.jpeg",
+        "alt": null,
+        "caption": null,
+        "width": 560,
+        "height": 373,
+        "bytes": 7730,
+        "role": "background",
+        "overlayOpacity": "0.80"
+      },
+      "elements": [
+        {
+          "id": "z1hU1b",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 64,
+            "left": 83,
+            "width": 998,
+            "height": 152
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "EXPOSICIONES DESTACADAS"
+            }
+          ]
+        },
+        {
+          "id": "z2wgi9",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 200,
+            "left": 91,
+            "width": 1042,
+            "height": 4853
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Una trayectoria artística desarrollada a través de exposiciones individuales y colectivas, instalaciones, intervenciones y proyectos presentados en Costa Rica y distintos escenarios internacionales."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2022"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El agua es Oro Exposición individual y reinauguración oficial de la Galería del Taller del Artista. Costa Rica."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Sincretismos en la pintura de Costa Rica Exposición colectiva. Museo de Arte Costarricense / Galería ECA, Escuela Casa del Artista. Costa Rica."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2021"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Colores y texturas del Bicentenario Exposición colectiva itinerante. Galería Talentum. Costa Rica."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2020"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Mascarillas Solidarias Exposición colectiva. Museo Municipal de Cartago. Costa Rica."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El Paraíso a la Vuelta de la Esquina Trienal Internacional de Gráfica de Polonia de Unamos Culturas. Galería Bałucka, Polonia."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2019"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Casa Museo Ave Fénix Inauguración e intervención arquitectónica del espacio."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2017"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "La Cofradía Exposición individual e inauguración de Sexto Sol como anfiteatro."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2016"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Canto a la Libertad Teatro Nacional de Costa Rica. Mayo de 2016. Participación por invitación de la Orquesta Sinfónica Nacional para el IV Concierto de Temporada."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2015"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Plegarias – REVELACIONES Exposición individual. Galería Klaus Steinmetz Contemporary, Escazú, Costa Rica. Julio."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Sincretismo Religioso: un camino para la Paz Exposición individual. Museo Central de Arte Textil, Łódź, Polonia. Abril–junio."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Trienal de Riga Participación en la Trienal Internacional de Arte Textil. Museo Nacional de Arte Textil, Riga, Letonia. Abril–junio."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2014"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "CUD – MILAGRO Museo Central de Arte Textil, Łódź, Polonia."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "CUD – MILAGRO Galería Nacional de Costa Rica."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2013"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Abstracción Movimiento Internacionalista Galería Andrómeda Contemporáneo. Costa Rica."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2012"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Banderas del Corpus Christi y la Cruz de San Pedro Exposición. Terramall, Costa Rica. Abril."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "EXVOTOS Exposición. Taller del Artista, Tres Ríos, Costa Rica."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2011"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "PLEGARIA por el planeta Instalación retrospectiva. Museo Municipal de Cartago, Costa Rica. Marzo–junio."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2010"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "ZENTICA Salón del Cuño: convivio entre Japón y Costa Rica. MADC, Costa Rica. Septiembre."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Red Textil Internacional Museo Municipal de Cartago y Centro Cultural Costarricense Norteamericano. Costa Rica. Septiembre. Ganador del Primer Lugar Iberoamericano en Arte Textil."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Banderas de Corpus Christi y PAZ con el Lago Exposición individual realizada con motivo del X Aniversario de Taller del Artista. Costa Rica. Marzo."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2009"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "La Cruz de San Pedro Exposición individual e instalaciones. Universidad de San Carlos de Guatemala (USAC), Facultad de Arquitectura. Septiembre."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Un llamado a la humanidad para preservar la vida del Lago Atitlán, Patrimonio Natural de Guatemala."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El Beso – Es el tiempo del Abrazo Exposición individual con artistas invitados. Taller del Artista, Tres Ríos, Costa Rica. Febrero."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2008"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "ALQUIMIA Exposición individual. Galería Kandinsky, San Pedro, Costa Rica. Junio."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2007"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El agua como elemento Exposición individual y cierre del proyecto de los Elementos. Taller del Artista, Costa Rica. Noviembre."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2006"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "BITÁCORA Exposición colectiva. Association Culturelle Rousselande, Les Rousses, Jura, Francia. Julio–agosto."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Banderas de Oración Exposición individual. Boulevard de las Artes, X Festival Internacional de las Artes (FIA), San José, Costa Rica. Marzo."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2005"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Después de 60 Lunas Exposición colectiva. Galería San José, Okayama, Japón. Octubre."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "IDENTIDAD Exposición individual de pintura e instalación. Taller del Artista, Costa Rica. Septiembre. Celebración de 18 años de carrera artística."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2004"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Festival Fusión Artes Visuales 2004 Casa de los Tres Mundos, Granada, Nicaragua. 17 de noviembre–17 de diciembre."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "ARTESSS COSTA RIC'ART Exposición colectiva. París, Francia. Agosto."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "COSTA RIC'ART Exposición colectiva. Besançon, Francia. Julio."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Instalaciones Varias – Estreno de Globalización Exposición individual en el XXVI Simposio Mundial de Ecologistas / Sea Turtle Symposium XXIV. Febrero."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Globalización consistió en una instalación de cinco banderas, una en representación de cada continente."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2003"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Prayer Flags Exposición individual e instalación presentada por la Galería Nacional. Marzo."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Primera exposición itinerante para parques y plazas de Costa Rica: nueve banderas de seis metros de longitud instaladas sobre estructuras metálicas de nueve metros, presentadas en Parque México, Plaza Roosevelt y Parque de la Paz."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El aire como elemento Estandartes alegóricos de la Carta de la Tierra. Obra vinculada al movimiento mundial pro cultura tibetana."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2002"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Detrás de la Ventana Centro Cultural e Histórico José Figueres Ferrer, San Ramón de Alajuela, Costa Rica. Junio. Selección de obras de la colección presentada con motivo del V Aniversario de la institución."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Expo de Abril Exposición individual de resinas e instalaciones. VIII Festival Internacional de las Artes, San José, Costa Rica. Abril."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2001"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Plegaria Exposición individual de acrílicos, videoinstalación y performance. Galería Nacional / Museo de los Niños, Costa Rica. 2 de noviembre."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "El fuego como elemento."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "2000"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Detrás de la Ventana Exposición individual de pintura al óleo e inauguración de su estudio como espacio alternativo: Taller del Artista. 7 de marzo."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "La tierra como elemento."
+            },
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "1996"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Sueños en Azul Exposición individual de pintura al óleo. Centro Costarricense de la Ciencia y la Cultura, sede del Museo de los Niños, Costa Rica. Octubre."
+            }
+          ]
+        }
+      ],
+      "level": "h3"
     }
   ],
-  "rawTextHash": "6660067e5b549908589e8fca6de61594da806a7f8dc3e2c569054249f6bfe30b"
+  "rawTextHash": "64ab59530949bb2cc06bfc9318ed023204e891b7fcc2c9c56a008d2b307f358d",
+  "wordCount": 1850,
+  "source": "zyro pageData (astro-island props) + html meta"
 }

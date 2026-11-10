@@ -2,120 +2,334 @@
   "slug": "trayectoria-and-entrevistas",
   "url": "https://calirivera.com/trayectoria-and-entrevistas",
   "title": "Trayectoria & Entrevistas",
+  "name": "Trayectoria & Entrevistas",
   "meta": {
     "og:url": "https://calirivera.com/trayectoria-and-entrevistas",
     "og:title": "Trayectoria & Entrevistas",
     "twitter:title": "Trayectoria & Entrevistas",
     "og:type": "website",
-    "twitter:card": "summary_large_image"
+    "twitter:card": "summary_large_image",
+    "noindex": false,
+    "ogImageAlt": ""
   },
   "sections": [
     {
       "blockId": "zxL4vf",
-      "heading": null,
+      "heading": "CURRÍCULUM",
       "paragraphs": [],
       "images": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/esfera-oficial-XjBqPXfN2Znbch01.PNG",
-          "localPath": "assets/trayectoria-and-entrevistas/esfera-oficial-XjBqPXfN2Znbch01.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 388,
-          "height": 353,
-          "role": "block-background__image block-background__image--fixed"
-        },
-        {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
           "localPath": "assets/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
           "alt": null,
           "caption": null,
           "width": 800,
           "height": 1000,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
-          "localPath": "assets/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
-          "alt": null,
-          "caption": null,
-          "width": 800,
-          "height": 1000,
-          "role": "image__image"
+          "bytes": 76224,
+          "role": "image",
+          "fullResolution": [
+            800,
+            1000
+          ],
+          "href": null
         }
       ],
       "links": [
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx",
-          "text": "ENGLISH"
+          "text": "ENGLISH",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx"
         },
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf",
-          "text": "ESPAÑOL"
-        }
-      ]
-    },
-    {
-      "blockId": "zxL4vf",
-      "heading": "CURRÍCULUM",
-      "level": "h3",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zqme2f",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "localPath": "assets/trayectoria-and-entrevistas/obra-mundial-3rGopp802cP96lZh.jpeg",
-          "alt": null,
-          "caption": null,
-          "width": 1290,
-          "height": 1219,
-          "role": "block-background__image"
+          "text": "ESPAÑOL",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf"
         }
       ],
-      "links": []
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+        "localPath": "assets/trayectoria-and-entrevistas/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 388,
+        "height": 353,
+        "bytes": 177538,
+        "role": "background",
+        "overlayOpacity": "0.85"
+      },
+      "elements": [
+        {
+          "id": "zdsj49",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 64,
+            "left": 306,
+            "width": 611,
+            "height": 106
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "CURRÍCULUM"
+            }
+          ]
+        },
+        {
+          "id": "zn5PF9",
+          "type": "GridImage",
+          "desktop": {
+            "top": 216,
+            "left": 112,
+            "width": 297,
+            "height": 368,
+            "borderRadius": "20px"
+          },
+          "image": "assets/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg"
+        },
+        {
+          "id": "z18-3-",
+          "type": "GridButton",
+          "desktop": {
+            "top": 320,
+            "left": 547,
+            "width": 162,
+            "height": 62
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx",
+            "text": "ENGLISH",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/cv_cali_rivera_urena_en_with_photo-icypflYv6luSwCbC.docx"
+          }
+        },
+        {
+          "id": "zEnzX-",
+          "type": "GridButton",
+          "desktop": {
+            "top": 320,
+            "left": 756,
+            "width": 159,
+            "height": 60
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf",
+            "text": "ESPAÑOL",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/cv_cali_rivera_urena-1-yrcoYD0vv3eKS1mg.pdf"
+          }
+        }
+      ],
+      "level": "h3"
     },
     {
       "blockId": "zqme2f",
       "heading": "Entrevistas Nacionales & Internacionales",
-      "level": "h1",
       "paragraphs": [],
       "images": [],
       "links": [
         {
+          "href": "https://www.nacion.com/viva/cultura/las-revelaciones-artisticas-de-cali-rivera/IM7MYDZUJJGMROL7IJZS3FGGGM/story/?utm_source=chatgpt.com",
+          "text": "LA NACIÓN",
+          "linkType": "external",
+          "linkedPageId": null
+        },
+        {
           "href": "https://www.meer.com/es/66139-cali-rivera-y-la-energia-creativa?utm_source=chatgpt.com",
-          "text": "MEER ARTE"
+          "text": "MEER ARTE",
+          "linkType": "external",
+          "linkedPageId": null
         },
         {
           "href": "https://arcagulharevistadecultura.blogspot.com/2017/09/alfonso-pena-cali-rivera-el-arte-para.html?utm_source=chatgpt.com",
-          "text": "AGULHA REVISTA DE CULTURA"
-        },
-        {
-          "href": "https://www.nacion.com/viva/cultura/las-revelaciones-artisticas-de-cali-rivera/IM7MYDZUJJGMROL7IJZS3FGGGM/story/?utm_source=chatgpt.com",
-          "text": "LA NACIÓN"
+          "text": "AGULHA REVISTA DE CULTURA",
+          "linkType": "external",
+          "linkedPageId": null
         },
         {
           "href": "https://www.teletica.com/multimedia/cali-rivera-uno-de-los-artistas-plasticos-mas-exitosos-del-pais_957848?utm_source=chatgpt.com",
-          "text": "TELETICA"
+          "text": "TELETICA",
+          "linkType": "external",
+          "linkedPageId": null
         },
         {
           "href": "https://www.teatronacional.go.cr/Comunicados/detalle/336/cali-rivera-exhibe-su-obra-revelaciones-durante-el-iv-concierto-de-temporada-de-la-orquesta-sinfonica-nacional-?utm_source=chatgpt.com",
-          "text": "TEATRO NACIONAL"
+          "text": "TEATRO NACIONAL",
+          "linkType": "external",
+          "linkedPageId": null
         },
         {
           "href": "https://www.lateja.cr/sucesos/pintor-que-perdio-todo-en-un-incendio-quiero/FTOA3CSNYJBPLDYA5IJWNR32OE/story/?utm_source=chatgpt.com",
-          "text": "LA TEJA"
+          "text": "LA TEJA",
+          "linkType": "external",
+          "linkedPageId": null
         },
         {
           "href": "https://www.ticoclub.com/cpcalirix11.htm",
-          "text": "TICOCLUB"
+          "text": "TICOCLUB",
+          "linkType": "external",
+          "linkedPageId": null
         }
-      ]
+      ],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/obra-mundial-3rGopp802cP96lZh.jpeg",
+        "localPath": "assets/trayectoria-and-entrevistas/obra-mundial-3rGopp802cP96lZh.jpeg",
+        "alt": null,
+        "caption": null,
+        "width": 1290,
+        "height": 1219,
+        "bytes": 406730,
+        "role": "background",
+        "overlayOpacity": "0.81"
+      },
+      "elements": [
+        {
+          "id": "zUYhdC",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 84,
+            "left": 191,
+            "width": 841,
+            "height": 140
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "Entrevistas Nacionales & Internacionales"
+            }
+          ]
+        },
+        {
+          "id": "zhShUO",
+          "type": "GridButton",
+          "desktop": {
+            "top": 280,
+            "left": 649,
+            "width": 225,
+            "height": 72,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://www.nacion.com/viva/cultura/las-revelaciones-artisticas-de-cali-rivera/IM7MYDZUJJGMROL7IJZS3FGGGM/story/?utm_source=chatgpt.com",
+            "text": "LA NACIÓN",
+            "linkType": "external",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "zDtSKo",
+          "type": "GridButton",
+          "desktop": {
+            "top": 281,
+            "left": 68,
+            "width": 220,
+            "height": 69,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://www.meer.com/es/66139-cali-rivera-y-la-energia-creativa?utm_source=chatgpt.com",
+            "text": "MEER ARTE",
+            "linkType": "external",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "zeXnme",
+          "type": "GridButton",
+          "desktop": {
+            "top": 281,
+            "left": 360,
+            "width": 225,
+            "height": 69,
+            "fontSize": 12
+          },
+          "link": {
+            "href": "https://arcagulharevistadecultura.blogspot.com/2017/09/alfonso-pena-cali-rivera-el-arte-para.html?utm_source=chatgpt.com",
+            "text": "AGULHA REVISTA DE CULTURA",
+            "linkType": "external",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "zpx-96",
+          "type": "GridButton",
+          "desktop": {
+            "top": 281,
+            "left": 934,
+            "width": 221,
+            "height": 71,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://www.teletica.com/multimedia/cali-rivera-uno-de-los-artistas-plasticos-mas-exitosos-del-pais_957848?utm_source=chatgpt.com",
+            "text": "TELETICA",
+            "linkType": "external",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "zZgzYN",
+          "type": "GridButton",
+          "desktop": {
+            "top": 411,
+            "left": 211,
+            "width": 218,
+            "height": 69,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://www.teatronacional.go.cr/Comunicados/detalle/336/cali-rivera-exhibe-su-obra-revelaciones-durante-el-iv-concierto-de-temporada-de-la-orquesta-sinfonica-nacional-?utm_source=chatgpt.com",
+            "text": "TEATRO NACIONAL",
+            "linkType": "external",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "zlAKPV",
+          "type": "GridButton",
+          "desktop": {
+            "top": 411,
+            "left": 502,
+            "width": 226,
+            "height": 69,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://www.lateja.cr/sucesos/pintor-que-perdio-todo-en-un-incendio-quiero/FTOA3CSNYJBPLDYA5IJWNR32OE/story/?utm_source=chatgpt.com",
+            "text": "LA TEJA",
+            "linkType": "external",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "z69zSg",
+          "type": "GridButton",
+          "desktop": {
+            "top": 411,
+            "left": 795,
+            "width": 217,
+            "height": 66,
+            "fontSize": 13
+          },
+          "link": {
+            "href": "https://www.ticoclub.com/cpcalirix11.htm",
+            "text": "TICOCLUB",
+            "linkType": "external",
+            "linkedPageId": null
+          }
+        }
+      ],
+      "level": "h1"
     }
   ],
-  "rawTextHash": "c9588e4d9be5a8e69506f3d53af96b004289806bc044c65e856bd08869795f56"
+  "rawTextHash": "d155ce901f654d1fab830c2b62d5da7f7f410746ea20f42837c34bad4a04d871",
+  "wordCount": 5,
+  "source": "zyro pageData (astro-island props) + html meta"
 }

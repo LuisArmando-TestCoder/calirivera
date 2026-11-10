@@ -2,47 +2,22 @@
   "slug": "taller-del-artista",
   "url": "https://calirivera.com/taller-del-artista",
   "title": "Taller del Artista",
+  "name": "Taller del Artista",
   "meta": {
     "og:url": "https://calirivera.com/taller-del-artista",
     "og:title": "Taller del Artista",
     "twitter:title": "Taller del Artista",
     "og:type": "website",
-    "twitter:card": "summary_large_image"
+    "twitter:card": "summary_large_image",
+    "noindex": false,
+    "ogImageAlt": ""
   },
   "sections": [
     {
-      "blockId": "hero",
-      "heading": null,
-      "paragraphs": [
-        "Único en su género"
-      ],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/taller-del-artista-UJK3bqdZmx7TConb.png",
-          "localPath": "assets/taller-del-artista/taller-del-artista-UJK3bqdZmx7TConb.png",
-          "alt": null,
-          "caption": null,
-          "width": 1024,
-          "height": 1536,
-          "role": "block-background__image block-background__image--fixed"
-        }
-      ],
-      "links": [
-        {
-          "href": "https://wa.me/50683483785?text=%C2%A1Hola!%20%F0%9F%91%8B%20Me%20gustar%C3%ADa%20reservar%20un%20espacio%20en%20Taller%20del%20Artista.%20%C2%BFPodr%C3%ADan%20indicarme%20la%20disponibilidad%20y%20ayudarme%20con%20la%20reserva?%20Muchas%20gracias.",
-          "text": "Reserva tu espacio."
-        },
-        {
-          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/menu-taller-del-artista-5YyXIMvaUiNULD9j.pdf",
-          "text": "Ver Menú"
-        }
-      ]
-    },
-    {
-      "blockId": "hero",
+      "blockId": "YMIo2j",
       "heading": "TALLER DEL ARTISTA",
-      "level": "h1",
       "paragraphs": [
+        "Único en su género",
         "Donde el arte, la gastronomía y la historia se encuentran para crear una experiencia que no existe en ningún otro lugar."
       ],
       "images": [
@@ -53,223 +28,493 @@
           "caption": null,
           "width": 1024,
           "height": 1024,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
-          "localPath": "assets/taller-del-artista/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
-          "alt": null,
-          "caption": null,
-          "width": 1024,
-          "height": 1024,
-          "role": "image__image"
+          "bytes": 1379642,
+          "role": "image",
+          "fullResolution": [
+            1024,
+            1024
+          ],
+          "href": null
         }
       ],
-      "links": []
+      "links": [
+        {
+          "href": "https://wa.me/50683483785?text=%C2%A1Hola!%20%F0%9F%91%8B%20Me%20gustar%C3%ADa%20reservar%20un%20espacio%20en%20Taller%20del%20Artista.%20%C2%BFPodr%C3%ADan%20indicarme%20la%20disponibilidad%20y%20ayudarme%20con%20la%20reserva?%20Muchas%20gracias.",
+          "text": "Reserva tu espacio.",
+          "linkType": "whatsapp",
+          "linkedPageId": null
+        },
+        {
+          "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/menu-taller-del-artista-5YyXIMvaUiNULD9j.pdf",
+          "text": "Ver Menú",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/menu-taller-del-artista-5YyXIMvaUiNULD9j.pdf"
+        }
+      ],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/taller-del-artista-UJK3bqdZmx7TConb.png",
+        "localPath": "assets/taller-del-artista/taller-del-artista-UJK3bqdZmx7TConb.png",
+        "alt": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1536,
+        "bytes": 2390377,
+        "role": "background",
+        "overlayOpacity": "0.64"
+      },
+      "elements": [
+        {
+          "id": "zdPnlG",
+          "type": "GridImage",
+          "desktop": {
+            "top": 37,
+            "left": 515,
+            "width": 194,
+            "height": 146,
+            "borderRadius": "8px"
+          },
+          "image": "assets/taller-del-artista/ventana-blanca-png-bhS7wHBdGGsoix5j.png"
+        },
+        {
+          "id": "cYbXfF",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 193,
+            "left": 84,
+            "width": 1056,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "TALLER DEL ARTISTA"
+            }
+          ]
+        },
+        {
+          "id": "OXsS_1",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 263,
+            "left": 84,
+            "width": 1056,
+            "height": 42
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Único en su género"
+            }
+          ]
+        },
+        {
+          "id": "82yJf8",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 372,
+            "left": 84,
+            "width": 1056,
+            "height": 28
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Donde el arte, la gastronomía y la historia se encuentran para crear una experiencia que no existe en ningún otro lugar."
+            }
+          ]
+        },
+        {
+          "id": "hzZfgU",
+          "type": "GridButton",
+          "desktop": {
+            "top": 453,
+            "left": 85,
+            "width": 228,
+            "height": 53
+          },
+          "link": {
+            "href": "https://wa.me/50683483785?text=%C2%A1Hola!%20%F0%9F%91%8B%20Me%20gustar%C3%ADa%20reservar%20un%20espacio%20en%20Taller%20del%20Artista.%20%C2%BFPodr%C3%ADan%20indicarme%20la%20disponibilidad%20y%20ayudarme%20con%20la%20reserva?%20Muchas%20gracias.",
+            "text": "Reserva tu espacio.",
+            "linkType": "whatsapp",
+            "linkedPageId": null
+          }
+        },
+        {
+          "id": "yzv5I4",
+          "type": "GridButton",
+          "desktop": {
+            "top": 453,
+            "left": 353,
+            "width": 134,
+            "height": 53
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/menu-taller-del-artista-5YyXIMvaUiNULD9j.pdf",
+            "text": "Ver Menú",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/menu-taller-del-artista-5YyXIMvaUiNULD9j.pdf"
+          }
+        }
+      ],
+      "level": "h1"
     },
     {
       "blockId": "zjehKT",
-      "heading": null,
+      "heading": "Ubicación & Contacto",
       "paragraphs": [
         "300M ESTE DEL SAINT GREORY SCHOOL, LA UNIÓN, TRES RIOS, COSTA RICA Horario Martes - Jueves 4pm - 12am",
         "Viernes - Sabádo 4pm - 2am",
         "Domingo 4pm - 12am",
         "Contacto +506 8348 3785 arte@calirivera.com"
       ],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-2-PTzyFCT3Zpj7VAnk.png",
-          "localPath": "assets/taller-del-artista/exvotos-2-PTzyFCT3Zpj7VAnk.png",
-          "alt": null,
-          "caption": null,
-          "width": 1421,
-          "height": 1107,
-          "role": "block-background__image"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "zjehKT",
-      "heading": "Ubicación & Contacto",
-      "level": "h2",
-      "paragraphs": [],
       "images": [],
-      "links": []
-    },
-    {
-      "blockId": "proceso",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+      "links": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/edificio-oClNO4hKeQjFZ1PG.png",
-          "localPath": "assets/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png",
-          "alt": null,
-          "caption": null,
-          "width": 1122,
-          "height": 1402,
-          "role": "block-background__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/edificio-oClNO4hKeQjFZ1PG.png",
-          "localPath": "assets/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png",
-          "alt": null,
-          "caption": null,
-          "width": 1122,
-          "height": 1402,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/edificio-oClNO4hKeQjFZ1PG.png",
-          "localPath": "assets/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png",
-          "alt": null,
-          "caption": null,
-          "width": 1122,
-          "height": 1402,
-          "role": "image__image"
+          "href": "https://maps.google.com/maps?q=TALLER%20DEL%20ARTISTAM%20251,%20Cartago%20Province,%20Tres%20Rios&t=m&z=13&ie=UTF8&output=embed",
+          "text": "map"
         }
       ],
-      "links": []
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/exvotos-2-PTzyFCT3Zpj7VAnk.png",
+        "localPath": "assets/taller-del-artista/exvotos-2-PTzyFCT3Zpj7VAnk.png",
+        "alt": null,
+        "caption": null,
+        "width": 1421,
+        "height": 1107,
+        "bytes": 2547091,
+        "role": "background",
+        "overlayOpacity": "0.89"
+      },
+      "elements": [
+        {
+          "id": "zc5UJ1",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 90,
+            "left": 336,
+            "width": 551,
+            "height": 54
+          },
+          "text": [
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "Ubicación & Contacto"
+            }
+          ]
+        },
+        {
+          "id": "zGLHwP",
+          "type": "GridMap",
+          "desktop": {
+            "top": 184,
+            "left": 274,
+            "width": 676,
+            "height": 411
+          },
+          "map": {
+            "src": "https://maps.google.com/maps?q=TALLER%20DEL%20ARTISTAM%20251,%20Cartago%20Province,%20Tres%20Rios&t=m&z=13&ie=UTF8&output=embed",
+            "styles": {
+              "align": "center",
+              "justify": "center",
+              "m-element-margin": "0 0 24px 0"
+            }
+          }
+        },
+        {
+          "id": "z2TnQq",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 640,
+            "left": 412,
+            "width": 400,
+            "height": 476
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "300M ESTE DEL SAINT GREORY SCHOOL, LA UNIÓN, TRES RIOS, COSTA RICA Horario Martes - Jueves 4pm - 12am"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Viernes - Sabádo 4pm - 2am"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Domingo 4pm - 12am"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Contacto +506 8348 3785 arte@calirivera.com"
+            }
+          ]
+        }
+      ],
+      "level": "h2"
     },
     {
-      "blockId": "proceso",
+      "blockId": "cigAT_",
       "heading": "Un lugar nacido del arte",
-      "level": "h2",
       "paragraphs": [
         "En el año 2000, el artista visual Cali Rivera abrió por primera vez las puertas de su estudio creativo al público, dando origen a un espacio que rompería con todos los esquemas tradicionales de una galería de arte.",
         "Lo que comenzó como un taller dedicado a la creación artística evolucionó rápidamente hasta convertirse en un punto de encuentro para artistas, escritores, músicos, intelectuales, viajeros y amantes de la cultura. Cada rincón fue concebido para inspirar conversaciones, despertar emociones y acercar el arte a quienes buscaban vivirlo más allá de una exposición.",
         "Desde entonces, Taller del Artista ha permanecido como un espacio independiente donde la creatividad no solo se contempla: se comparte, se experimenta y se convierte en parte de la vida cotidiana."
       ],
-      "images": [],
-      "links": []
+      "images": [
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/edificio-oClNO4hKeQjFZ1PG.png",
+          "localPath": "assets/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png",
+          "alt": null,
+          "caption": null,
+          "width": 1122,
+          "height": 1402,
+          "bytes": 2179210,
+          "role": "image",
+          "fullResolution": [
+            1122,
+            1402
+          ],
+          "href": null
+        }
+      ],
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/edificio-oClNO4hKeQjFZ1PG.png",
+        "localPath": "assets/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png",
+        "alt": null,
+        "caption": null,
+        "width": 1122,
+        "height": 1402,
+        "bytes": 2179210,
+        "role": "background",
+        "overlayOpacity": "0.84"
+      },
+      "elements": [
+        {
+          "id": "jvny9N",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 80,
+            "left": 49,
+            "width": 1056,
+            "height": 54
+          },
+          "text": [
+            {
+              "tag": "h2",
+              "class": "",
+              "text": "Un lugar nacido del arte"
+            }
+          ]
+        },
+        {
+          "id": "Lf9CG3",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 160,
+            "left": 53,
+            "width": 433,
+            "height": 568
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "En el año 2000, el artista visual Cali Rivera abrió por primera vez las puertas de su estudio creativo al público, dando origen a un espacio que rompería con todos los esquemas tradicionales de una galería de arte."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Lo que comenzó como un taller dedicado a la creación artística evolucionó rápidamente hasta convertirse en un punto de encuentro para artistas, escritores, músicos, intelectuales, viajeros y amantes de la cultura. Cada rincón fue concebido para inspirar conversaciones, despertar emociones y acercar el arte a quienes buscaban vivirlo más allá de una exposición."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Desde entonces, Taller del Artista ha permanecido como un espacio independiente donde la creatividad no solo se contempla: se comparte, se experimenta y se convierte en parte de la vida cotidiana."
+            }
+          ]
+        },
+        {
+          "id": "_mOkid",
+          "type": "GridImage",
+          "desktop": {
+            "top": 191,
+            "left": 546,
+            "width": 555,
+            "height": 489,
+            "borderRadius": "8px"
+          },
+          "image": "assets/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png"
+        }
+      ],
+      "level": "h2"
     },
     {
       "blockId": "z6PUgx",
       "heading": null,
       "paragraphs": [],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/ict-2HZ2xB2MXX8gxLdP.webp",
-          "localPath": "assets/taller-del-artista/ict-2HZ2xB2MXX8gxLdP.webp",
-          "alt": null,
-          "caption": null,
-          "width": 900,
-          "height": 364,
-          "role": "logo-marquee__logo"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/palma-dorada-de-madrid-ITQnOkZCztT18E56.png",
-          "localPath": "assets/taller-del-artista/palma-dorada-de-madrid-ITQnOkZCztT18E56.png",
-          "alt": null,
-          "caption": null,
-          "width": 1254,
-          "height": 1254,
-          "role": "logo-marquee__logo"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/tres-tenedores-rGSUnnhqT3oe7luU.png",
-          "localPath": "assets/taller-del-artista/tres-tenedores-rGSUnnhqT3oe7luU.png",
-          "alt": null,
-          "caption": null,
-          "width": 1024,
-          "height": 1024,
-          "role": "logo-marquee__logo"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/ict-2HZ2xB2MXX8gxLdP.webp",
-          "localPath": "assets/taller-del-artista/ict-2HZ2xB2MXX8gxLdP.webp",
-          "alt": null,
-          "caption": null,
-          "width": 900,
-          "height": 364,
-          "role": "logo-marquee__logo"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/palma-dorada-de-madrid-ITQnOkZCztT18E56.png",
-          "localPath": "assets/taller-del-artista/palma-dorada-de-madrid-ITQnOkZCztT18E56.png",
-          "alt": null,
-          "caption": null,
-          "width": 1254,
-          "height": 1254,
-          "role": "logo-marquee__logo"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/tres-tenedores-rGSUnnhqT3oe7luU.png",
-          "localPath": "assets/taller-del-artista/tres-tenedores-rGSUnnhqT3oe7luU.png",
-          "alt": null,
-          "caption": null,
-          "width": 1024,
-          "height": 1024,
-          "role": "logo-marquee__logo"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "z8dlwf",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
-          "localPath": "assets/taller-del-artista/candela-SjvXHdgnaGUodgNo.PNG",
-          "alt": null,
-          "caption": null,
-          "width": 430,
-          "height": 548,
-          "role": "block-background__image"
-        }
-      ],
-      "links": []
+      "images": [],
+      "links": [],
+      "background": null,
+      "elements": []
     },
     {
       "blockId": "z8dlwf",
       "heading": "Videoteca",
-      "level": "h3",
       "paragraphs": [
         "Descubra el universo del Taller del Artista a través de videos que reúnen arte, gastronomía, exposiciones, conciertos, talleres y experiencias que dan vida a este espacio único."
       ],
-      "images": [
+      "images": [],
+      "links": [
         {
-          "src": "https://i.ytimg.com/vi/cVzMeR0X4Tk/hqdefault.jpg",
-          "localPath": "assets/taller-del-artista/hqdefault.jpg",
-          "alt": null,
-          "caption": null,
-          "width": 480,
-          "height": 360,
-          "role": "video__placeholder"
+          "href": "https://www.youtube.com/watch?v=cVzMeR0X4Tk",
+          "text": "video",
+          "provider": "youtube",
+          "thumb": "https://i.ytimg.com/vi/cVzMeR0X4Tk/hqdefault.jpg"
         },
         {
-          "src": "https://i.ytimg.com/vi/NtVLZw40tLk/hqdefault.jpg",
-          "localPath": "assets/taller-del-artista/hqdefault.jpg",
-          "alt": null,
-          "caption": null,
-          "width": 480,
-          "height": 360,
-          "role": "video__placeholder"
+          "href": "https://www.youtube.com/watch?v=NtVLZw40tLk",
+          "text": "video",
+          "provider": "youtube",
+          "thumb": "https://i.ytimg.com/vi/NtVLZw40tLk/hqdefault.jpg"
         },
         {
-          "src": "https://i.ytimg.com/vi/1YvCZqRK5Gw/hqdefault.jpg",
-          "localPath": "assets/taller-del-artista/hqdefault.jpg",
-          "alt": null,
-          "caption": null,
-          "width": 480,
-          "height": 360,
-          "role": "video__placeholder"
+          "href": "https://www.youtube.com/watch?v=1YvCZqRK5Gw&t=1s",
+          "text": "video",
+          "provider": "youtube",
+          "thumb": "https://i.ytimg.com/vi/1YvCZqRK5Gw/hqdefault.jpg"
         },
         {
-          "src": "https://i.ytimg.com/vi/pweKLVPB_tI/hqdefault.jpg",
-          "localPath": "assets/taller-del-artista/hqdefault.jpg",
-          "alt": null,
-          "caption": null,
-          "width": 480,
-          "height": 360,
-          "role": "video__placeholder"
+          "href": "https://www.youtube.com/watch?v=pweKLVPB_tI",
+          "text": "video",
+          "provider": "youtube",
+          "thumb": "https://i.ytimg.com/vi/pweKLVPB_tI/hqdefault.jpg"
         }
       ],
-      "links": []
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/candela-SjvXHdgnaGUodgNo.PNG",
+        "localPath": "assets/taller-del-artista/candela-SjvXHdgnaGUodgNo.PNG",
+        "alt": null,
+        "caption": null,
+        "width": 430,
+        "height": 548,
+        "bytes": 336868,
+        "role": "background",
+        "overlayOpacity": "0.58"
+      },
+      "elements": [
+        {
+          "id": "z1hNFZ",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 80,
+            "left": 315,
+            "width": 593,
+            "height": 62
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "Videoteca"
+            }
+          ]
+        },
+        {
+          "id": "zxXKv3",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 160,
+            "left": 175,
+            "width": 873,
+            "height": 56
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Descubra el universo del Taller del Artista a través de videos que reúnen arte, gastronomía, exposiciones, conciertos, talleres y experiencias que dan vida a este espacio único."
+            }
+          ]
+        },
+        {
+          "id": "zfg07V",
+          "type": "GridVideo",
+          "desktop": {
+            "top": 296,
+            "left": 0,
+            "width": 1224,
+            "height": 688
+          },
+          "video": {
+            "href": "https://www.youtube.com/watch?v=cVzMeR0X4Tk",
+            "text": "video",
+            "provider": "youtube",
+            "thumb": "https://i.ytimg.com/vi/cVzMeR0X4Tk/hqdefault.jpg"
+          }
+        },
+        {
+          "id": "zca107",
+          "type": "GridVideo",
+          "desktop": {
+            "top": 984,
+            "left": 0,
+            "width": 400,
+            "height": 240
+          },
+          "video": {
+            "href": "https://www.youtube.com/watch?v=NtVLZw40tLk",
+            "text": "video",
+            "provider": "youtube",
+            "thumb": "https://i.ytimg.com/vi/NtVLZw40tLk/hqdefault.jpg"
+          }
+        },
+        {
+          "id": "zh1Uzi",
+          "type": "GridVideo",
+          "desktop": {
+            "top": 984,
+            "left": 412,
+            "width": 400,
+            "height": 240
+          },
+          "video": {
+            "href": "https://www.youtube.com/watch?v=1YvCZqRK5Gw&t=1s",
+            "text": "video",
+            "provider": "youtube",
+            "thumb": "https://i.ytimg.com/vi/1YvCZqRK5Gw/hqdefault.jpg"
+          }
+        },
+        {
+          "id": "ztSET5",
+          "type": "GridVideo",
+          "desktop": {
+            "top": 984,
+            "left": 824,
+            "width": 400,
+            "height": 240
+          },
+          "video": {
+            "href": "https://www.youtube.com/watch?v=pweKLVPB_tI",
+            "text": "video",
+            "provider": "youtube",
+            "thumb": "https://i.ytimg.com/vi/pweKLVPB_tI/hqdefault.jpg"
+          }
+        }
+      ],
+      "level": "h3"
     }
   ],
-  "rawTextHash": "44ad0d87377a4eb93ce2f715c9c57acb16dcd9fd1963a932eb0ff2c669d6d356"
+  "rawTextHash": "3df801b7db0a79c0516827e7bc606c003268d0eadaefeac7fa8e11aa26887385",
+  "wordCount": 220,
+  "source": "zyro pageData (astro-island props) + html meta"
 }

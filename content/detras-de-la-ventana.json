@@ -2,36 +2,24 @@
   "slug": "detras-de-la-ventana",
   "url": "https://calirivera.com/detras-de-la-ventana",
   "title": "Detras de la ventana",
+  "name": "Detras de la ventana",
   "meta": {
     "og:url": "https://calirivera.com/detras-de-la-ventana",
     "og:title": "Detras de la ventana",
     "twitter:title": "Detras de la ventana",
     "og:type": "website",
-    "twitter:card": "summary_large_image"
+    "twitter:card": "summary_large_image",
+    "noindex": false,
+    "ogImageAlt": ""
   },
   "sections": [
     {
       "blockId": "z1AKS9",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-5-9NB3iQTtYOxW0xCQ.png",
-          "localPath": "assets/detras-de-la-ventana/detras-5-9NB3iQTtYOxW0xCQ.png",
-          "alt": null,
-          "caption": null,
-          "width": 1210,
-          "height": 1300,
-          "role": "block-background__image"
-        }
-      ],
-      "links": []
-    },
-    {
-      "blockId": "z1AKS9",
       "heading": "Detrás de la ventana",
-      "level": "h1",
-      "paragraphs": [],
+      "paragraphs": [
+        "La Tierra como Elemento",
+        "2000"
+      ],
       "images": [
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
@@ -40,63 +28,125 @@
           "caption": null,
           "width": 1024,
           "height": 1024,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
-          "localPath": "assets/detras-de-la-ventana/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
-          "alt": null,
-          "caption": null,
-          "width": 1024,
-          "height": 1024,
-          "role": "image__image"
+          "bytes": 168735,
+          "role": "image",
+          "fullResolution": [
+            1024,
+            1024
+          ],
+          "href": null
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "z1AKS9",
-      "heading": "La Tierra como Elemento",
-      "level": "h5",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "z1AKS9",
-      "heading": "2000",
-      "level": "h5",
-      "paragraphs": [],
-      "images": [],
       "links": [
         {
           "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras_de_la_ventana-fVMZLFhKNhdnyDgA.mp3",
-          "text": "♫"
-        }
-      ]
-    },
-    {
-      "blockId": "z2fHAB",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-AL42ugwWZeNuNCXd.png",
-          "localPath": "assets/detras-de-la-ventana/madre-tierra-AL42ugwWZeNuNCXd.png",
-          "alt": null,
-          "caption": null,
-          "width": 1080,
-          "height": 1456,
-          "role": "block-background__image"
+          "text": "♫",
+          "linkType": "download",
+          "linkedPageId": null,
+          "localPath": "assets/files/detras_de_la_ventana-fVMZLFhKNhdnyDgA.mp3"
         }
       ],
-      "links": []
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-5-9NB3iQTtYOxW0xCQ.png",
+        "localPath": "assets/detras-de-la-ventana/detras-5-9NB3iQTtYOxW0xCQ.png",
+        "alt": null,
+        "caption": null,
+        "width": 1210,
+        "height": 1300,
+        "bytes": 2583250,
+        "role": "background",
+        "overlayOpacity": "0.67"
+      },
+      "elements": [
+        {
+          "id": "z35kmQ",
+          "type": "GridImage",
+          "desktop": {
+            "top": 14,
+            "left": 549,
+            "width": 125,
+            "height": 156
+          },
+          "image": "assets/detras-de-la-ventana/ventana-blanca-png-bhS7wHBdGGsoix5j.png"
+        },
+        {
+          "id": "zSz4lX",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 170,
+            "left": 309,
+            "width": 606,
+            "height": 70
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "Detrás de la ventana"
+            }
+          ]
+        },
+        {
+          "id": "zh9Qnn",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 240,
+            "left": 360,
+            "width": 503,
+            "height": 25
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "La Tierra como Elemento"
+            }
+          ]
+        },
+        {
+          "id": "zgmIzT",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 279,
+            "left": 360,
+            "width": 503,
+            "height": 25
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "2000"
+            }
+          ]
+        },
+        {
+          "id": "zlIsqu",
+          "type": "GridButton",
+          "desktop": {
+            "top": 470,
+            "left": 547,
+            "width": 130,
+            "height": 50,
+            "fontSize": 20
+          },
+          "link": {
+            "href": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras_de_la_ventana-fVMZLFhKNhdnyDgA.mp3",
+            "text": "♫",
+            "linkType": "download",
+            "linkedPageId": null,
+            "localPath": "assets/files/detras_de_la_ventana-fVMZLFhKNhdnyDgA.mp3"
+          }
+        }
+      ],
+      "level": "h1"
     },
     {
       "blockId": "z2fHAB",
       "heading": "\"Mujeres de colores en un planeta sin fronteras, sin guerras. Una visión utópica reflejada en seres oníricos de meditación disfrazada. Imágenes que gritan tolerancia a través de la entrega y el silencio, reflejando el lado femenino de la humanidad. La espiritualidad es la que mueve el todo, la esperanza para el siglo que empezamos. \"",
-      "level": "h5",
-      "paragraphs": [],
+      "paragraphs": [
+        "Cali Rivera-Comercial Derechos de Autor 2001"
+      ],
       "images": [
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-2-l5v43ilwBciFXAUf.png",
@@ -105,58 +155,102 @@
           "caption": null,
           "width": 1102,
           "height": 1428,
-          "role": "image__image"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "localPath": "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "alt": null,
-          "caption": null,
-          "width": 1102,
-          "height": 1428,
-          "role": "image__image"
-        },
-        {
-          "src": "https://i.ytimg.com/vi/Dmzp57etvX0/hqdefault.jpg",
-          "localPath": "assets/detras-de-la-ventana/hqdefault.jpg",
-          "alt": null,
-          "caption": null,
-          "width": 480,
-          "height": 360,
-          "role": "video__placeholder"
+          "bytes": 2767147,
+          "role": "image",
+          "fullResolution": [
+            1102,
+            1428
+          ],
+          "href": null
         }
       ],
-      "links": []
-    },
-    {
-      "blockId": "z2fHAB",
-      "heading": "Cali Rivera-Comercial Derechos de Autor 2001",
-      "level": "h1",
-      "paragraphs": [],
-      "images": [],
-      "links": []
-    },
-    {
-      "blockId": "zYCwof",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+      "links": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-15-70oWuhZQFa8bp2Iw.png",
-          "localPath": "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
-          "alt": null,
-          "caption": null,
-          "width": 1060,
-          "height": 1484,
-          "role": "block-background__image"
+          "href": "https://www.youtube.com/watch?v=Dmzp57etvX0",
+          "text": "video",
+          "provider": "youtube",
+          "thumb": "https://i.ytimg.com/vi/Dmzp57etvX0/hqdefault.jpg"
         }
       ],
-      "links": []
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-AL42ugwWZeNuNCXd.png",
+        "localPath": "assets/detras-de-la-ventana/madre-tierra-AL42ugwWZeNuNCXd.png",
+        "alt": null,
+        "caption": null,
+        "width": 1080,
+        "height": 1456,
+        "bytes": 2949396,
+        "role": "background",
+        "overlayOpacity": "0.83"
+      },
+      "elements": [
+        {
+          "id": "zImK6n",
+          "type": "GridImage",
+          "desktop": {
+            "top": 64,
+            "left": 649,
+            "width": 444,
+            "height": 556
+          },
+          "image": "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png"
+        },
+        {
+          "id": "z1gZPT",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 129,
+            "left": 73,
+            "width": 503,
+            "height": 151
+          },
+          "text": [
+            {
+              "tag": "h5",
+              "class": "",
+              "text": "\"Mujeres de colores en un planeta sin fronteras, sin guerras. Una visión utópica reflejada en seres oníricos de meditación disfrazada. Imágenes que gritan tolerancia a través de la entrega y el silencio, reflejando el lado femenino de la humanidad. La espiritualidad es la que mueve el todo, la esperanza para el siglo que empezamos. \""
+            }
+          ]
+        },
+        {
+          "id": "zaxcD_",
+          "type": "GridVideo",
+          "desktop": {
+            "top": 320,
+            "left": 73,
+            "width": 504,
+            "height": 284
+          },
+          "video": {
+            "href": "https://www.youtube.com/watch?v=Dmzp57etvX0",
+            "text": "video",
+            "provider": "youtube",
+            "thumb": "https://i.ytimg.com/vi/Dmzp57etvX0/hqdefault.jpg"
+          }
+        },
+        {
+          "id": "zUdGnk",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 620,
+            "left": 72,
+            "width": 328,
+            "height": 18
+          },
+          "text": [
+            {
+              "tag": "h1",
+              "class": "",
+              "text": "Cali Rivera-Comercial Derechos de Autor 2001"
+            }
+          ]
+        }
+      ],
+      "level": "h5"
     },
     {
       "blockId": "zYCwof",
       "heading": "La Tierra: el origen de un lenguaje",
-      "level": "h6",
       "paragraphs": [
         "Detrás de la ventana no es simplemente la primera serie dedicada al elemento Tierra. Con la distancia que dan los años, comprendo que fue el momento en que nació el lenguaje que sostendría gran parte de mi producción artística posterior. Allí aparecieron, por primera vez de manera consciente y madura, las ideas que con el tiempo se expandirían hacia Plegaria, Revelaciones, La Cofradía y otras propuestas que continúan desarrollándose hasta hoy.",
         "No es casual que el recorrido comience con la Tierra. Nunca me interesó representarla como un paisaje ni como un territorio geográfico. La entendí desde el principio como madre, memoria y conciencia; como un organismo vivo que sostiene toda existencia y del cual el ser humano forma parte inseparable. La Tierra deja de ser un escenario para convertirse en un ser vivo. Por eso, este primer elemento constituye el fundamento conceptual de todo un proyecto.",
@@ -168,29 +262,82 @@
         "- Cali Rivera"
       ],
       "images": [],
-      "links": []
-    },
-    {
-      "blockId": "z37uFp",
-      "heading": null,
-      "paragraphs": [],
-      "images": [
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-15-70oWuhZQFa8bp2Iw.png",
+        "localPath": "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
+        "alt": null,
+        "caption": null,
+        "width": 1060,
+        "height": 1484,
+        "bytes": 2305233,
+        "role": "background",
+        "overlayOpacity": "0.84"
+      },
+      "elements": [
         {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
-          "localPath": "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
-          "alt": null,
-          "caption": null,
-          "width": 1030,
-          "height": 1527,
-          "role": "block-background__image block-background__image--fixed"
+          "id": "zCPZBZ",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 61,
+            "left": 206,
+            "width": 812,
+            "height": 1219
+          },
+          "text": [
+            {
+              "tag": "h6",
+              "class": "",
+              "text": "La Tierra: el origen de un lenguaje"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Detrás de la ventana no es simplemente la primera serie dedicada al elemento Tierra. Con la distancia que dan los años, comprendo que fue el momento en que nació el lenguaje que sostendría gran parte de mi producción artística posterior. Allí aparecieron, por primera vez de manera consciente y madura, las ideas que con el tiempo se expandirían hacia Plegaria, Revelaciones, La Cofradía y otras propuestas que continúan desarrollándose hasta hoy."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "No es casual que el recorrido comience con la Tierra. Nunca me interesó representarla como un paisaje ni como un territorio geográfico. La entendí desde el principio como madre, memoria y conciencia; como un organismo vivo que sostiene toda existencia y del cual el ser humano forma parte inseparable. La Tierra deja de ser un escenario para convertirse en un ser vivo. Por eso, este primer elemento constituye el fundamento conceptual de todo un proyecto."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "La semilla de esta reflexión nació frente al Muro de Berlín, en 1995. Aquel encuentro con un símbolo de división me llevó a preguntarme por la relación entre el ser humano y el planeta. Comprendí entonces que los cuatro elementos no serían una clasificación simbólica ni una referencia a las antiguas cosmologías, sino un recorrido de conciencia capaz de cuestionar nuestra responsabilidad como especie y nuestra forma de habitar la Tierra."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "A partir de esta serie comenzaron a aparecer personajes, símbolos, flores, paisajes y narrativas que permitieron que el concepto dejara de ser únicamente una idea para convertirse en una experiencia emocional. La pintura emprendió un tránsito desde el abstraccionismo conceptual hacia un lenguaje cercano al surrealismo y al realismo mágico, donde la imagen se transformó en un puente entre la reflexión y la emoción. Ese cambio marcó un verdadero punto de inflexión en mi carrera."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Las mujeres que habitan estas obras nunca pretendieron ser retratos individuales. Son la representación simbólica de la humanidad. Encarnan la sensibilidad, la esperanza y la posibilidad de transformación. Permanecen en silencio, pero ese silencio nunca es pasividad. Como escribí entonces, estas mujeres gritan tolerancia a través de la entrega y el silencio, convirtiéndose en la expresión del lado más compasivo y espiritual del ser humano."
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "Con el paso del tiempo comprendí que Detrás de la ventana fue la semilla de un universo visual y espiritual donde el arte dejó de ser únicamente una forma de representación para convertirse en un instrumento capaz de despertar la conciencia. Desde ese primer elemento nació una visión que, durante las siguientes décadas, se expandió hacia Plegaria, Revelaciones, La Cofradía y otros proyectos, manteniendo intacta la misma búsqueda:"
+            },
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "¿Cómo reconciliar al ser humano consigo mismo, con los demás y con el planeta que habita?"
+            },
+            {
+              "tag": "p",
+              "class": "body-large",
+              "text": "- Cali Rivera"
+            }
+          ]
         }
       ],
-      "links": []
+      "level": "h6"
     },
     {
       "blockId": "z37uFp",
       "heading": "Galería",
-      "level": "h3",
       "paragraphs": [
         "\"Mujeres de colores en un planeta sin fronteras\""
       ],
@@ -202,52 +349,8 @@
           "caption": null,
           "width": 1107,
           "height": 1421,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-7-fpoInVMlV9etmOSL.png",
-          "localPath": "assets/detras-de-la-ventana/detras-7-fpoInVMlV9etmOSL.png",
-          "alt": null,
-          "caption": null,
-          "width": 1063,
-          "height": 1479,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/calas-Lb3ffYKBJdYhMe32.png",
-          "localPath": "assets/detras-de-la-ventana/calas-Lb3ffYKBJdYhMe32.png",
-          "alt": null,
-          "caption": null,
-          "width": 1537,
-          "height": 1023,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
-          "localPath": "assets/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
-          "alt": null,
-          "caption": null,
-          "width": 1023,
-          "height": 1537,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
-          "localPath": "assets/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
-          "alt": null,
-          "caption": null,
-          "width": 1023,
-          "height": 1537,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-18-mhFwsQCmzC4qNwE4.png",
-          "localPath": "assets/detras-de-la-ventana/detras-18-mhFwsQCmzC4qNwE4.png",
-          "alt": null,
-          "caption": null,
-          "width": 1097,
-          "height": 1434,
-          "role": "image__image--unstyled"
+          "bytes": 2758852,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-6-LMqTlI3KPPMhQavk.png",
@@ -256,52 +359,8 @@
           "caption": null,
           "width": 1023,
           "height": 1538,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
-          "localPath": "assets/detras-de-la-ventana/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
-          "alt": null,
-          "caption": null,
-          "width": 1101,
-          "height": 1429,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "localPath": "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "alt": null,
-          "caption": null,
-          "width": 1102,
-          "height": 1428,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
-          "localPath": "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
-          "alt": null,
-          "caption": null,
-          "width": 1030,
-          "height": 1527,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-15-70oWuhZQFa8bp2Iw.png",
-          "localPath": "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
-          "alt": null,
-          "caption": null,
-          "width": 1060,
-          "height": 1484,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/oficial-detras-itB5cNPPfydQ5HS2.png",
-          "localPath": "assets/detras-de-la-ventana/oficial-detras-itB5cNPPfydQ5HS2.png",
-          "alt": null,
-          "caption": null,
-          "width": 1023,
-          "height": 1537,
-          "role": "image__image--unstyled"
+          "bytes": 2468288,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-5-9NB3iQTtYOxW0xCQ.png",
@@ -310,61 +369,8 @@
           "caption": null,
           "width": 1210,
           "height": 1300,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/36c7a4a5-0565-420f-84cd-7d635622575a-uOcKha8KQS6JQOMn.png",
-          "localPath": "assets/detras-de-la-ventana/36c7a4a5-0565-420f-84cd-7d635622575a-uOcKha8KQS6JQOMn.png",
-          "alt": null,
-          "caption": null,
-          "width": 1335,
-          "height": 1178,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-de-la-ventana-1-2av25lPFrd3HfXqp.png",
-          "localPath": "assets/detras-de-la-ventana/detras-de-la-ventana-1-2av25lPFrd3HfXqp.png",
-          "alt": null,
-          "caption": null,
-          "width": 1041,
-          "height": 1511,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-13-RoUlERPZ61f3uBTU.png",
-          "localPath": "assets/detras-de-la-ventana/detras-13-RoUlERPZ61f3uBTU.png",
-          "alt": null,
-          "caption": null,
-          "width": 1055,
-          "height": 1491,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-0J3ckGTqfd7uBvSI.png",
-          "localPath": "assets/detras-de-la-ventana/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-0J3ckGTqfd7uBvSI.png",
-          "alt": null,
-          "caption": null,
-          "width": 1854,
-          "height": 848,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/delirio-12W8wojiBV02mYAN.jpg",
-          "localPath": "assets/detras-de-la-ventana/delirio-12W8wojiBV02mYAN.jpg",
-          "alt": null,
-          "caption": null,
-          "width": 372,
-          "height": 500,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/amanecer-4k-cVV8w62WCE5PqU16.png",
-          "localPath": "assets/detras-de-la-ventana/amanecer-4k-cVV8w62WCE5PqU16.png",
-          "alt": null,
-          "caption": null,
-          "width": 1107,
-          "height": 1421,
-          "role": "image__image--unstyled"
+          "bytes": 2583250,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-7-fpoInVMlV9etmOSL.png",
@@ -373,52 +379,8 @@
           "caption": null,
           "width": 1063,
           "height": 1479,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/calas-Lb3ffYKBJdYhMe32.png",
-          "localPath": "assets/detras-de-la-ventana/calas-Lb3ffYKBJdYhMe32.png",
-          "alt": null,
-          "caption": null,
-          "width": 1537,
-          "height": 1023,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
-          "localPath": "assets/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
-          "alt": null,
-          "caption": null,
-          "width": 1023,
-          "height": 1537,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
-          "localPath": "assets/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
-          "alt": null,
-          "caption": null,
-          "width": 1023,
-          "height": 1537,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-18-mhFwsQCmzC4qNwE4.png",
-          "localPath": "assets/detras-de-la-ventana/detras-18-mhFwsQCmzC4qNwE4.png",
-          "alt": null,
-          "caption": null,
-          "width": 1097,
-          "height": 1434,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-6-LMqTlI3KPPMhQavk.png",
-          "localPath": "assets/detras-de-la-ventana/detras-6-LMqTlI3KPPMhQavk.png",
-          "alt": null,
-          "caption": null,
-          "width": 1023,
-          "height": 1538,
-          "role": "image__image--unstyled"
+          "bytes": 2586483,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
@@ -427,52 +389,8 @@
           "caption": null,
           "width": 1101,
           "height": 1429,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "localPath": "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
-          "alt": null,
-          "caption": null,
-          "width": 1102,
-          "height": 1428,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
-          "localPath": "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
-          "alt": null,
-          "caption": null,
-          "width": 1030,
-          "height": 1527,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-15-70oWuhZQFa8bp2Iw.png",
-          "localPath": "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
-          "alt": null,
-          "caption": null,
-          "width": 1060,
-          "height": 1484,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/oficial-detras-itB5cNPPfydQ5HS2.png",
-          "localPath": "assets/detras-de-la-ventana/oficial-detras-itB5cNPPfydQ5HS2.png",
-          "alt": null,
-          "caption": null,
-          "width": 1023,
-          "height": 1537,
-          "role": "image__image--unstyled"
-        },
-        {
-          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-5-9NB3iQTtYOxW0xCQ.png",
-          "localPath": "assets/detras-de-la-ventana/detras-5-9NB3iQTtYOxW0xCQ.png",
-          "alt": null,
-          "caption": null,
-          "width": 1210,
-          "height": 1300,
-          "role": "image__image--unstyled"
+          "bytes": 2899758,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/36c7a4a5-0565-420f-84cd-7d635622575a-uOcKha8KQS6JQOMn.png",
@@ -481,7 +399,28 @@
           "caption": null,
           "width": 1335,
           "height": 1178,
-          "role": "image__image--unstyled"
+          "bytes": 2539837,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/calas-Lb3ffYKBJdYhMe32.png",
+          "localPath": "assets/detras-de-la-ventana/calas-Lb3ffYKBJdYhMe32.png",
+          "alt": null,
+          "caption": null,
+          "width": 1537,
+          "height": 1023,
+          "bytes": 2210311,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/madre-tierra-2-l5v43ilwBciFXAUf.png",
+          "localPath": "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
+          "alt": null,
+          "caption": null,
+          "width": 1102,
+          "height": 1428,
+          "bytes": 2767147,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-de-la-ventana-1-2av25lPFrd3HfXqp.png",
@@ -490,7 +429,28 @@
           "caption": null,
           "width": 1041,
           "height": 1511,
-          "role": "image__image--unstyled"
+          "bytes": 2727602,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
+          "localPath": "assets/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
+          "alt": null,
+          "caption": null,
+          "width": 1023,
+          "height": 1537,
+          "bytes": 2779983,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
+          "localPath": "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
+          "alt": null,
+          "caption": null,
+          "width": 1030,
+          "height": 1527,
+          "bytes": 2819033,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-13-RoUlERPZ61f3uBTU.png",
@@ -499,7 +459,28 @@
           "caption": null,
           "width": 1055,
           "height": 1491,
-          "role": "image__image--unstyled"
+          "bytes": 2554702,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
+          "localPath": "assets/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
+          "alt": null,
+          "caption": null,
+          "width": 1023,
+          "height": 1537,
+          "bytes": 2303034,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-15-70oWuhZQFa8bp2Iw.png",
+          "localPath": "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
+          "alt": null,
+          "caption": null,
+          "width": 1060,
+          "height": 1484,
+          "bytes": 2305233,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-0J3ckGTqfd7uBvSI.png",
@@ -508,7 +489,28 @@
           "caption": null,
           "width": 1854,
           "height": 848,
-          "role": "image__image--unstyled"
+          "bytes": 2580216,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/detras-18-mhFwsQCmzC4qNwE4.png",
+          "localPath": "assets/detras-de-la-ventana/detras-18-mhFwsQCmzC4qNwE4.png",
+          "alt": null,
+          "caption": null,
+          "width": 1097,
+          "height": 1434,
+          "bytes": 2715675,
+          "role": "gallery"
+        },
+        {
+          "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/oficial-detras-itB5cNPPfydQ5HS2.png",
+          "localPath": "assets/detras-de-la-ventana/oficial-detras-itB5cNPPfydQ5HS2.png",
+          "alt": null,
+          "caption": null,
+          "width": 1023,
+          "height": 1537,
+          "bytes": 2578819,
+          "role": "gallery"
         },
         {
           "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/delirio-12W8wojiBV02mYAN.jpg",
@@ -517,11 +519,94 @@
           "caption": null,
           "width": 372,
           "height": 500,
-          "role": "image__image--unstyled"
+          "bytes": 90924,
+          "role": "gallery"
         }
       ],
-      "links": []
+      "links": [],
+      "background": {
+        "src": "https://assets.zyrosite.com/6MtlOyiEsMGpawQT/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
+        "localPath": "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
+        "alt": null,
+        "caption": null,
+        "width": 1030,
+        "height": 1527,
+        "bytes": 2819033,
+        "role": "background",
+        "overlayOpacity": "0.90"
+      },
+      "elements": [
+        {
+          "id": "zms9Gv",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 80,
+            "left": 0,
+            "width": 1224,
+            "height": 62
+          },
+          "text": [
+            {
+              "tag": "h3",
+              "class": "",
+              "text": "Galería"
+            }
+          ]
+        },
+        {
+          "id": "zQ0omx",
+          "type": "GridTextBox",
+          "desktop": {
+            "top": 152,
+            "left": 412,
+            "width": 400,
+            "height": 28
+          },
+          "text": [
+            {
+              "tag": "p",
+              "class": "body",
+              "text": "\"Mujeres de colores en un planeta sin fronteras\""
+            }
+          ]
+        },
+        {
+          "id": "zRo_pa",
+          "type": "GridGallery",
+          "desktop": {
+            "top": 252,
+            "left": 0,
+            "width": 1224,
+            "height": 3443,
+            "columnGap": 24,
+            "columnCount": 3
+          },
+          "gallery": [
+            "assets/detras-de-la-ventana/amanecer-4k-cVV8w62WCE5PqU16.png",
+            "assets/detras-de-la-ventana/detras-6-LMqTlI3KPPMhQavk.png",
+            "assets/detras-de-la-ventana/detras-5-9NB3iQTtYOxW0xCQ.png",
+            "assets/detras-de-la-ventana/detras-7-fpoInVMlV9etmOSL.png",
+            "assets/detras-de-la-ventana/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
+            "assets/detras-de-la-ventana/36c7a4a5-0565-420f-84cd-7d635622575a-uOcKha8KQS6JQOMn.png",
+            "assets/detras-de-la-ventana/calas-Lb3ffYKBJdYhMe32.png",
+            "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
+            "assets/detras-de-la-ventana/detras-de-la-ventana-1-2av25lPFrd3HfXqp.png",
+            "assets/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
+            "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
+            "assets/detras-de-la-ventana/detras-13-RoUlERPZ61f3uBTU.png",
+            "assets/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
+            "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
+            "assets/detras-de-la-ventana/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-0J3ckGTqfd7uBvSI.png",
+            "assets/detras-de-la-ventana/detras-18-mhFwsQCmzC4qNwE4.png",
+            "assets/detras-de-la-ventana/oficial-detras-itB5cNPPfydQ5HS2.png",
+            "assets/detras-de-la-ventana/delirio-12W8wojiBV02mYAN.jpg"
+          ]
+        }
+      ],
+      "level": "h3"
     }
   ],
-  "rawTextHash": "7f3fbbc059c3fbc05e35bfd8223fad537679e951604f24f1c4cdf6fee8453861"
+  "rawTextHash": "faed8ceba7eff019213fbb06d4199c385c4698cce256da3cdf68800f7e9b5b56",
+  "wordCount": 530,
+  "source": "zyro pageData (astro-island props) + html meta"
 }

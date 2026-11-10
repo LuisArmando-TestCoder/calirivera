@@ -1,5 +1,10 @@
 .DS_Store
-.secrets/
 .env*
 !.env.example
 node_modules/
+
+# Firebase service account — vive en la raíz del repo, NUNCA se comitea
+service-account.json
+*service-account*.json
+*-firebase-adminsdk-*.json
+netlify.env

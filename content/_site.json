@@ -1,0 +1,433 @@
+{
+  "domain": "calirivera.com",
+  "siteId": "6MtlOyiEsMGpawQT",
+  "nav": [
+    {
+      "isHidden": false,
+      "linkType": "Page",
+      "subItems": [],
+      "navItemId": "home",
+      "linkedPageId": "home"
+    },
+    {
+      "isHidden": false,
+      "linkType": "Page",
+      "subItems": [],
+      "navItemId": "biografia",
+      "linkedPageId": "biografia"
+    },
+    {
+      "isHidden": false,
+      "linkType": "Page",
+      "subItems": [],
+      "navItemId": "galeria",
+      "linkedPageId": "galeria"
+    },
+    {
+      "isHidden": false,
+      "linkType": "Page",
+      "subItems": [],
+      "navItemId": "taller",
+      "linkedPageId": "taller"
+    },
+    {
+      "isHidden": false,
+      "linkType": "Page",
+      "subItems": [
+        {
+          "isHidden": false,
+          "linkType": "Page",
+          "subItems": [],
+          "navItemId": "zvYi4X",
+          "linkedPageId": "ziKDxw"
+        },
+        {
+          "isHidden": false,
+          "linkType": "Page",
+          "subItems": [],
+          "navItemId": "zCbAxr",
+          "linkedPageId": "zeVtMq"
+        },
+        {
+          "isHidden": false,
+          "linkType": "Page",
+          "subItems": [],
+          "navItemId": "zQiiWL",
+          "linkedPageId": "zpSWFx"
+        },
+        {
+          "isHidden": false,
+          "linkType": "Page",
+          "subItems": [],
+          "navItemId": "zkDqeB",
+          "linkedPageId": "zfeIYk"
+        },
+        {
+          "isHidden": false,
+          "linkType": "Page",
+          "subItems": [],
+          "navItemId": "zqP-D4",
+          "linkedPageId": "zPcM51"
+        },
+        {
+          "isHidden": false,
+          "linkType": "Page",
+          "subItems": [],
+          "navItemId": "z0uoj9",
+          "linkedPageId": "zj0987"
+        },
+        {
+          "isHidden": false,
+          "linkType": "Page",
+          "subItems": [],
+          "navItemId": "z8Opko",
+          "linkedPageId": "zJqNnY"
+        }
+      ],
+      "navItemId": "z-KJb_",
+      "linkedPageId": "zyaJ4T"
+    },
+    {
+      "isHidden": false,
+      "linkType": "Page",
+      "subItems": [],
+      "navItemId": "trayectoria",
+      "linkedPageId": "trayectoria"
+    }
+  ],
+  "pages": {
+    "home": {
+      "name": "Inicio",
+      "slug": "home",
+      "blocks": 3
+    },
+    "taller": {
+      "name": "Taller del Artista",
+      "slug": "taller-del-artista",
+      "blocks": 0
+    },
+    "zJqNnY": {
+      "name": "La Cofradía",
+      "slug": "la-cofradia",
+      "blocks": 0
+    },
+    "zPcM51": {
+      "name": "Exvotos",
+      "slug": "exvotos",
+      "blocks": 0
+    },
+    "zeVtMq": {
+      "name": "Musas del Cántaro",
+      "slug": "musas-del-cantaro",
+      "blocks": 0
+    },
+    "zfeIYk": {
+      "name": "Detras de la ventana",
+      "slug": "detras-de-la-ventana",
+      "blocks": 0
+    },
+    "ziKDxw": {
+      "name": "Atmósfera",
+      "slug": "atmosfera",
+      "blocks": 0
+    },
+    "zj0987": {
+      "name": "Plegaria",
+      "slug": "plegaria",
+      "blocks": 0
+    },
+    "zpSWFx": {
+      "name": "Sueños en Azul",
+      "slug": "suenos-en-azul",
+      "blocks": 0
+    },
+    "zyaJ4T": {
+      "name": "Colecciones",
+      "slug": "colecciones",
+      "blocks": 0
+    },
+    "galeria": {
+      "name": "Catálogos & Proyectos",
+      "slug": "catalogos-and-proyectos",
+      "blocks": 0
+    },
+    "biografia": {
+      "name": "Biografía",
+      "slug": "biografia",
+      "blocks": 0
+    },
+    "trayectoria": {
+      "name": "Trayectoria & Entrevistas",
+      "slug": "trayectoria-and-entrevistas",
+      "blocks": 0
+    }
+  },
+  "styles": {
+    "h1": {
+      "font-size": "56px",
+      "font-style": "normal",
+      "font-family": "var(--font-primary)",
+      "font-weight": 400,
+      "line-height": "1.25",
+      "m-font-size": "40px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "h2": {
+      "font-size": "40px",
+      "font-style": "normal",
+      "font-family": "var(--font-primary)",
+      "font-weight": 400,
+      "line-height": "1.3",
+      "m-font-size": "32px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "h3": {
+      "font-size": "28px",
+      "font-style": "normal",
+      "font-family": "var(--font-primary)",
+      "font-weight": 400,
+      "line-height": "1.35",
+      "m-font-size": "24px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "h4": {
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-family": "var(--font-primary)",
+      "font-weight": 400,
+      "line-height": "1.4",
+      "m-font-size": "18px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "h5": {
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-family": "var(--font-primary)",
+      "font-weight": 400,
+      "line-height": "1.4",
+      "m-font-size": "18px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "h6": {
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-family": "var(--font-primary)",
+      "font-weight": 400,
+      "line-height": "1.4",
+      "m-font-size": "18px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "body": {
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-family": "var(--font-secondary)",
+      "font-weight": 400,
+      "line-height": "1.75",
+      "m-font-size": "14px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "font": {
+      "primary": "'Spectral', serif",
+      "secondary": "'Sora', sans-serif"
+    },
+    "nav-link": {
+      "color": "rgb(0, 0, 0)",
+      "font-size": "14px",
+      "font-style": "normal",
+      "color-hover": "rgb(197, 173, 130)",
+      "font-family": "var(--font-secondary)",
+      "font-weight": 400,
+      "line-height": "1.5",
+      "m-font-size": "16px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "body-large": {
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-family": "var(--font-secondary)",
+      "font-weight": 400,
+      "line-height": "1.20",
+      "m-font-size": "16px",
+      "letter-spacing": 0,
+      "text-transform": "uppercase",
+      "text-decoration": "underline"
+    },
+    "body-small": {
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-family": "var(--font-secondary)",
+      "font-weight": 400,
+      "line-height": "1.5",
+      "m-font-size": "16px",
+      "letter-spacing": 0,
+      "text-transform": "none",
+      "text-decoration": "none"
+    },
+    "grid-button-primary": {
+      "font-size": "14px",
+      "padding-x": "28px",
+      "padding-y": "16px",
+      "font-color": "#ffffff",
+      "font-style": "normal",
+      "border-null": "",
+      "color-hover": "rgb(252, 249, 245)",
+      "font-family": "var(--font-secondary)",
+      "font-weight": 400,
+      "line-height": "1.3",
+      "m-font-size": "14px",
+      "m-padding-x": "22px",
+      "m-padding-y": "14px",
+      "box-shadow-x": "0px",
+      "box-shadow-y": "4px",
+      "border-radius": 2,
+      "letter-spacing": "normal",
+      "text-transform": "none",
+      "box-shadow-blur": "16px",
+      "box-shadow-null": "",
+      "text-decoration": "none",
+      "background-color": "rgb(31, 110, 92)",
+      "box-shadow-color": "rgba(0, 0, 0, 0.12)",
+      "border-null-hover": "",
+      "box-shadow-spread": "0px",
+      "box-shadow-x-hover": "0px",
+      "box-shadow-y-hover": "6px",
+      "transition-duration": "0.2s",
+      "background-color-null": "",
+      "box-shadow-blur-hover": "20px",
+      "box-shadow-null-hover": "",
+      "background-color-hover": "rgb(18, 17, 16)",
+      "box-shadow-color-hover": "rgba(0, 0, 0, 0.18)",
+      "box-shadow-spread-hover": "0px",
+      "transition-timing-function": "ease",
+      "background-color-null-hover": ""
+    },
+    "grid-button-secondary": {
+      "font-size": "14px",
+      "padding-x": "28px",
+      "padding-y": "16px",
+      "font-color": "rgb(252, 249, 245)",
+      "font-style": "normal",
+      "border-null": "",
+      "color-hover": "rgb(18, 17, 16)",
+      "font-family": "var(--font-secondary)",
+      "font-weight": 400,
+      "line-height": "1.3",
+      "m-font-size": "14px",
+      "m-padding-x": "22px",
+      "m-padding-y": "14px",
+      "box-shadow-x": "0px",
+      "box-shadow-y": "2px",
+      "border-radius": 2,
+      "letter-spacing": "normal",
+      "text-transform": "none",
+      "box-shadow-blur": "10px",
+      "box-shadow-null": "",
+      "text-decoration": "none",
+      "background-color": "rgba(0, 0, 0, 0)",
+      "box-shadow-color": "rgba(0, 0, 0, 0.08)",
+      "border-null-hover": "",
+      "box-shadow-spread": "0px",
+      "box-shadow-x-hover": "0px",
+      "box-shadow-y-hover": "4px",
+      "transition-duration": "0.2s",
+      "background-color-null": "",
+      "box-shadow-blur-hover": "14px",
+      "box-shadow-null-hover": "",
+      "background-color-hover": "rgb(252, 249, 245)",
+      "box-shadow-color-hover": "rgba(0, 0, 0, 0.14)",
+      "box-shadow-spread-hover": "0px",
+      "transition-timing-function": "ease",
+      "background-color-null-hover": ""
+    }
+  },
+  "metaTitle": [
+    0
+  ],
+  "header": {
+    "settings": {
+      "styles": {
+        "width": "1240px",
+        "padding": "0px 16px 0px 16px",
+        "m-padding": "25px 16px 25px 16px",
+        "logo-width": "166px",
+        "cartIconSize": "24px",
+        "link-spacing": "36px",
+        "m-logo-width": "92px",
+        "m-link-spacing": "42px",
+        "element-spacing": "64px",
+        "m-element-spacing": "37px",
+        "contrastBackgroundColor": "rgb(224, 224, 224)"
+      },
+      "logoAlt": "",
+      "cartText": "",
+      "isSticky": true,
+      "logoText": "",
+      "showLogo": true,
+      "headerLayout": "desktop-3",
+      "isCartVisible": false,
+      "logoImagePath": "disea--o-sin-tatulo-1-FQJYBlAHWRyOJPMj.png",
+      "mHeaderLayout": "mobile-1",
+      "logoImageOrigin": "assets",
+      "mobileLinksAlignment": "left",
+      "isMobileMenuDropdownFullScreen": true
+    },
+    "background": {
+      "color": "rgb(255, 255, 255)",
+      "current": "color",
+      "isTransparent": false
+    },
+    "text": [
+      {
+        "social": [
+          "https://www.facebook.com/elarteparaserlibres/?locale=es_LA",
+          "https://www.instagram.com/caliriveraartista?stkn=MWh3ZnZ4cjMxb3NtMw=="
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "settings": {
+      "styles": {
+        "cols": "12",
+        "rows": 3,
+        "width": "1224px",
+        "m-rows": "1",
+        "col-gap": "24px",
+        "row-gap": "16px",
+        "row-size": "48px",
+        "column-gap": "24px",
+        "block-padding": "16px 0 16px 0",
+        "m-block-padding": "40px 16px"
+      }
+    },
+    "background": {
+      "color": "#e9e6e2",
+      "current": "color",
+      "isTransparent": false
+    },
+    "text": [
+      "EL ARTE ES PARA SER LIBRES.",
+      "Contacto arte@calirivera.com San José, Costa Rica Consultas de adquisición y gestión cultural",
+      "© 2026 Cali Rivera - Obra viva y legado artístico desde Costa Rica.",
+      {
+        "image": "disea--o-sin-tatulo-1-FQJYBlAHWRyOJPMj.png"
+      }
+    ]
+  }
+}

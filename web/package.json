@@ -10,7 +10,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "firebase:check": "node scripts/firebase-setup.mjs check",
+    "firebase:setup": "node scripts/firebase-setup.mjs all",
+    "firebase:netlify-env": "node scripts/firebase-setup.mjs netlify-env"
   },
   "dependencies": {
     "firebase": "^13.2.0",

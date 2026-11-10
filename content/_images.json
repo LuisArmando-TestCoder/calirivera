@@ -1,0 +1,987 @@
+[
+ {
+  "path": "assets/_site/logo.png",
+  "width": 2160,
+  "height": 2160,
+  "bytes": 134409,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png",
+  "width": 1122,
+  "height": 1402,
+  "bytes": 2447340,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/6AEYm85N10s.jpeg",
+  "width": 560,
+  "height": 373,
+  "bytes": 7730,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/biografia/cali-8uAZ6Wg1pDNZsEID.png",
+  "width": 1140,
+  "height": 1380,
+  "bytes": 2717577,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/cali-bebe-Q3bueZvpl0M9YJuu.png",
+  "width": 1087,
+  "height": 1447,
+  "bytes": 2263715,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/cali-exvotos-siu4fNQNNshF3q2C.png",
+  "width": 2007,
+  "height": 784,
+  "bytes": 2679853,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/cali-rivera-3-SuAA23MNKG2LcZp8.png",
+  "width": 1511,
+  "height": 1041,
+  "bytes": 2421617,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/biografia/cama-1YtbTvTIoHTpOrkA.PNG",
+  "width": 776,
+  "height": 571,
+  "bytes": 975213,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/biografia/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
+  "width": 412,
+  "height": 553,
+  "bytes": 431219,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/biografia/cruz-QHEzudwnpfog8IR0.png",
+  "width": 1447,
+  "height": 1087,
+  "bytes": 2549175,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/delirio-12W8wojiBV02mYAN.jpg",
+  "width": 372,
+  "height": 500,
+  "bytes": 98027,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/biografia/incendio-1-DsoRLwPRK7X04U7U.png",
+  "width": 1086,
+  "height": 1448,
+  "bytes": 1831583,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/incendio-2-fiX7isAhh1AegYgy.png",
+  "width": 1078,
+  "height": 1460,
+  "bytes": 1940135,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/incendio-3-UNUlBYXlGqcvQu8j.png",
+  "width": 1450,
+  "height": 1085,
+  "bytes": 3314446,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/luna-azul-sJNevcciZEpaggyc.png",
+  "width": 1148,
+  "height": 1371,
+  "bytes": 2805821,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/madre-tierra-2-l5v43ilwBciFXAUf.png",
+  "width": 1102,
+  "height": 1428,
+  "bytes": 2871972,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/obra-mundial-3rGopp802cP96lZh.jpeg",
+  "width": 1290,
+  "height": 1219,
+  "bytes": 419480,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/biografia/riga-2-0zyzVsHjxPSVPu43.png",
+  "width": 1448,
+  "height": 1086,
+  "bytes": 2209252,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/taller-del-artista-UJK3bqdZmx7TConb.png",
+  "width": 1024,
+  "height": 1536,
+  "bytes": 2653923,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/teatro-HqcXaKuhRk4u6mfY.png",
+  "width": 1116,
+  "height": 1410,
+  "bytes": 2271349,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/biografia/teatro-nSaSnE9MNoF7vqEM.jpeg",
+  "width": 1086,
+  "height": 1448,
+  "bytes": 365944,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/amanecer-4k-cVV8w62WCE5PqU16.png",
+  "width": 1107,
+  "height": 1421,
+  "bytes": 2881720,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/beso-II4wdOCaLll6pSMP.PNG",
+  "width": 680,
+  "height": 536,
+  "bytes": 364397,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/cama-1YtbTvTIoHTpOrkA.PNG",
+  "width": 776,
+  "height": 571,
+  "bytes": 631265,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/camino-hacia-la-luz-krtwID89pTZiOeRF.png",
+  "width": 1173,
+  "height": 1341,
+  "bytes": 2720088,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/candela-SjvXHdgnaGUodgNo.PNG",
+  "width": 430,
+  "height": 548,
+  "bytes": 504948,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG",
+  "width": 412,
+  "height": 553,
+  "bytes": 235638,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/chase-2-eOMZM2Q9DuC2xuPI.jpeg",
+  "width": 579,
+  "height": 501,
+  "bytes": 45179,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/contemporaneo-exvotos-SE4162FEEGeZHj5W.png",
+  "width": 1163,
+  "height": 1352,
+  "bytes": 3098133,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/detras-5-9NB3iQTtYOxW0xCQ.png",
+  "width": 1210,
+  "height": 1300,
+  "bytes": 2628372,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
+  "width": 1101,
+  "height": 1429,
+  "bytes": 2957943,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+  "width": 388,
+  "height": 353,
+  "bytes": 258037,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png",
+  "width": 1170,
+  "height": 1345,
+  "bytes": 2966867,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png",
+  "width": 1189,
+  "height": 1323,
+  "bytes": 2849804,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/luna-azul-sJNevcciZEpaggyc.png",
+  "width": 1148,
+  "height": 1371,
+  "bytes": 2752401,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/obra-mundial-3rGopp802cP96lZh.jpeg",
+  "width": 1290,
+  "height": 1219,
+  "bytes": 406730,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/sexto-sol-t89E6rzBvHb0tenu.PNG",
+  "width": 767,
+  "height": 576,
+  "bytes": 1408547,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/catalogos-and-proyectos/teatro-nSaSnE9MNoF7vqEM.jpeg",
+  "width": 1086,
+  "height": 1448,
+  "bytes": 358210,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/colecciones/teatro-HqcXaKuhRk4u6mfY.png",
+  "width": 1116,
+  "height": 1410,
+  "bytes": 2167000,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png",
+  "width": 1023,
+  "height": 1537,
+  "bytes": 2303034,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/2a0cc6fd-e17d-4034-93cf-79d2bb308343-Pv6PliCxnTTHFg99.png",
+  "width": 1030,
+  "height": 1527,
+  "bytes": 2819033,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/36c7a4a5-0565-420f-84cd-7d635622575a-uOcKha8KQS6JQOMn.png",
+  "width": 1335,
+  "height": 1178,
+  "bytes": 2539837,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/amanecer-4k-cVV8w62WCE5PqU16.png",
+  "width": 1107,
+  "height": 1421,
+  "bytes": 2758852,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/detras-de-la-ventana/calas-Lb3ffYKBJdYhMe32.png",
+  "width": 1537,
+  "height": 1023,
+  "bytes": 2210311,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/delirio-12W8wojiBV02mYAN.jpg",
+  "width": 372,
+  "height": 500,
+  "bytes": 90924,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-13-RoUlERPZ61f3uBTU.png",
+  "width": 1055,
+  "height": 1491,
+  "bytes": 2554702,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-15-70oWuhZQFa8bp2Iw.png",
+  "width": 1060,
+  "height": 1484,
+  "bytes": 2305233,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-18-mhFwsQCmzC4qNwE4.png",
+  "width": 1097,
+  "height": 1434,
+  "bytes": 2715675,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-5-9NB3iQTtYOxW0xCQ.png",
+  "width": 1210,
+  "height": 1300,
+  "bytes": 2583250,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-6-LMqTlI3KPPMhQavk.png",
+  "width": 1023,
+  "height": 1538,
+  "bytes": 2468288,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-7-fpoInVMlV9etmOSL.png",
+  "width": 1063,
+  "height": 1479,
+  "bytes": 2586483,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-de-la-ventana-1-2av25lPFrd3HfXqp.png",
+  "width": 1041,
+  "height": 1511,
+  "bytes": 2727602,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/detras-de-la-ventana-4-iECm6raTz2uPkfAq.png",
+  "width": 1101,
+  "height": 1429,
+  "bytes": 2899758,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png",
+  "width": 1023,
+  "height": 1537,
+  "bytes": 2779983,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-0J3ckGTqfd7uBvSI.png",
+  "width": 1854,
+  "height": 848,
+  "bytes": 2580216,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/hqdefault.jpg",
+  "width": 480,
+  "height": 360,
+  "bytes": 11564,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png",
+  "width": 1102,
+  "height": 1428,
+  "bytes": 2767147,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/detras-de-la-ventana/madre-tierra-AL42ugwWZeNuNCXd.png",
+  "width": 1080,
+  "height": 1456,
+  "bytes": 2949396,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/oficial-detras-itB5cNPPfydQ5HS2.png",
+  "width": 1023,
+  "height": 1537,
+  "bytes": 2578819,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/detras-de-la-ventana/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
+  "width": 1024,
+  "height": 1024,
+  "bytes": 168735,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/exvotos/cali-exvotos-siu4fNQNNshF3q2C.png",
+  "width": 2007,
+  "height": 784,
+  "bytes": 2640347,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/exvotos/camino-hacia-la-luz-krtwID89pTZiOeRF.png",
+  "width": 1173,
+  "height": 1341,
+  "bytes": 2656368,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/exvotos/contemporaneo-exvotos-SE4162FEEGeZHj5W.png",
+  "width": 1163,
+  "height": 1352,
+  "bytes": 2966517,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/exvotos/el-comienzo-exvotos-3chw9cSgWSbo0eFB.png",
+  "width": 1182,
+  "height": 1331,
+  "bytes": 3000924,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/exvotos/exvotos-2-PTzyFCT3Zpj7VAnk.png",
+  "width": 1421,
+  "height": 1107,
+  "bytes": 2480892,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/exvotos/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png",
+  "width": 1170,
+  "height": 1345,
+  "bytes": 2879399,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/exvotos/exvotos-marc-augue-gr3QVzvtJrsnIMAn.png",
+  "width": 1105,
+  "height": 1423,
+  "bytes": 2485931,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/exvotos/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png",
+  "width": 1189,
+  "height": 1323,
+  "bytes": 2786236,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/exvotos/exvotos-mundo-material-UWPmxP3SXFHZxL3U.png",
+  "width": 1183,
+  "height": 1329,
+  "bytes": 2804774,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/exvotos/exvotos-ofrenda-xgubenOeiH5TBXzu.png",
+  "width": 1175,
+  "height": 1339,
+  "bytes": 2795301,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/exvotos/exvotos-portada-ba7rdXaDBkP1atAo.png",
+  "width": 1693,
+  "height": 929,
+  "bytes": 2273135,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/exvotos/luna-azul-sJNevcciZEpaggyc.png",
+  "width": 1148,
+  "height": 1371,
+  "bytes": 2752401,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/home/beso-II4wdOCaLll6pSMP.PNG",
+  "width": 680,
+  "height": 536,
+  "bytes": 521444,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/home/cali-rivera-3-SuAA23MNKG2LcZp8.png",
+  "width": 1511,
+  "height": 1041,
+  "bytes": 1007616,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/home/disea--o-sin-tatulo-1-FQJYBlAHWRyOJPMj.png",
+  "width": 2160,
+  "height": 2160,
+  "bytes": 238318,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/home/f25f1380-c63d-42a7-bb08-38116fdc92ba-7AqHJk6Tuz7v1Se1.jpeg",
+  "width": 900,
+  "height": 1600,
+  "bytes": 138667,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/la-cofradia/cali-exvotos-siu4fNQNNshF3q2C.png",
+  "width": 2007,
+  "height": 784,
+  "bytes": 2640347,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/la-cofradia/candela-SjvXHdgnaGUodgNo.PNG",
+  "width": 430,
+  "height": 548,
+  "bytes": 336868,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/musas-del-cantaro/musa-1-fsAYJ1F4qImm3JpI.png",
+  "width": 933,
+  "height": 1686,
+  "bytes": 3030117,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/musas-del-cantaro/musa-2-oficial-SidoKYv96HPNvG7H.png",
+  "width": 973,
+  "height": 1617,
+  "bytes": 3123776,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/musas-del-cantaro/musa-3-SYjwiaBnj0dDUNsO.png",
+  "width": 1002,
+  "height": 1570,
+  "bytes": 3005496,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/42e3d130-9fa6-47ae-8540-6bbae0e5c90e-pXMyr8DCVofk3adN.png",
+  "width": 1089,
+  "height": 1445,
+  "bytes": 2811687,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/44681f0d-74cd-4a8c-8792-637c183287ef-G5J2lda0dxo4La5R.png",
+  "width": 887,
+  "height": 1774,
+  "bytes": 2397736,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/america-oficial-Shy93QR6kRaf7u0j.jpeg",
+  "width": 835,
+  "height": 1600,
+  "bytes": 152216,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/suenos-en-azul/canta-guitarra-canta-9abTLbg45XIT23LR.png",
+  "width": 897,
+  "height": 1754,
+  "bytes": 2426379,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/frida-TVyRcbUkKaSvmHI1.png",
+  "width": 1116,
+  "height": 1409,
+  "bytes": 2791313,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/hogar-donde-7AQ0WDPNzicL3Dw4.png",
+  "width": 965,
+  "height": 1629,
+  "bytes": 2022578,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/niaa-de-tulipanes-Xd3tbVY7Ken7voq5.png",
+  "width": 1064,
+  "height": 1478,
+  "bytes": 2247836,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/suea--os-1-L2mimsM01dqMZxze.png",
+  "width": 1085,
+  "height": 1450,
+  "bytes": 2364755,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/suea--os-2-3FmZnRPgZLC0Qa94.png",
+  "width": 1048,
+  "height": 1501,
+  "bytes": 2607604,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/sueaos-10-dLJHYtNAC8uSUfrR.png",
+  "width": 1087,
+  "height": 1446,
+  "bytes": 2936005,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/sueaos-4-MOSjeuI2q936U1zL.png",
+  "width": 1086,
+  "height": 1448,
+  "bytes": 2321965,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/sueaos-5-00SvgqqSJvjeKmXi.png",
+  "width": 1086,
+  "height": 1448,
+  "bytes": 2543427,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/suenos-en-azul/sueaos-6-UIxoz1Q29rxbSBNg.png",
+  "width": 1086,
+  "height": 1448,
+  "bytes": 2379097,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/suenos-en-azul/sueaos-9-NBNuS1x6EWZB6n9s.png",
+  "width": 1086,
+  "height": 1448,
+  "bytes": 2568244,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/taller-del-artista/candela-SjvXHdgnaGUodgNo.PNG",
+  "width": 430,
+  "height": 548,
+  "bytes": 336868,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png",
+  "width": 1122,
+  "height": 1402,
+  "bytes": 2179210,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/taller-del-artista/exvotos-2-PTzyFCT3Zpj7VAnk.png",
+  "width": 1421,
+  "height": 1107,
+  "bytes": 2547091,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/taller-del-artista/hqdefault.jpg",
+  "width": 480,
+  "height": 360,
+  "bytes": 18839,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/taller-del-artista/ict-2HZ2xB2MXX8gxLdP.webp",
+  "width": 900,
+  "height": 364,
+  "bytes": 9882,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/taller-del-artista/palma-dorada-de-madrid-ITQnOkZCztT18E56.png",
+  "width": 1254,
+  "height": 1254,
+  "bytes": 1261504,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/taller-del-artista/taller-del-artista-UJK3bqdZmx7TConb.png",
+  "width": 1024,
+  "height": 1536,
+  "bytes": 2390377,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/taller-del-artista/tres-tenedores-rGSUnnhqT3oe7luU.png",
+  "width": 1024,
+  "height": 1024,
+  "bytes": 1511686,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/taller-del-artista/ventana-blanca-png-bhS7wHBdGGsoix5j.png",
+  "width": 1024,
+  "height": 1024,
+  "bytes": 1379642,
+  "aiSignatures": [
+   "c2pa",
+   "OpenAI",
+   "trainedAlgorithmicMedia"
+  ]
+ },
+ {
+  "path": "assets/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg",
+  "width": 800,
+  "height": 1000,
+  "bytes": 76224,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/trayectoria-and-entrevistas/esfera-oficial-XjBqPXfN2Znbch01.PNG",
+  "width": 388,
+  "height": 353,
+  "bytes": 177538,
+  "aiSignatures": []
+ },
+ {
+  "path": "assets/trayectoria-and-entrevistas/obra-mundial-3rGopp802cP96lZh.jpeg",
+  "width": 1290,
+  "height": 1219,
+  "bytes": 406730,
+  "aiSignatures": []
+ }
+]
