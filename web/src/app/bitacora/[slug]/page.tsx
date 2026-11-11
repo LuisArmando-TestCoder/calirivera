@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Suspense } from "react";
 import { EditableText } from "@/components/cms/editable";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
 import { getPost, listSlugs } from "@/lib/content/repo";
@@ -21,7 +22,7 @@ export async function generateMetadata({ params }: PageProps<"/bitacora/[slug]">
   return { title: p?.title ?? "Bitácora", description: p?.excerpt };
 }
 
-export default async function Post({ params }: PageProps<"/bitacora/[slug]">) {
+async function PostContent({ params }: { params: PageProps<"/bitacora/[slug]">["params"] }) {
   const { slug } = await params;
   const p = slug === EMPTY ? null : await getPost(slug);
   if (!p) notFound();
@@ -41,5 +42,18 @@ export default async function Post({ params }: PageProps<"/bitacora/[slug]">) {
         </p>
       )}
     </article>
+  );
+}
+
+/**
+ * `params` se lee dentro de <Suspense>: los slugs conocidos se prerenderizan igual
+ * (generateStaticParams) y una navegación a un slug nuevo (recién creado en el CMS)
+ * muestra el cascarón al instante en vez de bloquear.
+ */
+export default function Post(props: PageProps<"/bitacora/[slug]">) {
+  return (
+    <Suspense fallback={<article className={s.page} aria-busy="true" />}>
+      <PostContent params={props.params} />
+    </Suspense>
   );
 }

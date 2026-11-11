@@ -4,6 +4,7 @@ import type { AnyBlock as Block, Section } from "@/lib/content/types";
 import { BlockView } from "./Blocks";
 import { chooseLayout, firstSentence, segment, textLength } from "./choose";
 import s from "./Section.module.scss";
+import { RevealLines } from "@/components/motion/RevealLines";
 
 /**
  * Renderiza una Section con la diagramación que corresponde (motor procedural).
@@ -30,9 +31,9 @@ export function SectionRenderer({ section, base, index = 0 }: { section: Section
             {title}
             {withIdx.map(({ block, i }) =>
               block.type === "paragraph" ? (
-                <div key={i} data-reveal="lines">
+                <RevealLines key={i}>
                   <EditableText path={`${blocksBase}.${i}.text`} value={block.text} as="p" multiline className={s.statement} />
-                </div>
+                </RevealLines>
               ) : (
                 <BlockView key={i} block={block} base={blocksBase} index={i} />
               ),

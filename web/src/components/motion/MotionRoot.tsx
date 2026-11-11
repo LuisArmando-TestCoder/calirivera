@@ -2,7 +2,7 @@
 /**
  * Un solo loop de animación: Lenis (scroll suave) + GSAP ScrollTrigger en el ticker de GSAP.
  * Lee atributos declarativos del DOM, así los componentes de servidor no cargan JS:
- *   data-reveal="lines"   → las líneas del texto suben desde una máscara (SplitText)
+ *   (las líneas que suben desde una máscara viven en <RevealLines>, un componente cliente)
  *   data-reveal="fade"    → aparece al entrar
  *   data-parallax="0.15"  → desplazamiento vertical relativo al scroll (solo imágenes/fondos)
  *   data-skew             → se inclina con la velocidad del scroll (los estandartes)
@@ -24,17 +24,16 @@ export function MotionRoot() {
     let cleanup: (() => void) | undefined;
 
     // Arranca después del load y en un momento ocioso: con streaming/PPR algunas secciones
-    // se hidratan tarde, y SplitText no debe tocar el DOM antes de que React termine
+    // se hidratan tarde, y nada debe tocar el DOM antes de que React termine
     // (si no, hay desajuste de hidratación). También protege el LCP y el INP.
     const init = async () => {
-      const [{ default: Lenis }, { gsap }, { ScrollTrigger }, { SplitText }] = await Promise.all([
+      const [{ default: Lenis }, { gsap }, { ScrollTrigger }] = await Promise.all([
         import("lenis"),
         import("gsap"),
         import("gsap/ScrollTrigger"),
-        import("gsap/SplitText"),
       ]);
       if (cancelled) return;
-      gsap.registerPlugin(ScrollTrigger, SplitText);
+      gsap.registerPlugin(ScrollTrigger);
 
       const touch = matchMedia("(pointer: coarse)").matches;
       const lenis = touch ? null : new Lenis({ duration: 1.15, smoothWheel: true });
@@ -56,18 +55,6 @@ export function MotionRoot() {
 
       const ctx = gsap.context(() => {
         const mm = gsap.matchMedia();
-
-        document.querySelectorAll<HTMLElement>('[data-reveal="lines"]').forEach((el) => {
-          const split = SplitText.create(el, { type: "lines", mask: "lines", linesClass: "line-inner" });
-          gsap.from(split.lines, {
-            yPercent: 110,
-            duration: 1.05,
-            ease: "expo.out",
-            stagger: 0.07,
-            scrollTrigger: { trigger: el, start: "top 88%", once: true },
-            onComplete: () => split.revert(),
-          });
-        });
 
         ScrollTrigger.batch('[data-reveal="fade"]', {
           start: "top 90%",

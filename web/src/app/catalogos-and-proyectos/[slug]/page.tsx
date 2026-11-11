@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Suspense } from "react";
 import { EditableText } from "@/components/cms/editable";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
 import { getCatalog, listSlugs } from "@/lib/content/repo";
@@ -20,7 +21,7 @@ export async function generateMetadata({ params }: PageProps<"/catalogos-and-pro
   return { title: c?.title ?? "Catálogos y proyectos", description: c?.summary };
 }
 
-export default async function Proyecto({ params }: PageProps<"/catalogos-and-proyectos/[slug]">) {
+async function ProyectoContent({ params }: { params: PageProps<"/catalogos-and-proyectos/[slug]">["params"] }) {
   const { slug } = await params;
   const c = slug === EMPTY ? null : await getCatalog(slug);
   if (!c) notFound();
@@ -36,5 +37,18 @@ export default async function Proyecto({ params }: PageProps<"/catalogos-and-pro
       </header>
       {c.body.length > 0 && <SectionRenderer section={{ id: "texto", layout: "auto", blocks: c.body }} base={`${path}#body`} />}
     </article>
+  );
+}
+
+/**
+ * `params` se lee dentro de <Suspense>: los slugs conocidos se prerenderizan igual
+ * (generateStaticParams) y una navegación a un slug nuevo (recién creado en el CMS)
+ * muestra el cascarón al instante en vez de bloquear.
+ */
+export default function Proyecto(props: PageProps<"/catalogos-and-proyectos/[slug]">) {
+  return (
+    <Suspense fallback={<article className={s.page} aria-busy="true" />}>
+      <ProyectoContent params={props.params} />
+    </Suspense>
   );
 }

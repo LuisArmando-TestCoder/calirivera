@@ -7,6 +7,7 @@ import { ArtImage } from "@/components/media/ArtImage";
 import type { Person, Post, Program } from "@/lib/content/types";
 import { formatMonth } from "@/lib/format";
 import s from "./ProgramPage.module.scss";
+import { RevealLines } from "@/components/motion/RevealLines";
 
 /**
  * Página de programa del Taller. Cada programa tiene su propio tono y forma:
@@ -25,9 +26,9 @@ export function ProgramPage({ program, people, posts, beat, variant }: {
         {program.schedule && <p className={s.day}>{program.schedule}</p>}
         <EditableText path={`${path}#title`} value={program.title} as="h1" className={s.title} />
         {program.summary && (
-          <div data-reveal="lines">
+          <RevealLines>
             <EditableText path={`${path}#summary`} value={program.summary} as="p" multiline className={s.summary} />
-          </div>
+          </RevealLines>
         )}
       </header>
 

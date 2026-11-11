@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ViewTransition } from "react";
+import { Suspense, ViewTransition } from "react";
 import { EditableList, EditableText } from "@/components/cms/editable";
 import { BlockView } from "@/components/layout-engine/Blocks";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
@@ -10,6 +10,7 @@ import { NarrationSlot } from "@/components/narration/NarrationSlot";
 import { getCollection, listArtworks, listCollections, listSlugs } from "@/lib/content/repo";
 import { COLLECTIONS } from "@/lib/content/types";
 import s from "./coleccion.module.scss";
+import { RevealLines } from "@/components/motion/RevealLines";
 
 const EMPTY = "__vacio";
 const BEAT: Record<string, string> = {
@@ -28,7 +29,7 @@ export async function generateMetadata({ params }: PageProps<"/colecciones/[slug
   return { title: c?.title ?? "Colecciones", description: c?.statement?.slice(0, 160) };
 }
 
-export default async function Coleccion({ params }: PageProps<"/colecciones/[slug]">) {
+async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[slug]">["params"] }) {
   const { slug } = await params;
   const c = slug === EMPTY ? null : await getCollection(slug);
   if (!c) notFound();
@@ -52,9 +53,9 @@ export default async function Coleccion({ params }: PageProps<"/colecciones/[slu
 
       {c.statement && (
         <section className={s.statement}>
-          <div data-reveal="lines">
+          <RevealLines>
             <EditableText path={`${path}#statement`} value={c.statement} as="p" multiline className={s.statementText} />
-          </div>
+          </RevealLines>
         </section>
       )}
 
@@ -106,5 +107,18 @@ export default async function Coleccion({ params }: PageProps<"/colecciones/[slu
         </Link>
       )}
     </article>
+  );
+}
+
+/**
+ * `params` se lee dentro de <Suspense>: los slugs conocidos se prerenderizan igual
+ * (generateStaticParams) y una navegación a un slug nuevo (recién creado en el CMS)
+ * muestra el cascarón al instante en vez de bloquear.
+ */
+export default function Coleccion(props: PageProps<"/colecciones/[slug]">) {
+  return (
+    <Suspense fallback={<article className={s.page} aria-busy="true" />}>
+      <ColeccionContent params={props.params} />
+    </Suspense>
   );
 }

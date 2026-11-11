@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ViewTransition } from "react";
+import { Suspense, ViewTransition } from "react";
 import { EditableText } from "@/components/cms/editable";
 import { ArtImage } from "@/components/media/ArtImage";
 import { getArtwork, getCollection, listArtworks, listSlugs } from "@/lib/content/repo";
@@ -27,7 +27,7 @@ const AVAILABILITY: Record<string, string> = {
   available: "Disponible", sold: "Vendida", "private-collection": "Colección privada", lost: "Perdida", unknown: "Paradero desconocido",
 };
 
-export default async function Obra({ params }: PageProps<"/obra/[slug]">) {
+async function ObraContent({ params }: { params: PageProps<"/obra/[slug]">["params"] }) {
   const { slug } = await params;
   const w = slug === EMPTY ? null : await getArtwork(slug);
   if (!w) notFound();
@@ -71,5 +71,18 @@ export default async function Obra({ params }: PageProps<"/obra/[slug]">) {
         </nav>
       </aside>
     </article>
+  );
+}
+
+/**
+ * `params` se lee dentro de <Suspense>: los slugs conocidos se prerenderizan igual
+ * (generateStaticParams) y una navegación a un slug nuevo (recién creado en el CMS)
+ * muestra el cascarón al instante en vez de bloquear.
+ */
+export default function Obra(props: PageProps<"/obra/[slug]">) {
+  return (
+    <Suspense fallback={<article className={s.page} aria-busy="true" />}>
+      <ObraContent params={props.params} />
+    </Suspense>
   );
 }
