@@ -1,0 +1,29 @@
+{
+ "id": "alquimia-de-almas-tribulacion",
+ "slug": "alquimia-de-almas-tribulacion",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Tribulación",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/tribulacion-1331.jpg",
+   "width": 1331,
+   "height": 1350,
+   "widths": [
+    640,
+    1280,
+    1331
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAQCdASoQABAAA4BaJagCdAD0i0LpRXAA/A3LRo82DsR+eWxMNGGsA1x6jlCpewI/9BW31HAw1LjtPTzLQWw14H9Jt0NkYv6w0e2v+D9WNRXduogPVXiufoVljcGCERcW5Y9taJ2uUoY8mB1wChfZEBVJGHNyb+AAAA==",
+   "color": "rgb(248 248 248)",
+   "alt": "Tribulación, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 4,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "50 × 50 cm"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "alquimia-de-almas-en-la-mira",
+ "slug": "alquimia-de-almas-en-la-mira",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "En la mira",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/en-la-mira-1269.jpg",
+   "width": 1269,
+   "height": 1259,
+   "widths": [
+    640,
+    1269
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQABAAA4BaJbACdADcQKEi16AA/nyEwLsU+92ivx5f4pX4h9NLTBZKNAWs6SwSHv6WgiSdeBiZY/ztF5wMjnlY83YkmbzUbAAzu8B0tzKbgePQ0biSbg2H/BhFs2MkZhcAAA==",
+   "color": "rgb(248 248 248)",
+   "alt": "En la mira, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 5,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "50 × 50 cm"
+}

@@ -1101,5 +1101,535 @@
   "color": "rgb(88 72 56)",
   "lowRes": true,
   "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/levitacion-en-rojo.png": {
+  "src": "/media/alquimia-de-almas/levitacion-en-rojo-1322.jpg",
+  "widths": [
+   640,
+   1280,
+   1322
+  ],
+  "width": 1322,
+  "height": 1347,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJbACdAYvNjOMx55sIAD9xIZl7WMj7W3xjRYjpk4V6xG+rVr1GfqqrH7NQoD7/d/pLc0AsIvNHUJ2JzzwuY0Q1J+CGRyHOnNVWbJ9fOaWqHNxd26nOZ3mUc9c+TcB1j1PSkgA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/gentrificacion.png": {
+  "src": "/media/alquimia-de-almas/gentrificacion-2167.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2167
+  ],
+  "width": 2167,
+  "height": 2129,
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoQABAAA4BaJbACdDiAN48BfzOvOJxeAAD5YeBMn5ldTrB9e+xlx1z9/0iCppN/OC57ULOMmVy8acm3o6TpdxLtRXV68y5wm0TsdRT82Flb4PQE+o9gHvsB9WBEcVnQUdhhOrtfE6tLUXZ1DCCJzXiX/9IoH0Z3/IvYCHNxaxAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/frontera-imaginaria.png": {
+  "src": "/media/alquimia-de-almas/frontera-imaginaria-1312.jpg",
+  "widths": [
+   640,
+   1280,
+   1312
+  ],
+  "width": 1312,
+  "height": 1338,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoQABAAA4BaJbACdAEDFR++LVmgAP7SJ+1j0EtByWxJbUfQSxMLm0GKQ/0BewWB8wXF0+i+n+0XP4rdEmMD21XCyoEMmQyJeMkT6nQZ2dHCjIZt5rGwon+KiYnzKL5lnvwcdMV9TvnCCFUgAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/quietud-en-pausa.png": {
+  "src": "/media/alquimia-de-almas/quietud-en-pausa-900.jpg",
+  "widths": [
+   640,
+   900
+  ],
+  "width": 900,
+  "height": 887,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoQABAAA4BaJaACdH8AguC/0xrJe0EoQAD+wdP2K7y/U5uLf3IVb6U+OcL9WJ6sN+wwriBb8N26oZC5CqytiR7EwjcM7kYAtetwX4iflIf4tZWuDsTwOS82EQuKCzJzTbdhGOYd4fE9sVo+JNmWOEKODlOsgAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/tribulacion.png": {
+  "src": "/media/alquimia-de-almas/tribulacion-1331.jpg",
+  "widths": [
+   640,
+   1280,
+   1331
+  ],
+  "width": 1331,
+  "height": 1350,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAQCdASoQABAAA4BaJagCdAD0i0LpRXAA/A3LRo82DsR+eWxMNGGsA1x6jlCpewI/9BW31HAw1LjtPTzLQWw14H9Jt0NkYv6w0e2v+D9WNRXduogPVXiufoVljcGCERcW5Y9taJ2uUoY8mB1wChfZEBVJGHNyb+AAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/en-la-mira.png": {
+  "src": "/media/alquimia-de-almas/en-la-mira-1269.jpg",
+  "widths": [
+   640,
+   1269
+  ],
+  "width": 1269,
+  "height": 1259,
+  "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQABAAA4BaJbACdADcQKEi16AA/nyEwLsU+92ivx5f4pX4h9NLTBZKNAWs6SwSHv6WgiSdeBiZY/ztF5wMjnlY83YkmbzUbAAzu8B0tzKbgePQ0biSbg2H/BhFs2MkZhcAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/corazon-levitante.png": {
+  "src": "/media/alquimia-de-almas/corazon-levitante-1278.jpg",
+  "widths": [
+   640,
+   1278
+  ],
+  "width": 1278,
+  "height": 1290,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJbAC7AD0AS5iLA0AAP1SUseB+oOUcERJbLAu6Cl6pAKgWAop/CSYFKwo4Mz/kUfGZATg6uXQ2++9yWs7ZcMz4NF1cySYSpYwc8Ahgl/vCUcGhEsxfAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/siempre-hay-una-salida.png": {
+  "src": "/media/alquimia-de-almas/siempre-hay-una-salida-954.jpg",
+  "widths": [
+   640,
+   954
+  ],
+  "width": 954,
+  "height": 967,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAgCdASoQABAAA4BaJbACdH8D2MwWlmPFrtaZ9uAA+6C6lzOdQ1DsyqtFTIfN0sUiW90wkYRp72xqUptScMJG49hSPzRy8rI4r38KFcWHS+WvBt8K+5P8+d1mBkELYfJr06nA1kpa0sE06YsVwNUFYklavjgq1rq/cgAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/ascender-cuantico.png": {
+  "src": "/media/alquimia-de-almas/ascender-cuantico-1276.jpg",
+  "widths": [
+   640,
+   1276
+  ],
+  "width": 1276,
+  "height": 1287,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAA4BaJbACdAYvhvt5hIpjAADOPfdr3OqaOoQ19Z1sPve/D3joL29RbRrVvQj7E3qDRmP0HFHYl47NKa6a1l/F69cdFyFSTRXzmK52mrHlWaAmGrbkUhaV9AsyA+nNYxgR5xhD2QA2aHlgxVSQ+JHyP9CLgAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/ascender-cuantico-2.png": {
+  "src": "/media/alquimia-de-almas/ascender-cuantico-2-1342.jpg",
+  "widths": [
+   640,
+   1280,
+   1342
+  ],
+  "width": 1342,
+  "height": 1324,
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQABAAA4BaJbACdAD7FjQxURpbQADyY6z5fMuiljvyS+xb2yFLqQBpieGXNOwm6fNvGcSJOw+8o5xrDz+nkH+c5FP8SKgxpzvsLWgz2YDrEil3tCyyjehl564B1F8Y7tdjN+H4IIMzrnAyV05ovIQAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/amanecer-de-un-festival-precolombino.png": {
+  "src": "/media/alquimia-de-almas/amanecer-de-un-festival-precolombino-1242.jpg",
+  "widths": [
+   640,
+   1242
+  ],
+  "width": 1242,
+  "height": 1256,
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoQABAAA4BaJbACdAEM2Adk9AnSAP64Js56TnaFLii6NBkMlOkCF6EgNJBGA9KF05YOoOKQ/XUB5gEZWpsF98+PlDJKX+2lH3Px/v9IHJ9AhslUl6qLTKg9FQS4MXrZPbvAq9Bh7BfbsW/oh1vuhgAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/agua-tesoro-en-extincion.png": {
+  "src": "/media/alquimia-de-almas/agua-tesoro-en-extincion-1251.jpg",
+  "widths": [
+   640,
+   1251
+  ],
+  "width": 1251,
+  "height": 1252,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQABAAA4BaJbACdAEPdZLOhFo+QAD9nCnQGp40F80O2jUOhu8wvM4+JsGK0deHBSlknBblXc3EPeXhg17e3N29GTiI0xPW4PB7fdRwhMUyQQAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/vision-del-alma.png": {
+  "src": "/media/alquimia-de-almas/vision-del-alma-1310.jpg",
+  "widths": [
+   640,
+   1280,
+   1310
+  ],
+  "width": 1310,
+  "height": 1450,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAwCdASoQABIAPu1iqU2ppaOiMAgBMB2JbACw7CHfiO5riV/gAPzs97DRlqpPgcxQp6WfgNItsybb12tDSejrJ3L7Ijhw2IujQR2Zl2Ea1qgihDiueGn+CX9i/cX/rfsv/I76RfB1xAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/entrada-a-un-nuevo-mundo.png": {
+  "src": "/media/alquimia-de-almas/entrada-a-un-nuevo-mundo-976.jpg",
+  "widths": [
+   640,
+   976
+  ],
+  "width": 976,
+  "height": 1329,
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JZgCdMoADUFqcSy+4tW/sacCAAPjVWsk4ieB7i+CP5m1/6lbhCiZIr10b007FD3i5/8301fAGQQ4Het1iUsaNG59W70P2LGEYk5g/eadBfaRnlosAMHFbwPQ6k8tqZD0SeRdsuCfR7tcXUcBe0+P/JwqfemQpSXiAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/melodia-marina.png": {
+  "src": "/media/alquimia-de-almas/melodia-marina-875.jpg",
+  "widths": [
+   640,
+   875
+  ],
+  "width": 875,
+  "height": 1199,
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoQABYAPu1iqU2ppaQiMAgBMB2JbACdACHfbefe9g9u9LfrXFwA/PIkocTsIPz697dfnRgn+TSAhWx21tQ9nserr3jYkpZ41ID37KJ4ReR5q9dwswnTWc8YAbCJhimGEEFx8f7fgSi0XrzR7ZbJq1U1/NeU7sBwTsS8wineJQIDVLVcyOUjzRfc++voAA==",
+  "color": "rgb(232 216 200)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/mirada-encarcelada.png": {
+  "src": "/media/alquimia-de-almas/mirada-encarcelada-1729.jpg",
+  "widths": [
+   640,
+   1280,
+   1729
+  ],
+  "width": 1729,
+  "height": 3453,
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQACAAPu1iqU2ppaOiMAgBMB2JbACsACHpVYbXTBbKY8SvtxwAAPRwGBpyBX33ajurB4aUt6Chwm84ngGev/D0VTY4215rodtCeiOaUOWGfvi+bLiLc64uK2jDpUS91boXukuuM21sS1HUQejusv5308stt74G7PRJUPhzP9DZtlCrkf33PcLVdIAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/mirada-protectora.png": {
+  "src": "/media/alquimia-de-almas/mirada-protectora-1954.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   1954
+  ],
+  "width": 1954,
+  "height": 3749,
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADwBACdASoQAB8APu1kq04ppaQiMAgBMB2JbACdMoFWZjlgaFJXsA2if3D7DTNI74AA9rxAAR69wy6/nNpPzSqLgZxLfHv7vO+xf/hh84P8TqApP83pJ5s9QxUjf07zaoJVSUFDNPuvlRCEJtmtCBCBU2TDpzgY+AMQtLXe4HERc/vnD8tVUKm3O2wr3vkoQb6blLZoIHrh7pKv9BqDrsj/dqL3arqXmaElDAp3tPJqZniOf/4wmZCXU0AAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/encrucijada.png": {
+  "src": "/media/alquimia-de-almas/encrucijada-1875.jpg",
+  "widths": [
+   640,
+   1280,
+   1875
+  ],
+  "width": 1875,
+  "height": 3966,
+  "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBACdASoQACIAPulgp02pJaOiNVgIASAdCWwAnR/ABjIFJCghujFfym2y8b+peADgDPsD/RSoIxOF9qZ3M3mnBhcT60qo/VWpGfLwcVfi8hc+lPXbbfsqrYHQi7PKEi/AeKzPba0ZwNKYpW/7W5p4nTqW9qCmXj3mFSYzAJo0IUcPiQaPw/lx7SneqTcGrdsdbFjWXW2F40XagSaKfmDQ/5n7HJ7A8AHrG4PKxvs+SLzqNevgZCT18udg/eS0RVoXwiSqkAAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/paisaje.png": {
+  "src": "/media/alquimia-de-almas/paisaje-1634.jpg",
+  "widths": [
+   640,
+   1280,
+   1634
+  ],
+  "width": 1634,
+  "height": 3488,
+  "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASoQACIAPt1apE2opSOiNUgBEBuJbACdMoR/ba3AfoTYj7M7Mw+D4AnbCH0wxVAA2//Ic68gePqMniUWj0SDhpQ0bn0x9Q3PA/cd8BsSKvE+cbU7UYR6WiHAy/+en8o79+ntWyHO5hMFTO0GQRvl5rCkl5N8cMErwSGBAC1Z19qKdOdW/OGTzlhVdRaz2ER+l9MfS9V+HQggEer/QyLamVGz6S1EmHBT/e6z3ZsoetO2xAKKrSQ/gAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/mujer-con-arete-de-perla.png": {
+  "src": "/media/alquimia-de-almas/mujer-con-arete-de-perla-1624.jpg",
+  "widths": [
+   640,
+   1280,
+   1624
+  ],
+  "width": 1624,
+  "height": 2789,
+  "placeholder": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASoQABsAPu1iqU2ppaQiMAgBMB2JbACdMoLUDt/+gCgAPVJawAcLdyO2jwKVXM/wPgAA4nQ4qvqLkVOyjlSiV5Ht1T2L0AyYgc99KZCC5PSi+ulsNXvzWNaWtmCv7X9o9Tl9PMmr5/8m3Mzfpd5zcCyGElm5mhpnVjAifwQzwVw9KEJdcf3i8b3Q0R/dXsWKtZ71EWYOUBV88mLv1K8iuayp2fiEhq21oeo1/m4Pgjh8vwtk1pjeB5EfzB/x772/zz8ASU//iyWamGhwAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/recuerdo-de-un-amor-sincero.png": {
+  "src": "/media/alquimia-de-almas/recuerdo-de-un-amor-sincero-506.jpg",
+  "widths": [
+   506
+  ],
+  "width": 506,
+  "height": 1257,
+  "placeholder": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAADQBACdASoQACgAPu1orFCppaQiqqgBMB2JbACdHYACEPtC+74CdID2Z+/q6Y9tAAD89kv4g7ovyFWjAwLGcVsBMPGtbFzrbDqapWHRDjfvb6d6Ybudq7s4Pyvo6VUivUv2/KfinC8CdJwAtd/Z9kftLLoMoefaqI+YXmgWkcJ2i6aAKqRI6iC61HbPFyWbUZCNqHGWKXLzHOGTx+A+jyVDUmQQ0UXGo//jU106GSrvgbMZdJcKGx5/wYh2HBeAkoeG4kYDs7YwBhXvj/drj50GM4m5K5zf8J1waPlMWiYceKw3NQYt7BfwOy2m6HUQ2/l4G4AA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/danza-del-pigmento.png": {
+  "src": "/media/alquimia-de-almas/danza-del-pigmento-475.jpg",
+  "widths": [
+   475
+  ],
+  "width": 475,
+  "height": 1252,
+  "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAABQBQCdASoQACoAPt1YpE2opSOiNUgBEBuJbACdMuGO2njQXus/f3tBf7416InxdbfsUQAAzJheCm/LEi/SxpY+TQi7nrp9m9HG7f8hU6r/cciE4LXlWbvWP7zqNuUkfprKd/hsL3k5R604MbzI15ytxSuccfgtWpW1e01kKhiJJ43Sj3rQUOlVrQnxbLmBO5UOLP5kU/R6/ajNuWoaM/70Qau9ZKv24cJQ7Y/jd2S53I08L4Sfl8ctXOsiduMlJ9scR5PJX6AAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/porton-sintoista.png": {
+  "src": "/media/alquimia-de-almas/porton-sintoista-2291.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2291
+  ],
+  "width": 2291,
+  "height": 2349,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoQABAAA4BaJbACdAEPdl4LRVPAAP5NLKlNWQJNmXvDJL0DMpUjxqcwb5R8odsgwlT1mAuQwy0eTwvxIYDcOYP6UY+N0xLVcaEnyXtAK7dzOzPuJz2DKlKQ0fS/WPKZc2fe7HdsLdWf1H6CfOrHnCNmHQbAAA==",
+  "color": "rgb(216 200 184)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/lo-sagrado.png": {
+  "src": "/media/alquimia-de-almas/lo-sagrado-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2439,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQABAAA4BaJaACdAEPAssnAeEAAP2c+3/Ukr2YicxuW2yy88hNzzIXTJSS6R0k0ShL6ufjfL8bfypTct7ACQ66nJZbuwqW3BizggXKXvYqz5hkHQRnKg95VtAHQ0IW4AD0ABE3mgE2IaAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/mujer-en-el-parque.png": {
+  "src": "/media/alquimia-de-almas/mujer-en-el-parque-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2405,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoQABAAA4BaJbACdDiMwUqg/2ET6AAA/t0x/KtLnBo/JqlQ2tPvK6FhBOSGUb+k3IPJR7VL6cU5sbz+FiSDUOJT0Xj8fFD6gxlvNq7xonk9FV99cgmYBl645cYGUjIDIJ5MN6Q9GbhATg3iUf6CI0Dyt2nlJPrgAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/en-el-jardin.png": {
+  "src": "/media/alquimia-de-almas/en-el-jardin-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2629,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZgCsACHiCsRQJK7IlRzIIAD+vnC8ym7k8LBhviNRir8TBcC5J4S17DWEorDVZfxSKfD7bg1TemA5BaVmUE9j7yVnpfS65YBsb08j94JLmQrlUu9e/svB2c8Tjc6z74qBhZVAJGGtWVoAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/jardin-y-fuente.png": {
+  "src": "/media/alquimia-de-almas/jardin-y-fuente-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2475,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoQABEAPu1iqU2ppaOiMAgBMB2JZgCsACHgQoefxUm8U2MWAAD6nHCEMdd+aAA99ACj7rRLhKSXc4rS9oLCIiJMCaIAdadpQX8rVywkbjWbnd05+EWW3w76hUWvI6xUoJuh0+0CLN9rAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/el-burrito.png": {
+  "src": "/media/alquimia-de-almas/el-burrito-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2415,
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoQABAAA4BaJbACdAEO931pXLAA/qaaiwfNVnrukuksX0s0ZlOX1ex1zDkO8B/LLP04Kpu5apn12ZSpDesAL+nD0l2rHOR3vWksVcPo78kRf6Hf3JZeUFG9zGcEYQQFIKzDtrdPq+8wL7UgRoahYUjAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/el-arecho.png": {
+  "src": "/media/alquimia-de-almas/el-arecho-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2704,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbRcy9iiH+n/9AAA/bqqIxOVR+ID+ZByQnLfKyDHbnvs02W7CFU39i7ol9nE/pcARtQtKb0vfi9QoO4PCxYbkllEBv6iLyVk3P2lHBsn/+4OXHaLpHRje9rr3q/qX8pbbHbbmqjcjokvBrN+AAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/la-paisa-ortega.png": {
+  "src": "/media/alquimia-de-almas/la-paisa-ortega-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2507,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JbAC7ACHe7nZ2z9TTVAAA/T0+wh7tL5I9Yh8mLLf2pbKF6Sn1RFr0LpTT5gez5MZLHTmXwGXITySEjNxE9JkUIHUCKZK4yCCIkgcKfnIxJgtcDQJ3gW1Brc/X71vf/4iqFAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/alquimia-de-almas/torete.png": {
+  "src": "/media/alquimia-de-almas/torete-2400.jpg",
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "width": 2400,
+  "height": 2527,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JbACw7CHe8gF5KiolU/AAAPt2eg5139otaXTdkKMknUs6NVbqzb6CfAcisIPJtHmuu3Vj5pj9aI9fsmeAu+dOOKTR45Lpxw7FvDAv0f74tHTC+Bl4HMniGhbV3dM7x3jzDt/lfi1Bf7e0aWHvVnPVBfCSgAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/biomaster/universo-marino.png": {
+  "src": "/media/biomaster/universo-marino-1557.jpg",
+  "widths": [
+   640,
+   1280,
+   1557
+  ],
+  "width": 1557,
+  "height": 771,
+  "placeholder": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAgAA4BaJZgCdAEPcGExQAAA+C+/64HyGt+rX0QVvdrZHHhxSCB9rke8JembgJf98d7OTwVxmkAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/biomaster/calma.png": {
+  "src": "/media/biomaster/calma-1524.jpg",
+  "widths": [
+   640,
+   1280,
+   1524
+  ],
+  "width": 1524,
+  "height": 790,
+  "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAgAA4BaJYwCdADHSc6bgAD+4Jt6dwuopnP309KsLae8Iv8KZu2lESQrSroiMRb1iQAA",
+  "color": "rgb(184 168 152)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/biomaster/super-nova.png": {
+  "src": "/media/biomaster/super-nova-1568.jpg",
+  "widths": [
+   640,
+   1280,
+   1568
+  ],
+  "width": 1568,
+  "height": 773,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAgAA4BaJYgCdAEOzXvu6AD+aKp0sOB78m4fBP4rN2FURVJSmn4omKb10vMC7Jf4Dhporp/V28mWKsHzw3QF0kmStqn+VyaAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/biomaster/mirada.png": {
+  "src": "/media/biomaster/mirada-1574.jpg",
+  "widths": [
+   640,
+   1280,
+   1574
+  ],
+  "width": 1574,
+  "height": 828,
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoQAAgAA4BaJYgCdACRup9QAP3tAWYhuW/uCRhtd8vzcgeTOFm+Rgi0yQI77T2zlHOBMR18DAQ+nHL1JBpqszr4p3nL8HzEAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/biomaster/los-tres-espiritus-del-jardin.png": {
+  "src": "/media/biomaster/los-tres-espiritus-del-jardin-1494.jpg",
+  "widths": [
+   640,
+   1280,
+   1494
+  ],
+  "width": 1494,
+  "height": 769,
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAgCdASoQAAgAA4BaJbACdH8GJ/7oACZfFjnAAMxPqMe2ThN4ZV4mnKdfdTc4iwOgkhYYG4j2MhK90exsnIj8J3nkwm7DuK9r7AAA",
+  "color": "rgb(8 104 104)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/biomaster/ciclo-de-la-vida-a-traves-del-arrecife.png": {
+  "src": "/media/biomaster/ciclo-de-la-vida-a-traves-del-arrecife-1556.jpg",
+  "widths": [
+   640,
+   1280,
+   1556
+  ],
+  "width": 1556,
+  "height": 814,
+  "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAgAA4BaJagCdAClJr0hUgAA/ez57/9QoPMzS01ZnSVphSgNpst3TX7WFjVgBYcoJ2vZgUAAAA==",
+  "color": "rgb(72 136 152)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/biomaster/el-jardin-de-la-virgen-y-el-nino.png": {
+  "src": "/media/biomaster/el-jardin-de-la-virgen-y-el-nino-1523.jpg",
+  "widths": [
+   640,
+   1280,
+   1523
+  ],
+  "width": 1523,
+  "height": 796,
+  "placeholder": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAgAA4BaJZACdAC4MvUCIAD+1b3SUJ0e5Qjopn+Y3D5aYkZtl/emByjUWQXplu9y1SBLXinaUJQA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
  }
 }

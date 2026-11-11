@@ -1,0 +1,30 @@
+{
+ "id": "alquimia-de-almas-el-burrito",
+ "slug": "alquimia-de-almas-el-burrito",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "El burrito",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/el-burrito-2400.jpg",
+   "width": 2400,
+   "height": 2415,
+   "widths": [
+    640,
+    1280,
+    1920,
+    2400
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoQABAAA4BaJbACdAEO931pXLAA/qaaiwfNVnrukuksX0s0ZlOX1ex1zDkO8B/LLP04Kpu5apn12ZSpDesAL+nD0l2rHOR3vWksVcPo78kRf6Hf3JZeUFG9zGcEYQQFIKzDtrdPq+8wL7UgRoahYUjAAAA=",
+   "color": "rgb(248 248 248)",
+   "alt": "El burrito, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 27,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "20 × 20 cm"
+}

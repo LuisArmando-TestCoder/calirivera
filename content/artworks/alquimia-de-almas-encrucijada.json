@@ -1,0 +1,29 @@
+{
+ "id": "alquimia-de-almas-encrucijada",
+ "slug": "alquimia-de-almas-encrucijada",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Encrucijada",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/encrucijada-1875.jpg",
+   "width": 1875,
+   "height": 3966,
+   "widths": [
+    640,
+    1280,
+    1875
+   ],
+   "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBACdASoQACIAPulgp02pJaOiNVgIASAdCWwAnR/ABjIFJCghujFfym2y8b+peADgDPsD/RSoIxOF9qZ3M3mnBhcT60qo/VWpGfLwcVfi8hc+lPXbbfsqrYHQi7PKEi/AeKzPba0ZwNKYpW/7W5p4nTqW9qCmXj3mFSYzAJo0IUcPiQaPw/lx7SneqTcGrdsdbFjWXW2F40XagSaKfmDQ/5n7HJ7A8AHrG4PKxvs+SLzqNevgZCT18udg/eS0RVoXwiSqkAAAAA==",
+   "color": "rgb(248 248 248)",
+   "alt": "Encrucijada, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 17,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "30 × 60 cm"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "biomaster",
+ "slug": "biomaster",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Biomaster",
+ "artworkIds": [
+  "biomaster-universo-marino",
+  "biomaster-calma",
+  "biomaster-super-nova",
+  "biomaster-mirada",
+  "biomaster-los-tres-espiritus-del-jardin",
+  "biomaster-ciclo-de-la-vida-a-traves-del-arrecife",
+  "biomaster-el-jardin-de-la-virgen-y-el-nino"
+ ],
+ "order": 8,
+ "period": "2023–2024",
+ "technique": "mixta sobre tela · siete trípticos",
+ "statement": "Instalación interactiva: siete trípticos para hacer el duelo de un jardín perdido.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "bio-1",
+   "text": "Biomaster nació como catarsis, duelo y reconstrucción: una respuesta a la pérdida del jardín que Cali Rivera había creado y cuidado durante más de 30 años en la Casa Museo, destruido por sus nuevos propietarios, y del proyecto El Sexto Sol."
+  },
+  {
+   "type": "paragraph",
+   "id": "bio-2",
+   "text": "Durante casi un año de 2024, la galería del Taller del Artista se volvió un espacio íntimo y ceremonial. Los visitantes se sentaban en un antiguo sofá Luis XV y el artista les presentaba, uno a uno, siete trípticos en secuencia."
+  },
+  {
+   "type": "paragraph",
+   "id": "bio-3",
+   "text": "Los nombres de las obras no fueron impuestos: los sembraron quienes las miraron, y la palabra elegida por muchos se volvió título. La serie usa como metáfora los juguetes Biomaster de los años 80, resignificados como objetos de memoria."
+  },
+  {
+   "type": "paragraph",
+   "id": "bio-4",
+   "text": "En memoria de Jorge Mario Monge Jiménez (1985–2025)."
+  }
+ ],
+ "cover": {
+  "src": "/media/biomaster/universo-marino-1557.jpg",
+  "width": 1557,
+  "height": 771,
+  "widths": [
+   640,
+   1280,
+   1557
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAgAA4BaJZgCdAEPcGExQAAA+C+/64HyGt+rX0QVvdrZHHhxSCB9rke8JembgJf98d7OTwVxmkAA",
+  "color": "rgb(248 248 248)",
+  "alt": "Universo marino, Biomaster, 2023"
+ },
+ "catalogUrl": "/files/biomaster.pdf"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "alquimia-de-almas-melodia-marina",
+ "slug": "alquimia-de-almas-melodia-marina",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Melodía marina",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/melodia-marina-875.jpg",
+   "width": 875,
+   "height": 1199,
+   "widths": [
+    640,
+    875
+   ],
+   "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoQABYAPu1iqU2ppaQiMAgBMB2JbACdACHfbefe9g9u9LfrXFwA/PIkocTsIPz697dfnRgn+TSAhWx21tQ9nserr3jYkpZ41ID37KJ4ReR5q9dwswnTWc8YAbCJhimGEEFx8f7fgSi0XrzR7ZbJq1U1/NeU7sBwTsS8wineJQIDVLVcyOUjzRfc++voAA==",
+   "color": "rgb(232 216 200)",
+   "alt": "Melodía marina, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 14,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "70 × 100 cm"
+}

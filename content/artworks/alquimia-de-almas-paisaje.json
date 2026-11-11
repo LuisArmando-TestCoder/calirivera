@@ -1,0 +1,31 @@
+{
+ "id": "alquimia-de-almas-paisaje",
+ "slug": "alquimia-de-almas-paisaje",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Paisaje",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/paisaje-1634.jpg",
+   "width": 1634,
+   "height": 3488,
+   "widths": [
+    640,
+    1280,
+    1634
+   ],
+   "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASoQACIAPt1apE2opSOiNUgBEBuJbACdMoR/ba3AfoTYj7M7Mw+D4AnbCH0wxVAA2//Ic68gePqMniUWj0SDhpQ0bn0x9Q3PA/cd8BsSKvE+cbU7UYR6WiHAy/+en8o79+ntWyHO5hMFTO0GQRvl5rCkl5N8cMErwSGBAC1Z19qKdOdW/OGTzlhVdRaz2ER+l9MfS9V+HQggEer/QyLamVGz6S1EmHBT/e6z3ZsoetO2xAKKrSQ/gAAA",
+   "color": "rgb(248 248 248)",
+   "alt": "Paisaje, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 18,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "30 × 60 cm",
+ "availability": "private-collection",
+ "notes": "Colección privada."
+}

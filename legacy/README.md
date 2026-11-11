@@ -8,7 +8,7 @@ Fuente: Wayback Machine (CDX + snapshots `id_`). El sitio Joomla de calirivera.c
 - `content/*.json` — texto, título, imágenes y enlaces por sección: obras (120), actividades_taller (83), prensa/"puntos de vista" (34), historico (28), exposiciones (25), videos (17), recomendaciones (15), cafe_arte (8), biografia (5), taller (5), manifiesto/mi-visión (2), galeria (3), otros (183, mayormente sitio 2006 y flash 2001-04).
 - `assets/` — 364 imágenes recuperadas de las referenciadas por esas páginas (`_index.json` url→archivo). `_missing.json`: 520 imágenes referenciadas que Wayback nunca guardó.
 - `pdf/` — 16 PDFs: catálogos Exvotos, Plegaria, Banderas Corpus Christi, Elementos (Manifiesto de Irazú), Sincretismo religioso, Prayer Flags, El Agua, Alquimia de Almas, Biomaster, Programa Japón 2010, Boletín, La NO Bienal 2020 (bases + VF), menús del Café Arte.
-  - ⚠️ `Alquimia_de_Almas.pdf` y `biomaster.pdf` están truncados (5 MB) en el propio archivo: pedirle los originales a Cali.
+  - `Alquimia_de_Almas.pdf` (38 págs.) y `biomaster.pdf` (18 págs.): reemplazados por los originales completos que mandó Luis (2026-11-10). Sus fichas ya están en content/ como colecciones.
 - `redirects.csv` — URL vieja → ruta nueva sugerida (o `gone`). `/bitacora` es ruta nueva del plan.
 - `press.md` — prensa externa encontrada en la web.
 - `content/_hack_flags.json` — revisión de inyecciones.

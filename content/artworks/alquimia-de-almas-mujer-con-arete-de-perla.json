@@ -1,0 +1,31 @@
+{
+ "id": "alquimia-de-almas-mujer-con-arete-de-perla",
+ "slug": "alquimia-de-almas-mujer-con-arete-de-perla",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Mujer con arete de perla",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/mujer-con-arete-de-perla-1624.jpg",
+   "width": 1624,
+   "height": 2789,
+   "widths": [
+    640,
+    1280,
+    1624
+   ],
+   "placeholder": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASoQABsAPu1iqU2ppaQiMAgBMB2JbACdMoLUDt/+gCgAPVJawAcLdyO2jwKVXM/wPgAA4nQ4qvqLkVOyjlSiV5Ht1T2L0AyYgc99KZCC5PSi+ulsNXvzWNaWtmCv7X9o9Tl9PMmr5/8m3Mzfpd5zcCyGElm5mhpnVjAifwQzwVw9KEJdcf3i8b3Q0R/dXsWKtZ71EWYOUBV88mLv1K8iuayp2fiEhq21oeo1/m4Pgjh8vwtk1pjeB5EfzB/x772/zz8ASU//iyWamGhwAAA=",
+   "color": "rgb(248 248 248)",
+   "alt": "Mujer con arete de perla, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 19,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "30 × 60 cm",
+ "availability": "private-collection",
+ "notes": "Colección privada."
+}

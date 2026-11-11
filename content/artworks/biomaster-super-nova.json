@@ -1,0 +1,30 @@
+{
+ "id": "biomaster-super-nova",
+ "slug": "biomaster-super-nova",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Súper Nova «Soplo de vida»",
+ "collectionId": "biomaster",
+ "images": [
+  {
+   "src": "/media/biomaster/super-nova-1568.jpg",
+   "width": 1568,
+   "height": 773,
+   "widths": [
+    640,
+    1280,
+    1568
+   ],
+   "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAgAA4BaJYgCdAEOzXvu6AD+aKp0sOB78m4fBP4rN2FURVJSmn4omKb10vMC7Jf4Dhporp/V28mWKsHzw3QF0kmStqn+VyaAAA==",
+   "color": "rgb(248 248 248)",
+   "alt": "Súper Nova «Soplo de vida», Biomaster, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 2,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "120 × 60 cm (tríptico)",
+ "notes": "En memoria de Jorge Mario Monge Jiménez (1985–2025). Uno de los siete trípticos de la instalación Biomaster (2024)."
+}

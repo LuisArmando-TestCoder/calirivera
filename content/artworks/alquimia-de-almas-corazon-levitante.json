@@ -1,0 +1,29 @@
+{
+ "id": "alquimia-de-almas-corazon-levitante",
+ "slug": "alquimia-de-almas-corazon-levitante",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Corazón levitante",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/corazon-levitante-1278.jpg",
+   "width": 1278,
+   "height": 1290,
+   "widths": [
+    640,
+    1278
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJbAC7AD0AS5iLA0AAP1SUseB+oOUcERJbLAu6Cl6pAKgWAop/CSYFKwo4Mz/kUfGZATg6uXQ2++9yWs7ZcMz4NF1cySYSpYwc8Ahgl/vCUcGhEsxfAAA",
+   "color": "rgb(248 248 248)",
+   "alt": "Corazón levitante, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 6,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "50 × 50 cm",
+ "notes": "Donación de bien social."
+}

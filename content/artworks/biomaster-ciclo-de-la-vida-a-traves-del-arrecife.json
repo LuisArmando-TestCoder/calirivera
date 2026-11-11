@@ -1,0 +1,30 @@
+{
+ "id": "biomaster-ciclo-de-la-vida-a-traves-del-arrecife",
+ "slug": "biomaster-ciclo-de-la-vida-a-traves-del-arrecife",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Ciclo de la vida a través del arrecife",
+ "collectionId": "biomaster",
+ "images": [
+  {
+   "src": "/media/biomaster/ciclo-de-la-vida-a-traves-del-arrecife-1556.jpg",
+   "width": 1556,
+   "height": 814,
+   "widths": [
+    640,
+    1280,
+    1556
+   ],
+   "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAgAA4BaJagCdAClJr0hUgAA/ez57/9QoPMzS01ZnSVphSgNpst3TX7WFjVgBYcoJ2vZgUAAAA==",
+   "color": "rgb(72 136 152)",
+   "alt": "Ciclo de la vida a través del arrecife, Biomaster, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 5,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "120 × 60 cm (tríptico)",
+ "notes": "Uno de los siete trípticos de la instalación Biomaster (2024)."
+}

@@ -1,0 +1,30 @@
+{
+ "id": "biomaster-los-tres-espiritus-del-jardin",
+ "slug": "biomaster-los-tres-espiritus-del-jardin",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Los tres espíritus del jardín",
+ "collectionId": "biomaster",
+ "images": [
+  {
+   "src": "/media/biomaster/los-tres-espiritus-del-jardin-1494.jpg",
+   "width": 1494,
+   "height": 769,
+   "widths": [
+    640,
+    1280,
+    1494
+   ],
+   "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAgCdASoQAAgAA4BaJbACdH8GJ/7oACZfFjnAAMxPqMe2ThN4ZV4mnKdfdTc4iwOgkhYYG4j2MhK90exsnIj8J3nkwm7DuK9r7AAA",
+   "color": "rgb(8 104 104)",
+   "alt": "Los tres espíritus del jardín, Biomaster, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 4,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "120 × 60 cm (tríptico)",
+ "notes": "Uno de los siete trípticos de la instalación Biomaster (2024)."
+}

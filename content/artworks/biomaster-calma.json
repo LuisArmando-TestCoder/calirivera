@@ -1,0 +1,30 @@
+{
+ "id": "biomaster-calma",
+ "slug": "biomaster-calma",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Calma",
+ "collectionId": "biomaster",
+ "images": [
+  {
+   "src": "/media/biomaster/calma-1524.jpg",
+   "width": 1524,
+   "height": 790,
+   "widths": [
+    640,
+    1280,
+    1524
+   ],
+   "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAgAA4BaJYwCdADHSc6bgAD+4Jt6dwuopnP309KsLae8Iv8KZu2lESQrSroiMRb1iQAA",
+   "color": "rgb(184 168 152)",
+   "alt": "Calma, Biomaster, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 1,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "120 × 60 cm (tríptico)",
+ "notes": "Uno de los siete trípticos de la instalación Biomaster (2024)."
+}

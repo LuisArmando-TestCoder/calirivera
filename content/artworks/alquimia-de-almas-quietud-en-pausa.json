@@ -1,0 +1,29 @@
+{
+ "id": "alquimia-de-almas-quietud-en-pausa",
+ "slug": "alquimia-de-almas-quietud-en-pausa",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Quietud en pausa",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/quietud-en-pausa-900.jpg",
+   "width": 900,
+   "height": 887,
+   "widths": [
+    640,
+    900
+   ],
+   "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoQABAAA4BaJaACdH8AguC/0xrJe0EoQAD+wdP2K7y/U5uLf3IVb6U+OcL9WJ6sN+wwriBb8N26oZC5CqytiR7EwjcM7kYAtetwX4iflIf4tZWuDsTwOS82EQuKCzJzTbdhGOYd4fE9sVo+JNmWOEKODlOsgAAA",
+   "color": "rgb(8 8 8)",
+   "alt": "Quietud en pausa, Alquimia de Almas, 2023",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 3,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "50 × 50 cm"
+}

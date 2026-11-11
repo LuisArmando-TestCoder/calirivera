@@ -1,0 +1,32 @@
+{
+ "id": "alquimia-de-almas-porton-sintoista",
+ "slug": "alquimia-de-almas-porton-sintoista",
+ "status": "published",
+ "createdAt": "2026-11-11T00:40:00Z",
+ "updatedAt": "2026-11-11T00:40:00Z",
+ "title": "Portón sintoísta",
+ "collectionId": "alquimia-de-almas",
+ "images": [
+  {
+   "src": "/media/alquimia-de-almas/porton-sintoista-2291.jpg",
+   "width": 2291,
+   "height": 2349,
+   "widths": [
+    640,
+    1280,
+    1920,
+    2291
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoQABAAA4BaJbACdAEPdl4LRVPAAP5NLKlNWQJNmXvDJL0DMpUjxqcwb5R8odsgwlT1mAuQwy0eTwvxIYDcOYP6UY+N0xLVcaEnyXtAK7dzOzPuJz2DKlKQ0fS/WPKZc2fe7HdsLdWf1H6CfOrHnCNmHQbAAA==",
+   "color": "rgb(216 200 184)",
+   "alt": "Portón sintoísta, Alquimia de Almas, 2023"
+  }
+ ],
+ "aiAltered": false,
+ "order": 22,
+ "year": "2023",
+ "technique": "Mixta sobre tela",
+ "dimensions": "20 × 20 cm",
+ "availability": "private-collection",
+ "notes": "Colección particular."
+}
