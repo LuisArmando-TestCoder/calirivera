@@ -1,0 +1,27 @@
+{
+ "id": "2018-agenda-junio-2018web",
+ "slug": "2018-agenda-junio-2018web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 81,
+ "image": {
+  "src": "/media/archivo/agenda-junio-2018web-700.jpg",
+  "alt": "agenda Junio 2018web",
+  "width": 700,
+  "height": 1023,
+  "widths": [
+   640,
+   700
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADwAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZgC7ACHfwSc2c9FE8eVsAPu9zt+V32pWHnLxE/dPyiDPSxJMXOQCqWwzZWxf64yfUidmpyKueeIcP8+3uYFkaHsF7S7b3bxB2G6FAAb+QQFp/uWQrCYPxA0mnGSbwYoMbFwYFqJmd+UplGi2DzbCXpvIsEHTBssJ2OSeNzhnjntgsVV2XZJsEbDO6bXWmy6QcccBMKYXFa8flIlJepoAAAA=",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "agenda Junio 2018web",
+ "year": 2018,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/agenda-Junio-2018web.jpg"
+}

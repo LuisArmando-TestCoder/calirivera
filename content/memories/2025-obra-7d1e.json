@@ -1,0 +1,27 @@
+{
+ "id": "2025-obra-7d1e",
+ "slug": "2025-obra-7d1e",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 318,
+ "image": {
+  "src": "/media/memoria/2025-obra-7d1e-297.jpg",
+  "alt": "Foto de 2025 del archivo de Cali Rivera",
+  "width": 297,
+  "height": 400,
+  "widths": [
+   297
+  ],
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdGaaEDyLy6EVOniE3oY99OkAA/nLt+AdNasaw1uA22ihr4wZ0JlJQJeq70Z4dKAjivK5ATaKzOvF4RduWaGoLpnHxYJoEdGdRYkpOYuE593mszZlnDOJccM3Y5NDvG9t/A4iPmULzRkI0YhMMIko58wft/TBUjXc6jC4HOZv3cDLgsnT4wO9/v29nAoqn5/9sldeX80+r8FvDt2wnpI/x9NRhw94bb36hk7gEf93X2U8k3Jl4/Odm5XJWkRdnVihGnskAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2025,
+ "yearApprox": true,
+ "seenAt": "2025-07-27",
+ "sourceUrl": "https://web.archive.org/web/20250727003211id_/http://calirivera.com/cache/preview/5e1de08a87046560c1d139bf71363387.jpg"
+}

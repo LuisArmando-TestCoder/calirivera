@@ -1,0 +1,30 @@
+{
+ "id": "1996-poesia-america-descubierta",
+ "slug": "1996-poesia-america-descubierta",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 163,
+ "image": {
+  "src": "/media/memoria/1996-poesia-america-descubierta-479.jpg",
+  "alt": "Poesía América Descubierta",
+  "width": 479,
+  "height": 641,
+  "widths": [
+   479
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAwCdASoQABYAPu1iqk4ppaQiMAgBMB2JYwC7AAMEovU0ANxPZY7JANJdLkM2TvQrWRd9BLndgiwA",
+  "color": "rgb(168 136 104)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Poesía América Descubierta",
+ "caption": "En «Suenos en azul 1996»",
+ "year": 1996,
+ "seenAt": "2016-12-06",
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://web.archive.org/web/20161206195406id_/http://calirivera.com/images/stories/exposiciones/suenos_en_azul/poesia_america_descubierta.jpg",
+ "sourcePage": "Suenos en azul 1996"
+}

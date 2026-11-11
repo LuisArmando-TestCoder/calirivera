@@ -1,0 +1,28 @@
+{
+ "id": "2009-taller-36ca",
+ "slug": "2009-taller-36ca",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 187,
+ "image": {
+  "src": "/media/memoria/2009-taller-36ca-640.jpg",
+  "alt": "Foto de 2009 del archivo de Cali Rivera",
+  "width": 640,
+  "height": 428,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAA4BaJbACsAEf08JZErAAAP60EFr6yVMVdWr7d9RKFpXmr3SxzG/KHXel4mPooBcf6pSN9GrgAH9Ypeowko/7Eg9Vw55VP5deoK7A0yxG9tA+HNdOg7yaAAAA",
+  "color": "rgb(184 184 184)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2009,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207203848id_/http://calirivera.com/images/obras-galeria/vistas_guate/img_6100.jpg"
+}

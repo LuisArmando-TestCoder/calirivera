@@ -1,0 +1,30 @@
+{
+ "id": "2011-plegaria",
+ "slug": "2011-plegaria",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 265,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-374.jpg",
+  "alt": "Plegaria",
+  "width": 374,
+  "height": 519,
+  "widths": [
+   374
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASoQABYAPu1orU2ppqSiMAgBMB2JaQDKAB6XCGFsNI62q1AA/uv/jswk7WkS1x9bVwGmU+mOWRnOMSHpg9HJjFlwmZ5hojIUlIXR0yDgyofRt/3JsiAulzRwxl1BF6AA",
+  "color": "rgb(40 24 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206133706id_/http://calirivera.com/images/stories/obras/plegaria/plegaria03.jpg",
+ "sourcePage": "Plegaria"
+}

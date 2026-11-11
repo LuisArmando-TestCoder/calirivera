@@ -1,0 +1,26 @@
+{
+ "id": "2014-evento-5a41",
+ "slug": "2014-evento-5a41",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 396,
+ "image": {
+  "src": "/media/memoria/2014-evento-5a41-217.jpg",
+  "alt": "Foto de 2014 del archivo de Cali Rivera",
+  "width": 217,
+  "height": 235,
+  "widths": [
+   217
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JZgCdMoADNcn+M536QAD+5f18SsFj8PKt6Hjj7TGzmQdHrq615QS35USdvZooWvhp2GUsEtahbB62sTo0qvwR63MQkyrAjBhHPT8XAAA=",
+  "color": "rgb(24 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2014,
+ "seenAt": "2015-08-17",
+ "sourceUrl": "https://web.archive.org/web/20150817050900id_/http://calirivera.com/images/thumbnails/images/stories/actividades/agenda_marzo_2014a2-217x235.jpg"
+}

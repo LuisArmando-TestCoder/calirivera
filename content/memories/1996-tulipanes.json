@@ -1,0 +1,29 @@
+{
+ "id": "1996-tulipanes",
+ "slug": "1996-tulipanes",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 40,
+ "image": {
+  "src": "/media/suenos-en-azul/niaa-de-tulipanes-1064.jpg",
+  "alt": "Tulipanes",
+  "width": 1064,
+  "height": 1478,
+  "widths": [
+   640,
+   1064
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoQABYAPu1iqU2ppaQiMAgBMB2JbACdMoRwIswAxcSvfYPtjF4AAP7vVE00UE1zCd7J6AYmGZh5Ul3y1tD5H3Qy7Q4SW//kCnG1i8qO47KBpFOT0Oz5mdcQL52H3+gbdPZfFACd0Z3sDXgrHuswvh/2CqgiJHTY+WLBhh/LoJFl+c8/wE5zeKe4p7E1A/j/K7AAAA==",
+  "color": "rgb(8 24 120)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Tulipanes",
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/niaa-de-tulipanes-Xd3tbVY7Ken7voq5.png"
+}

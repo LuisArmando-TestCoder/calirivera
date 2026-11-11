@@ -1,0 +1,29 @@
+{
+ "id": "2013-big-bam",
+ "slug": "2013-big-bam",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 17,
+ "image": {
+  "src": "/media/memoria/2013-big-bam-841.jpg",
+  "alt": "Big bam",
+  "width": 841,
+  "height": 960,
+  "widths": [
+   480,
+   841
+  ],
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JaACdMoRgAAwVjuSfeT1BUINuAAD8InLaPzwXcx7VuuM87X1fs+sBe0eFoZL1Jij34++cF+pzBgPpnFgqv38zcHX4RorSyegEaHmMyW6GagBQGku2TtApU/qObRb8usbO73+C4/9nFgAA",
+  "color": "rgb(216 232 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Big bam",
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220054208id_/http://calirivera.com/images/tienda/big_bam.jpg"
+}

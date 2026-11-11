@@ -1,0 +1,30 @@
+{
+ "id": "2003-transmutacion",
+ "slug": "2003-transmutacion",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 341,
+ "image": {
+  "src": "/media/memoria/2003-transmutacion-360.jpg",
+  "alt": "Transmutación",
+  "width": 360,
+  "height": 279,
+  "widths": [
+   360
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJYgCdADRWmwk8ydOAAD+acUPJwdyBP49kJ8zfiBO0c6n9madAShhrXVbnsuMA3th1M2ZjdBwjXY7rhRLfwMrX1xRn2CKlCCuS7yUAAA=",
+  "color": "rgb(216 184 152)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Transmutación",
+ "caption": "En «Transmutaci%ef%bf%bd%ef%bf%bdn.html?task=view&id=59»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2021-09-26",
+ "sourceUrl": "https://web.archive.org/web/20210926145700id_/http://calirivera.com/images/stories/exposiciones/transmutacion/transmutacion.jpg",
+ "sourcePage": "Transmutaci%ef%bf%bd%ef%bf%bdn.html?task=view&id=59"
+}

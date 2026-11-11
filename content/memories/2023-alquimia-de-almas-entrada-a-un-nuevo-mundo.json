@@ -1,0 +1,27 @@
+{
+ "id": "2023-alquimia-de-almas-entrada-a-un-nuevo-mundo",
+ "slug": "2023-alquimia-de-almas-entrada-a-un-nuevo-mundo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 443,
+ "image": {
+  "src": "/media/alquimia-de-almas/entrada-a-un-nuevo-mundo-976.jpg",
+  "width": 976,
+  "height": 1329,
+  "widths": [
+   640,
+   976
+  ],
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JZgCdMoADUFqcSy+4tW/sacCAAPjVWsk4ieB7i+CP5m1/6lbhCiZIr10b007FD3i5/8301fAGQQ4Het1iUsaNG59W70P2LGEYk5g/eadBfaRnlosAMHFbwPQ6k8tqZD0SeRdsuCfR7tcXUcBe0+P/JwqfemQpSXiAAA==",
+  "color": "rgb(248 248 248)",
+  "alt": "Entrada a un nuevo mundo, Alquimia de Almas, 2023"
+ },
+ "title": "Entrada a un nuevo mundo",
+ "caption": "Mixta sobre tela · 70 × 100 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

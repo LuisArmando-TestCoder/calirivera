@@ -1,0 +1,25 @@
+{
+ "id": "sf-delirio",
+ "slug": "sf-delirio",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 268,
+ "image": {
+  "src": "/media/memoria/sf-delirio-372.jpg",
+  "alt": "Delirio",
+  "width": 372,
+  "height": 500,
+  "widths": [
+   372
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JZACdMoADSGu13nym+qisWcAA/pgHTBwJ7f6o+TY/enGEGPVpfgf67EIeX7i8AuyGT2AXv4/PN94GLVVW1+uAFUVhWyMwYg04t8PXmPU5Xw+USWgAAA==",
+  "color": "rgb(168 152 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Delirio",
+ "sourceUrl": "https://calirivera.com/biografia/delirio-12W8wojiBV02mYAN.jpg"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "1996-6bbae0e5c90e",
+ "slug": "1996-6bbae0e5c90e",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 6,
+ "image": {
+  "src": "/media/suenos-en-azul/42e3d130-9fa6-47ae-8540-6bbae0e5c90e-1089.jpg",
+  "alt": "6bbae0e5c90e",
+  "width": 1089,
+  "height": 1445,
+  "widths": [
+   640,
+   1089
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoACtbkMFlgVLfAhccYAAP7vQ1mOMsJ1o6ghoZBEQuTYV02vhWEZLy9a1fL2wQZX5T4o3FIRL3JbgjCzc2QiknHKVTfe9pPIGyndFxZE1dInt+Jkx8YLtph5pziMGspFYAA=",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "6bbae0e5c90e",
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/42e3d130-9fa6-47ae-8540-6bbae0e5c90e-pXMyr8DCVofk3adN.png"
+}

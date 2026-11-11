@@ -1,0 +1,30 @@
+{
+ "id": "2003-ambiant-en-el-taller-del-artista",
+ "slug": "2003-ambiant-en-el-taller-del-artista",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 344,
+ "image": {
+  "src": "/media/memoria/2003-ambiant-en-el-taller-del-artista-360.jpg",
+  "alt": "Ambiant en el Taller del Artista",
+  "width": 360,
+  "height": 270,
+  "widths": [
+   360
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAwAA4BaJZQAD45Q49feBVbLgAD+81/3Mpscu/bKIGSB0fxcxkMdpNvB3ZidrA9UneVnOw2wYtfG2fdWGAkE2IOHYisf7C0O/A4ay3Bi7GOt47NWMxKkDeMZGYJzeld8gAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Ambiant en el Taller del Artista",
+ "caption": "En «Transmutaci%ef%bf%bd%ef%bf%bdn.html?task=view&id=59»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2021-09-26",
+ "sourceUrl": "https://web.archive.org/web/20210926145700id_/http://calirivera.com/images/stories/exposiciones/transmutacion/ambiant2.jpg",
+ "sourcePage": "Transmutaci%ef%bf%bd%ef%bf%bdn.html?task=view&id=59"
+}

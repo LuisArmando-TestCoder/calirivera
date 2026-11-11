@@ -1,0 +1,30 @@
+{
+ "id": "2016-version-1-0-de-nuestro-sitio",
+ "slug": "2016-version-1-0-de-nuestro-sitio",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 350,
+ "image": {
+  "src": "/media/memoria/2016-version-1-0-de-nuestro-sitio-375.jpg",
+  "alt": "Versión 1.0 de nuestro sitio.",
+  "width": 375,
+  "height": 249,
+  "widths": [
+   375
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAsAA4BaJZACdEf/gbgCErfq0WgA/k009B3WtjGeX03vRFr3tz2fNFfFg5vhwt9nVTJhkrJ/J/Jdl2I39ggCE8AP2/1ATZDHPfyWGlGEumbq9PkdRgI65b55xCXykAA=",
+  "color": "rgb(184 184 168)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Versión 1.0 de nuestro sitio.",
+ "caption": "En «Sin infulas ni pretenciones»",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206134023id_/http://calirivera.com/images/stories/obras/los_personajes.jpg",
+ "sourcePage": "Sin infulas ni pretenciones"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2013-febrero",
+ "slug": "2013-febrero",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 395,
+ "image": {
+  "src": "/media/memoria/2013-febrero-275.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 275,
+  "height": 188,
+  "widths": [
+   275
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsAA4BaJQAAW1dx7cDAAP7ZqpfR85lurAbye1EQjTx9UtqoQv1hit4RFWrQlyId2Z9/UKp4qv6GjTzIAA==",
+  "color": "rgb(40 56 56)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220090622id_/http://calirivera.com/images/thumbnails/images/stories/actividades/febrero-275x188.jpg"
+}

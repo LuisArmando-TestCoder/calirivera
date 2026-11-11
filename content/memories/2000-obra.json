@@ -1,0 +1,27 @@
+{
+ "id": "2000-obra",
+ "slug": "2000-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 4,
+ "image": {
+  "src": "/media/detras-de-la-ventana/madre-tierra-2-1102.jpg",
+  "alt": "Foto de 2000 del archivo de Cali Rivera",
+  "width": 1102,
+  "height": 1428,
+  "widths": [
+   640,
+   1102
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbAC7IExCTjZEzpaeod4VPYkagAD2+bOJCW41OjD+ICRvRnkg6QIVo/cYJ2zsrfhyPVH9KlrUT1EBuMMgq7fvYXakr7pTSA6TyILTTTs7f37m1DL3K1uk8yhZfoKQjX6U9kqN4wP2Ao5wevyX//XZNv38yU+NEPa2JHtn4Nt0QyqDeLAAAA==",
+  "color": "rgb(8 8 24)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/madre-tierra-2-l5v43ilwBciFXAUf.png"
+}

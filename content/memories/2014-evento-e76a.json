@@ -1,0 +1,26 @@
+{
+ "id": "2014-evento-e76a",
+ "slug": "2014-evento-e76a",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 364,
+ "image": {
+  "src": "/media/memoria/2014-evento-e76a-239.jpg",
+  "alt": "Foto de 2014 del archivo de Cali Rivera",
+  "width": 239,
+  "height": 349,
+  "widths": [
+   239
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JaACo9Bj5Yx6DWGk2gc4AAP67Yh+i9wkSewotOHyUlHMGeluRmFQag6ib3q2adIyoddW+qxT+K5ZdY3pzDcqqoXsQLiDiJKB3mtxY6hQIIdomH56fJJg2fuWZMdOajvJfdX1NyGlH6xBNjp/UdAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2014,
+ "seenAt": "2015-08-17",
+ "sourceUrl": "https://web.archive.org/web/20150817143158id_/http://calirivera.com/images/thumbnails/images/stories/actividades/Agenda-Octubre-2014-239x349.jpg"
+}

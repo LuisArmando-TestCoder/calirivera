@@ -1,0 +1,29 @@
+{
+ "id": "2003-retiro1-jpg",
+ "slug": "2003-retiro1-jpg",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 368,
+ "image": {
+  "src": "/media/memoria/2003-retiro1-jpg-230.jpg",
+  "alt": "retiro1.jpg",
+  "width": 230,
+  "height": 343,
+  "widths": [
+   230
+  ],
+  "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaACdDiACPAFMD6aSLuDYLIRYAP7FoN2CLo5PP1y5tCpLlJs90NQErFL3VbjQHxKMbYdLmnjBBHPzBNFfg0sQl2rSGC/TN5Bfe75FFwPxtUxdH9jYG+jPXx7hzORLa/TCZ3o2zYzv4BBkwvfwMj2zoBvz05pR+FYUriJgyDvLePy8ckltDIriXgt95mx+uo2S5N5OMNwAAAAA",
+  "color": "rgb(232 216 200)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "retiro1.jpg",
+ "caption": "En «Cd transmutacion 2003»",
+ "year": 2003,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206135258id_/http://calirivera.com/images/mgthumbnails/230x343-images-stories-exposiciones-transmutacion-retiro1.jpg",
+ "sourcePage": "Cd transmutacion 2003"
+}

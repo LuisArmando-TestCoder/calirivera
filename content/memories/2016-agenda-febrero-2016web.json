@@ -1,0 +1,27 @@
+{
+ "id": "2016-agenda-febrero-2016web",
+ "slug": "2016-agenda-febrero-2016web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 72,
+ "image": {
+  "src": "/media/archivo/agenda-febrero-2016web-800.jpg",
+  "alt": "agenda febrero 2016web",
+  "width": 800,
+  "height": 1169,
+  "widths": [
+   640,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZwAAW+jWNTsXcqQAAP7zgSYtarKjEaJBFhSSjF8EjI1aHoixaCvbsYSg3J1Ooii7GyAVkn1vSOUkl2aye8+/1wY0uBb8AAA=",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "agenda febrero 2016web",
+ "year": 2016,
+ "seenAt": "2016-10-15",
+ "sourceUrl": "https://web.archive.org/web/20161015132639id_/http://calirivera.com/images/agenda-febrero-2016web.jpg"
+}

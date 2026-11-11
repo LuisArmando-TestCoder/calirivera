@@ -1,0 +1,28 @@
+{
+ "id": "2013-performance-cv",
+ "slug": "2013-performance-cv",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 352,
+ "image": {
+  "src": "/media/memoria/2013-performance-cv-360.jpg",
+  "alt": "Performance cv",
+  "width": 360,
+  "height": 254,
+  "widths": [
+   360
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAsAA4BaJZwAD49u6/MINJSpQAD4Y6sQs3633Ij0b9f4G0KddS/D/mEhlPfzsK2fKLz2RdCQABpBVQPu4WrqG2TSo7IH3nRukpiSvMP/ks3u7V/O4EIHXwf683d8QGAL8gAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Performance cv",
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220092001id_/http://calirivera.com/images/stories/obras/performance_cv.gif"
+}

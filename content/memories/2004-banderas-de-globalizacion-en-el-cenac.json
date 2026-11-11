@@ -1,0 +1,30 @@
+{
+ "id": "2004-banderas-de-globalizacion-en-el-cenac",
+ "slug": "2004-banderas-de-globalizacion-en-el-cenac",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 374,
+ "image": {
+  "src": "/media/memoria/2004-banderas-de-globalizacion-en-el-cenac-300.jpg",
+  "alt": "BANDERAS DE GLOBALIZACIÓN EN EL CENAC",
+  "width": 300,
+  "height": 225,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQAAwAA4BaJQBOgCBSIt8j3gAA/BfsFHwXMB8Xg7/oToHsoRUAd29u2/u8FnWaCEBcTouaZ0JVcgowVQeWitMYzwXX6fc96UYBzjg39nCbHtNNLrIGKk2GCwzDOb6AAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "BANDERAS DE GLOBALIZACIÓN EN EL CENAC",
+ "caption": "En «~calirive»",
+ "year": 2004,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mi_trabajo/p_banderas_globalizacion.jpg",
+ "sourcePage": "~calirive"
+}

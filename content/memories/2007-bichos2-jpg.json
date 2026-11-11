@@ -1,0 +1,31 @@
+{
+ "id": "2007-bichos2-jpg",
+ "slug": "2007-bichos2-jpg",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 120,
+ "image": {
+  "src": "/media/memoria/2007-bichos2-jpg-600.jpg",
+  "alt": "bichos2.jpg",
+  "width": 600,
+  "height": 752,
+  "widths": [
+   480,
+   600
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYwC+SYxipNk3y7yx6t4piwAA/uhqkHe3J3LKzV2stsaA7h6pvDaWxALPTjZvQPcadCI8cEceXXu+7iJ1aXdxI3CogMJzTAWOLWDzddBAr7nvXRl1yPa8PTPInXy3EEgebyKHq6r/4uM/UoI0lvfd9/wx1DeX3FF9XcF/eDnsr153BAjlhI5FCLrXhFMf94AAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "bichos2.jpg",
+ "caption": "En «Bichos carlos monge 2007»",
+ "year": 2007,
+ "seenAt": "2025-07-27",
+ "collectionId": "la-cofradia",
+ "sourceUrl": "https://web.archive.org/web/20250727032738id_/http://calirivera.com/images/cofradia1.jpeg",
+ "sourcePage": "Bichos carlos monge 2007"
+}

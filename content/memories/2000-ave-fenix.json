@@ -1,0 +1,28 @@
+{
+ "id": "2000-ave-fenix",
+ "slug": "2000-ave-fenix",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 301,
+ "image": {
+  "src": "/media/memoria/2000-ave-fenix-291.jpg",
+  "alt": "Ave fenix",
+  "width": 291,
+  "height": 453,
+  "widths": [
+   291
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAwCdASoQABkAPu1iqU2ppaQiMAgBMB2JQBWAP9WSZAg852yUkcpQAP6vxSiND4cuDBYUKbaJWbBo4vfpIM7WoN+Ko6Bj3cEADT8IxwVRDxN9cceHdB0fP14z6weIvngp0KpMQBQiPyroilspwyj05kALIAAA",
+  "color": "rgb(200 200 200)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Ave fenix",
+ "year": 2000,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220091004id_/http://calirivera.com/images/stories/obras/ave/ave_fenix.jpg"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2009-caliarriba",
+ "slug": "2009-caliarriba",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 183,
+ "image": {
+  "src": "/media/memoria/2009-caliarriba-640.jpg",
+  "alt": "Foto de 2009 del archivo de Cali Rivera",
+  "width": 640,
+  "height": 428,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoQAAsAA4BaJbACdLoAAwklTOD/FAAA/u9pGZJWIeXw/x0JDCgKNh8MSOh5e4NgjDbFxSjIXc02wHictEuztnl82e+Ywni2f/wY8H8Al813Scl/U3DNFgAA",
+  "color": "rgb(216 8 8)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2009,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208024003id_/http://calirivera.com/images/obras-galeria/vistas_guate/caliarriba1.jpg"
+}

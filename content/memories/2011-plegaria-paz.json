@@ -1,0 +1,30 @@
+{
+ "id": "2011-plegaria-paz",
+ "slug": "2011-plegaria-paz",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 123,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-paz-551.jpg",
+  "alt": "Plegaria paz",
+  "width": 551,
+  "height": 787,
+  "widths": [
+   480,
+   551
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoMYAEnJyOGvKLK5Bp3PZJ7oAP7PdAHxuxdowZT04xxGuYWrMY2BOPEJEkd4WVskvcvhzKDZ5SJfdohzzbqFx+nh17D47SrFlx4uCUsHXAfxBo5PnadccJiD6jyYil4Nr+5/45A9cO0FsUjUy1wwwDIy7Yfk0v6G2NuYT/+rP5xD9acvr7WPpfHKN5QMroAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria paz",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2016-11-21",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161121154511id_/http://calirivera.com/images/mi_trabajo/plegaria_paz.jpg"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "2017-evento-8dd4",
+ "slug": "2017-evento-8dd4",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 86,
+ "image": {
+  "src": "/media/archivo/agenda-octubre-2017-684.jpg",
+  "alt": "Foto de 2017 del archivo de Cali Rivera",
+  "width": 684,
+  "height": 1000,
+  "widths": [
+   640,
+   684
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZAC7AB6Q8t3s9hoxrN9RDXAA/P2iTZTBm2HLn/grAEURnWroDmoNwmvE7z7ERis1LIObdsX5X0KsBzOBFc0CHH2lUa/4041UymIyuoXIqcPXM3CMArxlRagtikd86J+sr0YX5nrPVdlkb3jSOCBxCIxUMW7OkMK7KkGNGrqj7TftcAA=",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2017,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107220609id_/http://calirivera.com/images/agenda_Octubre_2017.jpg"
+}

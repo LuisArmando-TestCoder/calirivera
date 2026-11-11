@@ -1,0 +1,29 @@
+{
+ "id": "2015-obra-camino-paz",
+ "slug": "2015-obra-camino-paz",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 126,
+ "image": {
+  "src": "/media/memoria/2015-obra-camino-paz-552.jpg",
+  "alt": "Obra camino paz",
+  "width": 552,
+  "height": 738,
+  "widths": [
+   480,
+   552
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JYgCw7B+WwUvJHdmSyrheAAD+yjuiuebn+hIUGZpj46pz5Y3pCKUWYlFNMQ6I5czgy5D36lk0+5FZshf8qxPAvP/LPWyHRLnPRoyMS9wli5hERl6xt+dsqHqXzmQujnQ2+JLa5n4fILhKqlOleJp/CA3SVJXR/Ndc9UKWg3YqAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Obra camino paz",
+ "year": 2015,
+ "yearApprox": true,
+ "seenAt": "2015-08-10",
+ "sourceUrl": "https://web.archive.org/web/20150810043915id_/http://calirivera.com/images/tienda/obra_camino_paz.jpg"
+}

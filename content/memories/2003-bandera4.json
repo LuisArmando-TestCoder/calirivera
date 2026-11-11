@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera4",
+ "slug": "2003-bandera4",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 166,
+ "image": {
+  "src": "/media/memoria/2003-bandera4-480.jpg",
+  "alt": "Bandera4",
+  "width": 480,
+  "height": 624,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdMoACYFiwZAx2TFRiAAD8xNbwKh/IHo0wtEnT2wivYmKb9NTZ3zAA+3ZX30Kaa6Dc9ujlh3wLqpep0D9y6+6Bw+lRyKHnOFF/uq5UKy2Ki6z7YEgyHvjY8YbGbaxdv16VCvUfp8J8UCfEAAAA",
+  "color": "rgb(120 168 216)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera4",
+ "caption": "En «Bandera 1»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2011-01-01",
+ "sourceUrl": "https://web.archive.org/web/20110101053928id_/http://calirivera.com/prayer_flags/images/bandera4_01.gif",
+ "sourcePage": "Bandera 1"
+}

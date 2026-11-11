@@ -1,0 +1,27 @@
+{
+ "id": "2019-homenaje-al-indio-sanchez",
+ "slug": "2019-homenaje-al-indio-sanchez",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 366,
+ "image": {
+  "src": "/media/memoria/2019-homenaje-al-indio-sanchez-205.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 205,
+  "height": 400,
+  "widths": [
+   205
+  ],
+  "placeholder": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBQCdASoQACAAPu1iqk4ppaQiMAgBMB2JQBOmUGP9p/9ABDAbTcyXndZKGnfeqDNQAAD+uio0tzCJJzT73mM9egTpIgc3eo8OCwz7olEh+6ZmDzvTofeiqTuJfb5qe5IVyA9ACgdIsvF2tN8aie4gjGQjskm+cuBMws1qbn7NqPmfZPRBt7nxNLg3wu87gmTwCJ4/qI1cv/v+J7k70ua/0GCPIOBFUv51Iz+YHm6cJSsTv2z3gNKSXRR2X/2N8/fzz1MNPWa3qwq+lyWkgw5StTvmFKAAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423053825id_/http://calirivera.com/images/stories/exposiciones/octubre3/homenaje_al_indio_sanchez.jpg"
+}

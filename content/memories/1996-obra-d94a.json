@@ -1,0 +1,28 @@
+{
+ "id": "1996-obra-d94a",
+ "slug": "1996-obra-d94a",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 21,
+ "image": {
+  "src": "/media/suenos-en-azul/suea-os-2-1048.jpg",
+  "alt": "Foto de 1996 del archivo de Cali Rivera",
+  "width": 1048,
+  "height": 1501,
+  "widths": [
+   640,
+   1048
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoMYADwY1z2Uy5x/upow2dwA/roXlE71IkGsk7NBxMuyrnTZg1sPFXpnJDlEmRgsSLOUaOAG20uaZvUMxIk2LTa5XSA3fbRvEi24G0xjMgDf3fCOG7dkbI7Qlf6ZW/VtFL+G3AGyTMyIGvUcALWSaGKRMrMSpUZX0PDqg9tV7tVdVih3aO1KAAAA",
+  "color": "rgb(136 184 200)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/suea--os-2-3FmZnRPgZLC0Qa94.png"
+}

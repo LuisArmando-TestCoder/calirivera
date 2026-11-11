@@ -1,0 +1,27 @@
+{
+ "id": "2016-taller-921b",
+ "slug": "2016-taller-921b",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 191,
+ "image": {
+  "src": "/media/memoria/2016-taller-921b-428.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 428,
+  "height": 640,
+  "widths": [
+   428
+  ],
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdDiAByhnsAjq1yE/I+Z/0gHQA/tvdKy0bv9RIXj74J78ZBK/voNY+423xKnSu3I8Wgt7uRXLyDnd4Ux58ZDMSCiYYho7CsLNSQ7OsYJiz2QGjqz6cy46rAHYerKaOJwN1oqSRkl4UIOxMf7tcfvALxd71mK019OaDKv2XQ3lL9yseF6JMuyN3X15yttay+nzy/iwMCiDtXw1juHk3TqHiZ3Go6r5V7yahnpvAUKISpVNHFpHXnF+ve2/vJhcK/63VMYzQAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207222026id_/http://calirivera.com/images/stories/obras-galeria/vistas/dsc_3821%20ret.jpg"
+}

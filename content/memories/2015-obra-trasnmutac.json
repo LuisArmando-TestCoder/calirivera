@@ -1,0 +1,29 @@
+{
+ "id": "2015-obra-trasnmutac",
+ "slug": "2015-obra-trasnmutac",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 117,
+ "image": {
+  "src": "/media/memoria/2015-obra-trasnmutac-800.jpg",
+  "alt": "Obra trasnmutac",
+  "width": 800,
+  "height": 587,
+  "widths": [
+   480,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoQAAwAA4BaJbACdAYv1lHxKQ49C3QAAP7inTCSF9w90t6N7Rfel7hYmk7KbuICwcC/L8bJtJ2OE0d9eRIZZOPk+T/PgH3s3hXfOqEceV3OSAgFNXB5Z13dLT2+Wl2d954aD/LNGsiJ7P0lksUX8et54AA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Obra trasnmutac",
+ "year": 2015,
+ "yearApprox": true,
+ "seenAt": "2015-08-10",
+ "sourceUrl": "https://web.archive.org/web/20150810075000id_/http://calirivera.com/images/tienda/obra_trasnmutac.jpg"
+}

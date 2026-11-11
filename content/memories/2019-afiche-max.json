@@ -1,0 +1,28 @@
+{
+ "id": "2019-afiche-max",
+ "slug": "2019-afiche-max",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 178,
+ "image": {
+  "src": "/media/memoria/2019-afiche-max-653.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 653,
+  "height": 423,
+  "widths": [
+   480,
+   653
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAoAA4BaJbACdAEPhx2UVoTAAP7qJ7sADLDYZ30zaVmbAPTyw+9KWp3pZL9mkSSNBnSW0QJMa7DLZdCuUCDQZy06F4NpCgEHHfqcyswIhz5RJzIAAA==",
+  "color": "rgb(8 40 56)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423074054id_/http://calirivera.com/images/mgthumbnails/654x423-images-stories-actividades-Afiche_Max.jpg"
+}

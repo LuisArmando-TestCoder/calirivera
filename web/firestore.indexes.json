@@ -6,6 +6,10 @@
       { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "programKind", "order": "ASCENDING" }, { "fieldPath": "publishedAt", "order": "DESCENDING" } ] },
     { "collectionGroup": "artworks", "queryScope": "COLLECTION", "fields": [
       { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "collectionId", "order": "ASCENDING" }, { "fieldPath": "order", "order": "ASCENDING" } ] },
+    { "collectionGroup": "memories", "queryScope": "COLLECTION", "fields": [
+      { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "year", "order": "DESCENDING" } ] },
+    { "collectionGroup": "memories", "queryScope": "COLLECTION", "fields": [
+      { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "kind", "order": "ASCENDING" } ] },
     { "collectionGroup": "people", "queryScope": "COLLECTION", "fields": [
       { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "programKinds", "arrayConfig": "CONTAINS" }, { "fieldPath": "order", "order": "ASCENDING" } ] }
   ],

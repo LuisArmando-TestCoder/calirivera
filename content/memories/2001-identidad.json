@@ -1,0 +1,27 @@
+{
+ "id": "2001-identidad",
+ "slug": "2001-identidad",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 255,
+ "image": {
+  "src": "/media/memoria/2001-identidad-400.jpg",
+  "alt": "Identidad",
+  "width": 400,
+  "height": 523,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgC06YyA4S21W7r1NDL0lpQAAPKIkVrWufAfsXWtrXF2ApKvDggqK3fTaF0C5ulunE9sYQlvftP7yd/whkSeHfpCO5Vc1WABU5IUQBuCXl8IXAKpne9+6TdI6jjHSdPgKXlfKGWXm+VqkEsXjvT8RfuMvq6KCJBfemFjGv5B4fFgASAWx0t2TTA8q8ipidHU3zEPQP6jGEVyAAA=",
+  "color": "rgb(248 232 200)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Identidad",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207161642id_/http://calirivera.com/images/obras-galeria/identidad_2001/identidad2.jpg"
+}

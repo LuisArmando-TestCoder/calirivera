@@ -1,0 +1,26 @@
+{
+ "id": "sf-cama",
+ "slug": "sf-cama",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 122,
+ "image": {
+  "src": "/media/memoria/sf-cama-776.jpg",
+  "alt": "Cama",
+  "width": 776,
+  "height": 571,
+  "widths": [
+   480,
+   776
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJagCsAEQ0q2Q4I8vwAD++RRUhm31TUi2loTZCSZU4RxPbqTA9CqJGttE+UpZbWdCvepJWownsQ4NVhjYVxdjasejNVwUIxMqJAQgAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Cama",
+ "sourceUrl": "https://calirivera.com/biografia/cama-1YtbTvTIoHTpOrkA.PNG"
+}

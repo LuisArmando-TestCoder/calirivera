@@ -1,0 +1,27 @@
+{
+ "id": "2001-obra-11f8",
+ "slug": "2001-obra-11f8",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 202,
+ "image": {
+  "src": "/media/memoria/2001-obra-11f8-600.jpg",
+  "alt": "Foto de 2001 del archivo de Cali Rivera",
+  "width": 600,
+  "height": 456,
+  "widths": [
+   480,
+   600
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAgCdASoQAAwAA4BaJbACdH8G6AFPcYGKDs70zOToAAD+53b24nP/6kEXSMIDr2PbiJ/FrtCAeESgD1pjuNPSZ1Uh3hUjJ8bLa66XDcraSH+SP+vWW75d9J8R+bAJKAHZWD6mryACZRYFCz6X1TBPQfmlyDRwpOIS7n+PrUcO/u/gAAA=",
+  "color": "rgb(248 248 200)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207141752id_/http://calirivera.com/images/obras-galeria/identidad_2001/1950_tierra_tibetana.jpg"
+}

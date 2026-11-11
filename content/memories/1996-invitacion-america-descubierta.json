@@ -1,0 +1,30 @@
+{
+ "id": "1996-invitacion-america-descubierta",
+ "slug": "1996-invitacion-america-descubierta",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 287,
+ "image": {
+  "src": "/media/memoria/1996-invitacion-america-descubierta-468.jpg",
+  "alt": "Invitación América Descubierta",
+  "width": 468,
+  "height": 315,
+  "widths": [
+   468
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAsAA4BaJaQAAt0JiTJZgAAA/te+cZOTuWPuqsgd8Ai6zJsUhZQ1EEQwUAAA",
+  "color": "rgb(232 232 232)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Invitación América Descubierta",
+ "caption": "En «Suenos en azul 1996»",
+ "year": 1996,
+ "seenAt": "2016-12-06",
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://web.archive.org/web/20161206195406id_/http://calirivera.com/images/stories/exposiciones/suenos_en_azul/invitacion_sazul1.jpg",
+ "sourcePage": "Suenos en azul 1996"
+}

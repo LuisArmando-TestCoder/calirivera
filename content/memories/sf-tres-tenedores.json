@@ -1,0 +1,26 @@
+{
+ "id": "sf-tres-tenedores",
+ "slug": "sf-tres-tenedores",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 67,
+ "image": {
+  "src": "/media/memoria/sf-tres-tenedores-1024.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 1024,
+  "height": 1024,
+  "widths": [
+   480,
+   960,
+   1024
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQABAAA4BaJYwBUfo9FAL92TAA/vi4FQPYjwA9jGfjT1iuwDAHw0XKdowaA4S/eTosp6U9LuAob9xfPAOAAA==",
+  "color": "rgb(104 88 72)",
+  "aiAltered": true
+ },
+ "kind": "taller",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "sourceUrl": "https://calirivera.com/taller-del-artista/tres-tenedores-rGSUnnhqT3oe7luU.png"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2018-agenda-agosto2018-web",
+ "slug": "2018-agenda-agosto2018-web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 359,
+ "image": {
+  "src": "/media/memoria/2018-agenda-agosto2018-web-241.jpg",
+  "alt": "agenda Agosto2018 web",
+  "width": 241,
+  "height": 352,
+  "widths": [
+   241
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdLwAViApL7NXD3XB4jeccQCMAAP3+y0Q5GCpAXhrCPYK5EzJusD0y0+EpnM33pUILQxWIHVJusuAl/SNYFjmbYS3/QS4RkT8LXahxkozXLfrHWoXDyQLi1raXTVYBT5lSrJSDvxiv5ibYTPfmLy3++/TuLHj+r46du0jqTdRFgcnHd8g92BYvr+VGuH+XfxT1bcOLVyC2ox9ce1wkHkvp60vAWZw+koAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "agenda Agosto2018 web",
+ "year": 2018,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mgthumbnails/241x352-images-agenda-Agosto2018-web.jpg"
+}

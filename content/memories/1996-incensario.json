@@ -1,0 +1,28 @@
+{
+ "id": "1996-incensario",
+ "slug": "1996-incensario",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 427,
+ "image": {
+  "src": "/media/memoria/1996-incensario-130.jpg",
+  "alt": "Foto de 1996 del archivo de Cali Rivera",
+  "width": 130,
+  "height": 190,
+  "widths": [
+   130
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQAB8tEMPgJ0e3VK7wIH035pAAP7BKz2n9lccBBT6f8dN2nLzeW6C8HyB7FvUIFDhhVhwiOqv6B536r8rkeXTAy0dgssQDeIDHGbJWAAZJaXtSYwZt7T/Z/NiUtm/SYUlDj4VNdB2kVGL8PY70ZOM3/bzX7y1V70AC13N0yu6WGUuW2ZtBPX4eBt2EjHG3QJpiI1reEkhzv7gR7fn/YAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 1996,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://web.archive.org/web/20131220100017id_/http://calirivera.com/images/thumbnails/images/stories/exposiciones/suenos_en_azul/incensario-130x190.jpg"
+}

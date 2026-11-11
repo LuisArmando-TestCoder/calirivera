@@ -1,0 +1,27 @@
+{
+ "id": "2004-internacional-sea-turtle",
+ "slug": "2004-internacional-sea-turtle",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 143,
+ "image": {
+  "src": "/media/memoria/2004-internacional-sea-turtle-400.jpg",
+  "alt": "Foto de 2004 del archivo de Cali Rivera",
+  "width": 400,
+  "height": 810,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoQACAAPu1orU2ppqSiMAgBMB2JZwABHuoDExyAJhLgAP76yE/A3TUxypN+vc3d63ttdHfd0dgM/NBgF5fvTEoMuviPersMNL0Z8+KqhBUBghZ2yV8+OL8t8QoF86NLAAA=",
+  "color": "rgb(232 232 216)",
+  "lowRes": true
+ },
+ "kind": "prensa",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2004,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206073812id_/http://calirivera.com/images/stories/exposiciones/globalizacion/internacional_sea_turtle.jpg"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "2011-plegaria-huicholes",
+ "slug": "2011-plegaria-huicholes",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 133,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-huicholes-480.jpg",
+  "alt": "Plegaria Huicholes",
+  "width": 480,
+  "height": 720,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoQABgAPu1kqk2ppaQiMAgBMB2JQBOj+ABjdUx8NzybrAAA/vHfOSDfu3u+IKzkaLadRk5o2ZbjV5vP0jMtZ2skrneioQj3HEZYDOMBptuN5d/hiJqDLE1hzyizTu17Yio7mxlslIC4QjI/PE38L5CBgkm3sGlfMvAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria Huicholes",
+ "caption": "En «Obras»",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/stories/plegaria_obras/Plegaria_Balticos.jpg",
+ "sourcePage": "Obras"
+}

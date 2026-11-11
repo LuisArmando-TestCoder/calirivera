@@ -1,0 +1,27 @@
+{
+ "id": "2009-cali",
+ "slug": "2009-cali",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 179,
+ "image": {
+  "src": "/media/memoria/2009-cali-429.jpg",
+  "alt": "Foto de 2009 del archivo de Cali Rivera",
+  "width": 429,
+  "height": 640,
+  "widths": [
+   429
+  ],
+  "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JZgCdABtTlX9RKoz9MrgAAPeM43t9qeXUq0MVjcEk8PYspzrFXPusdOTa7MfGNRiJb7eoOSpQ3lhsWfFKGb3b0AWre1xDcgQwF77fIEHZNcLZYDmBZf0C2jcQ1Bdqsxx/BVtRMLTRNGzLPNqax/1mypcmopG3iJyARwZu4f2IvsGU2YVO00GsNVvmcaUUPBfsEegCwAA=",
+  "color": "rgb(184 168 104)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2009,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208085828id_/http://calirivera.com/images/obras-galeria/vistas_guate/cali2.jpg"
+}

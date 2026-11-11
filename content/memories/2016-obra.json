@@ -1,0 +1,27 @@
+{
+ "id": "2016-obra",
+ "slug": "2016-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 92,
+ "image": {
+  "src": "/media/archivo/13151467-1309588175724493-7700702034604803033-n-620.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 620,
+  "height": 960,
+  "widths": [
+   620
+  ],
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoQABkAPu1iqU2ppaOiMAgBMB2JYwC7ABmbbBQcAtxKyTAA+fZW7kGv3dMyuNV0lgEyrvndaKoyGf0Q5x/riYG/hjGo6u9NDOQ3t3fPP1ZM2H9nNGQ4ctNCKMymQV2tXexAY0MotiXkel9jIjsCrZdJQNHyzWXmS2tAwAAA",
+  "color": "rgb(88 72 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-11",
+ "sourceUrl": "https://web.archive.org/web/20161211114730id_/http://calirivera.com/images/13151467_1309588175724493_7700702034604803033_n.jpg"
+}

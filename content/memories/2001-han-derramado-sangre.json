@@ -1,0 +1,27 @@
+{
+ "id": "2001-han-derramado-sangre",
+ "slug": "2001-han-derramado-sangre",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 253,
+ "image": {
+  "src": "/media/memoria/2001-han-derramado-sangre-383.jpg",
+  "alt": "Han derramado sangre",
+  "width": 383,
+  "height": 550,
+  "widths": [
+   383
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoR3AkgPbSY9VTRlkvYlMTGgAADONZMupwrYJlBF/2HkhfugqvjK7w/ZP+Q7cb1efOUyGHs8ATBiZf+iD8733mxoUh+9gRgpz/dNn09EsUGfKvCy776R548oF7v2muDmG9r7V52+dkhvnIlXuc1XxXCy8Y4b+8ng3tt42dJFftCrqWuOoabGSHmLZ02CfJGZ1ZB61tCzlyl1Qqm7jzFqKygEzv7t453tAAA=",
+  "color": "rgb(200 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Han derramado sangre",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207141737id_/http://calirivera.com/images/obras-galeria/identidad_2001/han_derramado_sangre1.jpg"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2001-poliptico-completo",
+ "slug": "2001-poliptico-completo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 309,
+ "image": {
+  "src": "/media/memoria/2001-poliptico-completo-587.jpg",
+  "alt": "Poliptico completo",
+  "width": 587,
+  "height": 213,
+  "widths": [
+   480,
+   587
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAAYAA4BaJYgCdH8AGAJEM77YIAD+vZEvaeeOseJ27lYWKPJF8gvlqt/8ocU5DRcXCcWFFALKxwgdTFIpcEG39s8jZvpHAUGgAA==",
+  "color": "rgb(8 8 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Poliptico completo",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207135802id_/http://calirivera.com/images/obras-galeria/identidad_2001/poliptico_completo.jpg"
+}

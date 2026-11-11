@@ -1,0 +1,27 @@
+{
+ "id": "2003-transmu",
+ "slug": "2003-transmu",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 93,
+ "image": {
+  "src": "/media/memoria/2003-transmu-493.jpg",
+  "alt": "Transmu",
+  "width": 493,
+  "height": 1149,
+  "widths": [
+   480,
+   493
+  ],
+  "placeholder": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAADQBgCdASoQACYAPt1Yo02opSMiNUgBEBuJbACdMuN5eGQby0+AjAHKAfAEopxRQdLfU5QOjGD9o+IQoZ+2tEAA/uts0DeReU28JEhkAy2PEP92OMWNu+YhabS04qHlNAvjuaUJ7ujOPN7RwHtq6Ucvd0d5vdFwsd+YRnjfr6kCVRvqXS+NI7hRaRP4wFjuOfmvcoGs4NGxjx+7mo3R5aiW9iMxhHo+kF5yiDMEynnRZyvwNXHfw1cvD67cPvegDNV4zPQFs02QUweg5RZjP4L5QKlhNjbrfkfHKVOZhJOcNO8bZvw6IgyJmE43+jY1+FBB9cXcA2H7BTsAjNsv/rPoNL6lx4dLgIGCmRaHVLmy7ukueIlXKg7u0RrtEWCv0HTYz3wbcovSuPqqmFnTIgAA",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Transmu",
+ "year": 2003,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210605id_/http://calirivera.com/images/obras-galeria/transmutacion_2003/transmu6.jpg"
+}

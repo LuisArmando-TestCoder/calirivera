@@ -1,0 +1,29 @@
+{
+ "id": "2016-5mericaba",
+ "slug": "2016-5mericaba",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 100,
+ "image": {
+  "src": "/media/memoria/2016-5mericaba-700.jpg",
+  "alt": "5mericaba",
+  "width": 700,
+  "height": 715,
+  "widths": [
+   480,
+   700
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQABAAA4BaJQBOgCHdyJHp5zoAAP7dsRYG7HKB6j1Z+cvSme/rBwYUquvlcarTmoqQYGPREkS/79dU3wCRXnyMySZeXaYDY2b5eX+BlQAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "5mericaba",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210055id_/http://calirivera.com/images/stories/obras-galeria/alquimia/5mericaba.jpg"
+}

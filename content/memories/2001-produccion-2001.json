@@ -1,0 +1,29 @@
+{
+ "id": "2001-produccion-2001",
+ "slug": "2001-produccion-2001",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 372,
+ "image": {
+  "src": "/media/memoria/2001-produccion-2001-300.jpg",
+  "alt": "Producción 2001",
+  "width": 300,
+  "height": 225,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAwAA4BaJZACdADdk+vZSC8+AAD+dczjnve8i14bs0pwdQsZifyoUDKhfk4r+oMKxoHT+EAYmQNX+cTHDw5I2HqHEeSYkTQe4IOEDQ3AqZ4KcjkMvn4A",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Producción 2001",
+ "caption": "En «~calirive»",
+ "year": 2001,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mi_trabajo/p_produccion_2001.jpg",
+ "sourcePage": "~calirive"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2016-estratos-7040",
+ "slug": "2016-estratos-7040",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 127,
+ "image": {
+  "src": "/media/memoria/2016-estratos-7040-437.jpg",
+  "alt": "Estratos",
+  "width": 437,
+  "height": 895,
+  "widths": [
+   437
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAwBQCdASoQACEAPt1Wo02opKMiNUgBEBuJbACdMt+GA1rAbk8x3He42Ai/xHG9X5zD0AD9oeX54Ikr0KdFtr7XG8j8325qeN6tBUb0vpXNBseyUQogBJnHHGTOrOP4Tz2Ku+qMMW0zuDKm7hZWbhEBNaTfuosfalKIVyfUkZs1aI5XGOHh9ymiewEKjcp7kdKgPUhC29S7PpLtn4qIWhCYtvmUjBxK4lc64dwaDJI2gjWWsp4xBdGWNu6tCARNeYqGEv+S1sC0SAAA",
+  "color": "rgb(168 152 88)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Estratos",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206133803id_/http://calirivera.com/images/stories/obras-galeria/alquimia/7cumulos-cirros-y-estratos.jpg"
+}

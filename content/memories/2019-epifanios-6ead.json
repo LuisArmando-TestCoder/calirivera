@@ -1,0 +1,29 @@
+{
+ "id": "2019-epifanios-6ead",
+ "slug": "2019-epifanios-6ead",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 258,
+ "image": {
+  "src": "/media/memoria/2019-epifanios-6ead-500.jpg",
+  "alt": "Epifanios",
+  "width": 500,
+  "height": 417,
+  "widths": [
+   480,
+   500
+  ],
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAQCdASoQAA0AA4BaJbACdACefZs4IAD+7lZLTRduGd9vcP00Dw8+pF/u2oWfatpJVg4k84ELmsQO8dZu+6/RoN+Jczxib691FG6v+Wc/XWfwb/Q++7h9Nt/s7jlAWBpoAA==",
+  "color": "rgb(232 232 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Epifanios",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-01-08",
+ "sourceUrl": "https://web.archive.org/web/20190108024905id_/http://calirivera.com/images/obras-galeria/alquimia/arte-objeto/epifanios2.jpg"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2000-amanecer-4k",
+ "slug": "2000-amanecer-4k",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 22,
+ "image": {
+  "src": "/media/detras-de-la-ventana/amanecer-4k-1107.jpg",
+  "alt": "Amanecer 4k",
+  "width": 1107,
+  "height": 1421,
+  "widths": [
+   640,
+   1107
+  ],
+  "placeholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdEfqsUBaHa17JpjuZQS3BPQAA/qN83/I27FRknJtrwvbYAjdbXMIhQ/3SOYM3EXFjrDAYVywO9WAsGfne4RibWz+O1BAkykfcAdRy88qaWLVgH41e7awAK2zPnobIm5ahCJALTnRa6hoMcpYyG6PC9sIM+m6Hkv8deH/vom/cvfjgEo3kYBp+a6HbZtX9/8iahAzVAGytdrHFWrKVOCK0hKWAAAA=",
+  "color": "rgb(8 8 24)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Amanecer 4k",
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/amanecer-4k-cVV8w62WCE5PqU16.png"
+}

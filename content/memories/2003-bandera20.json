@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera20",
+ "slug": "2003-bandera20",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 144,
+ "image": {
+  "src": "/media/memoria/2003-bandera20-480.jpg",
+  "alt": "Bandera20",
+  "width": 480,
+  "height": 652,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdAB9q974o74dvu7KaQLWAAP4fPytN6RgNOpyOdO3T0bjW6CtvF/wPLV4THToQfi7p53Qlh+W9oNIqmkrOSM6ghQn49UfcZdZpNyZbONlWu9UzKNr3yyu0Ax8wvO8Stk6h6YnNjRECXOap9gGIg9GOQT/EIUdY5BUhPwY8AAAA",
+  "color": "rgb(72 104 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera20",
+ "caption": "En «Bandera 8»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2011-01-01",
+ "sourceUrl": "https://web.archive.org/web/20110101054320id_/http://calirivera.com/prayer_flags/images/bandera20_01.gif",
+ "sourcePage": "Bandera 8"
+}

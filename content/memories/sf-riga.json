@@ -1,0 +1,27 @@
+{
+ "id": "sf-riga",
+ "slug": "sf-riga",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 42,
+ "image": {
+  "src": "/media/biografia/riga-2-1448.jpg",
+  "alt": "Riga",
+  "width": 1448,
+  "height": 1086,
+  "widths": [
+   640,
+   1280,
+   1448
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQAAwAA4BaJQBOgMXrlAoAo0YAAP6jSxUyAxYSrWhinb9GJ/rjUFUAvolmMZE13spkESIhOceOH3HaLnVBS5GLOwlksW3ywGIRR0sK8J1eLMTJ7tDcio+GspVBlOY9iIQ8QAAA",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Riga",
+ "sourceUrl": "https://calirivera.com/biografia/riga-2-0zyzVsHjxPSVPu43.png"
+}

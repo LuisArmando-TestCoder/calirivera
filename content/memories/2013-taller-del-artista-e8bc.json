@@ -1,0 +1,27 @@
+{
+ "id": "2013-taller-del-artista-e8bc",
+ "slug": "2013-taller-del-artista-e8bc",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 348,
+ "image": {
+  "src": "/media/memoria/2013-taller-del-artista-e8bc-379.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 379,
+  "height": 253,
+  "widths": [
+   379
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsAA4BaJaACdAD0i4XciAAA/vatTkBqnuq4KXYK0EiUmqwuBI1reIf2m28er86FqM0/r21gAA==",
+  "color": "rgb(24 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220091819id_/http://calirivera.com/images/stories/taller/taller_del_artista4.jpg"
+}

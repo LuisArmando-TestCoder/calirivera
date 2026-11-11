@@ -1,0 +1,29 @@
+{
+ "id": "1996-suenos-e290",
+ "slug": "1996-suenos-e290",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 308,
+ "image": {
+  "src": "/media/memoria/1996-suenos-e290-254.jpg",
+  "alt": "Suenos",
+  "width": 254,
+  "height": 500,
+  "widths": [
+   254
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACQBACdASoQACAAPu1iqU2ppaQiMAgBMB2JbACdMoRitxgAUd2Iahx/AR76+AAA/trX9C22ec2AEvnUHDsed3hculDTn7o4lQ0qg5O1ovkkjhExtYcvhBxlsEWZTOtWFYNVzWNmtu7te1fCoNhdeZ7925UZ1abfqP/gySmIkZANhlEyFFiT6if+FmJU9C5yleU4Z6yd3BZAYH4gs1VjClwtPRTXcZixILCShB89cJH0OfHPxCYgV7VL2J0DMxS/baDIX9l/3AAAAA==",
+  "color": "rgb(8 88 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Suenos",
+ "year": 1996,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://web.archive.org/web/20161207161646id_/http://calirivera.com/images/obras-galeria/suenos_en_azul/suenos10.jpg"
+}

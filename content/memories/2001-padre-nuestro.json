@@ -1,0 +1,27 @@
+{
+ "id": "2001-padre-nuestro",
+ "slug": "2001-padre-nuestro",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 223,
+ "image": {
+  "src": "/media/memoria/2001-padre-nuestro-400.jpg",
+  "alt": "Padre nuestro",
+  "width": 400,
+  "height": 654,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBACdASoQABoAPu1krU6ppaSiMAgBMB2JZgCdMoAlvhfhUuGW6o7rdU3/8VKAAP7oz8FF1ubQXm6k4nF+AcVu+mUUq4rAFFEpC+7Ag5TMiratKBNm+l/CiiN1E33yKzp+gySCfmWvtn/L9da6pk+rxuApX/c4uZLFwpuNhvVgg8C+PN2VvnRqwx3iqWRKL93hjK3dJHHqnawrGNH0+Z0/MpJEwp8/ZislvEYEgAA=",
+  "color": "rgb(24 56 72)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Padre nuestro",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207161635id_/http://calirivera.com/images/obras-galeria/identidad_2001/padre_nuestro.jpg"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "2016-9infinito",
+ "slug": "2016-9infinito",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 121,
+ "image": {
+  "src": "/media/memoria/2016-9infinito-555.jpg",
+  "alt": "9infinito",
+  "width": 555,
+  "height": 800,
+  "widths": [
+   480,
+   555
+  ],
+  "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZgCdMoBOAbV4876FIa7+0TCdqxciAAD+qnpwqj9E5gK98QN83XBBEOrLJQKR13e4+d06H1IOw1qNKU1vZfOXVLBAJpzyrt2fuA8QY2sUyHud7DXu7zwMOmrjZBs8DCJZI27h9xqqEUaf4hjdJNYbLuvdPeafUJcoqFkcxnNKUMqCt8g3aAyPTOVrX8iQASKZhhYBABPIY3AA",
+  "color": "rgb(40 24 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "9infinito",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207020436id_/http://calirivera.com/images/stories/obras-galeria/alquimia/9infinito.jpg"
+}

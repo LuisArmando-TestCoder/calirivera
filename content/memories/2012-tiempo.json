@@ -1,0 +1,28 @@
+{
+ "id": "2012-tiempo",
+ "slug": "2012-tiempo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 5,
+ "image": {
+  "src": "/media/exvotos/exvotos-el-tiempo-1170.jpg",
+  "alt": "Tiempo",
+  "width": 1170,
+  "height": 1345,
+  "widths": [
+   640,
+   1170
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBACdASoQABIAPu1iqU2ppaOiMAgBMB2JbACdMoRwACXcpQ89aOuYAAD+qgB2+BJLy1BDHWjEbrgrnFHFqwys1Q4PzCf5eHyzqj3Lil86I7h5/0fBykgaFb1hrTg5zDgI+wgZooAAAA==",
+  "color": "rgb(216 24 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Tiempo",
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/exvotos-el-tiempo-cZUkxdxBNs4LXQmM.png"
+}

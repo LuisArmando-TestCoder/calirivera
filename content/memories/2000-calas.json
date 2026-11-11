@@ -1,0 +1,30 @@
+{
+ "id": "2000-calas",
+ "slug": "2000-calas",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 55,
+ "image": {
+  "src": "/media/detras-de-la-ventana/calas-1537.jpg",
+  "alt": "Calas",
+  "width": 1537,
+  "height": 1023,
+  "widths": [
+   640,
+   1280,
+   1537
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAsAA4BaJbACdADFtNpAAP7dgpNwBLuH4PSrpbQ5O9NX2A3KlXh3OkssOwaN6MOdO/0uVjB/xJwB/8su3zjXN9n/p/8trPbafXun9i2vgqsmgAA=",
+  "color": "rgb(200 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Calas",
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/calas-Lb3ffYKBJdYhMe32.png"
+}

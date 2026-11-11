@@ -1,0 +1,26 @@
+{
+ "id": "2023-alquimia-de-almas-recuerdo-de-un-amor-sincero",
+ "slug": "2023-alquimia-de-almas-recuerdo-de-un-amor-sincero",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 458,
+ "image": {
+  "src": "/media/alquimia-de-almas/recuerdo-de-un-amor-sincero-506.jpg",
+  "width": 506,
+  "height": 1257,
+  "widths": [
+   506
+  ],
+  "placeholder": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAADQBACdASoQACgAPu1orFCppaQiqqgBMB2JbACdHYACEPtC+74CdID2Z+/q6Y9tAAD89kv4g7ovyFWjAwLGcVsBMPGtbFzrbDqapWHRDjfvb6d6Ybudq7s4Pyvo6VUivUv2/KfinC8CdJwAtd/Z9kftLLoMoefaqI+YXmgWkcJ2i6aAKqRI6iC61HbPFyWbUZCNqHGWKXLzHOGTx+A+jyVDUmQQ0UXGo//jU106GSrvgbMZdJcKGx5/wYh2HBeAkoeG4kYDs7YwBhXvj/drj50GM4m5K5zf8J1waPlMWiYceKw3NQYt7BfwOy2m6HUQ2/l4G4AA",
+  "color": "rgb(248 248 248)",
+  "alt": "Recuerdo de un amor sincero, Alquimia de Almas, 2023"
+ },
+ "title": "Recuerdo de un amor sincero",
+ "caption": "Mixta sobre tela · 30 × 90 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

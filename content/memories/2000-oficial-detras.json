@@ -1,0 +1,29 @@
+{
+ "id": "2000-oficial-detras",
+ "slug": "2000-oficial-detras",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 57,
+ "image": {
+  "src": "/media/detras-de-la-ventana/oficial-detras-1023.jpg",
+  "alt": "Oficial detras",
+  "width": 1023,
+  "height": 1537,
+  "widths": [
+   640,
+   1023
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JYwAAXfC3ZcbkhGEzxQAA/p9gRIAYtidaKnoEwZA6NmBFmzzNAhKvK1iPcetBYNSoUeDTbcaj5BQLLKu3aggwCI9AKtsu8naJsZguHiuNCrBHjv562Jkak4XOPHoiJ2S7imbseHUIAA==",
+  "color": "rgb(8 8 24)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Oficial detras",
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/oficial-detras-itB5cNPPfydQ5HS2.png"
+}

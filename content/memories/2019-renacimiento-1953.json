@@ -1,0 +1,28 @@
+{
+ "id": "2019-renacimiento-1953",
+ "slug": "2019-renacimiento-1953",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 304,
+ "image": {
+  "src": "/media/memoria/2019-renacimiento-1953-261.jpg",
+  "alt": "Renacimiento",
+  "width": 261,
+  "height": 500,
+  "widths": [
+   261
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBACdASoQAB8APu1iqU2ppaQiMAgBMB2JZACdIA/I89SR0wHxMk3XgAD+/jCz+8rM+z0cdHx2Pu3rp9fbDQVcuTUrw8193zvTKft28Fvf+ozUQ0c8iy/kVsn0SmaHIoncpT5vGauVE4Km7L8Mmz95g5aX8p/7UrzU1jMMkQV9jaDgy9qyRLY8AXu/4NW4TzpLRRGNRURfE/O5RrgAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Renacimiento",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107182729id_/http://calirivera.com/images/obras-galeria/alquimia/arte-objeto/renacimiento1.jpg"
+}

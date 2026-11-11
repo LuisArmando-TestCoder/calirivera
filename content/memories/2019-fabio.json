@@ -1,0 +1,27 @@
+{
+ "id": "2019-fabio",
+ "slug": "2019-fabio",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 175,
+ "image": {
+  "src": "/media/memoria/2019-fabio-464.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 464,
+  "height": 600,
+  "widths": [
+   464
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwJoACvNXSErBsKLYFOAD9l/ohHPJ8+77NxMaILcogjc3la7soefzqAD5FNiAlgl1QXgTDbZ6wz/bwAibzR/yECWHUkixZFy67ojfqdX6kZn/BPlOg/wKTenUfKocAAAA=",
+  "color": "rgb(184 120 72)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423033651id_/http://calirivera.com/images/mgthumbnails/464x600-images-stories-taller-recomendaciones-Fabio.jpg"
+}

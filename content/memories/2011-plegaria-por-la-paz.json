@@ -1,0 +1,31 @@
+{
+ "id": "2011-plegaria-por-la-paz",
+ "slug": "2011-plegaria-por-la-paz",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 373,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-por-la-paz-300.jpg",
+  "alt": "PLEGARIA POR LA PAZ",
+  "width": 300,
+  "height": 225,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAwAA4BaJbACdLoAAlMr45b2AAD+iedvAEp39Qu1RSZepF5PZVchMGrIh9XG6WIqmPvdfV6MJz5HLjaZScoaUbQHLurt6u8/S/txXjvsve1Z/adevXXoAAA=",
+  "color": "rgb(40 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "PLEGARIA POR LA PAZ",
+ "caption": "En «~calirive»",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mi_trabajo/p_plegaria_paz.jpg",
+ "sourcePage": "~calirive"
+}

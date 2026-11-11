@@ -1,0 +1,26 @@
+{
+ "id": "2017-evento",
+ "slug": "2017-evento",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 82,
+ "image": {
+  "src": "/media/archivo/agenda-noviembre-2017-700.jpg",
+  "alt": "Foto de 2017 del archivo de Cali Rivera",
+  "width": 700,
+  "height": 1023,
+  "widths": [
+   640,
+   700
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZAC7AywBiSUw07apbssx9tFsAP3BKICDV7+2HA5ilU+Ka+4rBcX4kFYBk60VPKhW5UFukJlgWP5puIZQjVS1NwoaYz1gLWiHxF8Ua7KPCKdf1e8RmXwYtZMECvW46OyeopZ0YRcDYRK2vFk/BRRFazToPbVqFndQMw6ufHdp5J5+dJFgAA==",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2017,
+ "seenAt": "2019-01-08",
+ "sourceUrl": "https://web.archive.org/web/20190108043745id_/http://calirivera.com/images/agenda_Noviembre_2017.jpg"
+}

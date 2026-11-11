@@ -1,0 +1,26 @@
+{
+ "id": "2016-web",
+ "slug": "2016-web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 71,
+ "image": {
+  "src": "/media/archivo/agenda-marzo-2016-web-800.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 800,
+  "height": 1169,
+  "widths": [
+   640,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZwAAKtoj7rlYrTCagAD+84LS405mqvevEvGk8nQ04HPhtpMtNfpf/kEek8dDiw+Hp+QtBqCiuFh9l5sFpdSLUkCewjMTI0BnPrGFAO6xkVd5Hzztd1aimbWcQY4BOEcwAA==",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206205322id_/http://calirivera.com/images/agenda-marzo-2016-web.jpg"
+}

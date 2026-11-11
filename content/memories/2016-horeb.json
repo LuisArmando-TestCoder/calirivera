@@ -1,0 +1,28 @@
+{
+ "id": "2016-horeb",
+ "slug": "2016-horeb",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 164,
+ "image": {
+  "src": "/media/memoria/2016-horeb-380.jpg",
+  "alt": "Horeb",
+  "width": 380,
+  "height": 800,
+  "widths": [
+   380
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoQACIAPt1Yo02opSMiNUgBEBuJYwDCgywAuJhOdKPChNiI5B13YAD+gVDO9TP7lIeNGUl/EpAdkXlxWHtVxP+zD4biVRB415XK8lx+9EdfbrFAqgN5ikcgILRu56G0/rfBUTdc9KelYVXGOf2K7pkBVfer58icPOV2DsyCFAJywtgeVp9rVAAA",
+  "color": "rgb(120 104 72)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Horeb",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206194856id_/http://calirivera.com/images/stories/obras-galeria/alquimia/horeb.jpg"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2004-ff",
+ "slug": "2004-ff",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 240,
+ "image": {
+  "src": "/media/memoria/2004-ff-400.jpg",
+  "alt": "ff",
+  "width": 400,
+  "height": 582,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZwDE2CNOX18Iw8+DhPAA/u1boPGFOBuv6zmibLaaK6a2TdQTU2A4HKZz3bOeED8lCOZaHatfpW0uGw4e5T3s4sAAAA==",
+  "color": "rgb(232 232 232)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "ff",
+ "caption": "En «Globalizacion»",
+ "year": 2004,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206134826id_/http://calirivera.com/images/stories/exposiciones/globalizacion/invitacion_simposio.jpg",
+ "sourcePage": "Globalizacion"
+}

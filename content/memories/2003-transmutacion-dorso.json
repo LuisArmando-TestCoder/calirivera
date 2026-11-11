@@ -1,0 +1,31 @@
+{
+ "id": "2003-transmutacion-dorso",
+ "slug": "2003-transmutacion-dorso",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 79,
+ "image": {
+  "src": "/media/memoria/2003-transmutacion-dorso-802.jpg",
+  "alt": "transmutacion dorso",
+  "width": 802,
+  "height": 960,
+  "widths": [
+   480,
+   802
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABMAPu1iqU2ppaQiMAgBMB2JQBOmUGVTCCkft1hcJSLLj+ewAP7uWJEKyjgz+WXfB+wSS5QjwZ83djk26EUaEXEzFUr7jOqvB9kVtUw5ygM3cheymtPhVj0F55PIqKNxtBIIiTQWuMyph39hcrffjev96ZNsSE8NDSvAjUASD49eSf1jazlzYTbfSsJgAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "transmutacion dorso",
+ "caption": "En «Obras»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2016-11-21",
+ "sourceUrl": "https://web.archive.org/web/20161121162711id_/http://calirivera.com/images/mi_trabajo/bandera_corpus.jpg",
+ "sourcePage": "Obras"
+}

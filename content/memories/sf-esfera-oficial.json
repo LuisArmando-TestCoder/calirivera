@@ -1,0 +1,24 @@
+{
+ "id": "sf-esfera-oficial",
+ "slug": "sf-esfera-oficial",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 299,
+ "image": {
+  "src": "/media/memoria/sf-esfera-oficial-388.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 388,
+  "height": 353,
+  "widths": [
+   388
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAA8AA4BaJZACdADp9Vcs3jolAAD++Fqunwh8GOb8mX2w0oivhrEF9msgu+c0PNEOhwYVf6eD5Ve61DLAhLWB41rnl1JSrXmoAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "prensa",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "sourceUrl": "https://calirivera.com/trayectoria-and-entrevistas/esfera-oficial-XjBqPXfN2Znbch01.PNG"
+}

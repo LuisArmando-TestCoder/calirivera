@@ -1,0 +1,27 @@
+{
+ "id": "2016-taller-9e76",
+ "slug": "2016-taller-9e76",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 195,
+ "image": {
+  "src": "/media/memoria/2016-taller-9e76-428.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 428,
+  "height": 640,
+  "widths": [
+   428
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaACdAYsixsYfuW21co/ce97d/oAA/s1zP/a+J6DKyzb8wCVn/t/u6xpSwBuTa4Lf1Dfj58GSMNK1cTPkABmM3/Z93cS7cqzL9gyCO9UKGuD/N8bS2+06pLwaAwsNk/vovGyk4hY//1wuGjG/P+aS6sO5xeOY7upzJ4XPraKlEnkAJK+nDUhAp6CklJgYo24jfJKl+trlB9ai8ioVdSLNwlPyKAJPX7umQXxWHZVqLAtwAAA=",
+  "color": "rgb(120 72 24)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208024934id_/http://calirivera.com/images/stories/obras-galeria/vistas/dsc_3854%20ret.jpg"
+}

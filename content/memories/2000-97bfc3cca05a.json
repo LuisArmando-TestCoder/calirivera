@@ -1,0 +1,29 @@
+{
+ "id": "2000-97bfc3cca05a",
+ "slug": "2000-97bfc3cca05a",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 56,
+ "image": {
+  "src": "/media/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-1023.jpg",
+  "alt": "97bfc3cca05a",
+  "width": 1023,
+  "height": 1537,
+  "widths": [
+   640,
+   1023
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoRwN0AHsBZ4a0LyTnqy5Q6m2T8AAP7MROhZ/pmH21oo25zeprF5SFdHWR5bDK8DJIyewie9AWEzEcg8R2PeOAJLHsd5J2yQiJIK5lq71mi2E37I3Vb0ab2tLHPoxQAcMA/Ab7G/DyxwY0KdIhDWoULpDzj2d/DyveNYSEkteQWtHQrqTiG1RtTeXN9sxI71kDb9dMkHZtQAAA==",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "97bfc3cca05a",
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/e505a9ab-3a58-49e7-adc1-97bfc3cca05a-tVKyIdWq6kbmpn5P.png"
+}

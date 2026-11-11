@@ -1,0 +1,30 @@
+{
+ "id": "2011-ver-pdf-catalogo-plegaria-2011",
+ "slug": "2011-ver-pdf-catalogo-plegaria-2011",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 430,
+ "image": {
+  "src": "/media/memoria/2011-ver-pdf-catalogo-plegaria-2011-180.jpg",
+  "alt": "Ver pdf Catálogo Plegaria 2011",
+  "width": 180,
+  "height": 120,
+  "widths": [
+   180
+  ],
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAsAA4BaJZgCdAD1qgIPSCUqAAD+9ennHw/FGK36GzQkAWMptuhFOfO+RgXOh9NQNFLKsSlf/Lhaq9MQJ1P0dheLsyO2iOAnT2H5uTBou31RpiTt9/A9qAAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "documento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Ver pdf Catálogo Plegaria 2011",
+ "caption": "En «~calirive»",
+ "year": 2011,
+ "seenAt": "2016-10-15",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161015134421id_/http://calirivera.com/cache/mod_bt_contentslider/849927d0283f235c5adc7731b25b83dc-plegaria.jpg",
+ "sourcePage": "~calirive"
+}

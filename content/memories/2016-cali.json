@@ -1,0 +1,28 @@
+{
+ "id": "2016-cali",
+ "slug": "2016-cali",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 215,
+ "image": {
+  "src": "/media/memoria/2016-cali-422.jpg",
+  "alt": "Cali",
+  "width": 422,
+  "height": 640,
+  "widths": [
+   422
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADwAwCdASoQABkAPu1iqU2ppaOiMAgBMB2JagC7ABk2HXhCE7LE3JkAAP7IxnlmuSLvtdWg/7uDHWX4lclt9pn0G0Ra6rAClaJOa+pLcSS9GVgfr46ODYIfPw7D1AldqumUURCIlZZmhxrdHfbl4xgg1YcebJZedkzp42/pPnJX0Zh5MvsKllPCC1o7JCSVKy22TsJQAAA=",
+  "color": "rgb(152 152 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Cali",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208025151id_/http://calirivera.com/images/obras-galeria/proceso/cali1.jpg"
+}

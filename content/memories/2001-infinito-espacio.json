@@ -1,0 +1,28 @@
+{
+ "id": "2001-infinito-espacio",
+ "slug": "2001-infinito-espacio",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 246,
+ "image": {
+  "src": "/media/memoria/2001-infinito-espacio-565.jpg",
+  "alt": "Infinito espacio",
+  "width": 565,
+  "height": 400,
+  "widths": [
+   480,
+   565
+  ],
+  "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsAA4BaJYgCdAEPArcedFoAAP64H7Cx4UxbvUEF+n6WeIlEnonHWSH6uRI3wpAkhOIlDNcSrrMAAAA=",
+  "color": "rgb(168 200 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Infinito espacio",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207141715id_/http://calirivera.com/images/obras-galeria/identidad_2001/infinito_espacio.jpg"
+}

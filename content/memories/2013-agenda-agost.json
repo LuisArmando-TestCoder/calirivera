@@ -1,0 +1,27 @@
+{
+ "id": "2013-agenda-agost",
+ "slug": "2013-agenda-agost",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 409,
+ "image": {
+  "src": "/media/memoria/2013-agenda-agost-250.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 250,
+  "height": 171,
+  "widths": [
+   250
+  ],
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAsAA4BaJaACdADpoxekEAAA/qwKeXwcoEfNwf5aMUONausFa9vIhBHfygC8qFqbCGFylPFm1u/YI1EYs1LZwk9tGqHAAAA=",
+  "color": "rgb(88 40 24)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220093002id_/http://calirivera.com/images/thumbnails/images/stories/actividades/agenda_agost12-250x171.jpg"
+}

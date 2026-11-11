@@ -1,0 +1,29 @@
+{
+ "id": "1995-musa-mixta-atras",
+ "slug": "1995-musa-mixta-atras",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 238,
+ "image": {
+  "src": "/media/memoria/1995-musa-mixta-atras-400.jpg",
+  "alt": "En «Musas del cantaro 1995»",
+  "width": 400,
+  "height": 589,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZQCdMoAEagAA/uOPqGxAX+0eVp1YUbUAAA==",
+  "color": "rgb(184 168 152)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "caption": "En «Musas del cantaro 1995»",
+ "year": 1995,
+ "seenAt": "2016-12-06",
+ "collectionId": "musas-del-cantaro",
+ "sourceUrl": "https://web.archive.org/web/20161206210351id_/http://calirivera.com/images/stories/exposiciones/musas_del_cantaro/musa_mixta_atras.jpg",
+ "sourcePage": "Musas del cantaro 1995"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "2011-plegaria-rohingyas",
+ "slug": "2011-plegaria-rohingyas",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 132,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-rohingyas-480.jpg",
+  "alt": "Plegaria Rohingyas",
+  "width": 480,
+  "height": 720,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQBOmUGMEz/7oANkag8NmfcOQh8hgvAD+8DYPk/f6pkpOdmTvzAmfif8SoxXHABzeyYPF+u7kF20PcAyZj7q5ioM3PEsAziInprSnAwu3mTvO2DpyuuOxdr4hy6jA9P3Z50FssyeHHDnwUJRoi1DwxT5+gjOsSAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria Rohingyas",
+ "caption": "En «Obras»",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/stories/plegaria_obras/Plegaria_Rohingyas.jpg",
+ "sourcePage": "Obras"
+}

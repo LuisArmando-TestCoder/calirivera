@@ -1,0 +1,28 @@
+{
+ "id": "2000-png",
+ "slug": "2000-png",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 66,
+ "image": {
+  "src": "/media/detras-de-la-ventana/ventana-blanca-png-1024.jpg",
+  "alt": "Png",
+  "width": 1024,
+  "height": 1024,
+  "widths": [
+   640,
+   1024
+  ],
+  "placeholder": "data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoQABAAA4BaJaQAA3AA/vUIAAA=",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Png",
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/ventana-blanca-png-bhS7wHBdGGsoix5j.png"
+}

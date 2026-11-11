@@ -1,0 +1,29 @@
+{
+ "id": "2010-catalogo-de-las-banderas-del-corpus-christi-2010",
+ "slug": "2010-catalogo-de-las-banderas-del-corpus-christi-2010",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 431,
+ "image": {
+  "src": "/media/memoria/2010-catalogo-de-las-banderas-del-corpus-christi-2010-180.jpg",
+  "alt": "Catálogo de las banderas del Corpus Christi 2010",
+  "width": 180,
+  "height": 120,
+  "widths": [
+   180
+  ],
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsAA4BaJQBdj+ABoGC7AAD+9/E3OlXh3hPXVVfLmKEglj3pPyoqoBmG/ie39iFdWsxno18vfLA6FziMFjn6hvyyI9s49SyXmWAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "documento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Catálogo de las banderas del Corpus Christi 2010",
+ "caption": "En «~calirive»",
+ "year": 2010,
+ "seenAt": "2016-10-15",
+ "sourceUrl": "https://web.archive.org/web/20161015134421id_/http://calirivera.com/cache/mod_bt_contentslider/1ed743168d3969b4b4a6feb49bb783ef-banderas_corpus.jpg",
+ "sourcePage": "~calirive"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "2016-mano",
+ "slug": "2016-mano",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 87,
+ "image": {
+  "src": "/media/memoria/2016-mano-800.jpg",
+  "alt": "Mano",
+  "width": 800,
+  "height": 807,
+  "widths": [
+   480,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJQBOgB6P+KcOqZ8AAP6tPxE7EkMfcS5T1wozn9gi4PGXix3NXs5/fm0IqVIiELc7RCxMCSH/ZPvwZKrzxVV7a9XrHvP9l0w3GJu/FbdknG2ey8PiJHoMt/sb3joAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Mano",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206212000id_/http://calirivera.com/images/stories/obras-galeria/alquimia/3conel-corazon-en-la-mano.jpg"
+}

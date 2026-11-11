@@ -1,0 +1,27 @@
+{
+ "id": "2016-agenda-enero-2016web",
+ "slug": "2016-agenda-enero-2016web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 370,
+ "image": {
+  "src": "/media/memoria/2016-agenda-enero-2016web-216.jpg",
+  "alt": "agenda enero 2016web",
+  "width": 216,
+  "height": 316,
+  "widths": [
+   216
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoQABcAPu1iqU2ppaQiMAgBMB2JZwAASl0WhSFDQ0pWAAD+84K4binSMBGpIORUkjpvlsDtttF8lvQHO5jqTpvjJQPIGb6yuN9ymIUQcctf7CKCEetAcAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "agenda enero 2016web",
+ "year": 2016,
+ "seenAt": "2019-08-17",
+ "sourceUrl": "https://web.archive.org/web/20190817112713id_/http://calirivera.com/images/mgthumbnails/217x316-images-agenda-enero-2016web.jpg"
+}

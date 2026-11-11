@@ -1,0 +1,29 @@
+{
+ "id": "2010-bandera-del-corpus-christi-2010",
+ "slug": "2010-bandera-del-corpus-christi-2010",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 371,
+ "image": {
+  "src": "/media/memoria/2010-bandera-del-corpus-christi-2010-300.jpg",
+  "alt": "BANDERA DEL CORPUS CHRISTI. 2010",
+  "width": 300,
+  "height": 227,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAwAA4BaJQBOiP/wLNv5L2TgAP71XgPY29gnrnVHcl5fEvn9ZBzamvQW7hPUcLZu2dbWSuFfy9cw5JHq33yeMt04lgU5Mer8J9ix+J4/ZLEx8HAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "BANDERA DEL CORPUS CHRISTI. 2010",
+ "caption": "En «~calirive»",
+ "year": 2010,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mi_trabajo/p_bandera_corpus.jpg",
+ "sourcePage": "~calirive"
+}

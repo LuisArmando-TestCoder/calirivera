@@ -1,0 +1,27 @@
+{
+ "id": "2009-calibanderon",
+ "slug": "2009-calibanderon",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 184,
+ "image": {
+  "src": "/media/memoria/2009-calibanderon-428.jpg",
+  "alt": "Foto de 2009 del archivo de Cali Rivera",
+  "width": 428,
+  "height": 640,
+  "widths": [
+   428
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JYgCdAYyKpm006j70mEPQAP5nEDZzF/A9HmpUpRjxeiaxDb1Wz6pfviqNpLNuOeLvZno8lxBp35F2xKw+W28vgkcAo+hNWoPk07liukExyxbwrEJfF/vIs5EMeD3UivQnJO22Cjsc0XtGPQSOc+oahVB2lv/1s7cS/cqFGfeoAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2009,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208034927id_/http://calirivera.com/images/obras-galeria/vistas_guate/calibanderon1.jpg"
+}

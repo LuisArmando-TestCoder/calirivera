@@ -1,0 +1,27 @@
+{
+ "id": "2013-calendario-julio",
+ "slug": "2013-calendario-julio",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 397,
+ "image": {
+  "src": "/media/memoria/2013-calendario-julio-274.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 274,
+  "height": 183,
+  "widths": [
+   274
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAoAA4BaJagCdAED/NWISsYwAPyO87gmHJZcivlsNvQQ2SoteVzQncik/Ls6BWJZv4XTXiiFM2ELENWgy33anqC8Tn8oLm8AAA==",
+  "color": "rgb(120 136 184)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220100723id_/http://calirivera.com/images/thumbnails/images/stories/actividades/calendario_julio-274x183.jpg"
+}

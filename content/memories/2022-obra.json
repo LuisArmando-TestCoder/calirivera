@@ -1,0 +1,28 @@
+{
+ "id": "2022-obra",
+ "slug": "2022-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 1,
+ "image": {
+  "src": "/media/memoria/2022-obra-1248.jpg",
+  "alt": "Foto de 2022 del archivo de Cali Rivera",
+  "width": 1248,
+  "height": 1993,
+  "widths": [
+   480,
+   960,
+   1248
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoQABoAPu1iqU2ppaOiMAgBMB2JQBWAAziIfzHNZpQhBllAAP7Tm45rXpAcjtldIh+wK8T+5LHvWqI/DbXAaQsLwrHRKgeXs5cpFg1cv806ka7JfbpC1O9OelHAQvHHZG8YwY8idheTh6k4kPbL4de68663iodFiTRywwhyeeFtt5yBqhOK2l7d2a+cWvEHJsAAAA==",
+  "color": "rgb(200 200 184)"
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2022,
+ "yearApprox": true,
+ "seenAt": "2022-04-05",
+ "sourceUrl": "https://web.archive.org/web/20220405065512id_/http://calirivera.com/images/image0.jpeg"
+}

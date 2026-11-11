@@ -1,0 +1,26 @@
+{
+ "id": "sf-cali-bebe",
+ "slug": "sf-cali-bebe",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 34,
+ "image": {
+  "src": "/media/biografia/cali-bebe-1087.jpg",
+  "alt": "Cali bebe",
+  "width": 1087,
+  "height": 1447,
+  "widths": [
+   640,
+   1087
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoMljEtt5bueMk3lQJ5Ef8AAAP5SN2nN6AtFBnPSr24jOKIIJHg8KimM9ldKz8E/I9KN+bU2jbL7flOxPXjbW5bHuf4iqO60k6CMnY68/5SJfTERXwjhRgtq82hPxAJO5AJei7IG3w2/lwsK9P2BRqeLzW+EmekdJw8oAA==",
+  "color": "rgb(216 168 104)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Cali bebe",
+ "sourceUrl": "https://calirivera.com/biografia/cali-bebe-Q3bueZvpl0M9YJuu.png"
+}

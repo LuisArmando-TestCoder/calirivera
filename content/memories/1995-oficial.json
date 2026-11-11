@@ -1,0 +1,29 @@
+{
+ "id": "1995-oficial",
+ "slug": "1995-oficial",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 11,
+ "image": {
+  "src": "/media/musas-del-cantaro/musa-2-oficial-973.jpg",
+  "alt": "Oficial",
+  "width": 973,
+  "height": 1617,
+  "widths": [
+   640,
+   973
+  ],
+  "placeholder": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAAAwBgCdASoQABsAPu1iqk2ppaQiMAgBMB2JbACdMoRwGQAsADpbEaCuAde1CRF4eIc42LnG0evAxGKAAP4FS5BalZC/5+aOLLWAV3HlWmwGVLWHhG7RUrJPXYQsYlHcvF80GMHe+c/gdRQNaNru/G0fl43r6lEB9SGUivpBE3gxxqMZXlmsvMCaVzDDr5ARJhx7aQ9mj8gW2MnxSjiBt8PsU25nfvniB6Hg9Xs/XX0wDlLfn8Vb9w89/LswpN5kEwPOvxQ5KzWhCfkXF/zYSc5kzyXmigvR/8NnLtrgzEwpdFcetTB+J2B8WswAAA==",
+  "color": "rgb(232 232 216)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Oficial",
+ "year": 1995,
+ "yearApprox": true,
+ "collectionId": "musas-del-cantaro",
+ "sourceUrl": "https://calirivera.com/musas-del-cantaro/musa-2-oficial-SidoKYv96HPNvG7H.png"
+}

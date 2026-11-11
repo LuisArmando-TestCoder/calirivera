@@ -1,0 +1,27 @@
+{
+ "id": "2016-taller-df70",
+ "slug": "2016-taller-df70",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 234,
+ "image": {
+  "src": "/media/memoria/2016-taller-df70-401.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 401,
+  "height": 600,
+  "widths": [
+   401
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZgC06YvWaacVruV03XFm0ADLCH6FGnZBVn5iyGD3WdVgRaWlRfxdsIpsWcBCsomRX4LRtCmXaB6jt6jB31x6yNF+uolGiKXe5/VJTKp0AV3cRsmgCXy/F4B32GdvBYr0zIvbwUBl9aMYbDeYln1XtAEdBw7T2U24BRCQTKW8+sLY0nu7+iSUsfFZXUlFQb+6pLv7ZarETwfjcegUN2vE5PHqy5634Bgk95FJirGW2EzFTwAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207222043id_/http://calirivera.com/images/stories/obras-galeria/vistas/dsc_3815%20ret.jpg"
+}

@@ -19,7 +19,7 @@ const WEB = process.cwd();
 const ROOT = path.resolve(WEB, "..");
 const CONTENT = path.join(ROOT, "content");
 const ADMIN_EMAIL = (process.env.ADMIN_EMAIL ?? "arte@calirivera.com").toLowerCase();
-const COLLECTIONS = ["settings", "pages", "collections", "artworks", "catalogs", "programs", "people", "posts"];
+const COLLECTIONS = ["settings", "pages", "collections", "artworks", "catalogs", "programs", "people", "posts", "memories"];
 const args = process.argv.slice(2);
 const FORCE = args.includes("--force");
 const steps = args.filter((a) => !a.startsWith("--"));

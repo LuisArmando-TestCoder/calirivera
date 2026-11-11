@@ -1,0 +1,28 @@
+{
+ "id": "1996-obra",
+ "slug": "1996-obra",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 8,
+ "image": {
+  "src": "/media/memoria/1996-obra-887.jpg",
+  "alt": "Foto de 1996 del archivo de Cali Rivera",
+  "width": 887,
+  "height": 1774,
+  "widths": [
+   480,
+   887
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAABwBQCdASoQACAAPu1iqU2ppaQiMAgBMB2JbACdMoRwN6TTAf9vbJBHFckMBeYA+p4MP5YAAP7zA+kvARW/OpmmtY5G3/+/MLJGJGn7ZXtM/L+JuMhh5BMMyUpNFj2XIuJSUXy+4vEoF2ZnVj7sAJBGCxntW9P+RIyMxfG7XDOFeZmypf8TbsjzKYMvcPpju1Nlqc2YEpNgPSFzNHd7m4M9EuW4gC/cJM7W6DCODdbiPtnysZ2kTQB1sYFLfU3WXK0tlnFfWgAAAA==",
+  "color": "rgb(8 136 216)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/44681f0d-74cd-4a8c-8792-637c183287ef-G5J2lda0dxo4La5R.png"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "1993-vivian",
+ "slug": "1993-vivian",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 260,
+ "image": {
+  "src": "/media/memoria/1993-vivian-390.jpg",
+  "alt": "vivian",
+  "width": 390,
+  "height": 524,
+  "widths": [
+   390
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBWABFqPTCZ//oWcmsY6zoAA/ptDByJc2nuIX7BtizKBjcricO79CbT5J1S8gD0kcNJKy0Kdg6BXB2KVJ1r2dcv0mG/1d7xsu8hizI9CbOfbDJReoQ8/EjVEK7aXtUUcOOR1vR91mlNVlf0wbSWIAAA=",
+  "color": "rgb(216 216 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "vivian",
+ "caption": "En «Atmosfera 1993»",
+ "year": 1993,
+ "seenAt": "2016-12-06",
+ "collectionId": "atmosfera",
+ "sourceUrl": "https://web.archive.org/web/20161206210125id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/vivian.jpg",
+ "sourcePage": "Atmosfera 1993"
+}

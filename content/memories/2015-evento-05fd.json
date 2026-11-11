@@ -1,0 +1,26 @@
+{
+ "id": "2015-evento-05fd",
+ "slug": "2015-evento-05fd",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 402,
+ "image": {
+  "src": "/media/memoria/2015-evento-05fd-206.jpg",
+  "alt": "Foto de 2015 del archivo de Cali Rivera",
+  "width": 206,
+  "height": 220,
+  "widths": [
+   206
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JZwAAW/Bl6K4LKFHxUAD+6u3WYixklZiPFVTCDHaaS+HgJudgnP1nBYRq5Z6h1Jky3YQA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2015,
+ "seenAt": "2016-05-27",
+ "sourceUrl": "https://web.archive.org/web/20160527034653id_/http://calirivera.com/images/thumbnails/images/agenda-NOVIEMBRE-2015web-206x220.jpg"
+}

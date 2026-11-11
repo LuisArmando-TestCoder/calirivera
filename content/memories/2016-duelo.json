@@ -1,0 +1,28 @@
+{
+ "id": "2016-duelo",
+ "slug": "2016-duelo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 177,
+ "image": {
+  "src": "/media/memoria/2016-duelo-433.jpg",
+  "alt": "Duelo",
+  "width": 433,
+  "height": 640,
+  "widths": [
+   433
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoR3AkgBbtssaaO8O+Es311gAPv+4nxXasOSZnwU7pVxVZYUKyxjzmDK/Z8p8UvOYWpQddA+9O7QtXLe/hG4Bt5797EUgBw747GFHlg5MSVtOBZCM9tocHMxOLCAFHPgOo6dyiGANXZx+P9u9X4bvGY6kOzvvcRRIpyfqbFZvFenClLldAY8waH8Ek+qRTi51JDxH4whnYAAAA==",
+  "color": "rgb(24 24 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Duelo",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206193958id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/duelo.jpg"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera8",
+ "slug": "2003-bandera8",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 245,
+ "image": {
+  "src": "/media/memoria/2003-bandera8-385.jpg",
+  "alt": "Bandera8",
+  "width": 385,
+  "height": 589,
+  "widths": [
+   385
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdACFjSnHD53jWHTb5MgAA/c0autvYVMdPzcqo/oS3Xz3+EnQEewByMF+DYKd1MF88y4eyx1NP3C+M+NoaZYNpeAgf4po36CKLu1rXjIqZPQCzskSScFKdLOGa7cEo45Y+c3Z7dkR/W4zEpqA3+jatz3z39/vIWfV4on1dAS+BwWSNloAA",
+  "color": "rgb(136 168 216)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera8",
+ "caption": "En «Bandera 2»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2011-01-01",
+ "sourceUrl": "https://web.archive.org/web/20110101054259id_/http://calirivera.com/prayer_flags/images/bandera8_01.gif",
+ "sourcePage": "Bandera 2"
+}

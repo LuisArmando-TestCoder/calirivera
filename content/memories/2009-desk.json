@@ -1,0 +1,27 @@
+{
+ "id": "2009-desk",
+ "slug": "2009-desk",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 186,
+ "image": {
+  "src": "/media/memoria/2009-desk-428.jpg",
+  "alt": "Foto de 2009 del archivo de Cali Rivera",
+  "width": 428,
+  "height": 640,
+  "widths": [
+   428
+  ],
+  "placeholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7FQAGeCZuGIlRrX9rzxwg9PYARpEAAP5PDmpVZn1QE1/H5O1yego8V/eBCVGzPRVIMPt422EXNAEFKQNCyNSsZvNXYXCnbz+Gd1P7UmRtSYUwUMvKrVn905I7+1Ct8hTRH7/3j+zBPGZzHSx7rXJ4cx+h9Tu11CWl8z/z8P+01S3p5LEUWzDACptG0k1WVjbjEo36VWHJ5C+0DFY/lqOFzI2wAAA=",
+  "color": "rgb(200 216 232)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2009,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208055540id_/http://calirivera.com/images/obras-galeria/vistas_guate/desk.jpg"
+}

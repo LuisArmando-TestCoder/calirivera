@@ -1,0 +1,29 @@
+{
+ "id": "2016-detalle-del-corazon",
+ "slug": "2016-detalle-del-corazon",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 154,
+ "image": {
+  "src": "/media/memoria/2016-detalle-del-corazon-640.jpg",
+  "alt": "Detalle del corazon",
+  "width": 640,
+  "height": 480,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAwAA4BaJbACdAEXddPv334AAP6Yr1LGib4dosvPWbbs+VnwvrJpY/eZLffAm96Ati7XgQ/x9lLaYtX0hU5vu6sxuz6d+lkSc7sIqfybst8AAAA=",
+  "color": "rgb(200 56 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Detalle del corazon",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206135306id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/detalle_del_corazon.jpg"
+}

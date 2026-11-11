@@ -1,0 +1,27 @@
+{
+ "id": "2000-umbral",
+ "slug": "2000-umbral",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 303,
+ "image": {
+  "src": "/media/memoria/2000-umbral-291.jpg",
+  "alt": "Umbral",
+  "width": 291,
+  "height": 453,
+  "widths": [
+   291
+  ],
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABkAPu1orU6ppiSiMAgBMB2JbAC7AGjrsTHQFQbZW/2AAP7zdV9aY8mwjvfHbZPPSP621MTzWO9Njh/qLMROIkQ0b8buCNpQQuqTBluxc/9ZMvxKV4H5YimJczNsH8XrzqmK5kq+TyTwAAA=",
+  "color": "rgb(216 200 184)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Umbral",
+ "year": 2000,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210739id_/http://calirivera.com/images/obras-galeria/ave_fenix_2000/umbral.jpg"
+}

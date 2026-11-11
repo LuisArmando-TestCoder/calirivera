@@ -1,0 +1,29 @@
+{
+ "id": "2023-biomaster-calma",
+ "slug": "2023-biomaster-calma",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 463,
+ "image": {
+  "src": "/media/biomaster/calma-1524.jpg",
+  "width": 1524,
+  "height": 790,
+  "widths": [
+   640,
+   1280,
+   1524
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAgAA4BaJYwCdADHSc6bgAD+4Jt6dwuopnP309KsLae8Iv8KZu2lESQrSroiMRb1iQAA",
+  "color": "rgb(184 168 152)",
+  "alt": "Calma, Biomaster, 2023"
+ },
+ "title": "Calma",
+ "caption": "Mixta sobre tela · 120 × 60 cm (tríptico)",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "biomaster",
+ "aiAltered": false,
+ "place": "Taller del Artista, Tres Ríos"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2013-museo",
+ "slug": "2013-museo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 394,
+ "image": {
+  "src": "/media/memoria/2013-museo-189.jpg",
+  "alt": "Museo",
+  "width": 189,
+  "height": 279,
+  "widths": [
+   189
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoQABgAPu1iqU2ppaQiMAgBMB2JbAC7IExDA1gkRmMJMy3dAAD+8dwwX3Ny9XTs9I7zLE6qbl92EGSGcRC21inYY2RGGjrhas95o/B8jyoIs+saxMtfM8oR5a4YULhtJJeALoWAPQ3+TSrJsf7Fca4pty7AGCE0a9b+RigvBTMAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Museo",
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220092528id_/http://calirivera.com/images/stories/obras/museo1.gif"
+}

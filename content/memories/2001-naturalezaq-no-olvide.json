@@ -1,0 +1,28 @@
+{
+ "id": "2001-naturalezaq-no-olvide",
+ "slug": "2001-naturalezaq-no-olvide",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 242,
+ "image": {
+  "src": "/media/memoria/2001-naturalezaq-no-olvide-598.jpg",
+  "alt": "Naturalezaq no olvide",
+  "width": 598,
+  "height": 389,
+  "widths": [
+   480,
+   598
+  ],
+  "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAoAA4BaJaACdADaudu6gAD+vmwYd5P4gqXPYkG/3ajRlGOh+PJByFYNCrUqwoJ2aTj4/HgoMH8AAAA=",
+  "color": "rgb(88 104 88)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Naturalezaq no olvide",
+ "year": 2001,
+ "seenAt": "2019-01-08",
+ "sourceUrl": "https://web.archive.org/web/20190108095511id_/http://calirivera.com/images/obras-galeria/identidad_2001/naturalezaq_no_olvide.jpg"
+}

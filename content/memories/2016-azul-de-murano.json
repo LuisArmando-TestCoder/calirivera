@@ -1,0 +1,28 @@
+{
+ "id": "2016-azul-de-murano",
+ "slug": "2016-azul-de-murano",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 212,
+ "image": {
+  "src": "/media/memoria/2016-azul-de-murano-426.jpg",
+  "alt": "Azul de murano",
+  "width": 426,
+  "height": 640,
+  "widths": [
+   426
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdACBTCtmeX3YwLi2EXAAA/f5fFnGGX6YqwGSmrEdL2TuWPw5hPMhpATZaxfrLq7YggPlqTjwKBV/SagTflXsIZPpYnZbVvlWzk5fkeetnUEtef8AA",
+  "color": "rgb(168 184 184)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Azul de murano",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207015932id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/azul_de_murano.jpg"
+}

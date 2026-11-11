@@ -1,0 +1,28 @@
+{
+ "id": "2016-cali-bebe",
+ "slug": "2016-cali-bebe",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 425,
+ "image": {
+  "src": "/media/memoria/2016-cali-bebe-203.jpg",
+  "alt": "Cali bebe",
+  "width": 203,
+  "height": 150,
+  "widths": [
+   203
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAwAA4BaJQBOgCIO1LreNQAA92I50ROo/uvsxlsb8gWAMP23nL/O+sFN+2fKoAA=",
+  "color": "rgb(168 152 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Cali bebe",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206134751id_/http://calirivera.com/images/thumbnails/images/stories/nino-artista/cali-bebe-203x150.jpg"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera6",
+ "slug": "2003-bandera6",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 174,
+ "image": {
+  "src": "/media/memoria/2003-bandera6-480.jpg",
+  "alt": "Bandera6",
+  "width": 480,
+  "height": 585,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZgCdACPzxjHp+yOU4wAA/uGgFwDbJZoH2Ld9U3IFbEw1+sXf8qemvrsbhSdsdi6LXfvcJ0GYysb4ciEOEVqM0FTuYcF5wUKM0OOXDTw8h/LtKi+c5MaHhFAbK2/wXe4gFAAA",
+  "color": "rgb(200 216 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera6",
+ "caption": "En «Bandera 3»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2011-01-01",
+ "sourceUrl": "https://web.archive.org/web/20110101053933id_/http://calirivera.com/prayer_flags/images/bandera6_01.gif",
+ "sourcePage": "Bandera 3"
+}

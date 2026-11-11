@@ -1,0 +1,29 @@
+{
+ "id": "2023-alquimia-de-almas-gentrificacion",
+ "slug": "2023-alquimia-de-almas-gentrificacion",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 445,
+ "image": {
+  "src": "/media/alquimia-de-almas/gentrificacion-2167.jpg",
+  "width": 2167,
+  "height": 2129,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2167
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoQABAAA4BaJbACdDiAN48BfzOvOJxeAAD5YeBMn5ldTrB9e+xlx1z9/0iCppN/OC57ULOMmVy8acm3o6TpdxLtRXV68y5wm0TsdRT82Flb4PQE+o9gHvsB9WBEcVnQUdhhOrtfE6tLUXZ1DCCJzXiX/9IoH0Z3/IvYCHNxaxAAAA==",
+  "color": "rgb(8 8 8)",
+  "alt": "Gentrificación, Alquimia de Almas, 2023"
+ },
+ "title": "Gentrificación",
+ "caption": "Mixta sobre tela · 50 × 50 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

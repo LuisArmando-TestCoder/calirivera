@@ -1,0 +1,28 @@
+{
+ "id": "2013-enero",
+ "slug": "2013-enero",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 404,
+ "image": {
+  "src": "/media/memoria/2013-enero-175.jpg",
+  "alt": "Enero",
+  "width": 175,
+  "height": 256,
+  "widths": [
+   175
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JagCdMoR3ACHzdRIhsciiXQhgQAD+5F6Sr6LTH47UztwJME+OFlmzqi/rYuj0CwXGlnia7XFyaj8whdBaCXJvAapArNBLRTjry/ArIqOlEAvsiek/+RyFAByN2jeoNoqlAb6Rc0NlZoKBCV/tqAAA",
+  "color": "rgb(88 24 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Enero",
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220091051id_/http://calirivera.com/images/thumbnails/images/stories/enero13-175x256.jpg"
+}

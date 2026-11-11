@@ -1,0 +1,27 @@
+{
+ "id": "2001-plegaria-por-el-tibet",
+ "slug": "2001-plegaria-por-el-tibet",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 254,
+ "image": {
+  "src": "/media/memoria/2001-plegaria-por-el-tibet-397.jpg",
+  "alt": "Plegaria por el tibet",
+  "width": 397,
+  "height": 527,
+  "widths": [
+   397
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoR4N1/tWbUMydAB9jUfdYPj7NkDAAD+wUOdPeWux6O/EXVVXWDw1uQDseAmL9TcJjPN3VvLPPvNedTM2BEi57CSMkdNRlefQKjsZbVyj/9xEtBvw+Bp5zQEjux2278CEOR5aLKXFz1libqViUODJPDBTM8A81tgBuRxF8NkvS4h3T42p8TVHB4UZBu0Sn6/mzwxiv6KcG/nwZAx7iXztVbZZ/WTwAAA",
+  "color": "rgb(216 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria por el tibet",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207141549id_/http://calirivera.com/images/obras-galeria/identidad_2001/plegaria_por_el_tibet.jpg"
+}

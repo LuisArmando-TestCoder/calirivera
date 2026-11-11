@@ -1,0 +1,28 @@
+{
+ "id": "2001-nuestro-mundo-hoy",
+ "slug": "2001-nuestro-mundo-hoy",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 243,
+ "image": {
+  "src": "/media/memoria/2001-nuestro-mundo-hoy-577.jpg",
+  "alt": "Nuestro mundo hoy",
+  "width": 577,
+  "height": 400,
+  "widths": [
+   480,
+   577
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAQCdASoQAAsAA4BaJbACdACAfRigAP7kSln23mFG5z1A3i/1atLbMPHWAIgT79u3r3nL8tvcI62Bc0DFL0192aoe/c7GgCNAc2FRxF79bm/lng+NeaXx4VN2YUNqt8j7f8yh/OnlVacJir45QUz8Gg4YAA==",
+  "color": "rgb(24 24 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Nuestro mundo hoy",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207142509id_/http://calirivera.com/images/obras-galeria/identidad_2001/nuestro_mundo_hoy.jpg"
+}

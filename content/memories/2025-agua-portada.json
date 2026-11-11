@@ -1,0 +1,28 @@
+{
+ "id": "2025-agua-portada",
+ "slug": "2025-agua-portada",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 95,
+ "image": {
+  "src": "/media/memoria/2025-agua-portada-750.jpg",
+  "alt": "Foto de 2025 del archivo de Cali Rivera",
+  "width": 750,
+  "height": 700,
+  "widths": [
+   480,
+   750
+  ],
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAgCdASoQAA8AA4BaJbACdEf/i2LN9u9jff/Gw2AA/mD4hIv0oRakMtzyLuo3gdNa69RR2BSr1VA/xYpaunXOE5j1Y8UannX6jcDi/+1yc41rNh++auhTw6USMS67XeW8qcWABfsgE6ftPQbYdKhsAZvsxPicTCai4AAA",
+  "color": "rgb(232 216 200)",
+  "lowRes": true
+ },
+ "kind": "documento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2025,
+ "yearApprox": true,
+ "seenAt": "2025-07-27",
+ "sourceUrl": "https://web.archive.org/web/20250727004428id_/http://calirivera.com/images/agua_portada.jpg"
+}

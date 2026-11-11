@@ -19,6 +19,7 @@ Plan Spark (gratis): 50.000 lecturas / 20.000 escrituras / 1 GiB por día. Los t
 | `programs` | kind (`colaboracion`, `incubadora`, `jovenes-talentos`) | title, schedule, summary, body[], cover | |
 | `people` | slug | name, discipline, programKinds[], bio, portrait, featured[] (p. ej. un poema), links[]; beneficiarios: achievement, supportGiven, date | Una persona puede estar en varios programas. |
 | `posts` | slug | title, excerpt, cover, body[], **publishedAt**, tags[], programKind | Bitácora, orden más nuevo → más viejo. |
+| `memories` | slug | image, title?, caption?, year, yearApprox, seenAt, kind (obra/taller/evento/prensa/persona/lugar/documento), source (sitio-actual/wayback/catalogo/cali), sourceUrl, collectionId, aiAltered, lostInFire, featured, order, status | «Memoria del Taller» (/memoria). Las que pasaron por IA entran como `draft` hasta que Cali las apruebe. |
 | `authCodes` | hash del correo | codeHash, expiresAt, attempts | Solo servidor (rama 4). |
 | `rateLimits` | `ip:<hash>` / `email:<hash>` | count, windowStart, backoffUntil, strikes | Solo servidor; backoff exponencial (rama 4). |
 | `auditLog` | auto | at, actor, action, collection, docId, diff | Solo servidor. |

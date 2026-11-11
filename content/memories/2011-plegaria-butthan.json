@@ -1,0 +1,31 @@
+{
+ "id": "2011-plegaria-butthan",
+ "slug": "2011-plegaria-butthan",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 136,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-butthan-480.jpg",
+  "alt": "Plegaria Butthan",
+  "width": 480,
+  "height": 720,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQABgAPu1kq04ppaQiMAgBMB2JQBOmUGMACYKSoV4FQe3QsAD+84HK+94pC9SF+qbtyl8+CesFfeEWhOgk94eZBGo7ZlDwZUw4oAHdN7DlAXedEVQ95kVpb+VPO7ddLrtcNpxlDnNMzGHa8CQS4tSTX53c5fF/cgAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria Butthan",
+ "caption": "En «Obras»",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/stories/plegaria_obras/Plegaria_Butthan.jpg",
+ "sourcePage": "Obras"
+}

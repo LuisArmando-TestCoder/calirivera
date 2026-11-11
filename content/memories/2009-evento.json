@@ -1,0 +1,28 @@
+{
+ "id": "2009-evento",
+ "slug": "2009-evento",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 322,
+ "image": {
+  "src": "/media/memoria/2009-evento-465.jpg",
+  "alt": "En «Mes de exposiciones setiembre 2009»",
+  "width": 465,
+  "height": 252,
+  "widths": [
+   465
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAQCdASoQAAkAA4BaJQBOgBxEhRIsAP7mBJkXCqUowo+cTI85YuYi/uNKFqAy72oZqvRT7FjO+4oDSa08k/xF3jyBbdHtD4FAE5NV0AjxquwMCwAAAA==",
+  "color": "rgb(40 24 24)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "caption": "En «Mes de exposiciones setiembre 2009»",
+ "year": 2009,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206193939id_/http://calirivera.com/images/mgthumbnails/466x252-images-stories-baners-expos2009.jpg",
+ "sourcePage": "Mes de exposiciones setiembre 2009"
+}

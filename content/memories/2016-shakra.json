@@ -1,0 +1,28 @@
+{
+ "id": "2016-shakra",
+ "slug": "2016-shakra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 145,
+ "image": {
+  "src": "/media/memoria/2016-shakra-391.jpg",
+  "alt": "Shakra",
+  "width": 391,
+  "height": 800,
+  "widths": [
+   391
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoQACEAPt1Wo02opKMiNUgBEBuJaACdAd2k7b+/S8QVLYH2VpCv1gWQAP7Y88irA72iTgbFynPRecpwUsp5SqvW3eex12Ruv/muC82X0x0meUC+m0UqZkEyiKF+diu/KIVv9k6Af7+Ww5/FcbDy+uQn3K/yG/ZQBijZsZm8ukbEVxgt+SKTJsEi8NLoSAyvMTALL6EC8NBkPvd5Ta+SVvmkAAA=",
+  "color": "rgb(184 168 136)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Shakra",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206205601id_/http://calirivera.com/images/stories/obras-galeria/alquimia/shakra.jpg"
+}

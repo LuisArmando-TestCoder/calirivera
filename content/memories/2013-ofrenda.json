@@ -1,0 +1,29 @@
+{
+ "id": "2013-ofrenda",
+ "slug": "2013-ofrenda",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 14,
+ "image": {
+  "src": "/media/memoria/2013-ofrenda-841.jpg",
+  "alt": "Ofrenda",
+  "width": 841,
+  "height": 960,
+  "widths": [
+   480,
+   841
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JagCdMoADYHhJXDHxh4eyC2AA/oPw+sNhJrlhdHiQi6mkbYlkKDbPGXWt1ITTgpSJrgcvnK/uAMy9lclWBTu6UWQV401XA+8Ca4qUVRUsUL4CpzOH1LZcnoeeevpS2TULyDXLRpE3VargAAA=",
+  "color": "rgb(136 120 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Ofrenda",
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220060219id_/http://calirivera.com/images/tienda/ofrenda.jpg"
+}

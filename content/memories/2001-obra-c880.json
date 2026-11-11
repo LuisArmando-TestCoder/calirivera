@@ -1,0 +1,27 @@
+{
+ "id": "2001-obra-c880",
+ "slug": "2001-obra-c880",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 167,
+ "image": {
+  "src": "/media/memoria/2001-obra-c880-738.jpg",
+  "alt": "Foto de 2001 del archivo de Cali Rivera",
+  "width": 738,
+  "height": 394,
+  "widths": [
+   480,
+   738
+  ],
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAkAA4BaJZgCdADdpwIagwAAzjIWiLISRXclRUquc/qI29+JmI3ugB53PcHa59EnXo4K2PlTtKOF3+906gpseOwjtK6zUfyr3wAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2001,
+ "seenAt": "2016-11-21",
+ "sourceUrl": "https://web.archive.org/web/20161121093221id_/http://calirivera.com/images/mi_trabajo/produccion_2001.jpg"
+}

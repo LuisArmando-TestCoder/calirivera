@@ -1,0 +1,26 @@
+{
+ "id": "2012-evento",
+ "slug": "2012-evento",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 414,
+ "image": {
+  "src": "/media/memoria/2012-evento-238.jpg",
+  "alt": "Foto de 2012 del archivo de Cali Rivera",
+  "width": 238,
+  "height": 162,
+  "widths": [
+   238
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoQAAsAA4BaJbACdAEPS6+K9TXJQAD+5DkKELzw746ZgRDIDz3USa8hefIilyI6U0xe8fXd5olAtkb1C9QOTfni+f/yAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2012,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220092926id_/http://calirivera.com/images/thumbnails/images/stories/actividades/mayo_2012-238x162.jpg"
+}

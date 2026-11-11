@@ -1,0 +1,24 @@
+{
+ "id": "sf-obra-f6fe",
+ "slug": "sf-obra-f6fe",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 63,
+ "image": {
+  "src": "/media/memoria/sf-obra-f6fe-900.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 900,
+  "height": 1600,
+  "widths": [
+   480,
+   900
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQAB0APu1qrU8ppiQiMAgBMB2JYwCdABjtFlQoWSSWLhIAAP7zJTmnu6nmQofIsmtdsC88EbhdS5uz1ZvEfHwDgzUlBfGkUO2szJXrkpmpGh3g4IPGhFlD83ZECcrAEdPET6vz5nWuKblxvdtZng6o+f6bL6HE86KIAA==",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "sourceUrl": "https://calirivera.com/home/f25f1380-c63d-42a7-bb08-38116fdc92ba-7AqHJk6Tuz7v1Se1.jpeg"
+}

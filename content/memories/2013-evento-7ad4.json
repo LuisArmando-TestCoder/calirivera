@@ -1,0 +1,26 @@
+{
+ "id": "2013-evento-7ad4",
+ "slug": "2013-evento-7ad4",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 382,
+ "image": {
+  "src": "/media/memoria/2013-evento-7ad4-206.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 206,
+  "height": 301,
+  "widths": [
+   206
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZgCsIMgDAvXd1BJXdvKrBpSgAP7vkRynp9o3cOUTJT+wfQ6lquIke1FqxbYMia4cznbMAZAfU3zpKtv3FUcLHwGiox8fiJdbwcrzyZi6FaNCTm38dnUkwNJ+4o3FW/nJqPgoxvZhgtlTmRjTYiMbiI2F+XxNVNHbbgAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220055923id_/http://calirivera.com/images/thumbnails/images/stories/actividades/Agosto_2013-206x301.jpg"
+}

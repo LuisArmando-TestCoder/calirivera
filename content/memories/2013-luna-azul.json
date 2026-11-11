@@ -1,0 +1,29 @@
+{
+ "id": "2013-luna-azul",
+ "slug": "2013-luna-azul",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 77,
+ "image": {
+  "src": "/media/memoria/2013-luna-azul-831.jpg",
+  "alt": "Luna azul",
+  "width": 831,
+  "height": 960,
+  "widths": [
+   480,
+   831
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoADTrjer5LrSpsxOAD2QBXwICB4Xd/Jd/IbPJBRoHTRzgXaCwLrA9l3Xmmzi/+GwHIlLu3sPyb2E2RsOlcelHtvWk1jtnQVxr1ZMTUlVe7AR74PVQHXfUlMB+JZ1fKdrt/E4awXzcAs2fNfzKjHYAAA",
+  "color": "rgb(184 168 88)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Luna azul",
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220055322id_/http://calirivera.com/images/tienda/luna_azul.jpg"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "1993-guardianes",
+ "slug": "1993-guardianes",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 291,
+ "image": {
+  "src": "/media/memoria/1993-guardianes-322.jpg",
+  "alt": "Guardianes",
+  "width": 322,
+  "height": 450,
+  "widths": [
+   322
+  ],
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JZwDE2B7HGSR7eyXdoSogAP7ASSF9EMG+Cg9yF1ncepV27pUij233wq6IBy3ZsgNNefPoNc8OTOmTLP6Xh9FUTL3snl2/AODc3lW5zJbbwll4/xmMWNUgAAA=",
+  "color": "rgb(168 168 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Guardianes",
+ "year": 1993,
+ "seenAt": "2016-12-06",
+ "collectionId": "atmosfera",
+ "sourceUrl": "https://web.archive.org/web/20161206205906id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/guardianes.jpg"
+}

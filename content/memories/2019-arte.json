@@ -1,0 +1,27 @@
+{
+ "id": "2019-arte",
+ "slug": "2019-arte",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 423,
+ "image": {
+  "src": "/media/memoria/2019-arte-180.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 180,
+  "height": 180,
+  "widths": [
+   180
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQABAAA4BaJbACdAEfq/2rxyP/l2AA/uulqsjdrEhHonTIr5k/A5HQwgHreVPCHPD2rUMUrszV2jaXsjzTpXQFxlHshVHRy6O0bu1W2T/Zhr83Xcc0Vh2LnDvOsFw4X8iWjR3HozPKKJQJl99u584DCwAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "prensa",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423054046id_/http://calirivera.com/images/mgthumbnails/180x180-images-stories-puntos_de_vista-arte.jpg"
+}

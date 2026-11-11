@@ -1,0 +1,26 @@
+{
+ "id": "sf-obra-mundial",
+ "slug": "sf-obra-mundial",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 49,
+ "image": {
+  "src": "/media/biografia/obra-mundial-1290.jpg",
+  "alt": "Obra mundial",
+  "width": 1290,
+  "height": 1219,
+  "widths": [
+   640,
+   1280,
+   1290
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAA8AA4BaJbACdAEDpEDlTLvgAAD+6agkKKLxdcFhxZgjOnqe9i+1F0/YZs7LJgejYFRK0G/5bDDQ0YudJrAOzTNLm/qom/uY1Gekst+AAA==",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Obra mundial",
+ "sourceUrl": "https://calirivera.com/biografia/obra-mundial-3rGopp802cP96lZh.jpeg"
+}

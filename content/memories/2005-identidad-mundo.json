@@ -1,0 +1,29 @@
+{
+ "id": "2005-identidad-mundo",
+ "slug": "2005-identidad-mundo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 58,
+ "image": {
+  "src": "/media/memoria/2005-identidad-mundo-841.jpg",
+  "alt": "Identidad mundo",
+  "width": 841,
+  "height": 960,
+  "widths": [
+   480,
+   841
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JQBOmUI7gBTqttLTD4rvvwwAA/bYYv51yVfZKsvQBlv+JvmbeDCOhA600ORtGJ/8P62qnRpFhxYv0jxAdUWYAREBIEkzrH9iwMzR3nyJarLnQKySDgAAA",
+  "color": "rgb(136 120 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Identidad mundo",
+ "year": 2005,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220055013id_/http://calirivera.com/images/tienda/identidad_mundo.jpg"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "1996-sueaos-3684",
+ "slug": "1996-sueaos-3684",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 46,
+ "image": {
+  "src": "/media/suenos-en-azul/sueaos-6-1086.jpg",
+  "alt": "Sueaos",
+  "width": 1086,
+  "height": 1448,
+  "widths": [
+   640,
+   1086
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoGv/gPIAnR2WwM8jdosFAAA/vDMsnuZirBI2+uCnl2fIQ9Ql45roPzZg3xz6iwgTrox49vw59u7Hf8vpoT8z87kh0ue4B6aBUaxa67PZ1NljC+Q1KSVCHxuTMr0SzIgah3v73+mwlxlCMR1gk4id3LfHdNpdhEAAAA=",
+  "color": "rgb(8 8 56)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Sueaos",
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/sueaos-6-UIxoz1Q29rxbSBNg.png"
+}

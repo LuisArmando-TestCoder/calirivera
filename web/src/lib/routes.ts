@@ -10,6 +10,7 @@ export const ROUTES = [
   { href: "/la-incubadora", label: "La Incubadora" },
   { href: "/jovenes-talentos", label: "Jóvenes Talentos" },
   { href: "/bitacora", label: "Bitácora" },
+  { href: "/memoria", label: "Memoria" },
   { href: "/manifiesto", label: "Manifiesto" },
 ] as const;
 

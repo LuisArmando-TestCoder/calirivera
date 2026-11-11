@@ -8,6 +8,7 @@ import {
   COLLECTIONS,
   type Artwork,
   type CatalogProject,
+  type Memory,
   type Collection,
   type CollectionName,
   type Page,
@@ -184,4 +185,28 @@ export async function listSlugs(name: CollectionName): Promise<string[]> {
   cacheLife("max");
   cacheTag(tagFor(name));
   return (await readAll<Doc>(name)).map((d) => d.slug ?? d.id);
+}
+
+// ---------- Memoria ----------
+const memYear = (m: Memory) => {
+  const y = parseInt(String(m.year ?? ""), 10);
+  return Number.isFinite(y) ? y : -1;
+};
+
+/** Recuerdos publicados, del más viejo al más nuevo (la línea de tiempo corre 1993 → hoy). */
+export async function listMemories(): Promise<Memory[]> {
+  "use cache";
+  cacheLife("max");
+  cacheTag(tagFor(COLLECTIONS.memories));
+  const all = await readAll<Memory>(COLLECTIONS.memories);
+  return all.sort(
+    (a, b) => memYear(a) - memYear(b) || (a.order ?? 1e9) - (b.order ?? 1e9) || String(a.slug).localeCompare(String(b.slug)),
+  );
+}
+
+export async function getMemory(slug: string): Promise<Memory | null> {
+  "use cache";
+  cacheLife("max");
+  cacheTag(tagFor(COLLECTIONS.memories), tagFor(COLLECTIONS.memories, slug));
+  return readOne<Memory>(COLLECTIONS.memories, slug);
 }

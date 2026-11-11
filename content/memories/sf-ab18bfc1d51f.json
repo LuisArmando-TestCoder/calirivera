@@ -1,0 +1,26 @@
+{
+ "id": "sf-ab18bfc1d51f",
+ "slug": "sf-ab18bfc1d51f",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 25,
+ "image": {
+  "src": "/media/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-1122.jpg",
+  "alt": "Ab18bfc1d51f",
+  "width": 1122,
+  "height": 1402,
+  "widths": [
+   640,
+   1122
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYgCo9CFw2PmUT0jgfQxqEAD94oAmjiln2hHsfCdyaxaoBpZ33A6elm5nZSRFDLVswYMcKSW4mVMNGn+lYJN6XY4ZRy3q3ROGUvp7wXGT/0CmAY5ntOhXb4ylWdoNH8ctX+CS8oAAAA==",
+  "color": "rgb(232 200 152)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Ab18bfc1d51f",
+ "sourceUrl": "https://calirivera.com/biografia/5bdd0814-9ace-43ea-bc5e-ab18bfc1d51f-z4DJHzc2QemFoWRM.png"
+}

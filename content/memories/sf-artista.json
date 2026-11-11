@@ -1,0 +1,25 @@
+{
+ "id": "sf-artista",
+ "slug": "sf-artista",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 36,
+ "image": {
+  "src": "/media/memoria/sf-artista-1024.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 1024,
+  "height": 1536,
+  "widths": [
+   480,
+   960,
+   1024
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZACdMoADTnu5UnoVSqNSfI8AAP7y4es0C6/8NC5fpoXwEX1wNNAYHZzgETLU7yLZZq3cYbJwEIrnVjRz3pjA5VF8l7490nN+ZDALjkBzpPjMU4ArqvEb+0/5Y9jSxQ+90e6xL4Ne0WqykcrUgAAA",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "taller",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "sourceUrl": "https://calirivera.com/taller-del-artista/taller-del-artista-UJK3bqdZmx7TConb.png"
+}

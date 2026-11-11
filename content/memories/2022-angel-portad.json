@@ -1,0 +1,28 @@
+{
+ "id": "2022-angel-portad",
+ "slug": "2022-angel-portad",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 393,
+ "image": {
+  "src": "/media/memoria/2022-angel-portad-230.jpg",
+  "alt": "Angel portad",
+  "width": 230,
+  "height": 230,
+  "widths": [
+   230
+  ],
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoQABAAA4BaJbACdAYxExyQuJOAAPWGRsbefqm5RsHQzLNIbpJIzAKX8hLUydrtyb3E87Nx1F95Qp0aqAyIopX28foniCtfPzB3z8VDvF59pQOwsvq2fkt15kfMDlpFC8P5hynj39seKP6AAAA=",
+  "color": "rgb(232 232 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Angel portad",
+ "year": 2022,
+ "yearApprox": true,
+ "seenAt": "2022-07-08",
+ "sourceUrl": "https://web.archive.org/web/20220708220728id_/http://calirivera.com/images/angel_portad.jpg"
+}

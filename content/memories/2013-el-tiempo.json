@@ -1,0 +1,29 @@
+{
+ "id": "2013-el-tiempo",
+ "slug": "2013-el-tiempo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 78,
+ "image": {
+  "src": "/media/memoria/2013-el-tiempo-818.jpg",
+  "alt": "El tiempo",
+  "width": 818,
+  "height": 960,
+  "widths": [
+   480,
+   818
+  ],
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoQABMAPu1iqU2ppaQiMAgBMB2JbACdMoR3ACXBWId61GnNZ5AA/kCdjwOQqfYgQk/YsbLH7I8b35VTuoKT3/DMa2xEc8w11wDw0DpeRD978oZxZcLrrb/x5dgc63YtOmKQEiAAAAA=",
+  "color": "rgb(120 136 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "El tiempo",
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220053814id_/http://calirivera.com/images/tienda/el_tiempo.jpg"
+}

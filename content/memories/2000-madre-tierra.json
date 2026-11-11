@@ -1,0 +1,30 @@
+{
+ "id": "2000-madre-tierra",
+ "slug": "2000-madre-tierra",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 50,
+ "image": {
+  "src": "/media/memoria/2000-madre-tierra-1080.jpg",
+  "alt": "Madre tierra",
+  "width": 1080,
+  "height": 1456,
+  "widths": [
+   480,
+   960,
+   1080
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdBagSAAwJ6LAfBYflvVLE9vQAAP6Nm0SrZHCikA6tX1GO7lAD/ObzUEVjbFEH5taukw9m01ZXUKl2uklH+Dpejux4IXOfa2AhdPRxM/htyOSsPQ9UmSzq5qcfOap5v02eHzQpey53xlobjNKjT+SuoWm1sq8ewPMJ9nbRbNUlL2MzuOVgdTXeZgKXI1mRdkg4hW9bZjsUjx4zPg5kFDVfBXXxacDb7AAA",
+  "color": "rgb(8 8 24)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Madre tierra",
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/madre-tierra-AL42ugwWZeNuNCXd.png"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "2023-alquimia-de-almas-torete",
+ "slug": "2023-alquimia-de-almas-torete",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 460,
+ "image": {
+  "src": "/media/alquimia-de-almas/torete-2400.jpg",
+  "width": 2400,
+  "height": 2527,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JbACw7CHe8gF5KiolU/AAAPt2eg5139otaXTdkKMknUs6NVbqzb6CfAcisIPJtHmuu3Vj5pj9aI9fsmeAu+dOOKTR45Lpxw7FvDAv0f74tHTC+Bl4HMniGhbV3dM7x3jzDt/lfi1Bf7e0aWHvVnPVBfCSgAAA",
+  "color": "rgb(248 248 248)",
+  "alt": "Torete, Alquimia de Almas, 2023"
+ },
+ "title": "Torete",
+ "caption": "Mixta sobre tela · 20 × 20 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

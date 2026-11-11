@@ -1,0 +1,26 @@
+{
+ "id": "sf-madrid",
+ "slug": "sf-madrid",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 48,
+ "image": {
+  "src": "/media/memoria/sf-madrid-1254.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 1254,
+  "height": 1254,
+  "widths": [
+   480,
+   960,
+   1254
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABwAQCdASoQABAAA4BaJSvPowARYAD+8pgaeYv/r0eL39oxWjG/XFJMC5nDy079Ps+7UN6aNT7XheTre/3LAiOx7NkKPFdwAAA=",
+  "color": "rgb(248 248 248)",
+  "aiAltered": true
+ },
+ "kind": "taller",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "sourceUrl": "https://calirivera.com/taller-del-artista/palma-dorada-de-madrid-ITQnOkZCztT18E56.png"
+}

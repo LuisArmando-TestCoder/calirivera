@@ -1,0 +1,28 @@
+{
+ "id": "2010-corpus-6d4e",
+ "slug": "2010-corpus-6d4e",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 294,
+ "image": {
+  "src": "/media/memoria/2010-corpus-6d4e-300.jpg",
+  "alt": "Corpus",
+  "width": 300,
+  "height": 474,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoQABoAPu1iqk2ppaQiMAgBMB2JQBfnBEFCGrZeLOxzeXJ3i2AA/vN+BNdSonh7TagRTRFceeKjQ5ZvN6wT2FW8kUF7d4q7bb2AOFcjzPZFdjNqcCQK0xPHoOS8PU2BkwIedpS/il1UZOM81lZZ7d/EIeSke1QKy5DTTljgRhBDou3YjaBfn681jwxQAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Corpus",
+ "year": 2010,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220090220id_/http://calirivera.com/images/stories/obras/corpus.jpg"
+}

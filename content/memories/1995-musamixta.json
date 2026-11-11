@@ -1,0 +1,29 @@
+{
+ "id": "1995-musamixta",
+ "slug": "1995-musamixta",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 378,
+ "image": {
+  "src": "/media/memoria/1995-musamixta-189.jpg",
+  "alt": "Musamixta",
+  "width": 189,
+  "height": 350,
+  "widths": [
+   189
+  ],
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwAwCdASoQAB4AA4BaJbAC7AdwLfwzrVQ4VMI/tUiSGIsAAMtNxP92ww8OR1iWtwJSbgrKirN9/Rlw84BXQT0Z8HxZIeaa5faL01Cf9ECXR3S7/VjglRr/1yP7ZykCh9I/apitMgJZW3mIiY4kiUUMLeof/an0f6FksdUiDaAPDW/8DGA9/Tigis+MfWeKtdEgkgwnDzyYBFNRCmV31h2jTs9DKdP8S2PF5aCmlakZ99tzeieKzu/X+CXv+xEarNWFgEfbHT9SvCKEArDHe6O1122NT1zgQCtXP4/ORgAAAA==",
+  "color": "rgb(248 248 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Musamixta",
+ "year": 1995,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "collectionId": "musas-del-cantaro",
+ "sourceUrl": "https://web.archive.org/web/20131220090019id_/http://calirivera.com/images/stories/obras/musas/musamixta.jpg"
+}

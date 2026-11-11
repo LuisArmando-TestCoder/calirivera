@@ -1,0 +1,26 @@
+{
+ "id": "sf-teatro",
+ "slug": "sf-teatro",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 7,
+ "image": {
+  "src": "/media/memoria/sf-teatro-1116.jpg",
+  "alt": "Teatro",
+  "width": 1116,
+  "height": 1410,
+  "widths": [
+   480,
+   960,
+   1116
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoR3ACP7HVsixiRAiqw2AP7BPoRZj1rXJGeC2vmr9K22/coRTexLYEiqOJFFLBJVQ2BZ5xOLoznHBMgFLx5EhXVO7WL9wbv0uoDOjdAx7GamPt1LeDqMWI/OwdChXoYu4O9QsNncgStow+CcAAA=",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Teatro",
+ "sourceUrl": "https://calirivera.com/colecciones/teatro-HqcXaKuhRk4u6mfY.png"
+}

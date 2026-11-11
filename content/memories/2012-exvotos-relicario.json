@@ -1,0 +1,30 @@
+{
+ "id": "2012-exvotos-relicario",
+ "slug": "2012-exvotos-relicario",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 84,
+ "image": {
+  "src": "/media/memoria/2012-exvotos-relicario-734.jpg",
+  "alt": "Exvotos relicario",
+  "width": 734,
+  "height": 960,
+  "widths": [
+   480,
+   734
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdACHqSKxMAF5cz93VYADh3HJnIDi1VCV4o2WmAilVLoygWVce3TP0ITyPfqRH1qDsD/XrS8cpzmmZV6vRk5Aaqkp4kOnK1OwJecOERwiegTKslzgZDkaLq/mNaO4HY5iyAAA=",
+  "color": "rgb(56 56 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Exvotos relicario",
+ "year": 2012,
+ "yearApprox": true,
+ "seenAt": "2016-11-21",
+ "collectionId": "exvotos",
+ "sourceUrl": "https://web.archive.org/web/20161121045501id_/http://calirivera.com/images/mi_trabajo/exvotos-relicario.jpg"
+}

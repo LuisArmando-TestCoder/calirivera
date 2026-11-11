@@ -1,0 +1,30 @@
+{
+ "id": "2016-ver-pdf-del-libro-elementos-el-manifiesto-de-ira",
+ "slug": "2016-ver-pdf-del-libro-elementos-el-manifiesto-de-ira",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 428,
+ "image": {
+  "src": "/media/memoria/2016-ver-pdf-del-libro-elementos-el-manifiesto-de-ira-180.jpg",
+  "alt": "Ver pdf del Libro Elementos, el manifiesto de Irazú",
+  "width": 180,
+  "height": 120,
+  "widths": [
+   180
+  ],
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAsAA4BaJYwC7H8AEV6Bke2AAP6Kbd1UfOd4P9YwmvPF1GQCopXufZlsTVXkKS7pDreO1Nu1GNaxUAsfIOg4ea1V1K8yWSlFAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "lugar",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Ver pdf del Libro Elementos, el manifiesto de Irazú",
+ "caption": "En «~calirive»",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-10-15",
+ "sourceUrl": "https://web.archive.org/web/20161015134421id_/http://calirivera.com/cache/mod_bt_contentslider/00347ceb1f97b4c99cf62a5f98dcf6fb-elementos.jpg",
+ "sourcePage": "~calirive"
+}

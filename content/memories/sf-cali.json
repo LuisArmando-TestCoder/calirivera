@@ -1,0 +1,27 @@
+{
+ "id": "sf-cali",
+ "slug": "sf-cali",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 18,
+ "image": {
+  "src": "/media/memoria/sf-cali-1140.jpg",
+  "alt": "Cali",
+  "width": 1140,
+  "height": 1380,
+  "widths": [
+   480,
+   960,
+   1140
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoADCo0Hbd0trQ3uG9PQAP1rQ6xCapnOzb99kHg88ozISaNj+lgM4DVylfjza4zy65JGqfCQZIuSboV+pX+apZUUdbKBWFQ4nJhBVE57SHio1IcUtX3nNkj1ixX0EHhx2iUcAosmYf+mfqOTVHf8RQkHl1TTIy4ytqfXNFuMGJlUhrEBxFnAAA==",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Cali",
+ "sourceUrl": "https://calirivera.com/biografia/cali-8uAZ6Wg1pDNZsEID.png"
+}

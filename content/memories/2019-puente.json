@@ -1,0 +1,28 @@
+{
+ "id": "2019-puente",
+ "slug": "2019-puente",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 391,
+ "image": {
+  "src": "/media/memoria/2019-puente-200.jpg",
+  "alt": "Puente",
+  "width": 200,
+  "height": 267,
+  "widths": [
+   200
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JQBdkCYwWwpfdB+kvzW+u4AD+aLcgZAL1RLU9fOFbY/c3+K38ZARYddCRc2UEb/xdfO7kl7TzuPWq6ZsF47qw6uuTV3r1efG2w0zypoaf37lI8DiUxr03hGx5gFGfm9xl6vY8Hrp9x3Q9of3epjlRbKFCBNgLQpKoYTorSzVCr1BpWLohLTpBrhhkaAI5e7Kyr2vEkn8//kAAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Puente",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423064451id_/http://calirivera.com/cache/jw_sig/jw_sig_cache_8457de6a3a_puente.jpg"
+}

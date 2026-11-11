@@ -1,0 +1,27 @@
+{
+ "id": "2013-cali",
+ "slug": "2013-cali",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 351,
+ "image": {
+  "src": "/media/memoria/2013-cali-379.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 379,
+  "height": 246,
+  "widths": [
+   379
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAAoAA4BaJbACdAEYERl9JKbdAAD+49l9/25nV8zR0F22s2GJRdju99gX5w+4hR4I+O8fuA0zhmNr59Q+hrjg+lJrHYSAN5HV/JWo66eaqFqfq6w8SjVv90LgAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220090626id_/http://calirivera.com/images/stories/taller/cali8.jpg"
+}

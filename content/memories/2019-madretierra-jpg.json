@@ -1,0 +1,30 @@
+{
+ "id": "2019-madretierra-jpg",
+ "slug": "2019-madretierra-jpg",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 323,
+ "image": {
+  "src": "/media/memoria/2019-madretierra-jpg-278.jpg",
+  "alt": "madretierra.jpg",
+  "width": 278,
+  "height": 401,
+  "widths": [
+   278
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoFWZjlJl6zpPE5KJ7Fks59UAAD+1KNNJ5YOOrWiquQuXCB+Yfec+FuC6FDw46ArcReFUUeIgnov+frvzmRMXpDaaULfAr2bTO9wOpXQeHM8lyo/jpRjQsYWxePvHK0iYB78S9NaCglgYPv/O6b+4OpH7QBdu3uaIWMi+dFNOpt/19WetbvtsGItL0X/Rjc277fhcp6150I/v5xaD0BAianXXWKa2DPb5gY23gAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "madretierra.jpg",
+ "caption": "En «Un canto a la madre tierra»",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-08-21",
+ "sourceUrl": "https://web.archive.org/web/20190821135025id_/http://calirivera.com/images/mgthumbnails/278x401-images-stories-actividades-madretierra.jpg",
+ "sourcePage": "Un canto a la madre tierra"
+}

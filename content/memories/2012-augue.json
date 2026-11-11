@@ -1,0 +1,29 @@
+{
+ "id": "2012-augue",
+ "slug": "2012-augue",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 52,
+ "image": {
+  "src": "/media/exvotos/exvotos-marc-augue-1105.jpg",
+  "alt": "Augue",
+  "width": 1105,
+  "height": 1423,
+  "widths": [
+   640,
+   1105
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoADYJEKcnEFjnfY39wAAPaZJccw13njI6qPgS2mzBF9NXEDkLVBv/FKz1XW0AlFonXh2R7KlT+Dazu2aKC0wCa/t7H2ZmPL3+cDJ0HXIiyRhYISehuV1v+zHA55U2+AAAA=",
+  "color": "rgb(40 24 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Augue",
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/exvotos-marc-augue-gr3QVzvtJrsnIMAn.png"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2019-detalle-bande2-jpg",
+ "slug": "2019-detalle-bande2-jpg",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 418,
+ "image": {
+  "src": "/media/memoria/2019-detalle-bande2-jpg-148.jpg",
+  "alt": "detalle_bande2.jpg",
+  "width": 148,
+  "height": 252,
+  "widths": [
+   148
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACQBACdASoQABwALrV2u12jqampiYC0S2AE6ZQZLJYANs/RixD7ZJos7mBzZBAA/lL5O1Mt0qrSVFPcbNqsr83QiNwB0SsEL7L5adg/FsTnEu2hQZYw1yhQfzqhHHSf2O9XRENZAj9jaDMhd/U+A0cizDU2hUL9vo1FPhrrfjUJQUT/APmWZ6JjYA3WCCrDJkfDgmmkuwaZqnXLTt8Adv0GrhngAA==",
+  "color": "rgb(136 168 216)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "detalle_bande2.jpg",
+ "caption": "En «Levantar la voz pero en silencio»",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-08-21",
+ "sourceUrl": "https://web.archive.org/web/20190821134949id_/http://calirivera.com/images/mgthumbnails/148x252-images-stories-obras-banderas-detalle_bande2.jpg",
+ "sourcePage": "Levantar la voz pero en silencio"
+}

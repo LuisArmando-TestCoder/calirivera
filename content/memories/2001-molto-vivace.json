@@ -1,0 +1,28 @@
+{
+ "id": "2001-molto-vivace",
+ "slug": "2001-molto-vivace",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 217,
+ "image": {
+  "src": "/media/memoria/2001-molto-vivace-446.jpg",
+  "alt": "Molto vivace",
+  "width": 446,
+  "height": 600,
+  "widths": [
+   446
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoMYA0l5hin4JHt+uk17AAD+VfOthejk79F23nzCZ4+Sn0/3u8dyaysTpRSWed98Ji0+wPgRmFGoUIP96l8NJBn0uYfXVpl9LQXyYwrOorljNQLG0JvmGejFnUTeZNcz0/090XAYb/DU/+9zcA3hXeQC+kYtTGPIUl5sZrICYht0Y2xIBYWxr++8tr9Rv+Hee1oD+WO60GmnGb9AAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Molto vivace",
+ "year": 2001,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206194907id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/molto_vivace.jpg"
+}

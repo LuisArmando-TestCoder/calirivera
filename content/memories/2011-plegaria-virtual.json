@@ -1,0 +1,30 @@
+{
+ "id": "2011-plegaria-virtual",
+ "slug": "2011-plegaria-virtual",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 263,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-virtual-600.jpg",
+  "alt": "Plegaria virtual",
+  "width": 600,
+  "height": 331,
+  "widths": [
+   480,
+   600
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAkAA4BaJbACdADJQ1KTwkAA/qV+7Q3IPpQrAgnO0IDvHli4WJ6IYTbZ5BkZyJ79IyYnCDfQ6ivNr746h9vVC2sgAAAA",
+  "color": "rgb(216 184 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria virtual",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2015-12-26",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20151226163153id_/http://calirivera.com/images/plegaria_virtual.jpg"
+}

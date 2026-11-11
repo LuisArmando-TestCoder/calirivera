@@ -1,7 +1,7 @@
 "use client";
 import { useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
-import { purgeDocAction, restoreDocAction, revertAction } from "@/app/admin/actions";
+import { purgeDocAction, restoreDocAction, revertAction, setStatusAction } from "@/app/admin/actions";
 import { useToast } from "../shared/Toaster";
 import { Confirm } from "../shared/Sheet";
 import s from "./admin.module.scss";
@@ -74,5 +74,34 @@ export function TrashRowActions({ collection, id, title }: { collection: string;
         }
       />
     </div>
+  );
+}
+
+/** Un toque para aprobar (publicar) u ocultar (borrador) — pensado para los recuerdos que pasaron por IA. */
+export function QuickStatus({ collection, id, status, title }: { collection: string; id: string; status: "draft" | "published"; title: string }) {
+  const [pending, start] = useTransition();
+  const toast = useToast();
+  const router = useRouter();
+  const next = status === "published" ? "draft" : "published";
+  return (
+    <button
+      type="button"
+      className={s.btnSmall} data-primary={next === "published" ? "" : undefined}
+      disabled={pending}
+      aria-label={`${next === "published" ? "Aprobar y mostrar" : "Ocultar"} «${title}»`}
+      onClick={() =>
+        start(async () => {
+          const r = await setStatusAction(collection, id, next);
+          toast({
+            text: r.ok ? (next === "published" ? `«${title}» ya se ve en el sitio.` : `«${title}» quedó oculto.`) : (r.error ?? "No se pudo"),
+            tone: r.ok ? "ok" : "error",
+            action: r.ok ? { label: "Deshacer", run: async () => { await setStatusAction(collection, id, status); router.refresh(); } } : undefined,
+          });
+          router.refresh();
+        })
+      }
+    >
+      {next === "published" ? "✓ Aprobar" : "Ocultar"}
+    </button>
   );
 }

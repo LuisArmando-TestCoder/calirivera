@@ -1,0 +1,29 @@
+{
+ "id": "2019-pendiente-alquimia",
+ "slug": "2019-pendiente-alquimia",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 114,
+ "image": {
+  "src": "/media/memoria/2019-pendiente-alquimia-595.jpg",
+  "alt": "Pendiente alquimia",
+  "width": 595,
+  "height": 797,
+  "widths": [
+   480,
+   595
+  ],
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwACn4tH+Wq+t0Ou2QAPjloWLscVDdS/nVH6yfGLxs/6GPLY8Njqx8eAJY5Oy1XvP9ZsqA2fV39NwKyBZNG96rEJJD0E5BEXLf5QDkwk4qAu4jVXq6wIp/AHeNPQeihsgppBE+LkfFH8j1BMtgLPkbDgAAAA==",
+  "color": "rgb(248 216 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Pendiente alquimia",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107203944id_/http://calirivera.com/images/obras-galeria/alquimia/arte-objeto/pendiente-alquimia.jpg"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "2014-evento-e5ee",
+ "slug": "2014-evento-e5ee",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 320,
+ "image": {
+  "src": "/media/memoria/2014-evento-e5ee-285.jpg",
+  "alt": "Foto de 2014 del archivo de Cali Rivera",
+  "width": 285,
+  "height": 414,
+  "widths": [
+   285
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JagCdMoADSuulrw66sLeBcAD98GNxNxox8qManeWr23Y7YLJzSLeXX1r6+09325aUmiF+DnXMxoOe23qA6fUzoIiYgC+JM4/gR2gX0nTDKsXu1LekDZ5AoZfM/2gz6OKCNv7SyDXfqed/YHAYReY9PFrOpMnMsZ1CtcNCGKMC99vcOOVwAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2014,
+ "seenAt": "2014-10-11",
+ "sourceUrl": "https://web.archive.org/web/20141011015732id_/http://calirivera.com/images/thumbnails/images/stories/actividades/Agenda-Julio-2014web-285x414.jpg"
+}

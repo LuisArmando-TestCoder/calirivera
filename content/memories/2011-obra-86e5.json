@@ -1,0 +1,29 @@
+{
+ "id": "2011-obra-86e5",
+ "slug": "2011-obra-86e5",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 209,
+ "image": {
+  "src": "/media/memoria/2011-obra-86e5-640.jpg",
+  "alt": "Foto de 2011 del archivo de Cali Rivera",
+  "width": 640,
+  "height": 427,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAsAA4BaJbACdAD5NWemdPAAAP7M01hcQbKYL+XgrxZNbPh1ycULPhqCv6bd9CjrtHWaDP/0s1UJgAOP7vyCCsjv2fZtUkSnC/14+HZ7w21fu/T7zOv52gAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206210439id_/http://calirivera.com/images/stories/obras-galeria/plegaria/06a.jpg"
+}

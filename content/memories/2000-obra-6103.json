@@ -1,0 +1,28 @@
+{
+ "id": "2000-obra-6103",
+ "slug": "2000-obra-6103",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 33,
+ "image": {
+  "src": "/media/detras-de-la-ventana/detras-de-la-ventana-1-1041.jpg",
+  "alt": "Foto de 2000 del archivo de Cali Rivera",
+  "width": 1041,
+  "height": 1511,
+  "widths": [
+   640,
+   1041
+  ],
+  "placeholder": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAAAQBgCdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoR4PoM4CZM/Qr6UAiOxSstLPZMxsAnUjfZBcCAA/uQhrU6tqIv/rA/g713CHjDsYY29QganI7fT4/+3jvhJrNEg1d/svlRQEg4I64Hg88SX2Y5ztYs0wWO5RJr+kohg/ZmjZ1J3ZVooUcIT0LqJLCX9zaL8mDTbKx/n2WEUgBuhZf1sIqi7oQ35Y7/5H9Mcp3uNoVmLxu++gYH/PswtiVORuOxMawP3g/SkMyhWMeuRLF5pO5vg5sPDO8uipmhRjvzLd709PLhfE7ICg91OqIVf8bXDlsb9ny/9/+gAAAA=",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/detras-de-la-ventana-1-2av25lPFrd3HfXqp.png"
+}

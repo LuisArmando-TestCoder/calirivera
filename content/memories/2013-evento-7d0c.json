@@ -1,0 +1,26 @@
+{
+ "id": "2013-evento-7d0c",
+ "slug": "2013-evento-7d0c",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 361,
+ "image": {
+  "src": "/media/memoria/2013-evento-7d0c-240.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 240,
+  "height": 352,
+  "widths": [
+   240
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdL1yBFS6DwTNMlfA0zA3FYAD8IIPCd5TKCmJRl2LWx1ToOuDWv9hd/IcZDO6xk87jJB+kGLmP5lED7e1hWVhmqEzdghZvI2YHxGwAq1mak4o8rjlDyyR5p5xioSLtpVtDfQnSTYvPiQFvUOuT1Roq8ygfWPdaDUqGFKmLGpwm+BwCKYNpsQjwAA==",
+  "color": "rgb(152 40 40)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220090915id_/http://calirivera.com/images/thumbnails/images/stories/actividades/Junio_2013-240x352.jpg"
+}

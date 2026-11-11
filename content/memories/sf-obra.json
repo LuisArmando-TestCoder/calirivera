@@ -1,0 +1,25 @@
+{
+ "id": "sf-obra",
+ "slug": "sf-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 0,
+ "image": {
+  "src": "/media/memoria/sf-obra-1600.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 1600,
+  "height": 1600,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAQCdASoQABAAA4BaJaQAAtzGQVAA/vfvPQab44r9I3WdyZJqAWQpblkUZ3kImD3+7GCekeMtcg1BwawaRqoKjzZMcnkAAAA=",
+  "color": "rgb(72 104 72)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "sourceUrl": "https://calirivera.com/home/disea--o-sin-tatulo-1-FQJYBlAHWRyOJPMj.png"
+}

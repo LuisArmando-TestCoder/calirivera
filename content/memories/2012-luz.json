@@ -1,0 +1,28 @@
+{
+ "id": "2012-luz",
+ "slug": "2012-luz",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 31,
+ "image": {
+  "src": "/media/exvotos/camino-hacia-la-luz-1173.jpg",
+  "alt": "Luz",
+  "width": 1173,
+  "height": 1341,
+  "widths": [
+   640,
+   1173
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoQABIAPu1iqU2ppaOiMAgBMB2JbACdMoRwACn02vkK2R+OtXGp1AAA/kEV9RSroEltrRlDLddxAGda7BNAXzSNZ3BuY5hliNQstk22v23xD2wrXtatLzfRT0U+HJc3vW2gwRDndKUam+g8Gap7HkpVoeZwIWhkNHjq0i7KfkG1TcCrOcQ60tAA",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Luz",
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/camino-hacia-la-luz-krtwID89pTZiOeRF.png"
+}

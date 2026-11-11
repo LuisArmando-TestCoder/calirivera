@@ -1,0 +1,28 @@
+{
+ "id": "2012-exvotos-mirar",
+ "slug": "2012-exvotos-mirar",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 24,
+ "image": {
+  "src": "/media/exvotos/exvotos-mirar-1189.jpg",
+  "alt": "Exvotos mirar",
+  "width": 1189,
+  "height": 1323,
+  "widths": [
+   640,
+   1189
+  ],
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZACdMoR3ACmUW8+7xT80LMAA/olEV6Wu1FqLTjEYZoOezd475J1KlgZeg2fHnISJrYVpVECyae8EzH8IBPDMLrMgvUkcwZixPo/SJYE4xvi8pVtgHqXXI9Fdqy5ludQuQbhD42JPdEAA",
+  "color": "rgb(216 216 216)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Exvotos mirar",
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/exvotos-mirar-9Y1hdf3Ir0mvSbuV.png"
+}

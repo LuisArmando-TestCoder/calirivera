@@ -1,0 +1,28 @@
+{
+ "id": "2016-obra-4954",
+ "slug": "2016-obra-4954",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 150,
+ "image": {
+  "src": "/media/memoria/2016-obra-4954-640.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 640,
+  "height": 480,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAwAA4BaJZgCdAD0RuZ/5gAA+p+x0pZfNr2wK4pIXXXwfLMiP0xzHD/qPAIzeCnMXqIokIswXh72dLnszRzyPP4Jb61QGCvhk840hwrtNA3VoT0HMAAA",
+  "color": "rgb(216 200 168)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207222030id_/http://calirivera.com/images/obras-galeria/cruz/dsc00764.jpg"
+}

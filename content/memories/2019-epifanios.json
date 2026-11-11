@@ -1,0 +1,29 @@
+{
+ "id": "2019-epifanios",
+ "slug": "2019-epifanios",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 91,
+ "image": {
+  "src": "/media/memoria/2019-epifanios-677.jpg",
+  "alt": "Epifanios",
+  "width": 677,
+  "height": 900,
+  "widths": [
+   480,
+   677
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAQBQCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwEGADlPovrH+nCX1sui/7LCoAAP7UoNkcesmmX2mWHG/ropdn2Haqu2fNuD705h3THQ9dSl2thK5a/NhZ8OpGI+nLdWJQU0yiwF4V7pkRzAIdUb02ENjw4W0WQT0UrGyIdkt7cBGk1YSu8wIYuOvfkkvMHA1furMi/L/A9BV6ZILqKkHu411+HK+di4iFF8ZpcK6thN6bMCIWWp5AAA==",
+  "color": "rgb(248 216 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Epifanios",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-01-08",
+ "sourceUrl": "https://web.archive.org/web/20190108005401id_/http://calirivera.com/images/obras-galeria/alquimia/arte-objeto/epifanios3.jpg"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2000-tastaga",
+ "slug": "2000-tastaga",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 302,
+ "image": {
+  "src": "/media/memoria/2000-tastaga-291.jpg",
+  "alt": "Tastaga",
+  "width": 291,
+  "height": 453,
+  "widths": [
+   291
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASoQABkAPu1kqk2ppaQiMAgBMB2JbAC7MoADg7KqJz3+f+0E6AAA/ljjoHAWjpnOuf2sNv7Tnl9aeKRUQD2eNuqYRvHmPczvHpDgNzTU3jrNabvZEbEc4jMy0hY6UAAA",
+  "color": "rgb(184 200 200)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Tastaga",
+ "year": 2000,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206134906id_/http://calirivera.com/images/obras-galeria/ave_fenix_2000/tastaga.jpg"
+}

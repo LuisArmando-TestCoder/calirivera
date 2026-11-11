@@ -1,0 +1,28 @@
+{
+ "id": "2001-obra",
+ "slug": "2001-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 116,
+ "image": {
+  "src": "/media/memoria/2001-obra-589.jpg",
+  "alt": "Foto de 2001 del archivo de Cali Rivera",
+  "width": 589,
+  "height": 799,
+  "widths": [
+   480,
+   589
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JaACdMoMYJn/LsASw8Zq05M2l1NPm5AAA/KxNDyxlMANfbb2ruw0FylrGnaNQ/IjFA2qpRX2ghT9FzKXaj3yNhubuRJ7J/8KoZ4OCEEpxtx+V+pRTMoI/ueHMhjm9Omz+Sfzh6h1xD7FI0HoHgcQa1zhS6ftYFvSdGUN93yuLrJ11wCwb9sSq6AAAAA==",
+  "color": "rgb(232 232 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2001,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206195627id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/fe.jpg"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "2023-alquimia-de-almas-lo-sagrado",
+ "slug": "2023-alquimia-de-almas-lo-sagrado",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 449,
+ "image": {
+  "src": "/media/alquimia-de-almas/lo-sagrado-2400.jpg",
+  "width": 2400,
+  "height": 2439,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQABAAA4BaJaACdAEPAssnAeEAAP2c+3/Ukr2YicxuW2yy88hNzzIXTJSS6R0k0ShL6ufjfL8bfypTct7ACQ66nJZbuwqW3BizggXKXvYqz5hkHQRnKg95VtAHQ0IW4AD0ABE3mgE2IaAA",
+  "color": "rgb(248 248 248)",
+  "alt": "Lo sagrado, Alquimia de Almas, 2023"
+ },
+ "title": "Lo sagrado",
+ "caption": "Mixta sobre tela · 20 × 20 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

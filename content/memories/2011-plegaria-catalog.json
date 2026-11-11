@@ -1,0 +1,29 @@
+{
+ "id": "2011-plegaria-catalog",
+ "slug": "2011-plegaria-catalog",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 296,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-catalog-300.jpg",
+  "alt": "Plegaria catalog",
+  "width": 300,
+  "height": 473,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoQABoAPu1iqU2ppaOiMAgBMB2JbACw7CG6KDCNTl8wsbGAAP7u1yhxWzCUmWtUoTPQUM0z3d5Soyewecfz/TtprXpHhVPQSudA9YH75nhjkYt1LQgo2bcfcNHVo1wdTGDTsd1Wp5yMODe7qd1wZW7tLfCsqU7qozCfpIxS0ipKp1rvDBCOAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria catalog",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20131220090454id_/http://calirivera.com/images/stories/obras/plegaria_catalog.jpg"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "2004-banderas-globalizacion",
+ "slug": "2004-banderas-globalizacion",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 90,
+ "image": {
+  "src": "/media/memoria/2004-banderas-globalizacion-960.jpg",
+  "alt": "Banderas globalizacion",
+  "width": 960,
+  "height": 638,
+  "widths": [
+   480,
+   960
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAsAA4BaJYwCdAYr7ixg7MHEKAD5c0YGN9AfOA+6xv8965/pKTZEe2DU53UrcepAEuMEcc+pfVCY+MXkb2PLZPeStpX/6jb4/bgg7UlSSp40qk19ENSbslL6BNir6AMAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Banderas globalizacion",
+ "year": 2004,
+ "yearApprox": true,
+ "seenAt": "2016-11-22",
+ "sourceUrl": "https://web.archive.org/web/20161122035325id_/http://calirivera.com/images/mi_trabajo/banderas_globalizacion.jpg"
+}

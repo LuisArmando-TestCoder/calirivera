@@ -1,0 +1,28 @@
+{
+ "id": "2001-tierra-de-paz",
+ "slug": "2001-tierra-de-paz",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 252,
+ "image": {
+  "src": "/media/memoria/2001-tierra-de-paz-530.jpg",
+  "alt": "Tierra de paz",
+  "width": 530,
+  "height": 400,
+  "widths": [
+   480,
+   530
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAwAA4BaJbACdAYulqyLoiRzHsAA9pFw/3b5HTgv+w8ZpBKQ1FrLH7goKICb5nOo6tyDgEq3pZ3iYzydyd5pQJyrraKoPeSxFgjrLNWOZTWMsBQrpDXOCqt4gWB4AAA=",
+  "color": "rgb(168 168 88)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Tierra de paz",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207141811id_/http://calirivera.com/images/obras-galeria/identidad_2001/tierra_de_paz.jpg"
+}

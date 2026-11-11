@@ -1,0 +1,27 @@
+{
+ "id": "2013-setiembre",
+ "slug": "2013-setiembre",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 388,
+ "image": {
+  "src": "/media/memoria/2013-setiembre-284.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 284,
+  "height": 194,
+  "widths": [
+   284
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAsAA4BaJbACdH8AFcOsvGKOgAD9j8zq8Q3AOGiriFJXZRPQHKglpfnMKNcpeLARh0WWw0gowws5P9IHaBGKRsgxJF+5GM/hyV/a8923AhXMyzv4F8AA",
+  "color": "rgb(24 104 56)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220091132id_/http://calirivera.com/images/thumbnails/images/stories/actividades/Setiembre-284x194.jpg"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "1993-flamingos",
+ "slug": "1993-flamingos",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 290,
+ "image": {
+  "src": "/media/memoria/1993-flamingos-322.jpg",
+  "alt": "Flamingos",
+  "width": 322,
+  "height": 450,
+  "widths": [
+   322
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JZV2AVda0UB/7nNjgAAD+8Jhv1zBFSMIWUthjIX/oxlQK2w4uGfshK/vvC1IwmWuAAA==",
+  "color": "rgb(184 184 184)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Flamingos",
+ "year": 1993,
+ "seenAt": "2016-12-07",
+ "collectionId": "atmosfera",
+ "sourceUrl": "https://web.archive.org/web/20161207015943id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/flamingos.jpg"
+}

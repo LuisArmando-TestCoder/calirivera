@@ -1,0 +1,29 @@
+{
+ "id": "2016-detalle-hurto",
+ "slug": "2016-detalle-hurto",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 155,
+ "image": {
+  "src": "/media/memoria/2016-detalle-hurto-640.jpg",
+  "alt": "Detalle hurto",
+  "width": 640,
+  "height": 480,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAwAA4BaJbACdAELRDKT3pnAAP7hc4dxQ9Dh8oMh3eT+jtL4f2FBYv0MCqIgORbI6OrgJGRjwV6WJGS0YN/4udhyPqnNPB6LvOw05M/0PTrixk/8yhwZbbBAAA==",
+  "color": "rgb(216 200 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Detalle hurto",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206194021id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/detalle_hurto.jpg"
+}

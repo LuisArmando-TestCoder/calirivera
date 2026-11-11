@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera18",
+ "slug": "2003-bandera18",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 137,
+ "image": {
+  "src": "/media/memoria/2003-bandera18-480.jpg",
+  "alt": "Bandera18",
+  "width": 480,
+  "height": 699,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABcAPu1yrU+pp6QiMAgBMB2JbACdL11pQAX76vwukQTWINkAAP76P1P+XjcG3Y7hzLNUG8StFV9pbGmev1DvvxJXE6FAiwKzE2HKych4/dGP3C62AOr6RKPbz2cy68Uo42z7qMJMHgWrwDtQsQFWNd6MgTeCYdF2GASWyH9rvheOdmglrBZDNsmxhQeg4AA=",
+  "color": "rgb(216 232 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera18",
+ "caption": "En «Bandera 5»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2011-01-01",
+ "sourceUrl": "https://web.archive.org/web/20110101054013id_/http://calirivera.com/prayer_flags/images/bandera18_01.gif",
+ "sourcePage": "Bandera 5"
+}

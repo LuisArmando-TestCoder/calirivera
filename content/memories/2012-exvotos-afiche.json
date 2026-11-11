@@ -1,0 +1,32 @@
+{
+ "id": "2012-exvotos-afiche",
+ "slug": "2012-exvotos-afiche",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 125,
+ "image": {
+  "src": "/media/memoria/2012-exvotos-afiche-518.jpg",
+  "alt": "exvotos_afiche",
+  "width": 518,
+  "height": 800,
+  "widths": [
+   480,
+   518
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAwCdASoQABkAPu1iqU2ppaOiMAgBMB2JZQCsAA6wtoVXYAAA+Fg6QxtABk0rHre7oMhRMhRKEIAhYdiADZn/vPYz9aNl+bK3OcUwej6wGXI0tDZ4MGdJCoaU0FxvUzk2BtFg3DcIAmF8AytggCps6cOO/sgA",
+  "color": "rgb(88 88 72)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "exvotos_afiche",
+ "caption": "En «Obras recientes»",
+ "year": 2012,
+ "yearApprox": true,
+ "seenAt": "2016-10-15",
+ "collectionId": "exvotos",
+ "sourceUrl": "https://web.archive.org/web/20161015190653id_/http://calirivera.com/images/stories/obras/exvotos_afiche.jpg",
+ "sourcePage": "Obras recientes"
+}

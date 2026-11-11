@@ -7,7 +7,7 @@ import { BlockView } from "@/components/layout-engine/Blocks";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
 import { ArtImage } from "@/components/media/ArtImage";
 import { NarrationSlot } from "@/components/narration/NarrationSlot";
-import { getCollection, listArtworks, listCollections, listSlugs } from "@/lib/content/repo";
+import { getCollection, listArtworks, listCollections, listMemories, listSlugs } from "@/lib/content/repo";
 import { COLLECTIONS } from "@/lib/content/types";
 import s from "./coleccion.module.scss";
 import { RevealLines } from "@/components/motion/RevealLines";
@@ -33,7 +33,8 @@ async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[s
   const { slug } = await params;
   const c = slug === EMPTY ? null : await getCollection(slug);
   if (!c) notFound();
-  const [works, all] = await Promise.all([listArtworks(c.id), listCollections()]);
+  const [works, all, memories] = await Promise.all([listArtworks(c.id), listCollections(), listMemories()]);
+  const memCount = memories.filter((m) => m.collectionId === c.id).length;
   const pos = all.findIndex((x) => x.id === c.id);
   const next = all[(pos + 1) % all.length];
   const path = `collections/${c.id}`;
@@ -86,7 +87,7 @@ async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[s
         />
       )}
 
-      {(media.length > 0 || c.catalogUrl) && (
+      {(media.length > 0 || c.catalogUrl || memCount > 0) && (
         <section className={s.extras}>
           {media.map((b) => (
             <BlockView key={b.id} block={b} base={`${path}#body`} index={body.indexOf(b)} />
@@ -96,6 +97,14 @@ async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[s
               <span className={s.catalogLabel}>Catálogo completo</span>
               <span className={s.catalogNote}>PDF con fichas técnicas</span>
             </a>
+          )}
+          {memCount > 0 && (
+            <Link href={`/memoria?c=${c.id}`} className={s.catalog}>
+              <span className={s.catalogLabel}>Recuerdos</span>
+              <span className={s.catalogNote}>
+                {memCount} {memCount === 1 ? "foto" : "fotos"} de esta colección en la Memoria del Taller
+              </span>
+            </Link>
           )}
         </section>
       )}

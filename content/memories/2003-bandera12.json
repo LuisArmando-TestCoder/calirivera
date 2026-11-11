@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera12",
+ "slug": "2003-bandera12",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 139,
+ "image": {
+  "src": "/media/memoria/2003-bandera12-480.jpg",
+  "alt": "Bandera12",
+  "width": 480,
+  "height": 684,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JYwCsACIPU8eVsk5MGpySQAD+04YiTNOzTP104SD/SJqVXe421zkJ4Apibe/GAAw+BYkNTgAFN1ct6VHgtZqMD+JCjfiMyvZKJh98pieVvwCsvE4h6+6Euq637b1pOYGw4PvRgAA=",
+  "color": "rgb(184 200 200)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera12",
+ "caption": "En «Bandera 7»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2011-01-01",
+ "sourceUrl": "https://web.archive.org/web/20110101053943id_/http://calirivera.com/prayer_flags/images/bandera12_01.gif",
+ "sourcePage": "Bandera 7"
+}

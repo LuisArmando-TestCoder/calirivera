@@ -1,0 +1,43 @@
+@use "../../../styles/tokens" as *;
+
+.page {
+  @include tone(ink);
+  background: var(--c-bg);
+  color: var(--c-fg);
+  min-height: 100svh;
+  padding-top: calc(var(--header-h) + var(--space-m));
+  padding-bottom: var(--space-3xl);
+}
+.crumbs { @include wrap; @include label; color: var(--c-muted); margin-bottom: var(--space-m); a { color: var(--c-fg); } }
+.layout {
+  @include wrap;
+  display: grid;
+  gap: var(--space-l);
+  @include above($bp-m) { grid-template-columns: minmax(0, 1.7fr) minmax(16rem, 1fr); align-items: start; }
+}
+.figure { width: 100%; }
+.text { display: grid; gap: var(--space-s); @include above($bp-m) { position: sticky; top: calc(var(--header-h) + var(--space-m)); } }
+.meta { @include label; color: var(--c-accent); }
+.title { @include display(80, 760); font-size: var(--step-4); line-height: 0.92; }
+.caption { font-size: var(--step-0); max-width: var(--measure); }
+.notice { @include label; padding: 0.6em 0.8em; border-left: 3px solid var(--c-accent); background: oklch(100% 0 0 / 0.05); }
+.facts {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.3rem var(--space-s);
+  @include label;
+  dt { color: var(--c-muted); }
+  dd { margin: 0; }
+  a { color: inherit; }
+}
+.link { @include label; color: var(--c-fg); }
+.pager {
+  @include wrap;
+  margin-top: var(--space-2xl);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-m);
+  border-top: 1px solid var(--c-linea);
+  padding-top: var(--space-s);
+  a { @include label; color: var(--c-fg); text-decoration: none; min-height: 44px; display: inline-flex; align-items: center; gap: 0.4em; &:hover { color: var(--c-accent); } }
+}

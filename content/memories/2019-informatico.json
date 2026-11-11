@@ -1,0 +1,27 @@
+{
+ "id": "2019-informatico",
+ "slug": "2019-informatico",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 387,
+ "image": {
+  "src": "/media/memoria/2019-informatico-280.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 280,
+  "height": 200,
+  "widths": [
+   280
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAsAA4BaJbACdADp9Foly2iwAP72rtUjA5wpk3NKifyN+zdGCCz6GNhhzdpg0Cba35NrP+LvYKnZEwG5LSxAG4/5Qbh2Vadq2dVQWIOgBbgstJD7WYibOAAuLyMDuxzrgtRKOK7rwlgA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "prensa",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423060501id_/http://calirivera.com/images/stories/puntos_de_vista/informatico6.jpg"
+}

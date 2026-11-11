@@ -1,0 +1,29 @@
+{
+ "id": "2000-detras-4ff9",
+ "slug": "2000-detras-4ff9",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 274,
+ "image": {
+  "src": "/media/memoria/2000-detras-4ff9-351.jpg",
+  "alt": "Detras",
+  "width": 351,
+  "height": 516,
+  "widths": [
+   351
+  ],
+  "placeholder": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAAAQBgCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMYNcBggHqA3gDeUiIvGAVlZS3im4JYxoqVNgAA/nbchmQn+hekWuyejuwJlnPZa62W21vo4oQViVR4vMP0SlBR9a5/S7kU/uGak+PVe7AxhQ4/3YcfKKhHHKUNsn7re03Ncgjx6yH2kHDyr7UwbQ5/SR6POpQ+xDM79c2tjK+stsTDX70WEp3ds/uT1iZtUz6NtOG6+6/4zLoc4KKHj1sjx5H9VkdsEtCfvTbid+5RGWB22leb/GvPEfOgVDeoP/6AAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Detras",
+ "year": 2000,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://web.archive.org/web/20161206133710id_/http://calirivera.com/images/obras-galeria/detras_de_la_ventana/detras20.jpg"
+}

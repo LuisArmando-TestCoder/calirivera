@@ -1,0 +1,28 @@
+{
+ "id": "2003-transmu-2078",
+ "slug": "2003-transmu-2078",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 247,
+ "image": {
+  "src": "/media/memoria/2003-transmu-2078-556.jpg",
+  "alt": "Transmu",
+  "width": 556,
+  "height": 400,
+  "widths": [
+   480,
+   556
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoQAAwAA4BaJbACdAD8e+Cu7yAA/uTvPDkTNCDHmwylUS1c4BV3X9HXhSaXteM1uHyBU6B2oz2b72sCET/pLGzj1JEb7i8NE8iScIZwYyQmmoIg0IQOwGkPB43PB/kANlxL16JBQeKBOhUaMUAAAA==",
+  "color": "rgb(152 40 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Transmu",
+ "year": 2003,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206193919id_/http://calirivera.com/images/obras-galeria/transmutacion_2003/transmu8.jpg"
+}

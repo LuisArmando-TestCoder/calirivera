@@ -206,6 +206,35 @@ export interface SiteSettings {
   updatedAt: ISODate;
 }
 
+// ---------- Memoria (archivo visual) ----------
+export type MemoryKind = "obra" | "taller" | "evento" | "prensa" | "persona" | "lugar" | "documento";
+export type MemorySource = "sitio-actual" | "wayback" | "catalogo" | "cali";
+
+/** Un recuerdo del Taller: una foto con lo poco o mucho que se sabe de ella. */
+export interface Memory extends Publishable {
+  image: ImageAsset;
+  title?: string;
+  caption?: string;
+  /** Año del recuerdo (no de cuándo lo vio Wayback). */
+  year?: number | string;
+  /** El año es una estimación (p. ej. sacado de la fecha en que Wayback vio la página). */
+  yearApprox?: boolean;
+  /** Fecha del snapshot de Wayback donde apareció. */
+  seenAt?: ISODate;
+  kind: MemoryKind;
+  place?: string;
+  people?: string[];
+  collectionId?: string;
+  source: MemorySource;
+  sourceUrl?: string;
+  /** Página del sitio viejo donde aparecía (título o sección). */
+  sourcePage?: string;
+  aiAltered: boolean;
+  /** Solo si la fuente lo dice explícitamente. */
+  lostInFire?: boolean;
+  featured?: boolean;
+}
+
 export const COLLECTIONS = {
   pages: "pages",
   artworks: "artworks",
@@ -215,6 +244,7 @@ export const COLLECTIONS = {
   people: "people",
   posts: "posts",
   settings: "settings",
+  memories: "memories",
 } as const;
 
 export type CollectionName = (typeof COLLECTIONS)[keyof typeof COLLECTIONS];

@@ -1,0 +1,26 @@
+{
+ "id": "2015-web",
+ "slug": "2015-web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 358,
+ "image": {
+  "src": "/media/memoria/2015-web-264.jpg",
+  "alt": "Foto de 2015 del archivo de Cali Rivera",
+  "width": 264,
+  "height": 326,
+  "widths": [
+   264
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoQABMAPu1iqU2ppaOiMAgBMB2JZwAAXEvCJ4w6bApcAAD+7/vTr4qCEcJqfZbbal+As/tBm7LCaUlJj68EBwKMFqMACosryNF7tROX4AA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2015,
+ "seenAt": "2016-01-12",
+ "sourceUrl": "https://web.archive.org/web/20160112134937id_/http://calirivera.com/images/thumbnails/images/agenda-DICIEMBRE-2015-web-264x326.jpg"
+}

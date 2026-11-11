@@ -1,0 +1,29 @@
+{
+ "id": "1996-canta",
+ "slug": "1996-canta",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 12,
+ "image": {
+  "src": "/media/suenos-en-azul/canta-guitarra-canta-897.jpg",
+  "alt": "Canta",
+  "width": 897,
+  "height": 1754,
+  "widths": [
+   640,
+   897
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAQBQCdASoQAB8APu1iqU2ppaOiMAgBMB2JbACdMoRgCmAov8F4HYXFMJd3y9q0p5gQAP79DJpiba0eDym/Gu/7AfxElJ5+cpGxdssrsUiqoFGmEyxK7flnpfnDUNpvnf/4LOkFGLu89skRbATHCl8Pw6sputg36NNEM2Y+VxyYQNZ1GpgVoSWKw3yk+aNeLRMHPFxZ4Av4Fc8UJaTCe1ltgvb+1cizElO44eMAd+KyY9fdZs55mcAA",
+  "color": "rgb(8 40 136)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Canta",
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/canta-guitarra-canta-9abTLbg45XIT23LR.png"
+}

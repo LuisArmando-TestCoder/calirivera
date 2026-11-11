@@ -1,0 +1,29 @@
+{
+ "id": "2016-detalle-larga-vida-27af",
+ "slug": "2016-detalle-larga-vida-27af",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 157,
+ "image": {
+  "src": "/media/memoria/2016-detalle-larga-vida-27af-640.jpg",
+  "alt": "Detalle larga vida",
+  "width": 640,
+  "height": 480,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAwAA4BaJbACdH8AGBn5mfnoQAD+zGmIOtJTup4+XyuYhK6TiZXUTK6sboBvKBPPlhd5aeu1Emi9ZU/NLEL1VFo7il6LEJq2aHy2ppe6x9hEXDFNDjRIB3/OYGBCIAA=",
+  "color": "rgb(24 40 88)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Detalle larga vida",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206074250id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/detalle_larga_vida2.jpg"
+}

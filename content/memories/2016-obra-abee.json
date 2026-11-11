@@ -1,0 +1,27 @@
+{
+ "id": "2016-obra-abee",
+ "slug": "2016-obra-abee",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 225,
+ "image": {
+  "src": "/media/memoria/2016-obra-abee-402.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 402,
+  "height": 640,
+  "widths": [
+   402
+  ],
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQBACdASoQABoAPu1iqU2ppaQiMAgBMB2JZAC2yBjdZnMvBJv//tthUAD+s0RMZ79QajmOYDULfDXROMTesVWdlX3UQvmB1heMo9riRazn8IkMB874v+F+/Yxy7i0urzH5TSCZ/feR0eExSxeOyeAAAAA=",
+  "color": "rgb(184 184 184)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206133923id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/img_5424.jpg"
+}

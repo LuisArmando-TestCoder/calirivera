@@ -1,0 +1,27 @@
+{
+ "id": "2001-han-derramado",
+ "slug": "2001-han-derramado",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 288,
+ "image": {
+  "src": "/media/memoria/2001-han-derramado-297.jpg",
+  "alt": "Han derramado",
+  "width": 297,
+  "height": 488,
+  "widths": [
+   297
+  ],
+  "placeholder": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdBaglABEL+zMGbsDiFgmZ8OzgAP2N/PlaGukjqUpa0Xnq7qIFoZVKTjkG8oko2dPerUczFtHPkD5CSoQ4b3sS2R9Xd7ksUeAAkSpuIQXxdo60k0orfuNYA8UfbDn885oF4hv0VOeyfeiocRAxtjKRgOa5ydw6Hu5uODlrrPILICS64Z7tgjTQArnodlLnR7nsTE9mb/k2cVXnpUmv7U+m8Z2SGHAAAA==",
+  "color": "rgb(72 88 168)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Han derramado",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207161650id_/http://calirivera.com/images/obras-galeria/identidad_2001/han_derramado2.jpg"
+}

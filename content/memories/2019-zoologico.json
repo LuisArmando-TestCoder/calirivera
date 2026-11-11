@@ -1,0 +1,27 @@
+{
+ "id": "2019-zoologico",
+ "slug": "2019-zoologico",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 325,
+ "image": {
+  "src": "/media/memoria/2019-zoologico-270.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 270,
+  "height": 400,
+  "widths": [
+   270
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoQABgAPu1iqU2ppaQiMAgBMB2JbACdMoADSutrXO5ptvPicXVAAM4+EFdF5PL9YPlZLYnVDNGhlaY0y84ZTacGS9PVMgO63x+hLHyJ79KnounTX7tqr8sWW9lGMQt+0/GwR2/oCSAnEVBS1stjmaEhmqQAAA==",
+  "color": "rgb(24 40 56)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423085201id_/http://calirivera.com/images/stories/exposiciones/zoologico/zoologico1.jpg"
+}

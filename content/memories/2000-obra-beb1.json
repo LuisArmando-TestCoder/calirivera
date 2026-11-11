@@ -1,0 +1,29 @@
+{
+ "id": "2000-obra-beb1",
+ "slug": "2000-obra-beb1",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 59,
+ "image": {
+  "src": "/media/detras-de-la-ventana/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-1854.jpg",
+  "alt": "Foto de 2000 del archivo de Cali Rivera",
+  "width": 1854,
+  "height": 848,
+  "widths": [
+   640,
+   1280,
+   1854
+  ],
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoQAAcAA4BaJagCdADc5pkgAP7sDu3EWcBOEeuW7ALv97UKRCRUSSR3kjcw5GeLDbI125wegR60U4++1xe1uHuY6eGmGZUAAAA=",
+  "color": "rgb(8 8 40)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/ebf7ad72-77c1-48b7-b71c-28d7a4b71993-0J3ckGTqfd7uBvSI.png"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2010-corpus",
+ "slug": "2010-corpus",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 147,
+ "image": {
+  "src": "/media/archivo/corpus4-480.jpg",
+  "alt": "Corpus",
+  "width": 480,
+  "height": 640,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgCdOUAAuKmQIZ4Vt/XC0AD+42t5kupBNSz0wtZaVV2wOz8TdIFTy7vsEZfGwmtOxCcsJ5xyxe+aSES9NpCBORAuoNBbGhopGXiu/HHbiC+KPz8bdaI1/Pi5DQrPcADuwiy/7bEidWl35MOfJ2G4d6I2/vx0+/gukAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Corpus",
+ "year": 2010,
+ "yearApprox": true,
+ "seenAt": "2011-01-28",
+ "sourceUrl": "https://web.archive.org/web/20110128181220id_/http://calirivera.com/images/stories/obras/corpus/corpus4.jpg"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2019-page1-img",
+ "slug": "2019-page1-img",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 380,
+ "image": {
+  "src": "/media/memoria/2019-page1-img-270.jpg",
+  "alt": "Page1 img",
+  "width": 270,
+  "height": 235,
+  "widths": [
+   270
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAA4AA4BaJagCdAEefnhqMDgAAP7212O90i+JhDZ9FMO5sLexkDCyohGD4A1UunjCoZRah7rTgtN5Eqt0cXx3ZfXmHnqr65QZvm8KVo8WtMYwAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Page1 img",
+ "caption": "En «~calirive»",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/top_home/page1-img2.jpg",
+ "sourcePage": "~calirive"
+}

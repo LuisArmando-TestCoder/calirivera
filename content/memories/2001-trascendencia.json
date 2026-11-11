@@ -1,0 +1,28 @@
+{
+ "id": "2001-trascendencia",
+ "slug": "2001-trascendencia",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 222,
+ "image": {
+  "src": "/media/memoria/2001-trascendencia-438.jpg",
+  "alt": "Trascendencia",
+  "width": 438,
+  "height": 600,
+  "widths": [
+   438
+  ],
+  "placeholder": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoRwAkgAojefO+qZ9SSQLlgA/jNhNwUa8/WdedjT5YcP0xoUZwcyiC1UtVdEpC00Zfo8M/xNWet5ZKTyme4rMxvOCCYxgFDiC4zsM+Canl309PIo313LtReCOOHI6+dx0YS7VyuDyOF0Ts6Gx2Vkf1MLmhNwEmYdfba1a72BVIO56OXY784/cLtsfucDRSInfpqIdDRV9PwOyDpufcP9B6UDQofSi4AeLMFRKSCXdsiwRDEaQeoq1725pjIAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Trascendencia",
+ "year": 2001,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206210526id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/trascendencia.jpg"
+}

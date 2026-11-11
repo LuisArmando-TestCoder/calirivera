@@ -1,0 +1,26 @@
+{
+ "id": "2014-evento-f25c",
+ "slug": "2014-evento-f25c",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 334,
+ "image": {
+  "src": "/media/memoria/2014-evento-f25c-269.jpg",
+  "alt": "Foto de 2014 del archivo de Cali Rivera",
+  "width": 269,
+  "height": 393,
+  "widths": [
+   269
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JZACo9CKQgKBAERsXyxUAAP6/yQg0g9Ob/cFtBVFeGh2FfKrKHZLhuLAbcRZVdNPB8XJkJnlHEdxbe7Wa78VG1L4EwULJFkqB78lNGg89wzSWs3jVbnFsr9Bf7S+VFK4AAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2014,
+ "seenAt": "2014-12-19",
+ "sourceUrl": "https://web.archive.org/web/20141219081755id_/http://calirivera.com/images/thumbnails/images/stories/actividades/Agenda-Noviembre-2014-269x393.jpg"
+}

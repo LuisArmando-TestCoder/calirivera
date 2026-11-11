@@ -1,0 +1,27 @@
+{
+ "id": "sf-cruz",
+ "slug": "sf-cruz",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 35,
+ "image": {
+  "src": "/media/memoria/sf-cruz-1447.jpg",
+  "alt": "Cruz",
+  "width": 1447,
+  "height": 1087,
+  "widths": [
+   480,
+   960,
+   1447
+  ],
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQAAwAA4BaJbACdAYub2giXYKlqAD+9vqXezLKEI+U1MJQoiRj5P3oQFXhwf1GW/v1leMKQsTrVxMdtigzOI/CKv2Jt/EVLjcPJbSbU2pLt36TXDjqzhp9a0Lkf0dO+6zbaUIAAAA=",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Cruz",
+ "sourceUrl": "https://calirivera.com/biografia/cruz-QHEzudwnpfog8IR0.png"
+}

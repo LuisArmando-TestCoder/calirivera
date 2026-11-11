@@ -1,0 +1,28 @@
+{
+ "id": "2000-loteria",
+ "slug": "2000-loteria",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 401,
+ "image": {
+  "src": "/media/memoria/2000-loteria-164.jpg",
+  "alt": "Foto de 2000 del archivo de Cali Rivera",
+  "width": 164,
+  "height": 281,
+  "widths": [
+   164
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABwBACdASoQABwAPu1kqk4ppaQiMAgBMB2JYgCdAB6CS719ht+ZGcZ3s5ywAADzgLavXT3a1BiK7mOzJMzJgnAMbLqxFgH+lTeVdJhXWUkIV9SL1u0JSpVYXcDKLODzMMG0cqgyv96rrlE5VfMt0sSlfH6+WbHQT8ZxZbldHgAAAA==",
+  "color": "rgb(88 72 104)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2000,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://web.archive.org/web/20131220082336id_/http://calirivera.com/images/thumbnails/images/stories/exposiciones/detras/loteria-164x281.jpg"
+}

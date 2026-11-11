@@ -1,0 +1,27 @@
+{
+ "id": "2013-marzo13-a6f4",
+ "slug": "2013-marzo13-a6f4",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 343,
+ "image": {
+  "src": "/media/memoria/2013-marzo13-a6f4-256.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 256,
+  "height": 380,
+  "widths": [
+   256
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwCw7dwA9X2TS12kw1rxAzAA/uzbalMLotzDJOIQa4cjiqv+uMEWkQnBfJ7wHHrV/JU5VHnq+/ld6iN7GYp39a07SeP5VFXL0pCReuRB6vspUILtIJk+Hz/VIH6fm4qRzzD1C/gDGJIwM8SFgAAA",
+  "color": "rgb(24 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220092718id_/http://calirivera.com/images/thumbnails/images/stories/actividades/marzo13-3-256x380.jpg"
+}

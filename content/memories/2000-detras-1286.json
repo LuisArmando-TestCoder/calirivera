@@ -1,0 +1,30 @@
+{
+ "id": "2000-detras-1286",
+ "slug": "2000-detras-1286",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 338,
+ "image": {
+  "src": "/media/memoria/2000-detras-1286-500.jpg",
+  "alt": "Detras",
+  "width": 500,
+  "height": 206,
+  "widths": [
+   480,
+   500
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAYAA4BaJbACdHMAvAADYAFogADh48BfbTpdZOGfhH6JmcC5zK4OGxGCRgPf94Jp0mf9jfP3/9EfFCaeoV/3ky9+//xLMPfBuaLz/y9ocJM2AAA=",
+  "color": "rgb(248 248 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Detras",
+ "year": 2000,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://web.archive.org/web/20161206205834id_/http://calirivera.com/images/obras-galeria/detras_de_la_ventana/detras16.jpg"
+}

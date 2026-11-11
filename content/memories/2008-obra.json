@@ -1,0 +1,25 @@
+{
+ "id": "2008-obra",
+ "slug": "2008-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 244,
+ "image": {
+  "src": "/media/memoria/2008-obra-412.jpg",
+  "alt": "Foto de 2008 del archivo de Cali Rivera",
+  "width": 412,
+  "height": 553,
+  "widths": [
+   412
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwACrw3CRBz7TNlFwWOYAA/kCS8gY5ttx6qBtqPXFIlsNMxXovWsmbIPKgjo98tRtmzGLeCY8dTb4SupV6W3h7nRTPEc4/pLf1fMju4gH63fHRnzOt8Bq2DpHMh4AB6pzpBm/4LQOQ+8x9+pav+AAA",
+  "color": "rgb(232 184 136)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "year": 2008,
+ "sourceUrl": "https://calirivera.com/biografia/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG"
+}

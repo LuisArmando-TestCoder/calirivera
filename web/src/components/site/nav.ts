@@ -21,6 +21,7 @@ export const NAV: NavGroup[] = [
       { href: "/la-incubadora", label: "La Incubadora" },
       { href: "/jovenes-talentos", label: "Jóvenes Talentos" },
       { href: "/bitacora", label: "Bitácora" },
+      { href: "/memoria", label: "Memoria del Taller" },
     ],
   },
 ];

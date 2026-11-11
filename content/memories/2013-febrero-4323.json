@@ -1,0 +1,27 @@
+{
+ "id": "2013-febrero-4323",
+ "slug": "2013-febrero-4323",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 411,
+ "image": {
+  "src": "/media/memoria/2013-febrero-4323-168.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 168,
+  "height": 243,
+  "widths": [
+   168
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoBOACdZdHKG0cAdHBEMQwAA/r2exwh+EqyhqeSo0Druj4roQKOAj4QVEuVlka2TA6gnz4V0hZ5EsYEaJ2E6oBGZi+a6SubupmZG2dc82VDrN/8imuuEPnL/Q9Rc7SVYxo9vBld6yIgGVtz4mBmO0AAA",
+  "color": "rgb(72 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220092850id_/http://calirivera.com/images/thumbnails/images/stories/actividades/Febrero13-168x243.jpg"
+}

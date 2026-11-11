@@ -1,0 +1,27 @@
+{
+ "id": "2019-prensa",
+ "slug": "2019-prensa",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 400,
+ "image": {
+  "src": "/media/memoria/2019-prensa-250.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 250,
+  "height": 192,
+  "widths": [
+   250
+  ],
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoQAAwAA4BaJbACdDiKxyh3RQIOZMAA+yP7+BHFJPbs+Au5NOn5fMWBjkR/Le6Z6hjtTDkIRHRXYgbit78lv4I5UZvgpkAREh7/JymDGXUHNmWYOudJe+rA5KcK3uj2oau+3IaGDXt1Q+/UbC49tdXSQT1gXcAA",
+  "color": "rgb(248 248 232)",
+  "lowRes": true
+ },
+ "kind": "prensa",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423062356id_/http://calirivera.com/images/mgthumbnails/250x192-images-stories-puntos_de_vista-1057779.jpg"
+}

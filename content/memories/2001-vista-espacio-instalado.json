@@ -1,0 +1,28 @@
+{
+ "id": "2001-vista-espacio-instalado",
+ "slug": "2001-vista-espacio-instalado",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 235,
+ "image": {
+  "src": "/media/memoria/2001-vista-espacio-instalado-600.jpg",
+  "alt": "Vista espacio instalado",
+  "width": 600,
+  "height": 399,
+  "widths": [
+   480,
+   600
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAoAA4BaJQBOgMXhu47AOND4AP7Af4ibfqEjXJKwAY1ngdCS8VPj7c3e32p9R3zYTWfywzJ/yFToevD5ralEpc8Vh8SNLP3SX2srigWrxt9NUIAAAA==",
+  "color": "rgb(56 40 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Vista espacio instalado",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207161654id_/http://calirivera.com/images/obras-galeria/identidad_2001/vista_espacio_instalado.jpg"
+}

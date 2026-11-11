@@ -1,0 +1,28 @@
+{
+ "id": "2019-obra",
+ "slug": "2019-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 85,
+ "image": {
+  "src": "/media/archivo/coradia-7966435406837941230-n-960.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 960,
+  "height": 720,
+  "widths": [
+   640,
+   960
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAwAA4BaJQBOgCHOM8aMvAAA/I+bjoqK6S4UhlRd2UCM1A2fUvNqd6pmth0i3pECR+w2UfGwI+rYbYoDiyRPQ3djrG4FLOoylByVkZ8AAA==",
+  "color": "rgb(24 24 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107191250id_/http://calirivera.com/images/coradia_7966435406837941230_n.jpg"
+}

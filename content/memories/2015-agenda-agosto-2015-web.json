@@ -1,0 +1,29 @@
+{
+ "id": "2015-agenda-agosto-2015-web",
+ "slug": "2015-agenda-agosto-2015-web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 383,
+ "image": {
+  "src": "/media/archivo/239x256-images-agenda-agosto-2015-web-239.jpg",
+  "alt": "agenda agosto 2015 web",
+  "width": 239,
+  "height": 256,
+  "widths": [
+   239
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoQABIAPu1iqU2ppaQiMAgBMB2JZwDKACHfK9sjU2qXey5sAP7q76LTudglWT75N5ePk46rUOTnFnwmoYJKbybfZV5nlWCSOHbKT3MHnIOEeIAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "agenda agosto 2015 web",
+ "caption": "En «Actividades taller del artista agosto 2015»",
+ "year": 2015,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210708id_/http://calirivera.com/images/mgthumbnails/239x256-images-agenda-agosto-2015-web.jpg",
+ "sourcePage": "Actividades taller del artista agosto 2015"
+}

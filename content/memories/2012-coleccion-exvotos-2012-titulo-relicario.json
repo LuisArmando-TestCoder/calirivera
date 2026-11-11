@@ -1,0 +1,30 @@
+{
+ "id": "2012-coleccion-exvotos-2012-titulo-relicario",
+ "slug": "2012-coleccion-exvotos-2012-titulo-relicario",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 376,
+ "image": {
+  "src": "/media/memoria/2012-coleccion-exvotos-2012-titulo-relicario-300.jpg",
+  "alt": "Colección: EXVOTOS 2012-Titulo: RELICARIO",
+  "width": 300,
+  "height": 225,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAwAA4BaJbACdADJ14KxbIAA319a08uDEwQGQ6NeGZXG1hwVNmvMjsVEbzY8fbiAu44IUnm3lmMA3D+ZT2+eQdObytcHpKmXaI1JnwxZ2raHc1NQz6zB/AAAAA==",
+  "color": "rgb(56 56 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Colección: EXVOTOS 2012-Titulo: RELICARIO",
+ "caption": "En «~calirive»",
+ "year": 2012,
+ "seenAt": "2019-01-07",
+ "collectionId": "exvotos",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mi_trabajo/p_exvotos-relicario.jpg",
+ "sourcePage": "~calirive"
+}

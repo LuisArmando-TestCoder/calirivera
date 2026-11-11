@@ -1,0 +1,31 @@
+{
+ "id": "2014-alegoria-frente",
+ "slug": "2014-alegoria-frente",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 102,
+ "image": {
+  "src": "/media/memoria/2014-alegoria-frente-618.jpg",
+  "alt": "alegoria frente",
+  "width": 618,
+  "height": 800,
+  "widths": [
+   480,
+   618
+  ],
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JQBWEGQBV4PQOMJ6/+OqAAP7zgDoWPN82e9RSW5mvKooFwqCvYR8sgknIjWhIo8LajfA/2XRhycx9Yqnj0XVC054eorc8ouFPXm2AeeRmSwxDGpKGD7o2AAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "alegoria frente",
+ "caption": "En «Obras»",
+ "year": 2014,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/sincretismo/alegoria_frente.jpg",
+ "sourcePage": "Obras"
+}

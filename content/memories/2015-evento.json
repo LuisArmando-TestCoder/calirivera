@@ -1,0 +1,26 @@
+{
+ "id": "2015-evento",
+ "slug": "2015-evento",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 365,
+ "image": {
+  "src": "/media/memoria/2015-evento-245.jpg",
+  "alt": "Foto de 2015 del archivo de Cali Rivera",
+  "width": 245,
+  "height": 339,
+  "widths": [
+   245
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBadBFKMhKbAotDRVnQtgAD8tNuikIwsJr+Nz4D/uIRoHL4v8yF/VjZimWKdNxcx3RVPLAlga15CGnE8v/1molYF/0Xw0Z2P05YcLhRJAX/jjifUGlKpNoou72RFPdsMx3NwAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2015,
+ "seenAt": "2015-08-18",
+ "sourceUrl": "https://web.archive.org/web/20150818100648id_/http://calirivera.com/images/thumbnails/images/stories/actividades/feb2015web-245x339.jpg"
+}

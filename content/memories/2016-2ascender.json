@@ -1,0 +1,29 @@
+{
+ "id": "2016-2ascender",
+ "slug": "2016-2ascender",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 98,
+ "image": {
+  "src": "/media/memoria/2016-2ascender-700.jpg",
+  "alt": "2ascender",
+  "width": 700,
+  "height": 719,
+  "widths": [
+   480,
+   700
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQABAAA4BaJYwCdH8AFx++w5vpx6gA/vMD3ti4PufsKTKTpKhmOCiqNKi49ACrPiWxXZwoFl5j3FBojYWSVaZUX84mRzXJgXhUmqx2H+ZllDkQcDPL72yGFxfsWmAAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "2ascender",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207015935id_/http://calirivera.com/images/stories/obras-galeria/alquimia/2ascender2.jpg"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "sf-edificio",
+ "slug": "sf-edificio",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 26,
+ "image": {
+  "src": "/media/taller-del-artista/edificio-1122.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 1122,
+  "height": 1402,
+  "widths": [
+   640,
+   1122
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JQBYdhD4aylC2QrtkXXyaraAA/vQjvPN9TkixdTegHtbDv81hujMzepl5WuZxacbsrqaNtkwGkNoTQ1YACwXp8i/sboVye3QOkzXege9luWT0zAGuJxwSii0gNWkxbZCeXAUIHA78XBJBowAAAA==",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "taller",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "sourceUrl": "https://calirivera.com/taller-del-artista/edificio-oClNO4hKeQjFZ1PG.png"
+}

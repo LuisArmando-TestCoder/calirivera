@@ -1,0 +1,29 @@
+{
+ "id": "2023-alquimia-de-almas-en-el-jardin",
+ "slug": "2023-alquimia-de-almas-en-el-jardin",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 440,
+ "image": {
+  "src": "/media/alquimia-de-almas/en-el-jardin-2400.jpg",
+  "width": 2400,
+  "height": 2629,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZgCsACHiCsRQJK7IlRzIIAD+vnC8ym7k8LBhviNRir8TBcC5J4S17DWEorDVZfxSKfD7bg1TemA5BaVmUE9j7yVnpfS65YBsb08j94JLmQrlUu9e/svB2c8Tjc6z74qBhZVAJGGtWVoAAAA=",
+  "color": "rgb(248 248 248)",
+  "alt": "En el jardín, Alquimia de Almas, 2023"
+ },
+ "title": "En el jardín",
+ "caption": "Mixta sobre tela · 20 × 20 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

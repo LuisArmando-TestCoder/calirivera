@@ -1,0 +1,29 @@
+{
+ "id": "2016-estratos",
+ "slug": "2016-estratos",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 99,
+ "image": {
+  "src": "/media/memoria/2016-estratos-557.jpg",
+  "alt": "Estratos",
+  "width": 557,
+  "height": 900,
+  "widths": [
+   480,
+   557
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdMoR3AdEMgX40LVEmQLFnAADh/ulmeZwXuq4QW+Iv0meK23JE1vG/4g4Dey0lLqXD6DMQ4GpZl64zaqCEqhPIQJzt+kt4AcBPtrA8QaQt2ndlVpOeLIbbvtG77vCZ4//fxPGpUZozqzQlntAe/D2JKf+zShKqxbWNs9XiAtl4guENyLSdFt780br03y60wNwep/4oddhpjZAeyTZjqOZno5N6sKSBccftcyzujUAA",
+  "color": "rgb(248 216 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Estratos",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206134008id_/http://calirivera.com/images/stories/obras-galeria/alquimia/8detalle-cumulos-cirrosy-estratos.jpg"
+}

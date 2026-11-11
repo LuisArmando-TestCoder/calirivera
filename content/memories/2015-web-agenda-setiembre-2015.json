@@ -1,0 +1,29 @@
+{
+ "id": "2015-web-agenda-setiembre-2015",
+ "slug": "2015-web-agenda-setiembre-2015",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 398,
+ "image": {
+  "src": "/media/archivo/218x226-images-web-agenda-setiembre-2015-218.jpg",
+  "alt": "web agenda setiembre 2015",
+  "width": 218,
+  "height": 226,
+  "widths": [
+   218
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoQABEAPu1iqU2ppaQiMAgBMB2JZwAAUz50+6krqE1AAP7q7daT4uBykslSt/XOYHs7BLLvdFpDZT++4SmgSMcO+oojBRI4YQAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "web agenda setiembre 2015",
+ "caption": "En «Actividades taller del artista setiembre 2015»",
+ "year": 2015,
+ "seenAt": "2016-12-12",
+ "sourceUrl": "https://web.archive.org/web/20161212182609id_/http://calirivera.com/images/mgthumbnails/218x226-images-web-agenda-setiembre-2015.jpg",
+ "sourcePage": "Actividades taller del artista setiembre 2015"
+}

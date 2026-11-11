@@ -1631,5 +1631,4426 @@
   "color": "rgb(248 248 248)",
   "lowRes": false,
   "aiAltered": false
+ },
+ "assets/home/disea--o-sin-tatulo-1-FQJYBlAHWRyOJPMj.png": {
+  "src": "/media/memoria/sf-obra-1600.jpg",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "width": 1600,
+  "height": 1600,
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAQCdASoQABAAA4BaJaQAAtzGQVAA/vfvPQab44r9I3WdyZJqAWQpblkUZ3kImD3+7GCekeMtcg1BwawaRqoKjzZMcnkAAAA=",
+  "color": "rgb(72 104 72)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/assets/8bd44f72_image0.jpeg": {
+  "src": "/media/memoria/2022-obra-1248.jpg",
+  "widths": [
+   480,
+   960,
+   1248
+  ],
+  "width": 1248,
+  "height": 1993,
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoQABoAPu1iqU2ppaOiMAgBMB2JQBWAAziIfzHNZpQhBllAAP7Tm45rXpAcjtldIh+wK8T+5LHvWqI/DbXAaQsLwrHRKgeXs5cpFg1cv806ka7JfbpC1O9OelHAQvHHZG8YwY8idheTh6k4kPbL4de68663iodFiTRywwhyeeFtt5yBqhOK2l7d2a+cWvEHJsAAAA==",
+  "color": "rgb(200 200 184)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "assets/colecciones/teatro-HqcXaKuhRk4u6mfY.png": {
+  "src": "/media/memoria/sf-teatro-1116.jpg",
+  "widths": [
+   480,
+   960,
+   1116
+  ],
+  "width": 1116,
+  "height": 1410,
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoR3ACP7HVsixiRAiqw2AP7BPoRZj1rXJGeC2vmr9K22/coRTexLYEiqOJFFLBJVQ2BZ5xOLoznHBMgFLx5EhXVO7WL9wbv0uoDOjdAx7GamPt1LeDqMWI/OwdChXoYu4O9QsNncgStow+CcAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "assets/suenos-en-azul/44681f0d-74cd-4a8c-8792-637c183287ef-G5J2lda0dxo4La5R.png": {
+  "src": "/media/memoria/1996-obra-887.jpg",
+  "widths": [
+   480,
+   887
+  ],
+  "width": 887,
+  "height": 1774,
+  "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAABwBQCdASoQACAAPu1iqU2ppaQiMAgBMB2JbACdMoRwN6TTAf9vbJBHFckMBeYA+p4MP5YAAP7zA+kvARW/OpmmtY5G3/+/MLJGJGn7ZXtM/L+JuMhh5BMMyUpNFj2XIuJSUXy+4vEoF2ZnVj7sAJBGCxntW9P+RIyMxfG7XDOFeZmypf8TbsjzKYMvcPpju1Nlqc2YEpNgPSFzNHd7m4M9EuW4gC/cJM7W6DCODdbiPtnysZ2kTQB1sYFLfU3WXK0tlnFfWgAAAA==",
+  "color": "rgb(8 136 216)",
+  "lowRes": false,
+  "aiAltered": true
+ },
+ "legacy/memoria/raw/f1055643_ofrenda.jpg": {
+  "src": "/media/memoria/2013-ofrenda-841.jpg",
+  "widths": [
+   480,
+   841
+  ],
+  "width": 841,
+  "height": 960,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JagCdMoADYHhJXDHxh4eyC2AA/oPw+sNhJrlhdHiQi6mkbYlkKDbPGXWt1ITTgpSJrgcvnK/uAMy9lclWBTu6UWQV401XA+8Ca4qUVRUsUL4CpzOH1LZcnoeeevpS2TULyDXLRpE3VargAAA=",
+  "color": "rgb(136 120 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/406cdef5_big_bam.jpg": {
+  "src": "/media/memoria/2013-big-bam-841.jpg",
+  "widths": [
+   480,
+   841
+  ],
+  "width": 841,
+  "height": 960,
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JaACdMoRgAAwVjuSfeT1BUINuAAD8InLaPzwXcx7VuuM87X1fs+sBe0eFoZL1Jij34++cF+pzBgPpnFgqv38zcHX4RorSyegEaHmMyW6GagBQGku2TtApU/qObRb8usbO73+C4/9nFgAA",
+  "color": "rgb(216 232 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/biografia/cali-8uAZ6Wg1pDNZsEID.png": {
+  "src": "/media/memoria/sf-cali-1140.jpg",
+  "widths": [
+   480,
+   960,
+   1140
+  ],
+  "width": 1140,
+  "height": 1380,
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoADCo0Hbd0trQ3uG9PQAP1rQ6xCapnOzb99kHg88ozISaNj+lgM4DVylfjza4zy65JGqfCQZIuSboV+pX+apZUUdbKBWFQ4nJhBVE57SHio1IcUtX3nNkj1ixX0EHhx2iUcAosmYf+mfqOTVHf8RQkHl1TTIy4ytqfXNFuMGJlUhrEBxFnAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": false,
+  "aiAltered": true
+ },
+ "assets/biografia/cruz-QHEzudwnpfog8IR0.png": {
+  "src": "/media/memoria/sf-cruz-1447.jpg",
+  "widths": [
+   480,
+   960,
+   1447
+  ],
+  "width": 1447,
+  "height": 1087,
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQAAwAA4BaJbACdAYub2giXYKlqAD+9vqXezLKEI+U1MJQoiRj5P3oQFXhwf1GW/v1leMKQsTrVxMdtigzOI/CKv2Jt/EVLjcPJbSbU2pLt36TXDjqzhp9a0Lkf0dO+6zbaUIAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": false,
+  "aiAltered": true
+ },
+ "assets/taller-del-artista/taller-del-artista-UJK3bqdZmx7TConb.png": {
+  "src": "/media/memoria/sf-artista-1024.jpg",
+  "widths": [
+   480,
+   960,
+   1024
+  ],
+  "width": 1024,
+  "height": 1536,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZACdMoADTnu5UnoVSqNSfI8AAP7y4es0C6/8NC5fpoXwEX1wNNAYHZzgETLU7yLZZq3cYbJwEIrnVjRz3pjA5VF8l7490nN+ZDALjkBzpPjMU4ArqvEb+0/5Y9jSxQ+90e6xL4Ne0WqykcrUgAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "assets/taller-del-artista/palma-dorada-de-madrid-ITQnOkZCztT18E56.png": {
+  "src": "/media/memoria/sf-madrid-1254.jpg",
+  "widths": [
+   480,
+   960,
+   1254
+  ],
+  "width": 1254,
+  "height": 1254,
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABwAQCdASoQABAAA4BaJSvPowARYAD+8pgaeYv/r0eL39oxWjG/XFJMC5nDy079Ps+7UN6aNT7XheTre/3LAiOx7NkKPFdwAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": true
+ },
+ "assets/detras-de-la-ventana/madre-tierra-AL42ugwWZeNuNCXd.png": {
+  "src": "/media/memoria/2000-madre-tierra-1080.jpg",
+  "widths": [
+   480,
+   960,
+   1080
+  ],
+  "width": 1080,
+  "height": 1456,
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdBagSAAwJ6LAfBYflvVLE9vQAAP6Nm0SrZHCikA6tX1GO7lAD/ObzUEVjbFEH5taukw9m01ZXUKl2uklH+Dpejux4IXOfa2AhdPRxM/htyOSsPQ9UmSzq5qcfOap5v02eHzQpey53xlobjNKjT+SuoWm1sq8ewPMJ9nbRbNUlL2MzuOVgdTXeZgKXI1mRdkg4hW9bZjsUjx4zPg5kFDVfBXXxacDb7AAA",
+  "color": "rgb(8 8 24)",
+  "lowRes": false,
+  "aiAltered": true
+ },
+ "legacy/memoria/raw/bcd75bdf_identidad_mundo.jpg": {
+  "src": "/media/memoria/2005-identidad-mundo-841.jpg",
+  "widths": [
+   480,
+   841
+  ],
+  "width": 841,
+  "height": 960,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JQBOmUI7gBTqttLTD4rvvwwAA/bYYv51yVfZKsvQBlv+JvmbeDCOhA600ORtGJ/8P62qnRpFhxYv0jxAdUWYAREBIEkzrH9iwMzR3nyJarLnQKySDgAAA",
+  "color": "rgb(136 120 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/home/f25f1380-c63d-42a7-bb08-38116fdc92ba-7AqHJk6Tuz7v1Se1.jpeg": {
+  "src": "/media/memoria/sf-obra-f6fe-900.jpg",
+  "widths": [
+   480,
+   900
+  ],
+  "width": 900,
+  "height": 1600,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQAB0APu1qrU8ppiQiMAgBMB2JYwCdABjtFlQoWSSWLhIAAP7zJTmnu6nmQofIsmtdsC88EbhdS5uz1ZvEfHwDgzUlBfGkUO2szJXrkpmpGh3g4IPGhFlD83ZECcrAEdPET6vz5nWuKblxvdtZng6o+f6bL6HE86KIAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/assets/7a0836b6_abril13.jpg": {
+  "src": "/media/memoria/2013-abril-936.jpg",
+  "widths": [
+   480,
+   936
+  ],
+  "width": 936,
+  "height": 1368,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JaACdMoAC4ygMP1VM274MIpAA8gBEp8HaF3frL7Y7vCEZL9QX2xLW05VCNIpcBHP5f71GRkfrSUpefoyX58z2d9eupkLkTFGZ560biLUiLSaw6yhdkF+LOcEEC0Blr3OYRSJ3XG/AmFgoABXlzk9gs31rgAAA",
+  "color": "rgb(104 40 40)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "assets/taller-del-artista/tres-tenedores-rGSUnnhqT3oe7luU.png": {
+  "src": "/media/memoria/sf-tres-tenedores-1024.jpg",
+  "widths": [
+   480,
+   960,
+   1024
+  ],
+  "width": 1024,
+  "height": 1024,
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQABAAA4BaJYwBUfo9FAL92TAA/vi4FQPYjwA9jGfjT1iuwDAHw0XKdowaA4S/eTosp6U9LuAob9xfPAOAAA==",
+  "color": "rgb(104 88 72)",
+  "lowRes": false,
+  "aiAltered": true
+ },
+ "legacy/assets/943f968e_revelaciones_Pigmeos.jpg": {
+  "src": "/media/memoria/2011-revelaciones-pigmeos-800.jpg",
+  "widths": [
+   480,
+   800
+  ],
+  "width": 800,
+  "height": 1149,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACwAwCdASoQABcAPu1oqk6ppiQiMAgBMB2JZwAFgAEmYlLahPRqgAD+4nyK5ZG9mS+UKPQvV/Lakg0GTba0IvIxmmGBYFeQHrNsHz6PU5aljIAQaGPc7hUvWSiIBCipd/GOzPAjrDKt8zvsTV3qb23kfypFJQ6KXO7kQm6elsHAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/assets/20f5fd75_fenix_3237889066560891632_n.jpg": {
+  "src": "/media/memoria/2025-obra-954.jpg",
+  "widths": [
+   480,
+   954
+  ],
+  "width": 954,
+  "height": 954,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoQABAAA4BaJZAC7AdwLeRxU5GFweQAAP73PhEvkxp33h8ea+Fzvw0KqFP4xu9bj3uSPJRchW5xjKswdfzk6D1iNXEuTqjt1LhjdeHS5uLzMzdmVbZ0OVBZqxFbeD+wVjn48tA+XlNaMUXYBqb195wnYnGUN8fAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg": {
+  "src": "/media/memoria/sf-cali-rivera-800.jpg",
+  "widths": [
+   480,
+   800
+  ],
+  "width": 800,
+  "height": 1000,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoQABQAPu1iqU2ppaOjMAgBMB2JYgCdMoAC/MX+cIYPEwAA/vDfoBa2Z0hNp6ElQyQAxY/jZF1sX41dRlsItbrHGEQX3XSIP5r5U+fcGBxXIYAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/8616258d_luna_azul.jpg": {
+  "src": "/media/memoria/2013-luna-azul-831.jpg",
+  "widths": [
+   480,
+   831
+  ],
+  "width": 831,
+  "height": 960,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoADTrjer5LrSpsxOAD2QBXwICB4Xd/Jd/IbPJBRoHTRzgXaCwLrA9l3Xmmzi/+GwHIlLu3sPyb2E2RsOlcelHtvWk1jtnQVxr1ZMTUlVe7AR74PVQHXfUlMB+JZ1fKdrt/E4awXzcAs2fNfzKjHYAAA",
+  "color": "rgb(184 168 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1f652f8a_el_tiempo.jpg": {
+  "src": "/media/memoria/2013-el-tiempo-818.jpg",
+  "widths": [
+   480,
+   818
+  ],
+  "width": 818,
+  "height": 960,
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoQABMAPu1iqU2ppaQiMAgBMB2JbACdMoR3ACXBWId61GnNZ5AA/kCdjwOQqfYgQk/YsbLH7I8b35VTuoKT3/DMa2xEc8w11wDw0DpeRD978oZxZcLrrb/x5dgc63YtOmKQEiAAAAA=",
+  "color": "rgb(120 136 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/84d73189_bandera_corpus.jpg": {
+  "src": "/media/memoria/2003-transmutacion-dorso-802.jpg",
+  "widths": [
+   480,
+   802
+  ],
+  "width": 802,
+  "height": 960,
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABMAPu1iqU2ppaQiMAgBMB2JQBOmUGVTCCkft1hcJSLLj+ewAP7uWJEKyjgz+WXfB+wSS5QjwZ83djk26EUaEXEzFUr7jOqvB9kVtUw5ygM3cheymtPhVj0F55PIqKNxtBIIiTQWuMyph39hcrffjev96ZNsSE8NDSvAjUASD49eSf1jazlzYTbfSsJgAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0f98e160_exvotos-relicario.jpg": {
+  "src": "/media/memoria/2012-exvotos-relicario-734.jpg",
+  "widths": [
+   480,
+   734
+  ],
+  "width": 734,
+  "height": 960,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdACHqSKxMAF5cz93VYADh3HJnIDi1VCV4o2WmAilVLoygWVce3TP0ITyPfqRH1qDsD/XrS8cpzmmZV6vRk5Aaqkp4kOnK1OwJecOERwiegTKslzgZDkaLq/mNaO4HY5iyAAA=",
+  "color": "rgb(56 56 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3162fc5b_3conel-corazon-en-la-mano.jpg": {
+  "src": "/media/memoria/2016-mano-800.jpg",
+  "widths": [
+   480,
+   800
+  ],
+  "width": 800,
+  "height": 807,
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJQBOgB6P+KcOqZ8AAP6tPxE7EkMfcS5T1wozn9gi4PGXix3NXs5/fm0IqVIiELc7RCxMCSH/ZPvwZKrzxVV7a9XrHvP9l0w3GJu/FbdknG2ey8PiJHoMt/sb3joAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/50011e72_6transmutacion-azul.jpg": {
+  "src": "/media/memoria/2003-6transmutacion-azul-792.jpg",
+  "widths": [
+   480,
+   792
+  ],
+  "width": 792,
+  "height": 799,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQABAAA4BaJagCdBPAKkd25QTeAAD9mNLjAyWyrqfGtYa8/MD74K/e3NiUXiDdS/+5nFHdhTT49IpOxZc591swWE5/dFKMbc1Cmiz23Dssyu7QZJPrf2pziZcVcrYiwEroQO72r4XgTdGQAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/77bdf9c4_banderas_terramall.jpg": {
+  "src": "/media/memoria/2016-banderas-terramall-960.jpg",
+  "widths": [
+   480,
+   960
+  ],
+  "width": 960,
+  "height": 639,
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAsAA4BaJQBWABemDUpbgAD+we+om4jvDbvhRjnmjlKan8eqsxdYKqzA5Gt02ZJ7q0NHsMU5bIcbXNTFNRWMwBjtyuOrbsvDS5zg3iZAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1959286e_banderas_globalizacion.jpg": {
+  "src": "/media/memoria/2004-banderas-globalizacion-960.jpg",
+  "widths": [
+   480,
+   960
+  ],
+  "width": 960,
+  "height": 638,
+  "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAsAA4BaJYwCdAYr7ixg7MHEKAD5c0YGN9AfOA+6xv8965/pKTZEe2DU53UrcepAEuMEcc+pfVCY+MXkb2PLZPeStpX/6jb4/bgg7UlSSp40qk19ENSbslL6BNir6AMAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0024cfa3_epifanios3.jpg": {
+  "src": "/media/memoria/2019-epifanios-677.jpg",
+  "widths": [
+   480,
+   677
+  ],
+  "width": 677,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAQBQCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwEGADlPovrH+nCX1sui/7LCoAAP7UoNkcesmmX2mWHG/ropdn2Haqu2fNuD705h3THQ9dSl2thK5a/NhZ8OpGI+nLdWJQU0yiwF4V7pkRzAIdUb02ENjw4W0WQT0UrGyIdkt7cBGk1YSu8wIYuOvfkkvMHA1furMi/L/A9BV6ZILqKkHu411+HK+di4iFF8ZpcK6thN6bMCIWWp5AAA==",
+  "color": "rgb(248 216 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e06648ff_transmu6.jpg": {
+  "src": "/media/memoria/2003-transmu-493.jpg",
+  "widths": [
+   480,
+   493
+  ],
+  "width": 493,
+  "height": 1149,
+  "placeholder": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAADQBgCdASoQACYAPt1Yo02opSMiNUgBEBuJbACdMuN5eGQby0+AjAHKAfAEopxRQdLfU5QOjGD9o+IQoZ+2tEAA/uts0DeReU28JEhkAy2PEP92OMWNu+YhabS04qHlNAvjuaUJ7ujOPN7RwHtq6Ucvd0d5vdFwsd+YRnjfr6kCVRvqXS+NI7hRaRP4wFjuOfmvcoGs4NGxjx+7mo3R5aiW9iMxhHo+kF5yiDMEynnRZyvwNXHfw1cvD67cPvegDNV4zPQFs02QUweg5RZjP4L5QKlhNjbrfkfHKVOZhJOcNO8bZvw6IgyJmE43+jY1+FBB9cXcA2H7BTsAjNsv/rPoNL6lx4dLgIGCmRaHVLmy7ukueIlXKg7u0RrtEWCv0HTYz3wbcovSuPqqmFnTIgAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/cf4e0715_agua_portada.jpg": {
+  "src": "/media/memoria/2025-agua-portada-750.jpg",
+  "widths": [
+   480,
+   750
+  ],
+  "width": 750,
+  "height": 700,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAgCdASoQAA8AA4BaJbACdEf/i2LN9u9jff/Gw2AA/mD4hIv0oRakMtzyLuo3gdNa69RR2BSr1VA/xYpaunXOE5j1Y8UannX6jcDi/+1yc41rNh++auhTw6USMS67XeW8qcWABfsgE6ftPQbYdKhsAZvsxPicTCai4AAA",
+  "color": "rgb(232 216 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3c4bb484_la_puerta.jpg": {
+  "src": "/media/memoria/2000-la-puerta-586.jpg",
+  "widths": [
+   480,
+   586
+  ],
+  "width": 586,
+  "height": 880,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQBOmUABWfGIeX1onU1MSAAD+WeTMJLJTb8niqFSjWkJ8q7rgYoyKO67aYF4xFkRynMQYUpZfCIsRAAA=",
+  "color": "rgb(184 200 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/52348de2_epifanio1.jpg": {
+  "src": "/media/memoria/2019-epifanio-800.jpg",
+  "widths": [
+   480,
+   800
+  ],
+  "width": 800,
+  "height": 637,
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQAA0AA4BaJbACdAYubnzpt3FqWvgA/sj6Swfr9Tu8kAdNk3d0qi8n8Q9096F3YJTWMe+IhqKzcwCr8GHkj+w4YE6mMR2/xo5GzGQfBG8IB/fqYauOGhR+yfoeG0QwXdxc2h239Mvjre/xM971EQAA",
+  "color": "rgb(248 248 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e34094ab_2ascender2.jpg": {
+  "src": "/media/memoria/2016-2ascender-700.jpg",
+  "widths": [
+   480,
+   700
+  ],
+  "width": 700,
+  "height": 719,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQABAAA4BaJYwCdH8AFx++w5vpx6gA/vMD3ti4PufsKTKTpKhmOCiqNKi49ACrPiWxXZwoFl5j3FBojYWSVaZUX84mRzXJgXhUmqx2H+ZllDkQcDPL72yGFxfsWmAAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/fd54be9b_8detalle-cumulos-cirrosy-estratos.jpg": {
+  "src": "/media/memoria/2016-estratos-557.jpg",
+  "widths": [
+   480,
+   557
+  ],
+  "width": 557,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdMoR3AdEMgX40LVEmQLFnAADh/ulmeZwXuq4QW+Iv0meK23JE1vG/4g4Dey0lLqXD6DMQ4GpZl64zaqCEqhPIQJzt+kt4AcBPtrA8QaQt2ndlVpOeLIbbvtG77vCZ4//fxPGpUZozqzQlntAe/D2JKf+zShKqxbWNs9XiAtl4guENyLSdFt780br03y60wNwep/4oddhpjZAeyTZjqOZno5N6sKSBccftcyzujUAA",
+  "color": "rgb(248 216 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/5893c9d7_5mericaba.jpg": {
+  "src": "/media/memoria/2016-5mericaba-700.jpg",
+  "widths": [
+   480,
+   700
+  ],
+  "width": 700,
+  "height": 715,
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQABAAA4BaJQBOgCHdyJHp5zoAAP7dsRYG7HKB6j1Z+cvSme/rBwYUquvlcarTmoqQYGPREkS/79dU3wCRXnyMySZeXaYDY2b5eX+BlQAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a1f1e451_1ascender-1.jpg": {
+  "src": "/media/memoria/2016-1ascender-700.jpg",
+  "widths": [
+   480,
+   700
+  ],
+  "width": 700,
+  "height": 708,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoQABAAA4BaJZACdH8AgsiODkuvbrAA/vbYX09CS62TlvVgkiapU+8SrTxrDMw9XQn8xer4NwWY77QmVrDCl/tW4tElFqoV0H6qxyvzPRif29x4+Z1MnfCbxqGbZDnZWETYOp7HSfPbhgR24zBCAjBQQZQYFOSdy4AAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/b2d00be2_alegoria_frente.jpg": {
+  "src": "/media/memoria/2014-alegoria-frente-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JQBWEGQBV4PQOMJ6/+OqAAP7zgDoWPN82e9RSW5mvKooFwqCvYR8sgknIjWhIo8LajfA/2XRhycx9Yqnj0XVC054eorc8ouFPXm2AeeRmSwxDGpKGD7o2AAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/3d1d9d79_alegoria_dorso.jpg": {
+  "src": "/media/memoria/2014-alegoria-dorso-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoQABUAPu1kqk4ppaQiMAgBMB2JYwC7AB4Y6RcpheihYAD+84J36kdj8OSCoJVw1SJ9BnaH46YatCwC3LXvYffogin9R/6UEM4p7PKWSAKvVm596vYQAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/30ec67d6_canto_frente.jpg": {
+  "src": "/media/memoria/2014-canto-frente-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1iqU2ppaQiMAgBMB2JZwAD5SoLv2VJJBniDQAA/vHemlVCMiPgl/mVuOrqr2ItMuck5a+kJEFhnl4jGdtaHnGpRquRzPRVQPZzm6aetcEp7f9ZCtVli1kodpzWBUW9C0VwKoI30pgAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/36721fc3_canto_dorso.jpg": {
+  "src": "/media/memoria/2014-canto-dorso-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JaAAAXgT/d5V0e+vGzAAA/vBKKRQfeJiWQdc76LG8rGTCrSBJOh0zgzXcWxTOD0MuORoqvV3EGK5qkABN36HkxwjQLmPDX3v4s9+4sRxFMSghH2wD82KUAgxgAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/0f9c2f87_flor_frente.jpg": {
+  "src": "/media/memoria/2014-flor-frente-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JZwAAW4Yqc8kZ4sAA/vH9WBmH9KNYbtmWqfPoCU6tmbxlPbV24+vwHqBBujgovOxQQE7tZUEs0ED/0I+EzAxDN5nqtTXa5NjnNYJOwlwsfDiPgAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/5d86e50a_padre_nuestro_frente.jpg": {
+  "src": "/media/memoria/2014-padre-nuestro-frente-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JYwDE+IjCuT9fNkHvi0AA/vHgYtM7dz8tsUkUf+f+fJJvEfAXa8Rnvg0jptq2BuB1q9q045RhoEFtghRPSH7wMxc1YJwAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/143ae06a_padre_nuestro_dorso.jpg": {
+  "src": "/media/memoria/2014-rezo-del-agua-dorso-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoQABUAPu1kqU2ppaQiMAgBMB2JQBOkCChZQWItkwlIcgXAAP7zgrj9Ueh/562WaPWc5Z2ZD8G/dMh+r4jsCu0qwUltSynkCbOPjM1LDt057wA9tZoQy0dZcRhtfa+AAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/7f52dc10_sincretismo_frente.jpg": {
+  "src": "/media/memoria/2014-sincretismo-frente-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JQBfJBFKQPJY3IBGP3gAA/vN+twhA7OVoPEF4+iqKAbxKZC2sMEJ+qV1YCDmw7LK4MTwIt9+t+Roe2PAF/t5slbQDVAaINXqsSOBWAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/a15ff205_sincretismo_dorso.jpg": {
+  "src": "/media/memoria/2014-sincretismo-dorso-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JZQDG9CIZW4o7bsS9AAD+84EHz5A21CeSR5k+ASX25/zatA61uic8vHGvfi9n51nfMtDvy0677aSy6OvjAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c4179e7a_transmutacion_frente.jpg": {
+  "src": "/media/memoria/2003-transmutacion-frente-618.jpg",
+  "widths": [
+   480,
+   618
+  ],
+  "width": 618,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JYwCdIP8DAAr2WnqzXU9AAP7yNHseCNptRm0S7PQXup2nasvyQSXdtUb6k/AwRFtzjDakldBNXqOJ1r/2xwOJYnMUM0EsZOPXRJm28+O4H6ts6vGx7enZ03awoHTPanhC0X/gtVwqXF8Ij0AAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/6afb9315_4flor-de-vida.jpg": {
+  "src": "/media/memoria/2016-vida-700.jpg",
+  "widths": [
+   480,
+   700
+  ],
+  "width": 700,
+  "height": 702,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJZACdAEPArVdJlT4AP7qNggRdAnqcKabI106pmMwt1NXBfFth3dMeMHTSieSSZstJKu7wmj5MzH9QDFWTGPYBMKaf+0GRXVKPBhpjoZGyB2AAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b0606dc3_pendiente.jpg": {
+  "src": "/media/memoria/2019-pendiente-601.jpg",
+  "widths": [
+   480,
+   601
+  ],
+  "width": 601,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JaQAAW+nyFYAA/vKYRkYBZ2s493+OfRrbJYrQhSEAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/077b8c68_pendiente-alquimia.jpg": {
+  "src": "/media/memoria/2019-pendiente-alquimia-595.jpg",
+  "widths": [
+   480,
+   595
+  ],
+  "width": 595,
+  "height": 797,
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwACn4tH+Wq+t0Ou2QAPjloWLscVDdS/nVH6yfGLxs/6GPLY8Njqx8eAJY5Oy1XvP9ZsqA2fV39NwKyBZNG96rEJJD0E5BEXLf5QDkwk4qAu4jVXq6wIp/AHeNPQeihsgppBE+LkfFH8j1BMtgLPkbDgAAAA==",
+  "color": "rgb(248 216 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c8415520_detras5.jpg": {
+  "src": "/media/memoria/2000-detras-b54a-1000.jpg",
+  "widths": [
+   480,
+   960,
+   1000
+  ],
+  "width": 1000,
+  "height": 473,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAgAA4BaJZAC7AEDoFwuUnAA/n5RfaWDWsaHwjCG10gqVLsJlp0CWE4F/b9wXcjy4DywKMslDWw2y/Hx6sk2j51Oa4roAIJ4AA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e4ed8ca5_fe.jpg": {
+  "src": "/media/memoria/2001-obra-589.jpg",
+  "widths": [
+   480,
+   589
+  ],
+  "width": 589,
+  "height": 799,
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JaACdMoMYJn/LsASw8Zq05M2l1NPm5AAA/KxNDyxlMANfbb2ruw0FylrGnaNQ/IjFA2qpRX2ghT9FzKXaj3yNhubuRJ7J/8KoZ4OCEEpxtx+V+pRTMoI/ueHMhjm9Omz+Sfzh6h1xD7FI0HoHgcQa1zhS6ftYFvSdGUN93yuLrJ11wCwb9sSq6AAAAA==",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a8e0af61_obra_trasnmutac.jpg": {
+  "src": "/media/memoria/2015-obra-trasnmutac-800.jpg",
+  "widths": [
+   480,
+   800
+  ],
+  "width": 800,
+  "height": 587,
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoQAAwAA4BaJbACdAYv1lHxKQ49C3QAAP7inTCSF9w90t6N7Rfel7hYmk7KbuICwcC/L8bJtJ2OE0d9eRIZZOPk+T/PgH3s3hXfOqEceV3OSAgFNXB5Z13dLT2+Wl2d954aD/LNGsiJ7P0lksUX8et54AA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e52a2598_detras21.jpg": {
+  "src": "/media/memoria/2000-detras-fb4e-550.jpg",
+  "widths": [
+   480,
+   550
+  ],
+  "width": 550,
+  "height": 846,
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoQABkAPu1iqU2ppaOiMAgBMB2JQBhQAqvvPw83I7PITJKwAAD9SL178ZtRalodH1kS8dF44Phf5HFFj+siXNANJasp1zigsNon5R75+oNcwlkw86KW6SgwO4hC1vJVSQKiBZ/HTGc3E9PuFkWoD3M0Tt4kS3pdh0ycrfefGPIAAA==",
+  "color": "rgb(24 8 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4ac653ce_plegaria_de_las_aves.jpg": {
+  "src": "/media/memoria/2001-plegaria-de-las-aves-589.jpg",
+  "widths": [
+   480,
+   589
+  ],
+  "width": 589,
+  "height": 783,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdAA39Ax1/Wg0qwAD7BC+corZAhQE3ykJxduKe2TZuyrzHjPk0U87lEiis4lZPXGYBTgUAWOnACLrrYAA2IjBi0bt6g+S7dXfo/SRda0wTDZ00X0jdle07oNIYfo+/sSkoU+vvciEojez/onAA",
+  "color": "rgb(120 152 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4d3371bd_cofradia1.jpeg": {
+  "src": "/media/memoria/2007-bichos2-jpg-600.jpg",
+  "widths": [
+   480,
+   600
+  ],
+  "width": 600,
+  "height": 752,
+  "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYwC+SYxipNk3y7yx6t4piwAA/uhqkHe3J3LKzV2stsaA7h6pvDaWxALPTjZvQPcadCI8cEceXXu+7iJ1aXdxI3CogMJzTAWOLWDzddBAr7nvXRl1yPa8PTPInXy3EEgebyKHq6r/4uM/UoI0lvfd9/wx1DeX3FF9XcF/eDnsr153BAjlhI5FCLrXhFMf94AAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a835bc38_9infinito.jpg": {
+  "src": "/media/memoria/2016-9infinito-555.jpg",
+  "widths": [
+   480,
+   555
+  ],
+  "width": 555,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZgCdMoBOAbV4876FIa7+0TCdqxciAAD+qnpwqj9E5gK98QN83XBBEOrLJQKR13e4+d06H1IOw1qNKU1vZfOXVLBAJpzyrt2fuA8QY2sUyHud7DXu7zwMOmrjZBs8DCJZI27h9xqqEUaf4hjdJNYbLuvdPeafUJcoqFkcxnNKUMqCt8g3aAyPTOVrX8iQASKZhhYBABPIY3AA",
+  "color": "rgb(40 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/biografia/cama-1YtbTvTIoHTpOrkA.PNG": {
+  "src": "/media/memoria/sf-cama-776.jpg",
+  "widths": [
+   480,
+   776
+  ],
+  "width": 776,
+  "height": 571,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJagCsAEQ0q2Q4I8vwAD++RRUhm31TUi2loTZCSZU4RxPbqTA9CqJGttE+UpZbWdCvepJWownsQ4NVhjYVxdjasejNVwUIxMqJAQgAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/def5ff46_plegaria_paz.jpg": {
+  "src": "/media/memoria/2011-plegaria-paz-551.jpg",
+  "widths": [
+   480,
+   551
+  ],
+  "width": 551,
+  "height": 787,
+  "placeholder": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoMYAEnJyOGvKLK5Bp3PZJ7oAP7PdAHxuxdowZT04xxGuYWrMY2BOPEJEkd4WVskvcvhzKDZ5SJfdohzzbqFx+nh17D47SrFlx4uCUsHXAfxBo5PnadccJiD6jyYil4Nr+5/45A9cO0FsUjUy1wwwDIy7Yfk0v6G2NuYT/+rP5xD9acvr7WPpfHKN5QMroAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/26a108b8_exvotos_afiche.jpg": {
+  "src": "/media/memoria/2012-exvotos-afiche-518.jpg",
+  "widths": [
+   480,
+   518
+  ],
+  "width": 518,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAwCdASoQABkAPu1iqU2ppaOiMAgBMB2JZQCsAA6wtoVXYAAA+Fg6QxtABk0rHre7oMhRMhRKEIAhYdiADZn/vPYz9aNl+bK3OcUwej6wGXI0tDZ4MGdJCoaU0FxvUzk2BtFg3DcIAmF8AytggCps6cOO/sgA",
+  "color": "rgb(88 88 72)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/99b197de_obra_camino_paz.jpg": {
+  "src": "/media/memoria/2015-obra-camino-paz-552.jpg",
+  "widths": [
+   480,
+   552
+  ],
+  "width": 552,
+  "height": 738,
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JYgCw7B+WwUvJHdmSyrheAAD+yjuiuebn+hIUGZpj46pz5Y3pCKUWYlFNMQ6I5czgy5D36lk0+5FZshf8qxPAvP/LPWyHRLnPRoyMS9wli5hERl6xt+dsqHqXzmQujnQ2+JLa5n4fILhKqlOleJp/CA3SVJXR/Ndc9UKWg3YqAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0c73d964_7cumulos-cirros-y-estratos.jpg": {
+  "src": "/media/memoria/2016-estratos-7040-437.jpg",
+  "widths": [
+   437
+  ],
+  "width": 437,
+  "height": 895,
+  "placeholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAwBQCdASoQACEAPt1Wo02opKMiNUgBEBuJbACdMt+GA1rAbk8x3He42Ai/xHG9X5zD0AD9oeX54Ikr0KdFtr7XG8j8325qeN6tBUb0vpXNBseyUQogBJnHHGTOrOP4Tz2Ku+qMMW0zuDKm7hZWbhEBNaTfuosfalKIVyfUkZs1aI5XGOHh9ymiewEKjcp7kdKgPUhC29S7PpLtn4qIWhCYtvmUjBxK4lc64dwaDJI2gjWWsp4xBdGWNu6tCARNeYqGEv+S1sC0SAAA",
+  "color": "rgb(168 152 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/85183fa3_frecuencia.jpg": {
+  "src": "/media/memoria/2001-frecuencia-534.jpg",
+  "widths": [
+   480,
+   534
+  ],
+  "width": 534,
+  "height": 700,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwABv4JVVtrSXRFuAA/uv9ffvOcUJ1mHprvCJFeHR193Ut8rZ1r7cgMKcTnDxeEe/Ab+s/f/ZkhLWeSdP2eb4L1Mvw6H+Sos+xnImWg0TkiTvuYz09GydX28jB24hDyUowKCNAAAA=",
+  "color": "rgb(8 24 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/53e35ef1_cielos_liquidos.jpg": {
+  "src": "/media/memoria/2001-cielos-liquidos-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 745,
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7H8EwAAL5wMVvfCxV39AA/K/ThVq/pj1V/HdLhn+85RKWD/3QMyBjsIgQQ8BDeMvxzFdrCgdqSRNoAj3Q1RX+bviv00byskgdRtxuv9nZfvl+Bo6DKUKcbEjoKWEtK3VYoSAKXa36ttdSxBxNs8FhxS5RlAwMqRlcUNuKV3eHxx5kCpfxNBmOxqv7xiPNXya0bSY3oOlQ0jLl5P5uKWAAAA==",
+  "color": "rgb(232 216 168)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/febaf3f3_renacimiento.jpg": {
+  "src": "/media/memoria/2019-renacimiento-521.jpg",
+  "widths": [
+   480,
+   521
+  ],
+  "width": 521,
+  "height": 700,
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwIswA324D18wk/ysBjyAA/tST11OlVBAsXNEWg+SXFZEhh/32Kz0qlAKnLwVp5Q4mwBDV2pwtyEB1uvfQd4zGpZ9ABgdyfSqIxdvgOejHOsNLHNfkdxhzSx0Uc8VqtWeC58eawr6+HZ9bIvEcyrulbh4rmzIMZ4MoAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/home/beso-II4wdOCaLll6pSMP.PNG": {
+  "src": "/media/memoria/sf-beso-680.jpg",
+  "widths": [
+   480,
+   680
+  ],
+  "width": 680,
+  "height": 536,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoQAA0AA4BaJZgCdAYvXq/sHz/f5rYA/viT74FRjsI/aAizUi+l4Bj++4cIqUJFzNIrDtLxRNlW/GNgO+MZuBubfCTNNPs5HBfpB/dCr6G4DSZSod20Xl3jsAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/972d342c_Plegaria_Rohingyas.jpg": {
+  "src": "/media/memoria/2011-plegaria-rohingyas-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 720,
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQBOmUGMEz/7oANkag8NmfcOQh8hgvAD+8DYPk/f6pkpOdmTvzAmfif8SoxXHABzeyYPF+u7kF20PcAyZj7q5ioM3PEsAziInprSnAwu3mTvO2DpyuuOxdr4hy6jA9P3Z50FssyeHHDnwUJRoi1DwxT5+gjOsSAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/60636bc9_Plegaria_Balticos.jpg": {
+  "src": "/media/memoria/2011-plegaria-huicholes-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 720,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoQABgAPu1kqk2ppaQiMAgBMB2JQBOj+ABjdUx8NzybrAAA/vHfOSDfu3u+IKzkaLadRk5o2ZbjV5vP0jMtZ2skrneioQj3HEZYDOMBptuN5d/hiJqDLE1hzyizTu17Yio7mxlslIC4QjI/PE38L5CBgkm3sGlfMvAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c7326f15_Plegaria_musulmanes.jpg": {
+  "src": "/media/memoria/2011-plegaria-musulmanes-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 720,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQABgAPu1kqU2ppaQiMAgBMB2JZACdAB7HirAK3p6uFYPgAP7zglvjVxhAEwgTbtSDUgQcTCWSuwPSn0H4T3LT6YtzMFV/x5RBHUz3vyXNQQ+CZBQcgYdaPbnrCHY7vrl0lOZ5d88E9IQKyTX0uwO9nolo4cMjcgXAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/2e8bfa63_Plegaria_Israel.jpg": {
+  "src": "/media/memoria/2011-plegaria-israel-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 720,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoQABgAPu1kqk4ppaQiMAgBMB2JZwAD5Soe8w19sY9jBKL+AAD+8d+u/PSoNoiNFE6p6R93f9pIDXfxiZfkXYrsf3gF2SrlM9Mf5V17gRNa6QdRzsR7OLdB8oRamDezFEnWbFNOYPuJReAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/63fca96c_Plegaria_Butthan.jpg": {
+  "src": "/media/memoria/2011-plegaria-butthan-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 720,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQABgAPu1kq04ppaQiMAgBMB2JQBOmUGMACYKSoV4FQe3QsAD+84HK+94pC9SF+qbtyl8+CesFfeEWhOgk94eZBGo7ZlDwZUw4oAHdN7DlAXedEVQ95kVpb+VPO7ddLrtcNpxlDnNMzGHa8CQS4tSTX53c5fF/cgAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/df5432d9_bandera18_01.gif": {
+  "src": "/media/memoria/2003-bandera18-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 699,
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABcAPu1yrU+pp6QiMAgBMB2JbACdL11pQAX76vwukQTWINkAAP76P1P+XjcG3Y7hzLNUG8StFV9pbGmev1DvvxJXE6FAiwKzE2HKych4/dGP3C62AOr6RKPbz2cy68Uo42z7qMJMHgWrwDtQsQFWNd6MgTeCYdF2GASWyH9rvheOdmglrBZDNsmxhQeg4AA=",
+  "color": "rgb(216 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e4574139_img_5409.jpg": {
+  "src": "/media/memoria/2016-obra-336e-515.jpg",
+  "widths": [
+   480,
+   515
+  ],
+  "width": 515,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JaACdMoADTrMvAI8UAAD+52uP80iljlZ5CDRGqEUaCecwbr0EWzY3iOQI5OS/MFS7TjpJ/wmBBNZK2fBruZWma7VYAA==",
+  "color": "rgb(168 168 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/30cc8e95_bandera12_01.gif": {
+  "src": "/media/memoria/2003-bandera12-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 684,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JYwCsACIPU8eVsk5MGpySQAD+04YiTNOzTP104SD/SJqVXe421zkJ4Apibe/GAAw+BYkNTgAFN1ct6VHgtZqMD+JCjfiMyvZKJh98pieVvwCsvE4h6+6Euq637b1pOYGw4PvRgAA=",
+  "color": "rgb(184 200 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/taller-del-artista/ict-2HZ2xB2MXX8gxLdP.webp": {
+  "src": "/media/memoria/sf-ict-900.jpg",
+  "widths": [
+   480,
+   900
+  ],
+  "width": 900,
+  "height": 364,
+  "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAYAA4BaJZwAAupBSA8kAAD++Bl9vciHlzJRz8VmOAaz/rMSbREAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/e7208dd8_bandera10_01.gif": {
+  "src": "/media/memoria/2003-bandera10-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 682,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQAwCdASoQABcAPu1mqk2ppaQiMAgBMB2JaAAAWlUffFDNsIMdzDQA/vHNE7V5PNELXW6CiwZVrmFQUZIqOcBnnNueRejDgWzuuiHFPQRysBsykSnOcwOAtmqYFV8F7FTWSMZGG6Sg63yMz5VyWcWT343vMEU/fe8gHTzD7Yun5yVZhemIgAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/7b088f84_ages-stories-exposiciones-juego_circulos-zulay_soto_2006.jpg": {
+  "src": "/media/memoria/2006-zulay-soto-2006-jpg-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 652,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZwC7ACHgALrhCW6mhuaWAAD+6VQ6B3ef665BiJ/00eiu1qa/Y/kO4J8E0PfeDn8hrSlkH9aR3vWwbkzASYCujZc0fbYX6Es2F8n4Fgiy5w+ZKo8Qjeqgg4SK0QaYihKr7307P2AAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/fc9f3315_internacional_sea_turtle.jpg": {
+  "src": "/media/memoria/2004-internacional-sea-turtle-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 810,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoQACAAPu1orU2ppqSiMAgBMB2JZwABHuoDExyAJhLgAP76yE/A3TUxypN+vc3d63ttdHfd0dgM/NBgF5fvTEoMuviPersMNL0Z8+KqhBUBghZ2yV8+OL8t8QoF86NLAAA=",
+  "color": "rgb(232 232 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/6d2679bd_bandera20_01.gif": {
+  "src": "/media/memoria/2003-bandera20-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 652,
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdAB9q974o74dvu7KaQLWAAP4fPytN6RgNOpyOdO3T0bjW6CtvF/wPLV4THToQfi7p53Qlh+W9oNIqmkrOSM6ghQn49UfcZdZpNyZbONlWu9UzKNr3yyu0Ax8wvO8Stk6h6YnNjRECXOap9gGIg9GOQT/EIUdY5BUhPwY8AAAA",
+  "color": "rgb(72 104 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1219e5c6_shakra.jpg": {
+  "src": "/media/memoria/2016-shakra-391.jpg",
+  "widths": [
+   391
+  ],
+  "width": 391,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoQACEAPt1Wo02opKMiNUgBEBuJaACdAd2k7b+/S8QVLYH2VpCv1gWQAP7Y88irA72iTgbFynPRecpwUsp5SqvW3eex12Ruv/muC82X0x0meUC+m0UqZkEyiKF+diu/KIVv9k6Af7+Ww5/FcbDy+uQn3K/yG/ZQBijZsZm8ukbEVxgt+SKTJsEi8NLoSAyvMTALL6EC8NBkPvd5Ta+SVvmkAAA=",
+  "color": "rgb(184 168 136)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/9264982e_invitacion_sazul.jpg": {
+  "src": "/media/memoria/1996-invitacion-suenos-en-azul-cali-rivera-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 617,
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JQBOmUAApatNVUE74ANUxF86gsjMAL0NwEPPiktpCwpBuUMmQOLyh6IPnqAiEiNgAAA==",
+  "color": "rgb(168 136 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/957f93d5_dsc00723.jpg": {
+  "src": "/media/memoria/2016-obra-86c7-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoQAAwAA4BaJbACdAYu5ySIZI1LOtAAzi1TCtkt1YWSHHl6JlZFBk8eCC+c/My/qsXAgJxMR7UxeFhEH3f/b3+Dj3kkEedVqhel18qTGF69agLCIg529rwWeL2omPAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f101dbf5_dsc00762.jpg": {
+  "src": "/media/memoria/2016-obra-43b6-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQAAwAA4BaJbACdAD6FwwENAQAAP6sdVXwz4oenzQrITOxCZko6isSl5z1e+Z7IvqwibU7q4YV8iqkYLkxd9OHRzf0OHap+VWuOtdQA4kWxsX0NIOl2d2lKOJviKKeIAA=",
+  "color": "rgb(40 40 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ff933ca7_dsc00764.jpg": {
+  "src": "/media/memoria/2016-obra-4954-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAwAA4BaJZgCdAD0RuZ/5gAA+p+x0pZfNr2wK4pIXXXwfLMiP0xzHD/qPAIzeCnMXqIokIswXh72dLnszRzyPP4Jb61QGCvhk840hwrtNA3VoT0HMAAA",
+  "color": "rgb(216 200 168)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/62e8895d_guate31a.jpg": {
+  "src": "/media/memoria/2009-guate31a-jpg-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAwAA4BaJbAC7ADbjmKKOoAA/akQHEXaMTT+Nfw8AHMpdu01nFiNQBVXS7MZs2HA4vtDWxDC2sKI0GEa40fYrGdpTOkW3F4cB4KYxw0ncwAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a8d9895d_dsc00668.jpg": {
+  "src": "/media/memoria/2009-taller-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAwAA4BaJZACdADcZ3DWmI2AAP71R0R5QQH1v02MjnYnQZs926kdVLWDLNHljHkq7fVZNDaRHQG6XbiQnLOdYrr4l9Tn3hOX1/1ozlU4/AX+/4WCXigkIAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ee536562_dsc01102.jpg": {
+  "src": "/media/memoria/2009-taller-fed8-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACw7CPvxSUCLfZVlhgAAP55OQJaoZ3dTODIn5OAlZqeOllz6QmPAJyAH2tmx2Os38rXB7RuozrIc3wNK0lyB4VxvS/pSUiaqMqS1/va9tON6EuqbbuuD5WgpFlY/j0mrSIupJXKP7RZsaDqgAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/6352992b_detalle_del_corazon.jpg": {
+  "src": "/media/memoria/2016-detalle-del-corazon-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAwAA4BaJbACdAEXddPv334AAP6Yr1LGib4dosvPWbbs+VnwvrJpY/eZLffAm96Ati7XgQ/x9lLaYtX0hU5vu6sxuz6d+lkSc7sIqfybst8AAAA=",
+  "color": "rgb(200 56 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/6ebc20dc_detalle_hurto.jpg": {
+  "src": "/media/memoria/2016-detalle-hurto-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAwAA4BaJbACdAELRDKT3pnAAP7hc4dxQ9Dh8oMh3eT+jtL4f2FBYv0MCqIgORbI6OrgJGRjwV6WJGS0YN/4udhyPqnNPB6LvOw05M/0PTrixk/8yhwZbbBAAA==",
+  "color": "rgb(216 200 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/409232e5_detalle_larga_vida.jpg": {
+  "src": "/media/memoria/2016-detalle-larga-vida-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoR3JoM4ABU9AJCjFeFq9gAA9Ws+cWnbjj267f6JxiD1nyQV503fHA+HtamB3ST2qSzBtVpT8aQISaT+qFjHi1CvWhMfAE5h21J6lmdoRzn0nT3329T2vf6tWeAAAA==",
+  "color": "rgb(104 104 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ee6f4f08_detalle_larga_vida2.jpg": {
+  "src": "/media/memoria/2016-detalle-larga-vida-27af-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAwAA4BaJbACdH8AGBn5mfnoQAD+zGmIOtJTup4+XyuYhK6TiZXUTK6sboBvKBPPlhd5aeu1Emi9ZU/NLEL1VFo7il6LEJq2aHy2ppe6x9hEXDFNDjRIB3/OYGBCIAA=",
+  "color": "rgb(24 40 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0578a58b_detalle_larga_vida3.jpg": {
+  "src": "/media/memoria/2016-detalle-larga-vida-5d46-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAwAA4BaJbACdLoAAioyQEwAAPvbcpyVTf2HP7Zdgc04d+DpGzOZGQomOuwib/Kmhq1rZSF2dHX76vx7saySefcwG3AAAAA=",
+  "color": "rgb(200 72 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3c668f54_img_5429.jpg": {
+  "src": "/media/memoria/2016-obra-9026-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdACG8FQD09FB7EwFAAP7RmDDeCZ+MnIxfvZR0CLwQl+XOiLWFFV6i9HrYpH3pzOi7mMPDcpecc+w6ex8vBOhI1CqD3SnFyucsa/zn3aHrVcyFLdkDvzunij1AWN+5l5qR/VHCBopH09YDBh198GeMCtd82H8AAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/07b6d17d_img_5554.jpg": {
+  "src": "/media/memoria/2016-obra-e7b1-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoQAAwAA4BaJTB1owAUQAD+8fXvw1+4TzP1DJsjLUeOluvYRJxXyWCPZZCAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3bf8c80f_img_5635.jpg": {
+  "src": "/media/memoria/2016-obra-efad-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAwAA4BaJbACdAEO/6J9rQAA/Zz/uPfxiFsrdlcSZQHJB7xw+CVc8+VTKixcD92bu5Ac8nqj1Khv59EAAA==",
+  "color": "rgb(168 152 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f7db43d0_img_6681.jpg": {
+  "src": "/media/memoria/2016-obra-64a8-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAwAA4BaJbACdAEDfaJ4Z3AAAP7BvhZZrGgq66FcBr+pzqUsftGO4XUG1CPj2y0SBdmF4axXd0Iquo8g7jMC82APDopLTkbIAA==",
+  "color": "rgb(120 104 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/2126af28_poesia_america_descubierta.jpg": {
+  "src": "/media/memoria/1996-poesia-america-descubierta-479.jpg",
+  "widths": [
+   479
+  ],
+  "width": 479,
+  "height": 641,
+  "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAwCdASoQABYAPu1iqk4ppaQiMAgBMB2JYwC7AAMEovU0ANxPZY7JANJdLkM2TvQrWRd9BLndgiwA",
+  "color": "rgb(168 136 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/650b036a_horeb.jpg": {
+  "src": "/media/memoria/2016-horeb-380.jpg",
+  "widths": [
+   380
+  ],
+  "width": 380,
+  "height": 800,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoQACIAPt1Yo02opSMiNUgBEBuJYwDCgywAuJhOdKPChNiI5B13YAD+gVDO9TP7lIeNGUl/EpAdkXlxWHtVxP+zD4biVRB415XK8lx+9EdfbrFAqgN5ikcgILRu56G0/rfBUTdc9KelYVXGOf2K7pkBVfer58icPOV2DsyCFAJywtgeVp9rVAAA",
+  "color": "rgb(120 104 72)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0dd32a0a_img_5413.jpg": {
+  "src": "/media/memoria/2016-obra-a764-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 471,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoQAAwAA4BaJbACdH8AGMDRv7QhatkAAP7qMUcotA7dVbZJ8qRlMPeLL1y1Sn/0sB9RSafdsrxoSyupWB9o5C5ny37Pb1Eehbmj+tdIMVHFASG3CcPPZURR2/oktvIcbhlpgPSeCOdJtauWZYAAAA==",
+  "color": "rgb(40 56 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/675c9ec5_bandera4_01.gif": {
+  "src": "/media/memoria/2003-bandera4-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 624,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdMoACYFiwZAx2TFRiAAD8xNbwKh/IHo0wtEnT2wivYmKb9NTZ3zAA+3ZX30Kaa6Dc9ujlh3wLqpep0D9y6+6Bw+lRyKHnOFF/uq5UKy2Ki6z7YEgyHvjY8YbGbaxdv16VCvUfp8J8UCfEAAAA",
+  "color": "rgb(120 168 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/18a17ede_produccion_2001.jpg": {
+  "src": "/media/memoria/2001-obra-c880-738.jpg",
+  "widths": [
+   480,
+   738
+  ],
+  "width": 738,
+  "height": 394,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAkAA4BaJZgCdADdpwIagwAAzjIWiLISRXclRUquc/qI29+JmI3ugB53PcHa59EnXo4K2PlTtKOF3+906gpseOwjtK6zUfyr3wAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/107582d8_zona_restringida.jpg": {
+  "src": "/media/memoria/2001-zona-restringida-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 571,
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZgCdB2gAR4+mmx/14To4q+byOAD+2n+sH2eDpPz6haISfU+k/KGu9ZfXSxNhStDCHZHCQIkyQc3NUieNvbILVzi/szeBrjnpUyUT6T9NNOkhJth0GRXqKLJqRE+I3m/oRNZYouk4bzu21CAAAA==",
+  "color": "rgb(24 8 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c946e232_bandera16_01.gif": {
+  "src": "/media/memoria/2003-bandera16-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 593,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoQABQAPu1iqU2ppaQiMAgBMB2JYwDE2CFSjnkiOOMmLYSspwAA/vN08rM9X15puu4jTj5AAwUiG5KD61X5GT38p8nexZduKC+5XFbNi7a8zssF/YuHBdKBDX+CpnkSn9oP3JdSixG6YkMTBtJ7L0r5mq47gAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/cecbb84b_boletin.jpg": {
+  "src": "/media/memoria/2011-boletin-460.jpg",
+  "widths": [
+   460
+  ],
+  "width": 460,
+  "height": 616,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JQBfnA6cG/uNRqBae24AA/rbCoBx462ON0gxURp31nn42HGS+x/horboB35xn3zGhg7QpcVpHs7kvkEjYbmwVd0D0I0BXUZfd9XD3v8UN5eYDVBSiYQ6xpiIVYaq8y3TVyRzOiAY3LilrmAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/714d3426_hurto.jpg": {
+  "src": "/media/memoria/2016-hurto-442.jpg",
+  "widths": [
+   442
+  ],
+  "width": 442,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoAlsxWcYq9G2SzX5FwAAP6+h+0jt7EWPfWT1i5/a7LZGVZWfmNAOAkAHioM4PWONUj+NqO5ugcD8fRMz9ozFCOj4ftKxOymtRUFWkM/Y93O1ah07PdgXa6q0JGYu8ucOV/b9XW7Qx6KzRWDdtzHcShyRvVLTHyQvN2uguDN+8nt0x28Udtyu8/sOJ2HtNhurSIpaPEOP2v3x/1lycwOQAAA",
+  "color": "rgb(24 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/e673c9ff_bandera14_01.gif": {
+  "src": "/media/memoria/2003-bandera14-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 589,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JYwC7ACPpINm4VEw368cwAP7f+L++7qHl58GGcjB0e0y2+uH0EhD95DrfPUDQ8vdb1w/UKHO8tXwXDHeYQOwGkyfkfMJZebSXrqz4dndvGU3bqGyhwAAA",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0ee4442a_transmu16.jpg": {
+  "src": "/media/memoria/2003-transmu-6630-600.jpg",
+  "widths": [
+   480,
+   600
+  ],
+  "width": 600,
+  "height": 471,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAwAA4BaJbACdADRCq+CdFHAAP60Af9nEfZtsZcJGkelF1Mgv7KogePzKemq/bNRuvuhob9wxTi6nvwQJlkmn98j/SelfHDB3VWbRt0eGH+ijeu2e75LuCWZU996+LVS+JVF3tV3wAAA",
+  "color": "rgb(248 232 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/2686f81a_bandera6_01.gif": {
+  "src": "/media/memoria/2003-bandera6-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 585,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZgCdACPzxjHp+yOU4wAA/uGgFwDbJZoH2Ld9U3IFbEw1+sXf8qemvrsbhSdsdi6LXfvcJ0GYysb4ciEOEVqM0FTuYcF5wUKM0OOXDTw8h/LtKi+c5MaHhFAbK2/wXe4gFAAA",
+  "color": "rgb(200 216 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d36ff666_464x600-images-stories-taller-recomendaciones-Fabio.jpg": {
+  "src": "/media/memoria/2019-fabio-464.jpg",
+  "widths": [
+   464
+  ],
+  "width": 464,
+  "height": 600,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwJoACvNXSErBsKLYFOAD9l/ohHPJ8+77NxMaILcogjc3la7soefzqAD5FNiAlgl1QXgTDbZ6wz/bwAibzR/yECWHUkixZFy67ojfqdX6kZn/BPlOg/wKTenUfKocAAAA=",
+  "color": "rgb(184 120 72)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/badeca0d_invitacion_detras_ventana.jpg": {
+  "src": "/media/memoria/2000-expocision-detras-de-la-ventana-museo-jose-figue-436.jpg",
+  "widths": [
+   436
+  ],
+  "width": 436,
+  "height": 638,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JYwDCgCHf7pJYBoZSm7Kb8MAA/u168WBlOo41TtAaSQDWXM8NxAGIHJ2PEUYnG/0xaqYfzVZSjPusi6zhlTVeJ9ieiRPX1YmK2Xb8D++Lby+SqYgwUR2XjUQN6tP/oZQAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/495d7376_duelo.jpg": {
+  "src": "/media/memoria/2016-duelo-433.jpg",
+  "widths": [
+   433
+  ],
+  "width": 433,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoR3AkgBbtssaaO8O+Es311gAPv+4nxXasOSZnwU7pVxVZYUKyxjzmDK/Z8p8UvOYWpQddA+9O7QtXLe/hG4Bt5797EUgBw747GFHlg5MSVtOBZCM9tocHMxOLCAFHPgOo6dyiGANXZx+P9u9X4bvGY6kOzvvcRRIpyfqbFZvFenClLldAY8waH8Ek+qRTi51JDxH4whnYAAAA==",
+  "color": "rgb(24 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/354c4870_654x423-images-stories-actividades-Afiche_Max.jpg": {
+  "src": "/media/memoria/2019-afiche-max-653.jpg",
+  "widths": [
+   480,
+   653
+  ],
+  "width": 653,
+  "height": 423,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAoAA4BaJbACdAEPhx2UVoTAAP7qJ7sADLDYZ30zaVmbAPTyw+9KWp3pZL9mkSSNBnSW0QJMa7DLZdCuUCDQZy06F4NpCgEHHfqcyswIhz5RJzIAAA==",
+  "color": "rgb(8 40 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/63c876ee_cali2.jpg": {
+  "src": "/media/memoria/2009-cali-429.jpg",
+  "widths": [
+   429
+  ],
+  "width": 429,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JZgCdABtTlX9RKoz9MrgAAPeM43t9qeXUq0MVjcEk8PYspzrFXPusdOTa7MfGNRiJb7eoOSpQ3lhsWfFKGb3b0AWre1xDcgQwF77fIEHZNcLZYDmBZf0C2jcQ1Bdqsxx/BVtRMLTRNGzLPNqax/1mypcmopG3iJyARwZu4f2IvsGU2YVO00GsNVvmcaUUPBfsEegCwAA=",
+  "color": "rgb(184 168 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/2cc45e9e_cristo1.jpg": {
+  "src": "/media/memoria/2009-cristo-429.jpg",
+  "widths": [
+   429
+  ],
+  "width": 429,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMlksAwwTQgfxaoEtTHTAOjV2WkAAD+vcqeZYGwy0Wt2dcPVasTWuK5X9WF2TiKXp6QXFrevEXRrM2uQTttnOuAPG5XiubVmmLSzlYPOAsNZ65IeS4hLTzEEW6EpyL9YO1Ai70NWX15W37IO6LjdaRfFjPpzrvwqVwLvIsIN4Z8LanOt4fJbo/DXCA6Id0LsXgX8GXSKmnrW+AAAAA=",
+  "color": "rgb(216 152 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0d5dbe95_banderita1.jpg": {
+  "src": "/media/memoria/2016-banderita-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdL1yBHSpo1EMQrosXLncAAP7nVvOWsAiYe3b08KexzjiXiSDvZtJJ98IsGQy9yOTd87TYzdTu7JffRd9ZuqnA+T6VtzcuBLIfn5t+s1iQFw5MnkiWbrDypc1zO1itTuVl+6wsxqi/MXVF8iD7D/EmfkLPZqrvqe3grYiwSV+l/nKEXgY7L8L4fnpiljXshTtc61750OKY0wpUhsQfKNdjyzTwLTAhoOJ2mF4AAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/66b82a24_banderitas2.jpg": {
+  "src": "/media/memoria/2016-banderitas-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAsAA4BaJZQCdAEf/wsrh3XwAAD+ypU47kU48SpyWZ0xx8rkmO/nL2nj/YyjAjpmNX7aWO6fN4VoEcnnybunZeSxr9uVQYsp+a0i7ozhIjXDTUw7zfBVrYAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1cf2246a_caliarriba1.jpg": {
+  "src": "/media/memoria/2009-caliarriba-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoQAAsAA4BaJbACdLoAAwklTOD/FAAA/u9pGZJWIeXw/x0JDCgKNh8MSOh5e4NgjDbFxSjIXc02wHictEuztnl82e+Ywni2f/wY8H8Al813Scl/U3DNFgAA",
+  "color": "rgb(216 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c0637d7b_calibanderon1.jpg": {
+  "src": "/media/memoria/2009-calibanderon-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JYgCdAYyKpm006j70mEPQAP5nEDZzF/A9HmpUpRjxeiaxDb1Wz6pfviqNpLNuOeLvZno8lxBp35F2xKw+W28vgkcAo+hNWoPk07liukExyxbwrEJfF/vIs5EMeD3UivQnJO22Cjsc0XtGPQSOc+oahVB2lv/1s7cS/cqFGfeoAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/437f7cdc_cristo2.jpg": {
+  "src": "/media/memoria/2009-cristo-eae5-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoAlwheVWJ837SuaPxpAAP4e5aj/BxMCtzzsLxI5ZTOTlo6RXaz6APxfl5sX9BBHGptPyoV7WjKQVNZ9ise5E2LRIy9Wx37ogk5gtB7B1+u524LqUvGWyirjeLbupOlqqa+pwHrbnLyKLjOJNcKjz4+0ifjw/nNj22reMzc7v4S5OvExDFf8rj6CTs3X3febVfgsStMToI+2W0pIQt8IcQAA",
+  "color": "rgb(168 152 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/eac1ed9c_desk.jpg": {
+  "src": "/media/memoria/2009-desk-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7FQAGeCZuGIlRrX9rzxwg9PYARpEAAP5PDmpVZn1QE1/H5O1yego8V/eBCVGzPRVIMPt422EXNAEFKQNCyNSsZvNXYXCnbz+Gd1P7UmRtSYUwUMvKrVn905I7+1Ct8hTRH7/3j+zBPGZzHSx7rXJ4cx+h9Tu11CWl8z/z8P+01S3p5LEUWzDACptG0k1WVjbjEo36VWHJ5C+0DFY/lqOFzI2wAAA=",
+  "color": "rgb(200 216 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a6c95fc2_img_6100.jpg": {
+  "src": "/media/memoria/2009-taller-36ca-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAA4BaJbACsAEf08JZErAAAP60EFr6yVMVdWr7d9RKFpXmr3SxzG/KHXel4mPooBcf6pSN9GrgAH9Ypeowko/7Eg9Vw55VP5deoK7A0yxG9tA+HNdOg7yaAAAA",
+  "color": "rgb(184 184 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a46fe0da_img_6769.jpg": {
+  "src": "/media/memoria/2009-taller-5dfa-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAsAA4BaJQBOgB+UsAj3SCgAAP7qS1HmFThSYGyQcXz2kSRTDJP/gZKuti74IuEbb3O2HCDFS2EG/afaq9bpFxJA2HjyG8dadauie9IBa6oWpH5ogfOAAAA=",
+  "color": "rgb(40 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/2564f490_dsc_3768_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaACw83gAcYQ8WukWYV0/XkBAAM4ab2oOM4paI220n5SiGpuFgvF2oeZD1PLI2XTezWY12n9sMi2kH0wNZaJrO9d+4nhRCXE30xcXS32+pENM0Jb1rA9KtQ3k9SEP81dl/HYpVzZ+aP453rfl4+3CfAmToVXOrK+UCUxEDenxBsSDzBwOEoZxWAAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/8cfd3a32_dsc_3818_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-0b52-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACo9Yvgtjwli5UG9acvJ8fzMAD+8UJhW3krGE4roE54sm4LSIDR695EZZ7n8/GUh1K3oIjawmXWM5WMQCXk++zjYsdq7YnA3Blj3PsBfgBwR2pl7pGFPNe6PuskovL+P/j+Du40DB5wwTZOFkuoqx2ejavqpC2fNEpJT3BrMXjok6FbaZ74+9uYzViUbnKA27hXQXqTcf7EEWr2NXWOt4U4FyhmLoXmlAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/948e4197_dsc_3821_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-921b-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdDiAByhnsAjq1yE/I+Z/0gHQA/tvdKy0bv9RIXj74J78ZBK/voNY+423xKnSu3I8Wgt7uRXLyDnd4Ux58ZDMSCiYYho7CsLNSQ7OsYJiz2QGjqz6cy46rAHYerKaOJwN1oqSRkl4UIOxMf7tcfvALxd71mK019OaDKv2XQ3lL9yseF6JMuyN3X15yttay+nzy/iwMCiDtXw1juHk3TqHiZ3Go6r5V7yahnpvAUKISpVNHFpHXnF+ve2/vJhcK/63VMYzQAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/eb7d25f8_dsc_3827_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-19a7-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQAAsAA4BaJbACdAYrJlG5cGM7VsAA/u8pKyZg8hj0/ZkSbnM0bz+CpSdoIUGIm78AmHFid4/75ncdhpN3bgpNyCHQFHSESvhWkKuklskE0TMUy9tY6RDO1FL5FDLm0kTEAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/46a0daf8_dsc_3834_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-00a6-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZACw7Yuk3O2XSXrRpRYRPEAA/vQp6z5WxQAfym6pJnLRKNspYPwL5oDcdFqe7oHgdvPfTHXaubiYMAn8NB1myz4HtdGWkGuodoDwDomzw9v7fwsmNwDBR/11z4H6eCM+XXz4Wet9w3QzVVFTE77qoTp1tMBF04M+bcUazhmN2ZciBZ43T54S+80eFPejTVuw5ms6xS7puz7mnVnAJ+GEmf0SfpKepUO89AvkOKx3mJ5jlv0eAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e1196959_dsc_3838_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-2422-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoQAAsAA4BaJaACdAYr7alzRqNvLAAA/vfA/2nvYUYPmqN2+bLdTpkhX3VGT1cRjPsZmGbYOWVHOJUCqCgRnWmToXauQ79tSKyBiTRhCkZECHm7ht771YYae7by53Mm6doLThbSzDtLwyDvPFoztSMAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b369304e_dsc_3854_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-9e76-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaACdAYsixsYfuW21co/ce97d/oAA/s1zP/a+J6DKyzb8wCVn/t/u6xpSwBuTa4Lf1Dfj58GSMNK1cTPkABmM3/Z93cS7cqzL9gyCO9UKGuD/N8bS2+06pLwaAwsNk/vovGyk4hY//1wuGjG/P+aS6sO5xeOY7upzJ4XPraKlEnkAJK+nDUhAp6CklJgYo24jfJKl+trlB9ai8ioVdSLNwlPyKAJPX7umQXxWHZVqLAtwAAA=",
+  "color": "rgb(120 72 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/51ca7e05_dsc_3859_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-9f36-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACsAYtyZtcSvfYC9voA4AD+vJ5eIr8Cpmk7CbUFzTxYewKnVDOwED7p+fkjALP7UyFXErBYtBcB+4Zzl6hS/tHbAerf9ylM1Uj2AFH/DicBSPIiZ9zd1EqWEa+I15x7ekF0lZsr3onYM8H+J2O27BL+PPZPs60vdgrNKis/8WWFktyWE59RM06/Pf+xwnErl6O5FlGHudeNjmiE5u4AAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/091afdcc_dsc_3877_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-3c16-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoQAAsAA4BaJbACdAYv/znGi4DyUgAA/un7wQmUZVdk162mNALuc+Lw5ew4bj4uYMIbTOscWgAzC2Y8EaU7GJz2JGFXvoKXK+4PDtiNbfICO+G423zfRkjl3XQcwApb2tDjztnb++t3NE8256l/JgPE+zcpZoUJlloAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/5eb012ce_dsc_3920_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-4fd6-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAsAA4BaJYgCdAD0ShG7XRAAAP73sfkO5RK9DzgcJ3i+jfQ1KGURBGwY4X+zjZPRYWuYDdHN+XW+R4wdrnNs+YQEKGhqL8WnMVa76ODi5Oz3AOUkp/qgAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/02a35e5f_dsc_3924_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-a2b8-428.jpg",
+  "widths": [
+   428
+  ],
+  "width": 428,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQBOgMX/b64YDZYF34lpMY1Qf4AD+8ZIe9Flnd8bDGJYBeHEasQYq94WYmqGjISsQzQ8DQLUoemKSF/ZeKdmy+eLM0rYgkjwzNCXHZjMxaNHip6xTsYfToNL0+hYMxlFJesPwamiXgeulDH7fbL6Cw2tt4IwglyJ7xLmqF7gAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4e3b7c52_dsc_3928_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-f087-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoQAAsAA4BaJbACdAEQTzDFZmAA/u0gHF1sJaTeQHXt+dV26ZRruKGgCngddBc/fpbgRD5OIFzqnHovvTTsUmloYjDt4TE4DpYsOayqxSpNic2M0H2/Bb24zVvnfpuJtBvdF6oAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f7cbc974_dsc_3930_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-2a39-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 428,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAsAA4BaJQBOgBn7NlAO8AAA/uxU4HUFDT8qNP8wNUtbozb8cGVslDfps4C+NH5W5HdmZnIleCcYo+clNM6JLe5QQINXvZY1AAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e83dce64_1950_tierra_tibetana.jpg": {
+  "src": "/media/memoria/2001-obra-11f8-600.jpg",
+  "widths": [
+   480,
+   600
+  ],
+  "width": 600,
+  "height": 456,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAgCdASoQAAwAA4BaJbACdH8G6AFPcYGKDs70zOToAAD+53b24nP/6kEXSMIDr2PbiJ/FrtCAeESgD1pjuNPSZ1Uh3hUjJ8bLa66XDcraSH+SP+vWW75d9J8R+bAJKAHZWD6mryACZRYFCz6X1TBPQfmlyDRwpOIS7n+PrUcO/u/gAAA=",
+  "color": "rgb(248 248 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b602b671__mg_6467.jpg": {
+  "src": "/media/memoria/2009-taller-2b22-427.jpg",
+  "widths": [
+   427
+  ],
+  "width": 427,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMpHsAepmAn3x5zoUYtMAD+hp7WKrtV5qhQWb/b2i2dRfqFCA6dyvnk/uxMeLFDIbYHaD035VMSMAbpF0Ev+IetQtLmqG3r20zDXvsNYIhZrfbSvA5yoL7VWadnleXiHcful1STW/UCWiHIQva5DElSkgJHzZlHuy/FoDXOAEMpOKEK60yu4euiolmAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/9306c050__mg_6627.jpg": {
+  "src": "/media/memoria/2009-taller-eadd-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAsAA4BaJYgCdAYua/fZ+ogQAAD2pKlmxq8NzFT+hFctlwz7d+u9WEFmS87RglgfDV33PnUaoZBogMQ77vOBObQTgX/y3KCz0s6EcVAtMUeJ1iphUJN3gAA=",
+  "color": "rgb(56 40 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c42b2f4c__mg_6721.jpg": {
+  "src": "/media/memoria/2009-taller-52f0-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAsAA4BaJQBdgBuel+jZyAD+7J3idoHsPz9MgmfVCN1dhRaXzvj+p9Bv8UHwhh2OJVnqikRQrUZvYvUwG/f23NPUUAzBUwAAAA==",
+  "color": "rgb(104 104 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0b364243_img_6277.jpg": {
+  "src": "/media/memoria/2009-taller-1a07-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAsAA4BaJbACdAD0rdhllnQkAAD+wk1/Bfe07I9FpT3r3j4PUyNeVAPKwahQLY0Ad4ShfP5A7Rhhfjh0T1Uk5vi5MmrSPn+6pu/vyzR8+/t3gDDAAA==",
+  "color": "rgb(40 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1ebf2949_02a.jpg": {
+  "src": "/media/memoria/2011-obra-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQAAsAA4BaJbACdAEPdrODJiZc8wAA/qn0zDE0aVF9k/r5mbTbP9kkr+8kp40JodcD5pTAuxDDSI/FgFahPBzQo55Fvej1eEV6LfkFwZKqqrtX8kHB1r99CTbp1sf0h1oEglScJDAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f59ffadd_03a.jpg": {
+  "src": "/media/memoria/2011-obra-79ee-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAsAA4BaJQAAX/eOGe5INMAA/oH133FkOqfLHu+CXX1uLXQKfH5tRsplfVUmdWalg1/37M/9CGP/pV/7nZaE5hIjAyTxqCk/2bjAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/81d41201_06a.jpg": {
+  "src": "/media/memoria/2011-obra-86e5-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAsAA4BaJbACdAD5NWemdPAAAP7M01hcQbKYL+XgrxZNbPh1ycULPhqCv6bd9CjrtHWaDP/0s1UJgAOP7vyCCsjv2fZtUkSnC/14+HZ7w21fu/T7zOv52gAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e1c52db8_09a.jpg": {
+  "src": "/media/memoria/2011-obra-5c74-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAsAA4BaJYwCdAEDyAOAIbEjAAD+2YJy2X451bL5JIoaaoFO2TrCahY2wt5lRFmYrCeLiAhDN530G2VhX9sH8Prz98hu1nxtMnfAAAA=",
+  "color": "rgb(216 216 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0c30adf5_0a.jpg": {
+  "src": "/media/memoria/2011-obra-3155-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 427,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAsAA4BaJZQC7AEbd2m28c1X4AD+8YGd6Yu/UQ2p1bC7yCZgJxWFJQu2q6OPvN7jfkg0o/TQGKYbrNwtlANbf3yGd7FUwXgTsBnAAAA=",
+  "color": "rgb(200 200 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d04acbb2_azul_de_murano.jpg": {
+  "src": "/media/memoria/2016-azul-de-murano-426.jpg",
+  "widths": [
+   426
+  ],
+  "width": 426,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdACBTCtmeX3YwLi2EXAAA/f5fFnGGX6YqwGSmrEdL2TuWPw5hPMhpATZaxfrLq7YggPlqTjwKBV/SagTflXsIZPpYnZbVvlWzk5fkeetnUEtef8AA",
+  "color": "rgb(168 184 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1efff178_transmu1.jpg": {
+  "src": "/media/memoria/2003-transmu-82e6-600.jpg",
+  "widths": [
+   480,
+   600
+  ],
+  "width": 600,
+  "height": 454,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAwAA4BaJbACdAELYa0/1PoAAP7x4+1BM0BwdT/eGFDHozwdqSSX0v7Y+uJmS3Fw6qM8GdC8Kmh3VbetlRTNNeTSERZfNAOg285GKY53QnOH+vBkwSDSrj9sbY8bKHVM7XFU72IVWgAA",
+  "color": "rgb(248 232 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c297012f_musa_mixta.jpg": {
+  "src": "/media/memoria/1995-musa-mixta-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 677,
+  "placeholder": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACwBACdASoQABsAPu1iqU2ppaOiMAgBMB2JQBUe5YJzcXqAikLKBiBI68X91YoAAPYwXL9wp7X7URnOeya3nyi6289D2bjxkBwcNvXboh+6E0UXboONE1KJ+ADkUcfkeRz7KJ8xJt0XqbXiulMSo01wjNMpiXqOqI+xlh0cnR7QNvE8KuVWh3zDP9o63UFIJu+cbdHeo/qwUInUMhqgcdDRpZc6Ipq3jmjLjMRofu4VKI64fPN0cAAA",
+  "color": "rgb(120 104 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b1a41a13_cali1.jpg": {
+  "src": "/media/memoria/2016-cali-422.jpg",
+  "widths": [
+   422
+  ],
+  "width": 422,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADwAwCdASoQABkAPu1iqU2ppaOiMAgBMB2JagC7ABk2HXhCE7LE3JkAAP7IxnlmuSLvtdWg/7uDHWX4lclt9pn0G0Ra6rAClaJOa+pLcSS9GVgfr46ODYIfPw7D1AldqumUURCIlZZmhxrdHfbl4xgg1YcebJZedkzp42/pPnJX0Zh5MvsKllPCC1o7JCSVKy22TsJQAAA=",
+  "color": "rgb(152 152 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/8c8bc8fe_ave_maria.jpg": {
+  "src": "/media/memoria/2001-ave-maria-450.jpg",
+  "widths": [
+   450
+  ],
+  "width": 450,
+  "height": 600,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JQBdj+ABXNpciB20gkzsAAP3SQ/KxX7nXZRaMB2uXabUr8sjGbLlRRX3GOH7cqQqaSmEkqWkM+C4tqT0DKXQAOAAAAA==",
+  "color": "rgb(200 168 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ab8a7e00_molto_vivace.jpg": {
+  "src": "/media/memoria/2001-molto-vivace-446.jpg",
+  "widths": [
+   446
+  ],
+  "width": 446,
+  "height": 600,
+  "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoMYA0l5hin4JHt+uk17AAD+VfOthejk79F23nzCZ4+Sn0/3u8dyaysTpRSWed98Ji0+wPgRmFGoUIP96l8NJBn0uYfXVpl9LQXyYwrOorljNQLG0JvmGejFnUTeZNcz0/090XAYb/DU/+9zcA3hXeQC+kYtTGPIUl5sZrICYht0Y2xIBYWxr++8tr9Rv+Hee1oD+WO60GmnGb9AAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3979f122_14a.jpg": {
+  "src": "/media/memoria/2011-obra-c7f2-427.jpg",
+  "widths": [
+   427
+  ],
+  "width": 427,
+  "height": 625,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwCo9CFUobHl/urGGh98gAD44+B0XzfTmWQSAze9pb5hl/jiH4bYzhPqoHGeQ2HLBHQa6SrmAPd2ffsmbiT48eL6lZTylIOhuKcahKZb0UkVmDyYeZs4LCL0CrJ4JTtOVWOKv3yc0DPrwAA=",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/58a8e3a8_transmu13.jpg": {
+  "src": "/media/memoria/2003-transmu-e13d-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 530,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JaACdMoADZRvBMUh6YlsAAP4/hJf9GRuvNc30ndn3w1wyCxr3qcqVBHdmnAwXEUZdu3bcndWzzYd+mu6Jfub170vjfqBPicBXw/tuMiWQg6Yfu7xNwAAA",
+  "color": "rgb(152 152 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/fc618dc4_transmu7.jpg": {
+  "src": "/media/memoria/2003-transmu-97fd-600.jpg",
+  "widths": [
+   480,
+   600
+  ],
+  "width": 600,
+  "height": 439,
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQAAwAA4BaJbACdLoAAoMgGGFnyAD5dQqcoWHbp9xiZNG0vzZcBOyVhqXDR/ZC1tTN2jmyS3TIrvQ3abnKjvxwRc0ZH1Mm33N++m87prTH0SpiX7ZaSXkgRss+9teTe68aVsOhe0iA3ltgBZ/avmYAAAA=",
+  "color": "rgb(232 200 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/8c8c89c3_29a.jpg": {
+  "src": "/media/memoria/2011-obra-c9ae-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 411,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoQAAoAA4BaJQBOgMWM7Sr297OBbAAA/uKVIoY53zGYKvx4hyJhv4peug2RRwdOGIBFTfQAUiBNsM04KEofM2bMsCpXT6EBk3ZNtFNjmJtdeAw/6a02wAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/2df48d0f_trascendencia.jpg": {
+  "src": "/media/memoria/2001-trascendencia-438.jpg",
+  "widths": [
+   438
+  ],
+  "width": 438,
+  "height": 600,
+  "placeholder": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoRwAkgAojefO+qZ9SSQLlgA/jNhNwUa8/WdedjT5YcP0xoUZwcyiC1UtVdEpC00Zfo8M/xNWet5ZKTyme4rMxvOCCYxgFDiC4zsM+Canl309PIo313LtReCOOHI6+dx0YS7VyuDyOF0Ts6Gx2Vkf1MLmhNwEmYdfba1a72BVIO56OXY784/cLtsfucDRSInfpqIdDRV9PwOyDpufcP9B6UDQofSi4AeLMFRKSCXdsiwRDEaQeoq1725pjIAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f007331b_padre_nuestro.jpg": {
+  "src": "/media/memoria/2001-padre-nuestro-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 654,
+  "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBACdASoQABoAPu1krU6ppaSiMAgBMB2JZgCdMoAlvhfhUuGW6o7rdU3/8VKAAP7oz8FF1ubQXm6k4nF+AcVu+mUUq4rAFFEpC+7Ag5TMiratKBNm+l/CiiN1E33yKzp+gySCfmWvtn/L9da6pk+rxuApX/c4uZLFwpuNhvVgg8C+PN2VvnRqwx3iqWRKL93hjK3dJHHqnawrGNH0+Z0/MpJEwp8/ZislvEYEgAA=",
+  "color": "rgb(24 56 72)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b9a9d8f6_continentes_en_duelo.jpg": {
+  "src": "/media/memoria/2016-continentes-en-duelo-406.jpg",
+  "widths": [
+   406
+  ],
+  "width": 406,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoQABoAPu1iqU2ppaOiMAgBMB2JaACdMoRgAAkcZvA4OjvDtxoAAP6suxINOM4tpFyzKMbNiEEtk/o8ndur0Asg3IiuCmvUMDbkbrupsaz4oXbEOxph9KR/tyNkhcFHVQzPDRKQ7x03NGPBZ1gNkymTekTdyuQAAAA=",
+  "color": "rgb(40 136 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/fc6b8884_img_5424.jpg": {
+  "src": "/media/memoria/2016-obra-abee-402.jpg",
+  "widths": [
+   402
+  ],
+  "width": 402,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQBACdASoQABoAPu1iqU2ppaQiMAgBMB2JZAC2yBjdZnMvBJv//tthUAD+s0RMZ79QajmOYDULfDXROMTesVWdlX3UQvmB1heMo9riRazn8IkMB874v+F+/Yxy7i0urzH5TSCZ/feR0eExSxeOyeAAAAA=",
+  "color": "rgb(184 184 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/3d581201_irak_dios_america.jpg": {
+  "src": "/media/memoria/2001-irak-dios-america-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdMoR4IXAA0MjKqlQOGjqRzQAA/jL8Qh50BHBJPcJXi/avp8DeWfC9oei0YEqNohIBbG6Id0e3iuEkjHkTrazcR1DGpAyX2MbjbJ8Uad2qCubBZQNmgHB2ObL9YWUU/niFXa9+BS6qmNZMNMxyoVIdcVEaAAA=",
+  "color": "rgb(120 56 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/9b0f484e_paz-email-02.jpg": {
+  "src": "/media/memoria/2016-obra-d661-640.jpg",
+  "widths": [
+   480,
+   640
+  ],
+  "width": 640,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAoAA4BaJYgCdADdI9gkHr5gAP7tHw2lbDXDkxU0eFbzcnUYmLKeTLcaHu2higSEj0ePYLxKDQsYsfNw3oNG2vAqxWcAg2RtBUzQAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0e52458c_espermato.jpg": {
+  "src": "/media/memoria/1993-espermato-390.jpg",
+  "widths": [
+   390
+  ],
+  "width": 390,
+  "height": 636,
+  "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADQBACdASoQABoAPu1kqk4ppaQiMAgBMB2JaAC7MoMlksACPZWixwvFur2+qRvyAAD+SJbQbC6PQTTeY60ij0WFQir9m529/zUniFdUEy3ThsJ6xlOs30WPDywKbOkg1iZQ6ieBMmqDqYrvUHZRV5vlVva8T02aX2jYkjk6IVLTV+wPcw7nrBkNWoH7BXcnCVFp6Vu5iVsedUeOyNG37gruXrLnW8WnykXwaeDuCZ/9DaQCc7kJveRg4AA=",
+  "color": "rgb(56 56 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d3fe9abd_400x618-images-stories-actividades-afichefinal_saxfest.jpg": {
+  "src": "/media/memoria/2019-afichefinal-saxfest-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 618,
+  "placeholder": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBACdASoQABkAPu1iqU2ppaOiMAgBMB2JZQARQDzBXBzt4r1wTEXraUc1x1wFAAD+8DhvkfzSLEHBYlIVepoyzpAVsvLZ7VEDznUjTNA//HEq9tUgN47DrgY9dRhFAXfy8TBEF5Pol7uf6VcyhSJfAg/WcecmX/9Kiurwjpsc/6jHQ5r1t52IEc0LxhKXXNWh0Kr5JmpSlFJv7UxydHO55FMMqfot3GsHPe/u06dUoZFLs/4Q2AAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c6e91afb_transmu11.jpg": {
+  "src": "/media/memoria/2003-transmu-0d61-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 489,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoQABAAA4BaJZgCsDiABysWB2yyp9AgAP7d7bKQwQtSrrzkwhr67VxwcjBU7YWYAG5cyBhM/L2YJyi1kPh5ObpimKYbDJnLnQmIgcjkogcYjwjjILLdDHIk/AP9VzQvu8JFg3EPD5TNhuc4tyeHoZEaa8AAAA==",
+  "color": "rgb(56 56 136)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4fc5f1c4_sueno_cambio.jpg": {
+  "src": "/media/memoria/2001-sueno-cambio-406.jpg",
+  "widths": [
+   406
+  ],
+  "width": 406,
+  "height": 600,
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdB3gAYJID5A5qACusNKWAAP68CaesQ1lqTqtD+As8AiIHi7HFUwRWTxe7zesBLc+q1G1jz72QPSfv6XEN63Akgg/PFUqD1h2q4VMiJj5UeAw8oI28sPQRNQyQNB4rfCQwwXq3mc9rSBJFWw58YNdXOHRjGTcIkxbCTDUV4LAA",
+  "color": "rgb(40 40 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4434c274_zonas_oscuras.jpg": {
+  "src": "/media/memoria/1993-zonas-oscuras-390.jpg",
+  "widths": [
+   390
+  ],
+  "width": 390,
+  "height": 624,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JYgCdMoACN/VwQZagFvyObAAA/szQkNi336mhez9iq4DjrCpszYVZv1QrL5kPmtJ39bvkMwjpWiV1GdjT5m1OglZIdAZt9tM8mUMrzxrqpWAc5oAjw84AAAA=",
+  "color": "rgb(72 88 136)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c21c63ca_alquimia-taller.jpg": {
+  "src": "/media/memoria/2013-alquimia-taller-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 607,
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYgCdAB9rAIdWAWk3sLTxKgAA/k3LKwsuJ8pSAFRY0fDsMJppB0iWcifAzHxmogCY8TGdQpvgoturcxuVMIouDt4qMMHFhvGgTpUsyVn/tNXlWtTsMfChPQx72o/ZTG6ve+ufvmSd+SIWr4v6Hd/K5FoYL/DS8wByXK7kwOlPmM57D+8zdrGQ0fS7X+/uYCjXQOn/3qbR/HaAAAA=",
+  "color": "rgb(24 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/af487105_dsc_3815_20ret.jpg": {
+  "src": "/media/memoria/2016-taller-df70-401.jpg",
+  "widths": [
+   401
+  ],
+  "width": 401,
+  "height": 600,
+  "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZgC06YvWaacVruV03XFm0ADLCH6FGnZBVn5iyGD3WdVgRaWlRfxdsIpsWcBCsomRX4LRtCmXaB6jt6jB31x6yNF+uolGiKXe5/VJTKp0AV3cRsmgCXy/F4B32GdvBYr0zIvbwUBl9aMYbDeYln1XtAEdBw7T2U24BRCQTKW8+sLY0nu7+iSUsfFZXUlFQb+6pLv7ZarETwfjcegUN2vE5PHqy5634Bgk95FJirGW2EzFTwAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/7929ed41_vista_espacio_instalado.jpg": {
+  "src": "/media/memoria/2001-vista-espacio-instalado-600.jpg",
+  "widths": [
+   480,
+   600
+  ],
+  "width": 600,
+  "height": 399,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAoAA4BaJQBOgMXhu47AOND4AP7Af4ibfqEjXJKwAY1ngdCS8VPj7c3e32p9R3zYTWfywzJ/yFToevD5ralEpc8Vh8SNLP3SX2srigWrxt9NUIAAAA==",
+  "color": "rgb(56 40 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4c99456a_img_5408.jpg": {
+  "src": "/media/memoria/2016-obra-16d0-369.jpg",
+  "widths": [
+   369
+  ],
+  "width": 369,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQBACdASoQABwAPu1kqU2ppaQiMAgBMB2JQBOgZYA2RGtM9FUKhNTBmiwAAP7nH/a7g8QCg/9/pybBoxXhM0SeXwNraj9WHAOMKT/lKVGKN9ZK7FeKQtTg71pPd4K2OwcJarKiJD5c9WViokm6GS5UE8265a8gFF25qFAWjgAAAA==",
+  "color": "rgb(200 200 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/la-cofradia/candela-SjvXHdgnaGUodgNo.PNG": {
+  "src": "/media/memoria/2017-candela-430.jpg",
+  "widths": [
+   430
+  ],
+  "width": 430,
+  "height": 548,
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYgCdMoRwN0AAL4nQ9PjmeqyYg0AA/ujKHHpOMNLHuM7Gy5G9FsbP7cqW3UUjeA7lUxgMUStThY3MXs503WLCOJ3S1YxKDMnsFQglm3T3pRykCVVKFVFFxfbGXsaAAAA=",
+  "color": "rgb(72 40 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/946a3ed3_musa_mixta_atras.jpg": {
+  "src": "/media/memoria/1995-musa-mixta-atras-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 589,
+  "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZQCdMoAEagAA/uOPqGxAX+0eVp1YUbUAAA==",
+  "color": "rgb(184 168 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e7d62afd_11a.jpg": {
+  "src": "/media/memoria/2011-obra-2140-638.jpg",
+  "widths": [
+   480,
+   638
+  ],
+  "width": 638,
+  "height": 369,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAkAA4BaJbACdAD2CPgQyCYAAP7x/hXgDa+IjVD/Gw34/W1bzrSZ0kShtfCSRc3EYkrcTxIlwZyFZ9KtFONvG/A9YV/UXEw/Ml36Q6nwxegShEXAAA==",
+  "color": "rgb(232 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/ddd5bb88_invitacion_simposio.jpg": {
+  "src": "/media/memoria/2004-ff-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 582,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZwDE2CNOX18Iw8+DhPAA/u1boPGFOBuv6zmibLaaK6a2TdQTU2A4HKZz3bOeED8lCOZaHatfpW0uGw4e5T3s4sAAAA==",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4d24a0a8_geografia.jpg": {
+  "src": "/media/memoria/2001-geografia-582.jpg",
+  "widths": [
+   480,
+   582
+  ],
+  "width": 582,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAAsAA4BaJbAC7H8AgqCF6FheQAD5FDhfTvBGplKtXNRgxU91olbwUpprfODyslsd6TQkkuLzMFwvLqAcuB7gIZtqvZSTntbVbtUWfuXRu8QbSJsI7no5u7v4boeMqM9nYubu/KaYgn2rLgA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/197681c4_naturalezaq_no_olvide.jpg": {
+  "src": "/media/memoria/2001-naturalezaq-no-olvide-598.jpg",
+  "widths": [
+   480,
+   598
+  ],
+  "width": 598,
+  "height": 389,
+  "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAoAA4BaJaACdADaudu6gAD+vmwYd5P4gqXPYkG/3ajRlGOh+PJByFYNCrUqwoJ2aTj4/HgoMH8AAAA=",
+  "color": "rgb(88 104 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/cd7ed3c0_nuestro_mundo_hoy.jpg": {
+  "src": "/media/memoria/2001-nuestro-mundo-hoy-577.jpg",
+  "widths": [
+   480,
+   577
+  ],
+  "width": 577,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAQCdASoQAAsAA4BaJbACdACAfRigAP7kSln23mFG5z1A3i/1atLbMPHWAIgT79u3r3nL8tvcI62Bc0DFL0192aoe/c7GgCNAc2FRxF79bm/lng+NeaXx4VN2YUNqt8j7f8yh/OnlVacJir45QUz8Gg4YAA==",
+  "color": "rgb(24 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/biografia/captura-alquimia-2008-8EhGLBTulaFqHDhe.PNG": {
+  "src": "/media/memoria/2008-obra-412.jpg",
+  "widths": [
+   412
+  ],
+  "width": 412,
+  "height": 553,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwACrw3CRBz7TNlFwWOYAA/kCS8gY5ttx6qBtqPXFIlsNMxXovWsmbIPKgjo98tRtmzGLeCY8dTb4SupV6W3h7nRTPEc4/pLf1fMju4gH63fHRnzOt8Bq2DpHMh4AB6pzpBm/4LQOQ+8x9+pav+AAA",
+  "color": "rgb(232 184 136)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/4c3289a1_bandera8_01.gif": {
+  "src": "/media/memoria/2003-bandera8-385.jpg",
+  "widths": [
+   385
+  ],
+  "width": 385,
+  "height": 589,
+  "placeholder": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdACFjSnHD53jWHTb5MgAA/c0autvYVMdPzcqo/oS3Xz3+EnQEewByMF+DYKd1MF88y4eyx1NP3C+M+NoaZYNpeAgf4po36CKLu1rXjIqZPQCzskSScFKdLOGa7cEo45Y+c3Z7dkR/W4zEpqA3+jatz3z39/vIWfV4on1dAS+BwWSNloAA",
+  "color": "rgb(136 168 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/fd866a00_infinito_espacio.jpg": {
+  "src": "/media/memoria/2001-infinito-espacio-565.jpg",
+  "widths": [
+   480,
+   565
+  ],
+  "width": 565,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsAA4BaJYgCdAEPArcedFoAAP64H7Cx4UxbvUEF+n6WeIlEnonHWSH6uRI3wpAkhOIlDNcSrrMAAAA=",
+  "color": "rgb(168 200 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/7d8be368_transmu8.jpg": {
+  "src": "/media/memoria/2003-transmu-2078-556.jpg",
+  "widths": [
+   480,
+   556
+  ],
+  "width": 556,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoQAAwAA4BaJbACdAD8e+Cu7yAA/uTvPDkTNCDHmwylUS1c4BV3X9HXhSaXteM1uHyBU6B2oz2b72sCET/pLGzj1JEb7i8NE8iScIZwYyQmmoIg0IQOwGkPB43PB/kANlxL16JBQeKBOhUaMUAAAA==",
+  "color": "rgb(152 40 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/71f585b1_invitacion_taller.jpg": {
+  "src": "/media/memoria/2004-invitacion-taller-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 553,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoQABYAPu1iqk2ppaQiMAgBMB2JaQAASrb+GqVnXAZx4AD+8DoBxcoTebnW/yZ/ygrwLzz6l6MLaF52mzSh3g4G/DGYaLZBIXXo8ZyjzPPzqvI1wgQAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c1bb0ed2_transmu14.gif": {
+  "src": "/media/memoria/2003-transmu-90eb-702.jpg",
+  "widths": [
+   480,
+   702
+  ],
+  "width": 702,
+  "height": 314,
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAQCdASoQAAcAA4BaJbAAAbh5qwAA4h6LeIYcL9p7fh6y+LLjCxBm6qR+29ld5aStznQ53DrgYNLSPELCZ/9Sw1vbJh1bGbpg4AAA",
+  "color": "rgb(216 152 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/dadb1c90_invitacion_detras_de_la_ventana.jpg": {
+  "src": "/media/memoria/2000-invitacion-exposicion-detras-de-la-ventana-380.jpg",
+  "widths": [
+   380
+  ],
+  "width": 380,
+  "height": 563,
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAgCdASoQABgAPu1iqU2ppaQiMAgBMB2JaQAAifQAAP7wR4FuAgakj1UJ9DzhhFpRUy5/MAIx+xYNNIgR9G9hfCy6tI0KAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/6303d0bb_400x533-images-stories-actividades-Afiche_Iglesia.jpg": {
+  "src": "/media/memoria/2019-afiche-iglesia-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 533,
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoLUCis9MA3mYB4m0zik8bzfkAD7dO5I1nSPnD5XDgU+LbkkHNdGdI5R2w6ukgMe1G2h6JT7gswuYWNMUlevD1JHOkIYWYQzu4GBfkAgZeS7ceTA1PHCxSueDBPINn1R07YJQ4xLjk5NQLIRHl4BaXWFQnNpc+BKYzztSVdEJc63DQBnrHpyXcGXs49xEG6rq2Q40Yc/YsuN4vjYgyAAAA==",
+  "color": "rgb(248 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/190d8807_tierra_de_paz.jpg": {
+  "src": "/media/memoria/2001-tierra-de-paz-530.jpg",
+  "widths": [
+   480,
+   530
+  ],
+  "width": 530,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAwAA4BaJbACdAYulqyLoiRzHsAA9pFw/3b5HTgv+w8ZpBKQ1FrLH7goKICb5nOo6tyDgEq3pZ3iYzydyd5pQJyrraKoPeSxFgjrLNWOZTWMsBQrpDXOCqt4gWB4AAA=",
+  "color": "rgb(168 168 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/bfd4dc3e_han_derramado_sangre1.jpg": {
+  "src": "/media/memoria/2001-han-derramado-sangre-383.jpg",
+  "widths": [
+   383
+  ],
+  "width": 383,
+  "height": 550,
+  "placeholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoR3AkgPbSY9VTRlkvYlMTGgAADONZMupwrYJlBF/2HkhfugqvjK7w/ZP+Q7cb1efOUyGHs8ATBiZf+iD8733mxoUh+9gRgpz/dNn09EsUGfKvCy776R548oF7v2muDmG9r7V52+dkhvnIlXuc1XxXCy8Y4b+8ng3tt42dJFftCrqWuOoabGSHmLZ02CfJGZ1ZB61tCzlyl1Qqm7jzFqKygEzv7t453tAAA=",
+  "color": "rgb(200 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/dd0bead6_plegaria_por_el_tibet.jpg": {
+  "src": "/media/memoria/2001-plegaria-por-el-tibet-397.jpg",
+  "widths": [
+   397
+  ],
+  "width": 397,
+  "height": 527,
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoR4N1/tWbUMydAB9jUfdYPj7NkDAAD+wUOdPeWux6O/EXVVXWDw1uQDseAmL9TcJjPN3VvLPPvNedTM2BEi57CSMkdNRlefQKjsZbVyj/9xEtBvw+Bp5zQEjux2278CEOR5aLKXFz1libqViUODJPDBTM8A81tgBuRxF8NkvS4h3T42p8TVHB4UZBu0Sn6/mzwxiv6KcG/nwZAx7iXztVbZZ/WTwAAA",
+  "color": "rgb(216 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/44b0ac1d_identidad2.jpg": {
+  "src": "/media/memoria/2001-identidad-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 523,
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgC06YyA4S21W7r1NDL0lpQAAPKIkVrWufAfsXWtrXF2ApKvDggqK3fTaF0C5ulunE9sYQlvftP7yd/whkSeHfpCO5Vc1WABU5IUQBuCXl8IXAKpne9+6TdI6jjHSdPgKXlfKGWXm+VqkEsXjvT8RfuMvq6KCJBfemFjGv5B4fFgASAWx0t2TTA8q8ipidHU3zEPQP6jGEVyAAA=",
+  "color": "rgb(248 232 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/biografia/6AEYm85N10s.jpeg": {
+  "src": "/media/memoria/sf-6aeym85n10s-560.jpg",
+  "widths": [
+   480,
+   560
+  ],
+  "width": 560,
+  "height": 373,
+  "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoQAAsAA4BaJQBOgCHgDVgAAP72gvlZMmKZ2CVuonUrYAAA",
+  "color": "rgb(8 24 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f2354db6_viva_la_sele.jpg": {
+  "src": "/media/memoria/2001-viva-la-sele-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 522,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1oqk6ppiQiMAgBMB2JagCdAF8xpQlF1EF6xWAA/tUVIhlr7E+MQj1VrVmYFk3HotfGF90EKME5MvGKoNw/ovqh1lg6CzwlyuF8NxlXja8Z+/4jfEWsjo1/87H246XC7gEhmtu4vFAAAA==",
+  "color": "rgb(40 40 72)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/67c56750_epifanios2.jpg": {
+  "src": "/media/memoria/2019-epifanios-6ead-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 417,
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAQCdASoQAA0AA4BaJbACdACefZs4IAD+7lZLTRduGd9vcP00Dw8+pF/u2oWfatpJVg4k84ELmsQO8dZu+6/RoN+Jczxib691FG6v+Wc/XWfwb/Q++7h9Nt/s7jlAWBpoAA==",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/978be237_identidad1.jpg": {
+  "src": "/media/memoria/2001-identidad-917f-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 517,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwACIFVdDC+VjvBJ8wAM1LTGFSgoICi3PPnQ5zWHEYuJ8OUUrItJ3T642WUbarlVmPJK7TY7g3W7zETPZ21SrC6CGivi0aaJAeoP5YUQ3SIqPU9p4dsEdLS0AAAA==",
+  "color": "rgb(40 136 168)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/3208fd4f_vivian.jpg": {
+  "src": "/media/memoria/1993-vivian-390.jpg",
+  "widths": [
+   390
+  ],
+  "width": 390,
+  "height": 524,
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBWABFqPTCZ//oWcmsY6zoAA/ptDByJc2nuIX7BtizKBjcricO79CbT5J1S8gD0kcNJKy0Kdg6BXB2KVJ1r2dcv0mG/1d7xsu8hizI9CbOfbDJReoQ8/EjVEK7aXtUUcOOR1vR91mlNVlf0wbSWIAAA=",
+  "color": "rgb(216 216 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/94bea03c_transmu10.jpg": {
+  "src": "/media/memoria/2003-transmu-7d3a-397.jpg",
+  "widths": [
+   397
+  ],
+  "width": 397,
+  "height": 508,
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBQCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwIsx9gOQAATc2Yk9rIZU5njowAPI1Y9S+5NTeHD7VxshqUR8mNo9WMCz/XEJrJJewmThVB0kvvPxn5518Mtx9FT1JOUu+hJKY2CA2qZSfbSGRadLQfy+23aHHNZmJMi7ATLp1/iS8vyDVTx0R0cy6t6Cb7vA6tRN1YnWFTbMKdkFekU3B1ZtP7UEqDLkxuwT2fqEIgAA=",
+  "color": "rgb(184 40 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/bad8f60c_plegaria_virtual.jpg": {
+  "src": "/media/memoria/2011-plegaria-virtual-600.jpg",
+  "widths": [
+   480,
+   600
+  ],
+  "width": 600,
+  "height": 331,
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAkAA4BaJbACdADJQ1KTwkAA/qV+7Q3IPpQrAgnO0IDvHli4WJ6IYTbZ5BkZyJ79IyYnCDfQ6ivNr746h9vVC2sgAAAA",
+  "color": "rgb(216 184 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/02ca01d6_obra_zapatito.jpg": {
+  "src": "/media/memoria/2015-obra-zapatito-396.jpg",
+  "widths": [
+   396
+  ],
+  "width": 396,
+  "height": 494,
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACo9B8oHcD6s+DUGT+oV4AA/vA0Gszq/4jCEDXxMgYQr5+rPDOuZuiYBdEgtYauti+xYoJxUY2jbx/v0xW7VjzeYPvcy3vmYad6C/jjbup7faMYNAIlvkxNDVaE3gpboqrvfzDt7IIhmbwsQupGDdZWshuAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/cc36b108_plegaria03.jpg": {
+  "src": "/media/memoria/2011-plegaria-374.jpg",
+  "widths": [
+   374
+  ],
+  "width": 374,
+  "height": 519,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASoQABYAPu1orU2ppqSiMAgBMB2JaQDKAB6XCGFsNI62q1AA/uv/jswk7WkS1x9bVwGmU+mOWRnOMSHpg9HJjFlwmZ5hojIUlIXR0yDgyofRt/3JsiAulzRwxl1BF6AA",
+  "color": "rgb(40 24 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d5b67943_triptico_20nuevo.jpg": {
+  "src": "/media/memoria/2016-triptico-20nuevo-301.jpg",
+  "widths": [
+   301
+  ],
+  "width": 301,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASoQACMAPt1Wo02opKMiNUgBEBuJbAC/aoHgguwDeRK48oMBmuChYmfNe292G/V7iRrUPQAAzijBHWwTAuJHGhSE78O6YhDfBTD4nvTK97YcrRvepPX72v60z11AsuRntXbz9bqfc7sErPLrVPjI83+L4Mq5gi1HTdyoY7+KCCvNYWTY9Eskg7iaIE53uefKVqq6C8rgCyOXeQ5klxutdPbuCJYoj4RSMzqn4Mb5s/BQQIQxw3vIhXZHUNyryx1N4JKQY+SpYy4tO8fzX/8IZ50Wd+CePRmBL6H25zZrGM7h/mrSQi1kNuJbnFFLp7IwdpbtGMlne+UdlDEoAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c98ee47d_bandera_desaparecida.jpg": {
+  "src": "/media/memoria/2003-bandera-desaparecida-en-el-fia-390.jpg",
+  "widths": [
+   390
+  ],
+  "width": 390,
+  "height": 479,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYwDFEUDZABUrrxsXdErzSJQA4nSQJeWXx3obzI3IBz53My9PCSPDcpfYRUmXDrc++SNfzgbKwInt9XaZZ67pDl2clTREGb2fFR150/bspQi491b1Hei0oo8C/BVwDmEIRlFjV2mgBEFfTW7A5agEoH1JAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/biografia/delirio-12W8wojiBV02mYAN.jpg": {
+  "src": "/media/memoria/sf-delirio-372.jpg",
+  "widths": [
+   372
+  ],
+  "width": 372,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JZACdMoADSGu13nym+qisWcAA/pgHTBwJ7f6o+TY/enGEGPVpfgf67EIeX7i8AuyGT2AXv4/PN94GLVVW1+uAFUVhWyMwYg04t8PXmPU5Xw+USWgAAA==",
+  "color": "rgb(168 152 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/67dc87b6_detras1.jpg": {
+  "src": "/media/memoria/2000-detras-e4b0-352.jpg",
+  "widths": [
+   352
+  ],
+  "width": 352,
+  "height": 528,
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7ACIZ9YEB1vK+3OWtKUuiAP7lMtzwszE4ZbLv0iiu3PcVTE/ffHNf357KPC4m9Uq7/ptT8Wwu6OgeVUiLdyjM+awqwemi8P1wt8dqsa0fwPOWnE6i1xOi610so9xUGul0NucGS4bfF9iUk7c8xr5frfqn1DkAAA==",
+  "color": "rgb(8 8 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/94afc027_detras19.jpg": {
+  "src": "/media/memoria/2000-detras-8a7a-350.jpg",
+  "widths": [
+   350
+  ],
+  "width": 350,
+  "height": 526,
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaACdACPwGIryCGc6DXVJuIAA/vDqbA/Tmc7ZCckMTeY0g1w2BkGfR0PqfekzcWnA5M3AE4QebE8ETSoUOQCtUUylgXj99O1z3s3BjtF20DnbAmnv0mZ4I+/cWeZ8GtEy5dZU8FSjFhmq9xAx9ny2KLkP4mLeJYciLbi68LDEi/e4lAAAAA==",
+  "color": "rgb(40 24 72)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/49bae5e5_detras11.jpg": {
+  "src": "/media/memoria/2000-detras-7998-350.jpg",
+  "widths": [
+   350
+  ],
+  "width": 350,
+  "height": 524,
+  "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JaACdAYv+wJC7nfD9hNPwAP6fmZPYHoFYEfifU5nNEhEnuBhaQyHaBia4Yp0P2oP5IL5wf7Ea17zV37yQEDoBkyNzHNhsu5UxwkgBVJ4lS5hLh91seK1BtvnzclVYyl//6TqyvTd5NukhQ82ijd0lxYF9gjY1nAd2utHlPNOmpdGBRb35Eo7N+ghxmTI3wmQAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/53bcad41_suenos8.jpg": {
+  "src": "/media/memoria/1996-suenos-365.jpg",
+  "widths": [
+   365
+  ],
+  "width": 365,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoQABYAPu1kqk2ppaQiMAgBMB2JbACdMoRwACIWb3Ao4qCvAAD9ZKd3NcnKfotiKJSkgbOLw210X4n35Tksxk2LLzsHwBNNZtuTblQnJkYp9vwVi05JYZzxE6CasPYZjvVTDtcLNw/GM+qhdFEQi33piDCPgiRZ+55kBPZ+DaJVLWN2KwAAAA==",
+  "color": "rgb(8 104 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/95043357_que_pasara.jpg": {
+  "src": "/media/memoria/2001-que-pasara-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 363,
+  "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoQAAwAA4BaJaAC7AYwd2zKeNChjrsEAAD+moc8g7jPpIkAFbcdANeAjwxMi/fYubmxWfvLZenlay+ALKEqWwYfN9fj91dBJrpg9jEAwh5QOYL44mnq89xzaHetPRonUgAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/bfbbebbf_detras20.jpg": {
+  "src": "/media/memoria/2000-detras-4ff9-351.jpg",
+  "widths": [
+   351
+  ],
+  "width": 351,
+  "height": 516,
+  "placeholder": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAAAQBgCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMYNcBggHqA3gDeUiIvGAVlZS3im4JYxoqVNgAA/nbchmQn+hekWuyejuwJlnPZa62W21vo4oQViVR4vMP0SlBR9a5/S7kU/uGak+PVe7AxhQ4/3YcfKKhHHKUNsn7re03Ncgjx6yH2kHDyr7UwbQ5/SR6POpQ+xDM79c2tjK+stsTDX70WEp3ds/uT1iZtUz6NtOG6+6/4zLoc4KKHj1sjx5H9VkdsEtCfvTbid+5RGWB22leb/GvPEfOgVDeoP/6AAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/62691665_detras10.jpg": {
+  "src": "/media/memoria/2000-detras-0b81-350.jpg",
+  "widths": [
+   350
+  ],
+  "width": 350,
+  "height": 513,
+  "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JZgCdAywYb5m8YAunPv1V+FQA+7l5r6csAMqr6NVTy9XvqiJAOWlbs+DDdyAwNmRgWGuapJlh2haiUevxfQUIaa0mta1YJLbeDL05tT0acdmtzaB0hOzg+7xKqbcP3FmA60HNZYBVUIM2dBftyUspNTVQUKb73OLYpf/TmC63P/TDlCkE9KcPAJeEie3OEg5TCjPg4e5QcUYivrwZH1oh9YrXBDmHYZ0lJKQzX3D0hJ2sf5AAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b17a82fb_detras13.jpg": {
+  "src": "/media/memoria/2000-detras-d09f-345.jpg",
+  "widths": [
+   345
+  ],
+  "width": 345,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoADTpNzpDZEpyglnO8yIAD+6Vhm3XBvRTm4jxExUxYB4n7UhovzmYhFLiVjtq3Zl3gLR14apm1DOK5PnFQi1EGsYJs8bN8kff5Z7bRDFUoVAhzzM6Ct0ZVd8fd1axSh+06Te9enXiq/mVBkKuBzcX1EaCeaeu22uFXQPKwKkJUwaCB8m2QAAA==",
+  "color": "rgb(8 40 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/99e511c8_detras3.jpg": {
+  "src": "/media/memoria/2000-detras-6723-343.jpg",
+  "widths": [
+   343
+  ],
+  "width": 343,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAADQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMYPYCZQGsBR7hpfvKBq4op2AD2uSwhurquD5G2Mt/6uehxHBVDa0qLjIq9LzhzC42xFh58wi5YGDqpkUt43CQ2ybd5NcmCHo0rmm+DH/brf15/zyJmUADDMZ0r7wlrRspVTGMFEMATxnPpN3M3kqNfywJwXc5Fr72VrfuTrxbn/ptlombX63zvwqi/giSCu+Oe/7h4Snae/qxR0UAmq/WSnNxb/Ywjk0eIBvfKQeePL0cbPv8f9f/xb2cuw+9GYJO/k7+De+xLAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/ca4d8895_poetry3.jpg": {
+  "src": "/media/memoria/2001-poetry-391.jpg",
+  "widths": [
+   391
+  ],
+  "width": 391,
+  "height": 438,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoQABIAPu1iqU2ppaOiMAgBMB2JaACsOUAAqbGZj71ByQAA/sj8ryFceTxRdoT6o51Bh2GupOK+wOMplDSGVWn9pXYvYhDaM2kq3uzxtXDlZXXoAAyRcM7rVKwVCheMBxxEwAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/621e21fc_suenos12.jpg": {
+  "src": "/media/memoria/1996-suenos-55ca-338.jpg",
+  "widths": [
+   338
+  ],
+  "width": 338,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoRwAdB8k+VBq+cH6zuk6eGoAPx+aCPweSFZwq1gwhZGo1zi1nLAEU7wmRXefvC/Y8lbbmQVb7UiAbjUc0R8C8exFzH32vIA5dIIn52t9qBW/n1k8ii0+54ZuBUDiskatM4ya2v0ZeF8cvzWCYe63bBglWP7nuVikQ62glZY9DyAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1adb329b_suenos11.jpg": {
+  "src": "/media/memoria/1996-suenos-68f8-331.jpg",
+  "widths": [
+   331
+  ],
+  "width": 331,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoR3N6SAJHXqkrUwpnQA/hZTXitl/GSG8CpaGuaZDy8jwQabebp392xGKGA5/Xm70z9MtAai69fhN63LiAO9PabRNRsP3vGGqtnEBUrqJ2gKMTL9+shBtPqb7V5XYPJae46e14tMR+C/mw/2FdSkwE2cAP7YM6VpAAA=",
+  "color": "rgb(40 72 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1a5cf3e7_detras2.jpg": {
+  "src": "/media/memoria/2000-detras-968a-352.jpg",
+  "widths": [
+   352
+  ],
+  "width": 352,
+  "height": 463,
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdMoMrZEOjD63TYvl6lYWZIAD+vICupt0e3Mcqn8ZF+uHzyBi/6VmleJ3X8ntugBpe3hAqCFJ1mu1kXYc4plA/kxNlJepDoKieXGRyamyWJ8meU2u7/aEnRPexMo/fdmdlPAVPLq/um7+ewgs/aVIciNhQAAA=",
+  "color": "rgb(56 72 136)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/9264abb5_del_corazon.jpg": {
+  "src": "/media/memoria/2016-del-corazon-250.jpg",
+  "widths": [
+   250
+  ],
+  "width": 250,
+  "height": 640,
+  "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASoQACkAPu1eqE2ppKOiNVgIATAdiWwAnTLVP/hWb1xBW77QUZfzaiOPft0jAAD+6jhHetlHpNlFvTlWN7DiZrn/vj1lH5Qy9rNl+J74cEDsAtSFc2Ffv1BHToeGPL7S4qgPMjGZ9EgfNS9OlRENkrOpIPxhPt8KJ9h5OK+rbjaqjbK6jWh6AFJn2v4IK/uHSl6UbsYpZDMppF+rncWM+XGtZousZptjBp9sL3TZUmLWd07OJsAfysrXggYaDGX5w2P+T0598wAAAA==",
+  "color": "rgb(104 56 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/6469f41b_detras4.jpg": {
+  "src": "/media/memoria/2000-detras-7f0e-350.jpg",
+  "widths": [
+   350
+  ],
+  "width": 350,
+  "height": 457,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgCdAB6wMrG4CNcv7I26AADN4A983ozZcwGoWuiGhHKUpR1LbyAmuLmlpOC1BY+9F7isN1IODDx4uLRh21SS0ChyfsrnlFLAAAAA",
+  "color": "rgb(168 136 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/51055628_91ae882f6576e7e1d7c4aacad4ca6a2d.jpg": {
+  "src": "/media/memoria/2025-obra-5d57-397.jpg",
+  "widths": [
+   397
+  ],
+  "width": 397,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQAgCdASoQABAAA4BaJbACdDBRyIfK0C3gPLSY6AD82FB6tXKII8W6gLdWgmXCXmRFQHQnmQu7MuYJwV6mOrMM+0FPDL05Q14u8R6Ip3UFWsPsRiviQqtM+yWpkWES7P0/RIMnnqhAk7tt0ysnOvUtMAF53gnpBV/49EJM/ABWizBRPMRrdMuLEjQ5aAAA",
+  "color": "rgb(24 24 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3742c7e3_8c7e34467c14369e22a2236e9ca6639d.jpg": {
+  "src": "/media/memoria/2025-obra-19db-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 386,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAQCdASoQAA8AA4BaJZACdIExE4RjLugA/u7pgsjftsOaTiTgOt3ZT58hFJ8NfBfZn2fP2GnG25Yix6M5nCJ/BRtC+l9mNYpa8mfpN22ICwlLaZGErRPfGqnmm7XbUHlwsaA2o/3JuZbuW8wg6n0eQeGRvzmhVuM9cAAA",
+  "color": "rgb(24 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/dd2135ad_invitacion_sazul1.jpg": {
+  "src": "/media/memoria/1996-invitacion-america-descubierta-468.jpg",
+  "widths": [
+   468
+  ],
+  "width": 468,
+  "height": 315,
+  "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAsAA4BaJaQAAt0JiTJZgAAA/te+cZOTuWPuqsgd8Ai6zJsUhZQ1EEQwUAAA",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/694fb9bd_han_derramado2.jpg": {
+  "src": "/media/memoria/2001-han-derramado-297.jpg",
+  "widths": [
+   297
+  ],
+  "width": 297,
+  "height": 488,
+  "placeholder": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdBaglABEL+zMGbsDiFgmZ8OzgAP2N/PlaGukjqUpa0Xnq7qIFoZVKTjkG8oko2dPerUczFtHPkD5CSoQ4b3sS2R9Xd7ksUeAAkSpuIQXxdo60k0orfuNYA8UfbDn885oF4hv0VOeyfeiocRAxtjKRgOa5ydw6Hu5uODlrrPILICS64Z7tgjTQArnodlLnR7nsTE9mb/k2cVXnpUmv7U+m8Z2SGHAAAA==",
+  "color": "rgb(72 88 168)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/50e6d48e_atmosfera.jpg": {
+  "src": "/media/memoria/1993-atmosfera-322.jpg",
+  "widths": [
+   322
+  ],
+  "width": 322,
+  "height": 450,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASoQABYAPu1qrU8ppiQiMAgBMB2JQBABCtUdUB48Bwu4j4xFIAD+x/9CGuO/fJJmmLQTONpZ3RasY/jkIo8LWndOEdUodR5LQif3rQ74InakXX158S+WjLiAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/42be888d_flamingos.jpg": {
+  "src": "/media/memoria/1993-flamingos-322.jpg",
+  "widths": [
+   322
+  ],
+  "width": 322,
+  "height": 450,
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JZV2AVda0UB/7nNjgAAD+8Jhv1zBFSMIWUthjIX/oxlQK2w4uGfshK/vvC1IwmWuAAA==",
+  "color": "rgb(184 184 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b7596a40_guardianes.jpg": {
+  "src": "/media/memoria/1993-guardianes-322.jpg",
+  "widths": [
+   322
+  ],
+  "width": 322,
+  "height": 450,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JZwDE2B7HGSR7eyXdoSogAP7ASSF9EMG+Cg9yF1ncepV27pUij233wq6IBy3ZsgNNefPoNc8OTOmTLP6Xh9FUTL3snl2/AODc3lW5zJbbwll4/xmMWNUgAAA=",
+  "color": "rgb(168 168 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c0102f6d_ruptura.jpg": {
+  "src": "/media/memoria/1993-ruptura-322.jpg",
+  "widths": [
+   322
+  ],
+  "width": 322,
+  "height": 450,
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBOmUAnHc6vbpf6yiOXBeoAA/r3chZ07c/GBUouHA6y0EpKh0AWZqWi8mvnxBuF1rPL8MNNZdReUKHOKTihAdDTgRhXVF14qjPPKPzNtDxp+sQrLtUXc3bZ2HKChCB3SA1GpkqGylE9uUfbBLRVaZgQXYLuQRKWjakQBKfDzQAAA",
+  "color": "rgb(8 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/99a63215_viaje.jpg": {
+  "src": "/media/memoria/1993-viaje-450.jpg",
+  "widths": [
+   450
+  ],
+  "width": 450,
+  "height": 322,
+  "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoQAAsAA4BaJbACdAEN+ElCT71AAP7nbLEuYBjfgJmmuwLb8K3YcS6xwH/YGzBAAAA=",
+  "color": "rgb(56 168 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/74d2abcc_corpus.jpg": {
+  "src": "/media/memoria/2010-corpus-6d4e-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 474,
+  "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoQABoAPu1iqk2ppaQiMAgBMB2JQBfnBEFCGrZeLOxzeXJ3i2AA/vN+BNdSonh7TagRTRFceeKjQ5ZvN6wT2FW8kUF7d4q7bb2AOFcjzPZFdjNqcCQK0xPHoOS8PU2BkwIedpS/il1UZOM81lZZ7d/EIeSke1QKy5DTTljgRhBDou3YjaBfn681jwxQAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d8d8106a_transmu18.jpg": {
+  "src": "/media/memoria/2003-transmu-2dee-296.jpg",
+  "widths": [
+   296
+  ],
+  "width": 296,
+  "height": 480,
+  "placeholder": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAAAQBgCdASoQABoAPu1iqk2ppaQiMAgBMB2JbACdMoR3IsBxUm6NeoArsEAIKEGPOIrmqEw1EzSnOAAA+OSP+5Os/IgUl5jWMxSfVZUggUDJooQZY1FYNO/Lt2GX1RZcinQHmfk5Tmlk47RCgEXrkGPavqroDTOJxNdSOErWbLK8kAcJKOW+hEk7NhvK68z9fsK3+U3PL70xAB+khl/U1aY4TpQMDB3OAFfyAFmnrnRZH31QdLgD0G6Tvt/h3+PqvVLYg4j43/CeyWebHb8L8UTyWMNHeqLRzADhOMverKvsIgK0AM2xOZTk+2pFwZv8Uc0u+Unufqq4fvgj3CspkFg4//HJ5AAA",
+  "color": "rgb(200 72 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/d721aeb7_plegaria_catalog.jpg": {
+  "src": "/media/memoria/2011-plegaria-catalog-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 473,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoQABoAPu1iqU2ppaOiMAgBMB2JbACw7CG6KDCNTl8wsbGAAP7u1yhxWzCUmWtUoTPQUM0z3d5Soyewecfz/TtprXpHhVPQSudA9YH75nhjkYt1LQgo2bcfcNHVo1wdTGDTsd1Wp5yMODe7qd1wZW7tLfCsqU7qozCfpIxS0ipKp1rvDBCOAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/e2556bb3_poetry1.jpg": {
+  "src": "/media/memoria/2001-poetry-f43d-450.jpg",
+  "widths": [
+   450
+  ],
+  "width": 450,
+  "height": 311,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAsAA4BaJbACdDBMAUZGYqbxgAD+RZTkPrxz+axcNzO8PHNljk+orB64r14jLZEud2kfyM6aI5bNcmWYijfJwRPqqx4sR6J4N8IxnKYP+535ghuVhPwTJzfcQ5AAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/5b97cc00_transmu3.jpg": {
+  "src": "/media/memoria/2003-transmu-a211-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 463,
+  "placeholder": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAACQBQCdASoQABkAPu1iqU2ppaOiMAgBMB2JbACdMoR3JoM4AVIHt+OL3VjgujbOIQ4Vb6+elAD8/XmZa6+4FQAXem14zmEFQyczHMaIG7SrfuDe/glSRfNVzRM0Abvs7srpKS7DJW89cuIcuG42TxEoU/DnhJIdcesGlqACCKQsuSmIB/E3J8lEd7vh3OAR/clDyGOZCwKfeopJqk4HRFUBQZ3yQqTOLHAAFo/I4pZB381MRRza3BunOvuYvYeh1YrIDbo4sowd3+lL4JO914EXPl26LC1oHP/g1pRwAAA=",
+  "color": "rgb(200 56 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "assets/trayectoria-and-entrevistas/esfera-oficial-XjBqPXfN2Znbch01.PNG": {
+  "src": "/media/memoria/sf-esfera-oficial-388.jpg",
+  "widths": [
+   388
+  ],
+  "width": 388,
+  "height": 353,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAA8AA4BaJZACdADp9Vcs3jolAAD++Fqunwh8GOb8mX2w0oivhrEF9msgu+c0PNEOhwYVf6eD5Ve61DLAhLWB41rnl1JSrXmoAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4b2eaa48_musa_mixta.jpg": {
+  "src": "/media/memoria/1996-musa-mixta-267.jpg",
+  "widths": [
+   267
+  ],
+  "width": 267,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACQBACdASoQAB4APu1iqk2ppaQiMAgBMB2JYgC/PAgEEE0ZJAilvZCqzxo5EBAA/eNp9hk5oS8OohTvNyUKfVRscTNsByVelA6HZLVk8Z2XH542Lp0cDmTfHUduyJvkgfvmmK5Fm5/WZ47PvlwTmCTv9jwt2YY4AJwl5sheu4aRRX4pg3rRzeK2M6j8foYOUkRgeXEzjOPjwOKmHCxAlx8d2AYaP6vcmdkqYjJY98AL6uvVJIO4jeiCMh/NlicRGSs07Cl8AAA=",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/aa421bee_ave_fenix.jpg": {
+  "src": "/media/memoria/2000-ave-fenix-291.jpg",
+  "widths": [
+   291
+  ],
+  "width": 291,
+  "height": 453,
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAwCdASoQABkAPu1iqU2ppaQiMAgBMB2JQBWAP9WSZAg852yUkcpQAP6vxSiND4cuDBYUKbaJWbBo4vfpIM7WoN+Ko6Bj3cEADT8IxwVRDxN9cceHdB0fP14z6weIvngp0KpMQBQiPyroilspwyj05kALIAAA",
+  "color": "rgb(200 200 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/43b721f8_tastaga.jpg": {
+  "src": "/media/memoria/2000-tastaga-291.jpg",
+  "widths": [
+   291
+  ],
+  "width": 291,
+  "height": 453,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASoQABkAPu1kqk2ppaQiMAgBMB2JbAC7MoADg7KqJz3+f+0E6AAA/ljjoHAWjpnOuf2sNv7Tnl9aeKRUQD2eNuqYRvHmPczvHpDgNzTU3jrNabvZEbEc4jMy0hY6UAAA",
+  "color": "rgb(184 200 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ce3f7e3d_umbral.jpg": {
+  "src": "/media/memoria/2000-umbral-291.jpg",
+  "widths": [
+   291
+  ],
+  "width": 291,
+  "height": 453,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABkAPu1orU6ppiSiMAgBMB2JbAC7AGjrsTHQFQbZW/2AAP7zdV9aY8mwjvfHbZPPSP621MTzWO9Njh/qLMROIkQ0b8buCNpQQuqTBluxc/9ZMvxKV4H5YimJczNsH8XrzqmK5kq+TyTwAAA=",
+  "color": "rgb(216 200 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/91edb75d_renacimiento1.jpg": {
+  "src": "/media/memoria/2019-renacimiento-1953-261.jpg",
+  "widths": [
+   261
+  ],
+  "width": 261,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBACdASoQAB8APu1iqU2ppaQiMAgBMB2JZACdIA/I89SR0wHxMk3XgAD+/jCz+8rM+z0cdHx2Pu3rp9fbDQVcuTUrw8193zvTKft28Fvf+ozUQ0c8iy/kVsn0SmaHIoncpT5vGauVE4Km7L8Mmz95g5aX8p/7UrzU1jMMkQV9jaDgy9qyRLY8AXu/4NW4TzpLRRGNRURfE/O5RrgAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/9ee404c8_poetry2.jpg": {
+  "src": "/media/memoria/2001-poetry-f47e-450.jpg",
+  "widths": [
+   450
+  ],
+  "width": 450,
+  "height": 288,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoQAAoAA4BaJbACdADGQPfvwADL/bwIlXCSQK2jNXNfEN5dpLsL3gJgPByx4gY/aZ+Zcd9Nq/TYyvOrwhmflndaOA77OwGx8M/7IeLQ9AMca09uRt3uxXlFpXTcQAAA",
+  "color": "rgb(232 72 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/5521c537_suenos13.jpg": {
+  "src": "/media/memoria/1996-suenos-67e6-259.jpg",
+  "widths": [
+   259
+  ],
+  "width": 259,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoQAB8APu1kqk4ppaQiMAgBMB2JbACdMoKCBgjoLYef1MwkX0sJkAD+9aGyrZOYG0GLAiBWWCHnqhW84Px+aoV9viFLQr+Pl3WPjFd7Bv6yxffphs//LWK4dh97utgF/iMpPdbbXf/lOny/6NNV58/59+3jdCr8nEvKHB9eVPbAU0v9o4CNEFU32bhPlC8ek330SAAA",
+  "color": "rgb(40 72 72)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f113cdfb_1d3edcf1751d2e59091ec12a235db2e4.jpg": {
+  "src": "/media/memoria/2025-obra-4f3b-321.jpg",
+  "widths": [
+   321
+  ],
+  "width": 321,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCw7BrXfeILJyegAP6vxWeNzpDuMaqHYsx+gzvcqUiKknxw67ekSyJHEuGuFqy5cnxhE8rwjhUWxuwsDNs8xMC/FBuAIxTskARm65AAAA==",
+  "color": "rgb(184 184 168)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d412813e_suenos10.jpg": {
+  "src": "/media/memoria/1996-suenos-e290-254.jpg",
+  "widths": [
+   254
+  ],
+  "width": 254,
+  "height": 500,
+  "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACQBACdASoQACAAPu1iqU2ppaQiMAgBMB2JbACdMoRitxgAUd2Iahx/AR76+AAA/trX9C22ec2AEvnUHDsed3hculDTn7o4lQ0qg5O1ovkkjhExtYcvhBxlsEWZTOtWFYNVzWNmtu7te1fCoNhdeZ7925UZ1abfqP/gySmIkZANhlEyFFiT6if+FmJU9C5yleU4Z6yd3BZAYH4gs1VjClwtPRTXcZixILCShB89cJH0OfHPxCYgV7VL2J0DMxS/baDIX9l/3AAAAA==",
+  "color": "rgb(8 88 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c1271ec5_poliptico_completo.jpg": {
+  "src": "/media/memoria/2001-poliptico-completo-587.jpg",
+  "widths": [
+   480,
+   587
+  ],
+  "width": 587,
+  "height": 213,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAAYAA4BaJYgCdH8AGAJEM77YIAD+vZEvaeeOseJ27lYWKPJF8gvlqt/8ocU5DRcXCcWFFALKxwgdTFIpcEG39s8jZvpHAUGgAA==",
+  "color": "rgb(8 8 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0880949e_9534b5bc30f86a141f5dd076da7bb68c.jpg": {
+  "src": "/media/memoria/2025-obra-0861-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 303,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAwAA4BaJbACdAEPUuOmSmtfYAD5I6xR13gHTo181n5emHQkotCfJIwgQhM5ksuDKpXtHFMaj68wcEr9YiciqyLm1vHxGSVkrY5bgAA=",
+  "color": "rgb(184 152 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/da5dba7f_transmu12.jpg": {
+  "src": "/media/memoria/2003-transmu-0ad0-610.jpg",
+  "widths": [
+   480,
+   610
+  ],
+  "width": 610,
+  "height": 198,
+  "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAUAA4BaJaACdAfwBloN9wAA/Kx3yV0LbW7grOB56wr4vQMu0e2Cn28AF18OrbcmS2UCeaAAAA==",
+  "color": "rgb(232 200 168)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/8728842a_52e6df19cdf36ba9451829813b3e582f.jpg": {
+  "src": "/media/memoria/2025-obra-7ba2-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 300,
+  "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoQAAwAA4BaJYmDrRgAogAA/vH178NfuE8z9QybIy4czqjZvzJhyN8BJ3K9KAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/6285843e_6a5d32836cf28a55135de6dccb1b10b6.jpg": {
+  "src": "/media/memoria/2025-obra-99da-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoRwACPxWx6tHNmdgAD32QbHDmeADBm1UDwbfm98iJzy4f6dFxuye3K5kmw0RXZcnu140cjQ1zZTgFYzGcV3xDGWAmHp/WBoKhnpLMUioeNV0qlS41OCOf5lHhnZChGEUsSER2oeI0KD+j/uQAA=",
+  "color": "rgb(216 200 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/7681b181_278x431-images-expo_abril_16-expoabr_2_identi.jpg": {
+  "src": "/media/memoria/2019-expo-abril-16-expoabr-2-identi-278.jpg",
+  "widths": [
+   278
+  ],
+  "width": 278,
+  "height": 430,
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASoQABkAPu1iqU2ppaQiMAgBMB2JaACdMoMYPYEGY/80wgAUHcZlES7SqXBKAAD+poyUU8MmzVQVZX0HsZGn6MiBufvpZ/t1csjMB2+B5JmRvASQa5YeEDPpZCZci+4WZIDobO7zzqX+gtPsHQHNIbC1vGUE1ZZiYd3e/quSUrvDPtp7lTCBzIyxXePbOmpKqyNGkfSgp+ey+ihwaESsEkc5KX7fn/hCaRXJLnVjhFdJHMQvh7gRQi59P/yAAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/8e4823ea_pensamiento.jpg": {
+  "src": "/media/memoria/1993-pensamiento-294.jpg",
+  "widths": [
+   294
+  ],
+  "width": 294,
+  "height": 406,
+  "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoRwACj+geV1/qW4zlA80XkAAP6obgi5h3Obu/UQcntgG9BVB8nU602+Arthy423f1S8pHeuRIGmjeLlLB+G4UJWZnFlzWS4ILMMTxjMJdFW6mRkEsBnaduWhg+Ek3fbLuqZXIkib+bKpxVb8bSa/+kEGCHPU3wfcjpHO/auw/7cnv5HwAA=",
+  "color": "rgb(152 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f108380c_8b241787fe652f57723e5dacd23799a4.jpg": {
+  "src": "/media/memoria/2025-obra-ea75-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 298,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAwAA4BaJagCdAYuRSeXTk4SwAD960nPujQsJdDPFPXJo/pV7mTQwmDn/NY8bdCGHpBqo4FNv93dNmS5vKv/N8Dhs7q/iwe2tC2xioMco3JbxbXaDBDKFSNyrszeAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a35d88b0_ca999fb58d3a93886807f53a343670f6.jpg": {
+  "src": "/media/memoria/2025-obra-dfab-298.jpg",
+  "widths": [
+   298
+  ],
+  "width": 298,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoLUB6gADFP1RKQXSIPwNdsNgAD+ufTKA0N1K41UWu83Lh9+SMsKnKF1w6PjXj9IddM/1WAvW2NtPwSUqcxJOboB5uPnvefM9WUXKC6VtT4kxzyzCyQihuVMEL8339F7PwQkHfvza5l8EACPpjXRV5UHlMrjU0o+CP5/dxrmLZS9fdAAAAA=",
+  "color": "rgb(8 104 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f45bd3bf_5e1de08a87046560c1d139bf71363387.jpg": {
+  "src": "/media/memoria/2025-obra-7d1e-297.jpg",
+  "widths": [
+   297
+  ],
+  "width": 297,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdGaaEDyLy6EVOniE3oY99OkAA/nLt+AdNasaw1uA22ihr4wZ0JlJQJeq70Z4dKAjivK5ATaKzOvF4RduWaGoLpnHxYJoEdGdRYkpOYuE593mszZlnDOJccM3Y5NDvG9t/A4iPmULzRkI0YhMMIko58wft/TBUjXc6jC4HOZv3cDLgsnT4wO9/v29nAoqn5/9sldeX80+r8FvDt2wnpI/x9NRhw94bb36hk7gEf93X2U8k3Jl4/Odm5XJWkRdnVihGnskAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/6a15441f_Agenda-Agosto-20142-267x442.jpg": {
+  "src": "/media/memoria/2014-evento-267.jpg",
+  "widths": [
+   267
+  ],
+  "width": 267,
+  "height": 442,
+  "placeholder": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAAAwBACdASoQABsAPu1iqU2ppaOiMAgBMB2JZACdAdwA8gnEOZrePTvrZfAA/I9oE9hcRDgDi3Og+oG43TFXPIpW0/Y2Ks2kMKskyelV3IcNVih4aVI2rTnY6/EKln8w0kA3ZvZfTUD6BziAQfv6oL/UqleGkrCutpfLoYNz67E5rOlAwdbyO3X4J7I1smceKIMWWuLd9Sij95V1StaANRSjEMP7hA86IYHzpjE0zcY4AA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/26994194_Agenda-Julio-2014web-285x414.jpg": {
+  "src": "/media/memoria/2014-evento-e5ee-285.jpg",
+  "widths": [
+   285
+  ],
+  "width": 285,
+  "height": 414,
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JagCdMoADSuulrw66sLeBcAD98GNxNxox8qManeWr23Y7YLJzSLeXX1r6+09325aUmiF+DnXMxoOe23qA6fUzoIiYgC+JM4/gR2gX0nTDKsXu1LekDZ5AoZfM/2gz6OKCNv7SyDXfqed/YHAYReY9PFrOpMnMsZ1CtcNCGKMC99vcOOVwAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/26362c18_aniver_octu.jpg": {
+  "src": "/media/memoria/2013-aniver-octu-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 293,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQAAwAA4BaJbACdAYr7vQ+DxAekAD+9/EO4sxrK1E58558h5PyL7KPglkj5kz7fgX4G+cedlZvctnxOpZ9XFt9+NRl0vwnfKzH0t+O1dDVMfWxoLjHojBIoXaW1ty1zpVubfF7i74eDwAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/3c38c99a_466x252-images-stories-baners-expos2009.jpg": {
+  "src": "/media/memoria/2009-evento-465.jpg",
+  "widths": [
+   465
+  ],
+  "width": 465,
+  "height": 252,
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAQCdASoQAAkAA4BaJQBOgBxEhRIsAP7mBJkXCqUowo+cTI85YuYi/uNKFqAy72oZqvRT7FjO+4oDSa08k/xF3jyBbdHtD4FAE5NV0AjxquwMCwAAAA==",
+  "color": "rgb(40 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/5a48436b_278x401-images-stories-actividades-madretierra.jpg": {
+  "src": "/media/memoria/2019-madretierra-jpg-278.jpg",
+  "widths": [
+   278
+  ],
+  "width": 278,
+  "height": 401,
+  "placeholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoFWZjlJl6zpPE5KJ7Fks59UAAD+1KNNJ5YOOrWiquQuXCB+Yfec+FuC6FDw46ArcReFUUeIgnov+frvzmRMXpDaaULfAr2bTO9wOpXQeHM8lyo/jpRjQsYWxePvHK0iYB78S9NaCglgYPv/O6b+4OpH7QBdu3uaIWMi+dFNOpt/19WetbvtsGItL0X/Rjc277fhcp6150I/v5xaD0BAianXXWKa2DPb5gY23gAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e9f30855_55eb9e96dee23719cc6b037ebc9b804d.jpg": {
+  "src": "/media/memoria/2025-obra-f33c-272.jpg",
+  "widths": [
+   272
+  ],
+  "width": 272,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYgAAW7wbEiTfr4Yh8rtJwCcAAP7Y239sJ8MitxYqZYQg5otLciWYEgT8GSdrcwRpPN1fTqH+e17wEr7YjSS/M+Gb6/o2A7iApkYed2n3nqBWc/ts2EjO+wrVkOSbV4XUbH+7E2Pf7+1QLexi9fP7XeO01vYJ7y6ZalqAkjKfnwyQWcDQ8/AA",
+  "color": "rgb(232 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/b75e06ed_zoologico1.jpg": {
+  "src": "/media/memoria/2019-zoologico-270.jpg",
+  "widths": [
+   270
+  ],
+  "width": 270,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoQABgAPu1iqU2ppaQiMAgBMB2JbACdMoADSutrXO5ptvPicXVAAM4+EFdF5PL9YPlZLYnVDNGhlaY0y84ZTacGS9PVMgO63x+hLHyJ79KnounTX7tqr8sWW9lGMQt+0/GwR2/oCSAnEVBS1stjmaEhmqQAAA==",
+  "color": "rgb(24 40 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/45910334_zoologico2.jpg": {
+  "src": "/media/memoria/2019-zoologico-1cd7-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 268,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoQAAsAA4BaJQBOgMWgz5o08nngaCUAAPffjdR1qIi87N9vjn4isxLLz/lHV6qRKQHyPNzg8YZItt3eKi8TGHf8f6pJj9NkOxgtWOiU4wNn60cQ3Iik3M+iwAA=",
+  "color": "rgb(8 8 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/222e2e85_img_8430.jpg": {
+  "src": "/media/memoria/2006-img-8430-jpg-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 267,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoQAAsAA4BaJbACdAEQ/iayrku26AD+9qok4ma9TzJQNW+7YbY0HrZjwLt4ZOEfxZ5acPaKZCxfwcVJukUuqgOMNbjuII9x+wn8LgAA",
+  "color": "rgb(24 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/5e5a1d81_img_0675.jpg": {
+  "src": "/media/memoria/2006-img-0675-jpg-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 267,
+  "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsAA4BaJZQC7ACeuHtw1GAA78eEgJ19O7YV53Fmj8xnFSriiQUMazDQ5AsUn8I95wAA",
+  "color": "rgb(184 168 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/da8e575e_a53bff5e426592dab9b22cdc92676b42.jpg": {
+  "src": "/media/memoria/2025-obra-fe74-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 267,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQAAsAA4BaJaACdAEORFUDgAD+yglrsKZbQuSC/3rFdydgbg0uGH1TZk01WSPeeNMZ2stTlf06MNRF7XScu3/NoMO7QVLOs7Fz9OrsBrk+OVtif3TPsAAA",
+  "color": "rgb(216 216 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e3c1eee5_41ba062c6fdca8049b58f8490ac0edf9.jpg": {
+  "src": "/media/memoria/2025-obra-15d8-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 266,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAsAA4BaJQBOgBxANZeU9EAA+x5XXmxCkZNCvPS9fakN0cHyPtGfXyEE6yxWvrKcp3hac9rYoOAiVtYuF4cm1PrhIpBZYaOSOKXMW1Hd/dgAAAA=",
+  "color": "rgb(200 200 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3ab9f376_a282c90e080b80eb1cd713ca17eb9a8f.jpg": {
+  "src": "/media/memoria/2025-obra-9280-266.jpg",
+  "widths": [
+   266
+  ],
+  "width": 266,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JQBdgtQASEmwsMq9tcDAA/RKj6HCeOTKcLChUQYMKebQ5ymWQ0Zk88IXEKOFyWnIoHfxHDekwskRLtTO21v0eM0iSFEJsCyRlPL2v1zP5dL4vk/dvcjme7QD0hKxx3z8AAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/9abf9adb_a87889a7d7b444c4673f978ad5a7bd37.jpg": {
+  "src": "/media/memoria/2025-obra-b19b-266.jpg",
+  "widths": [
+   266
+  ],
+  "width": 266,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdACHiD+n+HfUJuG7KvuAA/p1nSPbONczKgrmDViAhymzPR+bjFPeMzS+CZpxkl9iPAIXQrkV8nYIfWNjXnSYWvIxY9zdymgNx0mPHxej07PnSg/HuHCV9PXw3V2YpqdBreyH01Ky+TZ/0e1pJkgA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ad4f9add_c37909c48109f28d98d3cfab2db80936.jpg": {
+  "src": "/media/memoria/2025-obra-7cad-266.jpg",
+  "widths": [
+   266
+  ],
+  "width": 266,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoAC8iDz3BLTiXkJrCFYAAD68wnqZwahycIawrZvkPuS8gsnelUQaQib80zlGfD5OK81A6xY6ppqnv6D26OjKeX2YukARK6EaU7N9J9LdfHTRm9buqjTZygTlkKJwT7DIwGgY0Jhf1COG+/sfcvFEHgeswRkPFXx9fgBLXsBCfSo489cAAA=",
+  "color": "rgb(56 56 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/3e565ddf_Agenda-Noviembre-2014-269x393.jpg": {
+  "src": "/media/memoria/2014-evento-f25c-269.jpg",
+  "widths": [
+   269
+  ],
+  "width": 269,
+  "height": 393,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JZACo9CKQgKBAERsXyxUAAP6/yQg0g9Ob/cFtBVFeGh2FfKrKHZLhuLAbcRZVdNPB8XJkJnlHEdxbe7Wa78VG1L4EwULJFkqB78lNGg89wzSWs3jVbnFsr9Bf7S+VFK4AAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/f8977d87_085100d23d1fe07989383bab9cc7e596.jpeg": {
+  "src": "/media/memoria/2025-obra-7daa-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 260,
+  "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAoAA4BaJaACdACdybBAAPioQS9FbKFgoGwu6J6Hc2X7OEA6uWbUJQlOmJiHd1ctZ5G/x3gAAA==",
+  "color": "rgb(120 88 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/9088ba90_20299297d24272bc5cc4b06e781c5a3b.jpeg": {
+  "src": "/media/memoria/2025-obra-cf30-260.jpg",
+  "widths": [
+   260
+  ],
+  "width": 260,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBACdASoQABkAPu1iqU2ppaOiMAgBMB2JbACdMoMYADOjxiLDBzYYZAAA9k7g//EMvwTEbsbmeybMO3S+7dPxywXM1dnN2+doov6+2AS2yvjjkcnsmsGjCEHJ4zzL62BQudsjOQjHBzy8GmoG5YHb7jWJ5qKbR63IM7QSHsP+hqvBYuAJAAAA",
+  "color": "rgb(152 88 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/9944c0eb_e06685306c91ed12be600940cdb8e110.jpg": {
+  "src": "/media/memoria/2025-obra-34ff-260.jpg",
+  "widths": [
+   260
+  ],
+  "width": 260,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACwBACdASoQABkAPu1iqU2ppaOiMAgBMB2JbACdAYvq5faMhlSKPRVrP4Om6QFQAP29HW+NOOJ8sEVhvDxFktsU1rjoKdy8DaTS0JM/eP8DuK8iK0Cx2UfiQ1dxeb78nOUgaANccAD3J0N7g3f5b5EJuw7a2PgGoWH/hn0XQOKYiH/Zfjzce+NEqO28ZTOUmM8bRG1usy5aD7cn5VAfdjihV7IQKMDCyJ6/Erp/Qy/VJo6Cf5HCG/51kXN38eAA",
+  "color": "rgb(72 40 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/57d19ed0_detras16.jpg": {
+  "src": "/media/memoria/2000-detras-1286-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 206,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAYAA4BaJbACdHMAvAADYAFogADh48BfbTpdZOGfhH6JmcC5zK4OGxGCRgPf94Jp0mf9jfP3/9EfFCaeoV/3ky9+//xLMPfBuaLz/y9ocJM2AAA=",
+  "color": "rgb(248 248 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4fb770c2_c3aef1bc1876cc2e0944fbb6b77d6c2a.jpg": {
+  "src": "/media/memoria/2025-obra-70e6-256.jpg",
+  "widths": [
+   256
+  ],
+  "width": 256,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAwCdASoQABkAPu1iqk2ppaQiMAgBMB2JYgCxDExC4XsYa74ssYAA/mQgAOhGnXbZB6ZZXqvCMYCnXZOILL4XnWsEUX1BRCm/K6FiWfu7D8ION9cSM8OuCAgwoQjXIXWhJsbiCXXr6RN/mP4qDfm5jHydaEI8ONxYc5CYA9VP3TwPM1cCgUuQB176L2e4fGHhAgAA",
+  "color": "rgb(216 184 136)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/4f215b1a_Julio_2013-264x385.jpg": {
+  "src": "/media/memoria/2013-evento-264.jpg",
+  "widths": [
+   264
+  ],
+  "width": 264,
+  "height": 385,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JQBOmUI7k0AB2PyfZoYnj0CUKGADMVHC8w8OhGFi1erLgwNrnZnitKWvCQ7W9uwflu2aM+dFp7efLOepo6ZWckUxEjkZMpuwUSz7X9LoZhjd12WrTgfLPbadSZnxmALyVc4AA",
+  "color": "rgb(72 40 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c6efd6c5_transmutacion.jpg": {
+  "src": "/media/memoria/2003-transmutacion-360.jpg",
+  "widths": [
+   360
+  ],
+  "width": 360,
+  "height": 279,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJYgCdADRWmwk8ydOAAD+acUPJwdyBP49kJ8zfiBO0c6n9madAShhrXVbnsuMA3th1M2ZjdBwjXY7rhRLfwMrX1xRn2CKlCCuS7yUAAA=",
+  "color": "rgb(216 184 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/6567ffbd_poetry0.gif": {
+  "src": "/media/memoria/2001-poetry-2881-449.jpg",
+  "widths": [
+   449
+  ],
+  "width": 449,
+  "height": 222,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAgAA4BaJZQC7AEUa+H8ckAA/sElcB0XZyCgkN57MK6HtQRm6IOh9U2C4lH108VbDal23Ud+zB3qcVWsL5RJRafgqcY72+MAAA==",
+  "color": "rgb(24 24 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b59777fe_marzo13-3-256x380.jpg": {
+  "src": "/media/memoria/2013-marzo13-a6f4-256.jpg",
+  "widths": [
+   256
+  ],
+  "width": 256,
+  "height": 380,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwCw7dwA9X2TS12kw1rxAzAA/uzbalMLotzDJOIQa4cjiqv+uMEWkQnBfJ7wHHrV/JU5VHnq+/ld6iN7GYp39a07SeP5VFXL0pCReuRB6vspUILtIJk+Hz/VIH6fm4qRzzD1C/gDGJIwM8SFgAAA",
+  "color": "rgb(24 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/1f557b85_ambiant2.jpg": {
+  "src": "/media/memoria/2003-ambiant-en-el-taller-del-artista-360.jpg",
+  "widths": [
+   360
+  ],
+  "width": 360,
+  "height": 270,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAwAA4BaJZQAD45Q49feBVbLgAD+81/3Mpscu/bKIGSB0fxcxkMdpNvB3ZidrA9UneVnOw2wYtfG2fdWGAkE2IOHYisf7C0O/A4ay3Bi7GOt47NWMxKkDeMZGYJzeld8gAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/d238b61a_Agenda-Diciembre-2014-264x367.jpg": {
+  "src": "/media/memoria/2014-evento-2b9d-264.jpg",
+  "widths": [
+   264
+  ],
+  "width": 264,
+  "height": 367,
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoQABYAPu1iqU2ppaQiMAgBMB2JYwCdACLkSVjj6oswN7PMcAD+wo+6gMULatpd8euu6fukVRswxqf7SRR2aegYY8zWJKlAhjP7mB8yDac0IesAkmOyTDBWWrKDUrxTA/fjP0ATsy+bcZxrE7XN46qlzM7RD+5TwfvinwAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/aad9e645_taller_del_artista3.jpg": {
+  "src": "/media/memoria/2013-taller-del-artista-253.jpg",
+  "widths": [
+   253
+  ],
+  "width": 253,
+  "height": 379,
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZACdMoAvQBozlTqW6HMWhOGeoAAA/unfxwY0iBPmjMjW4mqAl+U3T8noweU8Oi1XDUUfkrLwZXioDD05juMhRh6UYggyGfxWOEtdrdlg9AxQ2UM5Vm6z40/0fs6sisnyaMLITigcAI3978d+d7gislPnvoKBR5WJp2ygAAA=",
+  "color": "rgb(40 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/12327eaa_taller_del_artista4.jpg": {
+  "src": "/media/memoria/2013-taller-del-artista-e8bc-379.jpg",
+  "widths": [
+   379
+  ],
+  "width": 379,
+  "height": 253,
+  "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsAA4BaJaACdAD0i4XciAAA/vatTkBqnuq4KXYK0EiUmqwuBI1reIf2m28er86FqM0/r21gAA==",
+  "color": "rgb(24 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/7c266eb9_073c95dc72d371f94fd40e7d0c3c469f.jpg": {
+  "src": "/media/memoria/2025-obra-3411-235.jpg",
+  "widths": [
+   235
+  ],
+  "width": 235,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoQABwAPu1iqU2ppaOiMAgBMB2JbACdABnU+z+ISmEyzojz3OJIAAD+qa725m9uyyhAtc45+GnBYHvcmTsuECej7p8wZVSC9ftAdTyIbmXeXMEMzCnZ36jzg8QMYWZwwGcPQwsMoaksyykCewxqyNS6FiaAAcrZWHMaVyOJlnrWIl3PIjjHAAmHSC2NK/gfl895jIHDihj/hNK8j/vaUVbmC4AAAA==",
+  "color": "rgb(72 72 88)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/9e2c74d5_los_personajes.jpg": {
+  "src": "/media/memoria/2016-version-1-0-de-nuestro-sitio-375.jpg",
+  "widths": [
+   375
+  ],
+  "width": 375,
+  "height": 249,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAsAA4BaJZACdEf/gbgCErfq0WgA/k009B3WtjGeX03vRFr3tz2fNFfFg5vhwt9nVTJhkrJ/J/Jdl2I39ggCE8AP2/1ATZDHPfyWGlGEumbq9PkdRgI65b55xCXykAA=",
+  "color": "rgb(184 184 168)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/44c3cdf6_cali8.jpg": {
+  "src": "/media/memoria/2013-cali-379.jpg",
+  "widths": [
+   379
+  ],
+  "width": 379,
+  "height": 246,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAAoAA4BaJbACdAEYERl9JKbdAAD+49l9/25nV8zR0F22s2GJRdju99gX5w+4hR4I+O8fuA0zhmNr59Q+hrjg+lJrHYSAN5HV/JWo66eaqFqfq6w8SjVv90LgAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/27c55dea_performance_cv.gif": {
+  "src": "/media/memoria/2013-performance-cv-360.jpg",
+  "widths": [
+   360
+  ],
+  "width": 360,
+  "height": 254,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAsAA4BaJZwAD49u6/MINJSpQAD4Y6sQs3633Ij0b9f4G0KddS/D/mEhlPfzsK2fKLz2RdCQABpBVQPu4WrqG2TSo7IH3nRukpiSvMP/ks3u7V/O4EIHXwf683d8QGAL8gAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/e32f445a_cali4.jpg": {
+  "src": "/media/memoria/2013-cali-d9fb-370.jpg",
+  "widths": [
+   370
+  ],
+  "width": 370,
+  "height": 247,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoQAAoAA4BaJZACdAEMgM33IAD+9YLYNhHbTZbYf/ZTfnCwcY8+NxU79tWYsPhFu2DJ08uDmN19fZ8e1UadlikClzWa0m9WbVppUfuVJwUlzBCMnWwxaGjEecjMCjdsQAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/79b4c9db_mayo_2013-249x364.jpeg": {
+  "src": "/media/memoria/2013-evento-5aa5-249.jpg",
+  "widths": [
+   249
+  ],
+  "width": 249,
+  "height": 364,
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZACdMoGv/7oABM9u1pDtwthe+wAA/t2CrBnOIStmH4v57boXS00yq65vX3jzvlnZH9WM6iAl4RY88sjogEorYIolkhyP1xvN+IF1Wl9+y+PAZh8o3J07qCqyYFTeJShGTOvNj29auwQA",
+  "color": "rgb(40 24 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/5bda6fdd_plegaria02.jpg": {
+  "src": "/media/memoria/2011-plegaria-1118-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 175,
+  "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAUAA4BaJYwAAqH1gfgwAP7xdFONvwoZoexuM290inEXn+5xt3j1FWpkSNmBRT7NKAAA",
+  "color": "rgb(24 24 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/76f81c01_plegaria01.gif": {
+  "src": "/media/memoria/2011-plegaria-87ac-500.jpg",
+  "widths": [
+   480,
+   500
+  ],
+  "width": 500,
+  "height": 174,
+  "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAYAA4BaJZQAAusMUhvwAAD9478fasJNUvCsYF8dlAZZPxEMj8AfvRfgDHZGG03FUNWDEkyUF7dCgAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/c7844181_enero-web-243x355.jpg": {
+  "src": "/media/memoria/2016-enero-web-243.jpg",
+  "widths": [
+   243
+  ],
+  "width": 243,
+  "height": 355,
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoR3ACF4wwKiC/pqO2EgAPwLQSnwOt0R6DcYUfDZzgd4NYAVsv1B5ukTcJpXG8HKnUt0OPB+SWi0yF3wjG7+gIFl7vhoDhXCohD+O6urq4Ev9V5uu0OOSGm0qhavPsHoIzy2aokqVrgHket8muzmUudooGvgDmt8vAAAAA==",
+  "color": "rgb(88 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/5f7e9ba4_agenda-DICIEMBRE-2015-web-264x326.jpg": {
+  "src": "/media/memoria/2015-web-264.jpg",
+  "widths": [
+   264
+  ],
+  "width": 264,
+  "height": 326,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoQABMAPu1iqU2ppaOiMAgBMB2JZwAAXEvCJ4w6bApcAAD+7/vTr4qCEcJqfZbbal+As/tBm7LCaUlJj68EBwKMFqMACosryNF7tROX4AA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/10b2061c_241x352-images-agenda-Agosto2018-web.jpg": {
+  "src": "/media/memoria/2018-agenda-agosto2018-web-241.jpg",
+  "widths": [
+   241
+  ],
+  "width": 241,
+  "height": 352,
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdLwAViApL7NXD3XB4jeccQCMAAP3+y0Q5GCpAXhrCPYK5EzJusD0y0+EpnM33pUILQxWIHVJusuAl/SNYFjmbYS3/QS4RkT8LXahxkozXLfrHWoXDyQLi1raXTVYBT5lSrJSDvxiv5ibYTPfmLy3++/TuLHj+r46du0jqTdRFgcnHd8g92BYvr+VGuH+XfxT1bcOLVyC2ox9ce1wkHkvp60vAWZw+koAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/3aac86a7_revelac.jpg": {
+  "src": "/media/memoria/2015-revelac-256.jpg",
+  "widths": [
+   256
+  ],
+  "width": 256,
+  "height": 331,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JYwC/OBbwdEEDQHNgwIAA+fKwUCIe0YFzuha6t/moE9N5UCb3NBL87OT5nK0u9CHUdx9nr73uGaV9ISt5svGTVMkHUyvVkX+hWloAyriIPUAA",
+  "color": "rgb(88 72 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/b2faeb2e_Junio_2013-240x352.jpg": {
+  "src": "/media/memoria/2013-evento-7d0c-240.jpg",
+  "widths": [
+   240
+  ],
+  "width": 240,
+  "height": 352,
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdL1yBFS6DwTNMlfA0zA3FYAD8IIPCd5TKCmJRl2LWx1ToOuDWv9hd/IcZDO6xk87jJB+kGLmP5lED7e1hWVhmqEzdghZvI2YHxGwAq1mak4o8rjlDyyR5p5xioSLtpVtDfQnSTYvPiQFvUOuT1Roq8ygfWPdaDUqGFKmLGpwm+BwCKYNpsQjwAA==",
+  "color": "rgb(152 40 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/91bca580_labios_de_placer.jpg": {
+  "src": "/media/memoria/2019-labios-de-placer-241.jpg",
+  "widths": [
+   241
+  ],
+  "width": 241,
+  "height": 350,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdIExCubQs/yu/SkNZsAAA/uzeLRdhO1LyKnHMYuM/ot/d42zS6qKeMvKavdVllV/E2PiLzH60v5pBznK/Uvslk9NoDX4o5nuFlo09/tRU7PJ1G3rwNwPAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/853a1f2f_ave_maria_cv.jpg": {
+  "src": "/media/memoria/2019-ave-maria-cv-360.jpg",
+  "widths": [
+   360
+  ],
+  "width": 360,
+  "height": 234,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAoAA4BaJZgCdACytKnQ6AAA/rUdUE3m027QJ2jeUglqbBMMzjs72aajrF5IHGvqpXa0PuRHP0IJUwxllf80+nPQ2rF7IORAAA==",
+  "color": "rgb(200 168 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/32cca07b_Agenda-Octubre-2014-239x349.jpg": {
+  "src": "/media/memoria/2014-evento-e76a-239.jpg",
+  "widths": [
+   239
+  ],
+  "width": 239,
+  "height": 349,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JaACo9Bj5Yx6DWGk2gc4AAP67Yh+i9wkSewotOHyUlHMGeluRmFQag6ib3q2adIyoddW+qxT+K5ZdY3pzDcqqoXsQLiDiJKB3mtxY6hQIIdomH56fJJg2fuWZMdOajvJfdX1NyGlH6xBNjp/UdAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/448dd93d_feb2015web-245x339.jpg": {
+  "src": "/media/memoria/2015-evento-245.jpg",
+  "widths": [
+   245
+  ],
+  "width": 245,
+  "height": 339,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBadBFKMhKbAotDRVnQtgAD8tNuikIwsJr+Nz4D/uIRoHL4v8yF/VjZimWKdNxcx3RVPLAlga15CGnE8v/1molYF/0Xw0Z2P05YcLhRJAX/jjifUGlKpNoou72RFPdsMx3NwAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/216f235c_homenaje_al_indio_sanchez.jpg": {
+  "src": "/media/memoria/2019-homenaje-al-indio-sanchez-205.jpg",
+  "widths": [
+   205
+  ],
+  "width": 205,
+  "height": 400,
+  "placeholder": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBQCdASoQACAAPu1iqk4ppaQiMAgBMB2JQBOmUGP9p/9ABDAbTcyXndZKGnfeqDNQAAD+uio0tzCJJzT73mM9egTpIgc3eo8OCwz7olEh+6ZmDzvTofeiqTuJfb5qe5IVyA9ACgdIsvF2tN8aie4gjGQjskm+cuBMws1qbn7NqPmfZPRBt7nxNLg3wu87gmTwCJ4/qI1cv/v+J7k70ua/0GCPIOBFUv51Iz+YHm6cJSsTv2z3gNKSXRR2X/2N8/fzz1MNPWa3qwq+lyWkgw5StTvmFKAAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4b6280bd_233x341-images-agenda_marzo_2018_web.jpg": {
+  "src": "/media/memoria/2018-evento-233.jpg",
+  "widths": [
+   233
+  ],
+  "width": 233,
+  "height": 341,
+  "placeholder": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JagCdAYyK5sL28bo+L2P8XcYkAAD+s7P377BIxagnVE2MnPCA3lNBsoNuveorcK2sMVfOsz1PceikD0eVo/41hXHLGzLF4HLP0emMB9h7lA9emsmokAUD/HuAGQoh7yoIY16ouzzDyRP4nkUv29G4ufn8z2wfZl2XbqcWy7ip6+ZovZiw+4FNmvtD8Pm4ooLznA/dadP+4N/6bN2YAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/a1ca22d0_30x343-images-stories-exposiciones-transmutacion-retiro1.jpg": {
+  "src": "/media/memoria/2003-retiro1-jpg-230.jpg",
+  "widths": [
+   230
+  ],
+  "width": 230,
+  "height": 343,
+  "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaACdDiACPAFMD6aSLuDYLIRYAP7FoN2CLo5PP1y5tCpLlJs90NQErFL3VbjQHxKMbYdLmnjBBHPzBNFfg0sQl2rSGC/TN5Bfe75FFwPxtUxdH9jYG+jPXx7hzORLa/TCZ3o2zYzv4BBkwvfwMj2zoBvz05pR+FYUriJgyDvLePy8ckltDIriXgt95mx+uo2S5N5OMNwAAAAA",
+  "color": "rgb(232 216 200)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3f681f54_a65ee7169a97be731673d42620f99cd7.jpg": {
+  "src": "/media/memoria/2025-obra-479d-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 188,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAcAA4BaJagC7ADp0/6VmAAA/NkT4n0v9zfDengwbJ4u6GMr9qbMh7B3k/vSxsd6NrX+IqJ6oYG+g9eHs2EF5sIhRroo53Lrwdd3X845AAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/eecffc67_217x316-images-agenda-enero-2016web.jpg": {
+  "src": "/media/memoria/2016-agenda-enero-2016web-216.jpg",
+  "widths": [
+   216
+  ],
+  "width": 216,
+  "height": 316,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoQABcAPu1iqU2ppaQiMAgBMB2JZwAASl0WhSFDQ0pWAAD+84K4binSMBGpIORUkjpvlsDtttF8lvQHO5jqTpvjJQPIGb6yuN9ymIUQcctf7CKCEetAcAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/39cbf479_p_bandera_corpus.jpg": {
+  "src": "/media/memoria/2010-bandera-del-corpus-christi-2010-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 227,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAwAA4BaJQBOiP/wLNv5L2TgAP71XgPY29gnrnVHcl5fEvn9ZBzamvQW7hPUcLZu2dbWSuFfy9cw5JHq33yeMt04lgU5Mer8J9ix+J4/ZLEx8HAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/1f245a8f_p_produccion_2001.jpg": {
+  "src": "/media/memoria/2001-produccion-2001-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 225,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAwAA4BaJZACdADdk+vZSC8+AAD+dczjnve8i14bs0pwdQsZifyoUDKhfk4r+oMKxoHT+EAYmQNX+cTHDw5I2HqHEeSYkTQe4IOEDQ3AqZ4KcjkMvn4A",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/99385a73_p_plegaria_paz.jpg": {
+  "src": "/media/memoria/2011-plegaria-por-la-paz-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 225,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAwAA4BaJbACdLoAAlMr45b2AAD+iedvAEp39Qu1RSZepF5PZVchMGrIh9XG6WIqmPvdfV6MJz5HLjaZScoaUbQHLurt6u8/S/txXjvsve1Z/adevXXoAAA=",
+  "color": "rgb(40 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/dc67b0d0_p_banderas_globalizacion.jpg": {
+  "src": "/media/memoria/2004-banderas-de-globalizacion-en-el-cenac-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 225,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQAAwAA4BaJQBOgCBSIt8j3gAA/BfsFHwXMB8Xg7/oToHsoRUAd29u2/u8FnWaCEBcTouaZ0JVcgowVQeWitMYzwXX6fc96UYBzjg39nCbHtNNLrIGKk2GCwzDOb6AAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/f8dc4d8e_p_banderas_terramall.jpg": {
+  "src": "/media/memoria/2010-banderas-del-corpus-christi-en-terra-mall-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 225,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAwAA4BaJQBdgBR0o9boAP7RI+6LDu1oYgAJjU2E4DdxVBSlk85io1V/BzIauv1ryyX2YZtu0POuhU850RB9qnx3bkgDPO7pBb1w/4imIRAAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/960cab84_p_exvotos-relicario.jpg": {
+  "src": "/media/memoria/2012-coleccion-exvotos-2012-titulo-relicario-300.jpg",
+  "widths": [
+   300
+  ],
+  "width": 300,
+  "height": 225,
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAwAA4BaJbACdADJ14KxbIAA319a08uDEwQGQ6NeGZXG1hwVNmvMjsVEbzY8fbiAu44IUnm3lmMA3D+ZT2+eQdObytcHpKmXaI1JnwxZ2raHc1NQz6zB/AAAAA==",
+  "color": "rgb(56 56 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/521b371d_agenda-EXPO-DE-ABRIL-3-267x249.jpg": {
+  "src": "/media/memoria/2016-agenda-expo-de-abril-3-267.jpg",
+  "widths": [
+   267
+  ],
+  "width": 267,
+  "height": 249,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAA8AA4BaJZwAAudgP040AAD+9kkonnpcQ6QIt2FcOk2wm+jsrCSECljAgDLwxDpUOe+Xv+z6AfkGQX1v6RIUoFo/It1pGBwAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/dd514d10_musamixta.jpg": {
+  "src": "/media/memoria/1995-musamixta-189.jpg",
+  "widths": [
+   189
+  ],
+  "width": 189,
+  "height": 350,
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwAwCdASoQAB4AA4BaJbAC7AdwLfwzrVQ4VMI/tUiSGIsAAMtNxP92ww8OR1iWtwJSbgrKirN9/Rlw84BXQT0Z8HxZIeaa5faL01Cf9ECXR3S7/VjglRr/1yP7ZykCh9I/apitMgJZW3mIiY4kiUUMLeof/an0f6FksdUiDaAPDW/8DGA9/Tigis+MfWeKtdEgkgwnDzyYBFNRCmV31h2jTs9DKdP8S2PF5aCmlakZ99tzeieKzu/X+CXv+xEarNWFgEfbHT9SvCKEArDHe6O1122NT1zgQCtXP4/ORgAAAA==",
+  "color": "rgb(248 248 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/5e0af32e_page1-img1.jpg": {
+  "src": "/media/memoria/2016-page1-img-270.jpg",
+  "widths": [
+   270
+  ],
+  "width": 270,
+  "height": 235,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQAA4AA4BaJbACdAEPhCVez5osAAD+zx/+Vc6IvQqf+vMMtec47ZmOzmPJV7YZiGVLwjBtAZ1CIBXZPzYvGib+Fx9wVpbZvD2FNiwDuU1kBQAA",
+  "color": "rgb(40 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/cd2d5053_page1-img2.jpg": {
+  "src": "/media/memoria/2019-page1-img-270.jpg",
+  "widths": [
+   270
+  ],
+  "width": 270,
+  "height": 235,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAA4AA4BaJagCdAEefnhqMDgAAP7212O90i+JhDZ9FMO5sLexkDCyohGD4A1UunjCoZRah7rTgtN5Eqt0cXx3ZfXmHnqr65QZvm8KVo8WtMYwAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/027aa6d3_agenda-junio-web-241x259.jpg": {
+  "src": "/media/memoria/2016-web-c4ac-241.jpg",
+  "widths": [
+   241
+  ],
+  "width": 241,
+  "height": 259,
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoQABEAPu1iqk2ppaQiMAgBMB2JZwAAW++i1Kiw+gykAP7q76Lj6GzyJ5W+IFI7U3aIbDYllUqq/Qm3WOcK0WVvusAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/46100213_Agosto_2013-206x301.jpg": {
+  "src": "/media/memoria/2013-evento-7ad4-206.jpg",
+  "widths": [
+   206
+  ],
+  "width": 206,
+  "height": 301,
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZgCsIMgDAvXd1BJXdvKrBpSgAP7vkRynp9o3cOUTJT+wfQ6lquIke1FqxbYMia4cznbMAZAfU3zpKtv3FUcLHwGiox8fiJdbwcrzyZi6FaNCTm38dnUkwNJ+4o3FW/nJqPgoxvZhgtlTmRjTYiMbiI2F+XxNVNHbbgAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/bc5bb1d4_aires1.jpg": {
+  "src": "/media/memoria/2000-aires-197.jpg",
+  "widths": [
+   197
+  ],
+  "width": 197,
+  "height": 300,
+  "placeholder": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAACwBACdASoQABkAPu1iqU2ppaOiMAgBMB2JbACdAdwLfSVoZ+EOGQQ8S7JTr24AAP4nhDDjjsSY7FwwO6G9Crdq3sFUYtckes70VItGPzPn7JG8UEfiP9E/jBBoYPzhn7vpfv8KHEEZKp/xgwpftP838yreaLiCoJME6ymK5p/wegwQTKJNE+yPIIxhs/dLV+b6WQliOqLdze/3AQ0WdQu2OtnP//RmL5uGrNS1Ar+aVjSC1JXiiwV+eP4B8tcoGbIwLa+X8IXyQF174hLlgAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/072df310_172x344-images-stories-exposiciones-elbeso-detalledelbeso.jpg": {
+  "src": "/media/memoria/2019-detalledelbeso-172.jpg",
+  "widths": [
+   172
+  ],
+  "width": 172,
+  "height": 343,
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoQACAAPu1iqk2ppaQiMAgBMB2JaACo+AgOU+WiQ6rSP5t5tx3NVqgAAP46u43I8Zn9OYYCBmhJ9jjjNn904itjUbkUy1YKpylSKD5qHKvRx2l8VoHMp1QKS7FqQvnN5tT0wPbJKhXVeenZv4vFJWQ3Bx+l7K4M7Hk9oeei9UWepTibkOfHgcCL/iZTdeh0XimS6CdZlmd7lNUkEJR8JeJp4aodk5NRtyWWOJMAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/15c174cd_200x290-images-stories-actividades-zentica_anuncio.jpg": {
+  "src": "/media/memoria/2010-zentica-anuncio-200.jpg",
+  "widths": [
+   200
+  ],
+  "width": 200,
+  "height": 290,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQABcAPu1iqk2ppaQiMAgBMB2JaQAAV4SN1Yy+s3vgJiWAAP7zf5GewYpxqaA6ogGoTyHgwY5oAGg5/SOBvrhavID96pNeIm/uJ9gYcCLy6usn55X+HWz7f+MR8LBi7sLTY4J4ORkgQHCs7+atqhqdSPszb2qMnAAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/c261873c_informatico6.jpg": {
+  "src": "/media/memoria/2019-informatico-280.jpg",
+  "widths": [
+   280
+  ],
+  "width": 280,
+  "height": 200,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAsAA4BaJbACdADp9Foly2iwAP72rtUjA5wpk3NKifyN+zdGCCz6GNhhzdpg0Cba35NrP+LvYKnZEwG5LSxAG4/5Qbh2Vadq2dVQWIOgBbgstJD7WYibOAAuLyMDuxzrgtRKOK7rwlgA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/4aaf6d66_Setiembre-284x194.jpg": {
+  "src": "/media/memoria/2013-setiembre-284.jpg",
+  "widths": [
+   284
+  ],
+  "width": 284,
+  "height": 194,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAsAA4BaJbACdH8AFcOsvGKOgAD9j8zq8Q3AOGiriFJXZRPQHKglpfnMKNcpeLARh0WWw0gowws5P9IHaBGKRsgxJF+5GM/hyV/a8923AhXMyzv4F8AA",
+  "color": "rgb(24 104 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/03d12767_agenda-julio2015web-243x226.jpg": {
+  "src": "/media/memoria/2015-evento-d174-243.jpg",
+  "widths": [
+   243
+  ],
+  "width": 243,
+  "height": 226,
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAA8AA4BaJYgCdADwLvaH5Y8AAOJwc5g/fjzXa0PKWo8lqvKt6VKIaX/CrF6oYdQOwLf8a7GjAbLZirIPOzAWQAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/aeb0d341_jw_sig_cache_8457de6a3a_img_5544.jpg": {
+  "src": "/media/memoria/2019-obra-6106-200.jpg",
+  "widths": [
+   200
+  ],
+  "width": 200,
+  "height": 267,
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JQBYdhEQLafOG46VY1tFOAAD+2tXGQpVHA7n176m8feI7CuwbllSyy7XmEyihruAfqGVw1GANYO3q+KJw5e4jEbmc4arvOoB0+zNRf8jPwU9wAAA=",
+  "color": "rgb(88 136 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/1370cc19_jw_sig_cache_8457de6a3a_puente.jpg": {
+  "src": "/media/memoria/2019-puente-200.jpg",
+  "widths": [
+   200
+  ],
+  "width": 200,
+  "height": 267,
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JQBdkCYwWwpfdB+kvzW+u4AD+aLcgZAL1RLU9fOFbY/c3+K38ZARYddCRc2UEb/xdfO7kl7TzuPWq6ZsF47qw6uuTV3r1efG2w0zypoaf37lI8DiUxr03hGx5gFGfm9xl6vY8Hrp9x3Q9of3epjlRbKFCBNgLQpKoYTorSzVCr1BpWLohLTpBrhhkaAI5e7Kyr2vEkn8//kAAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/b17204a4_padre_nuestro_que_estas_en_cielo2.jpg": {
+  "src": "/media/memoria/2019-padre-nuestro-que-estas-en-cielo-189.jpg",
+  "widths": [
+   189
+  ],
+  "width": 189,
+  "height": 280,
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZAC1GoAltRW84yqwPgebo2xDZCYAAP70MtsmfpoYlvKNpv7cIsby0cKNbUIxrCGhOmG1D/9U6LY227vKtBZ42qZNpe86tkO/A6CAx2jXcyEYiY1yuuH4OrNm5JE719SeBiPOrwYL16Y0c45GKrSaDTXoHfidTrkuKR+5T03gAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d06f11b6_angel_portad.jpg": {
+  "src": "/media/memoria/2022-angel-portad-230.jpg",
+  "widths": [
+   230
+  ],
+  "width": 230,
+  "height": 230,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoQABAAA4BaJbACdAYxExyQuJOAAPWGRsbefqm5RsHQzLNIbpJIzAKX8hLUydrtyb3E87Nx1F95Qp0aqAyIopX28foniCtfPzB3z8VDvF59pQOwsvq2fkt15kfMDlpFC8P5hynj39seKP6AAAA=",
+  "color": "rgb(232 232 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/a7cd74b1_museo1.gif": {
+  "src": "/media/memoria/2013-museo-189.jpg",
+  "widths": [
+   189
+  ],
+  "width": 189,
+  "height": 279,
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoQABgAPu1iqU2ppaQiMAgBMB2JbAC7IExDA1gkRmMJMy3dAAD+8dwwX3Ny9XTs9I7zLE6qbl92EGSGcRC21inYY2RGGjrhas95o/B8jyoIs+saxMtfM8oR5a4YULhtJJeALoWAPQ3+TSrJsf7Fca4pty7AGCE0a9b+RigvBTMAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b46cfd6b_febrero-275x188.jpg": {
+  "src": "/media/memoria/2013-febrero-275.jpg",
+  "widths": [
+   275
+  ],
+  "width": 275,
+  "height": 188,
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsAA4BaJQAAW1dx7cDAAP7ZqpfR85lurAbye1EQjTx9UtqoQv1hit4RFWrQlyId2Z9/UKp4qv6GjTzIAA==",
+  "color": "rgb(40 56 56)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/b08702d3_agenda_marzo_2014a2-217x235.jpg": {
+  "src": "/media/memoria/2014-evento-5a41-217.jpg",
+  "widths": [
+   217
+  ],
+  "width": 217,
+  "height": 235,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JZgCdMoADNcn+M536QAD+5f18SsFj8PKt6Hjj7TGzmQdHrq615QS35USdvZooWvhp2GUsEtahbB62sTo0qvwR63MQkyrAjBhHPT8XAAA=",
+  "color": "rgb(24 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/58f1a730_calendario_julio-274x183.jpg": {
+  "src": "/media/memoria/2013-calendario-julio-274.jpg",
+  "widths": [
+   274
+  ],
+  "width": 274,
+  "height": 183,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAoAA4BaJagCdAED/NWISsYwAPyO87gmHJZcivlsNvQQ2SoteVzQncik/Ls6BWJZv4XTXiiFM2ELENWgy33anqC8Tn8oLm8AAA==",
+  "color": "rgb(120 136 184)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/2e922dd7_agenda-Marzo-2015-web-183x267.jpg": {
+  "src": "/media/memoria/2015-web-056b-183.jpg",
+  "widths": [
+   183
+  ],
+  "width": 183,
+  "height": 267,
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZAC7ACHbYjNu1mhiBbQWAAD+1hPoJdy3cxYH22R3G43tG/WiZJHCwqzCGJ136hQ6Y0ycmxj6LflU5j2562QhsKGUQhJnP9JvgE/KQT/hQUZMmmXuqHsb03wyEE1fZMN8YGu24JAWbeSuLHrXO52gAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/fe5e2acf_250x192-images-stories-puntos_de_vista-1057779.jpg": {
+  "src": "/media/memoria/2019-prensa-250.jpg",
+  "widths": [
+   250
+  ],
+  "width": 250,
+  "height": 192,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoQAAwAA4BaJbACdDiKxyh3RQIOZMAA+yP7+BHFJPbs+Au5NOn5fMWBjkR/Le6Z6hjtTDkIRHRXYgbit78lv4I5UZvgpkAREh7/JymDGXUHNmWYOudJe+rA5KcK3uj2oau+3IaGDXt1Q+/UbC49tdXSQT1gXcAA",
+  "color": "rgb(248 248 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e8c0d845_loteria-164x281.jpg": {
+  "src": "/media/memoria/2000-loteria-164.jpg",
+  "widths": [
+   164
+  ],
+  "width": 164,
+  "height": 281,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABwBACdASoQABwAPu1kqk4ppaQiMAgBMB2JYgCdAB6CS719ht+ZGcZ3s5ywAADzgLavXT3a1BiK7mOzJMzJgnAMbLqxFgH+lTeVdJhXWUkIV9SL1u0JSpVYXcDKLODzMMG0cqgyv96rrlE5VfMt0sSlfH6+WbHQT8ZxZbldHgAAAA==",
+  "color": "rgb(88 72 104)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/fe961be8_agenda-NOVIEMBRE-2015web-206x220.jpg": {
+  "src": "/media/memoria/2015-evento-05fd-206.jpg",
+  "widths": [
+   206
+  ],
+  "width": 206,
+  "height": 220,
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JZwAAW/Bl6K4LKFHxUAD+6u3WYixklZiPFVTCDHaaS+HgJudgnP1nBYRq5Z6h1Jky3YQA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e85ace75_menu14feb13-216x208.jpg": {
+  "src": "/media/memoria/2013-menu14feb-216.jpg",
+  "widths": [
+   216
+  ],
+  "width": 216,
+  "height": 208,
+  "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQAA8AA4BaJbACdG1/Af2cFlHAAP7dDnyoUub9hKjXQl/q/luqyf6XBNO99eI2WZ7/rGlS61jV188ORbQ8QkmwtI5QdNoC/iUAywU4SLqpCPOuLv4tG/DJMCyPG/HBC9+SBNsgswAAAA==",
+  "color": "rgb(88 24 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/402bbe31_enero13-175x256.jpg": {
+  "src": "/media/memoria/2013-enero-175.jpg",
+  "widths": [
+   175
+  ],
+  "width": 175,
+  "height": 256,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JagCdMoR3ACHzdRIhsciiXQhgQAD+5F6Sr6LTH47UztwJME+OFlmzqi/rYuj0CwXGlnia7XFyaj8whdBaCXJvAapArNBLRTjry/ArIqOlEAvsiek/+RyFAByN2jeoNoqlAb6Rc0NlZoKBCV/tqAAA",
+  "color": "rgb(88 24 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/a986ee90_290-images-stories-exposiciones-elbeso-artecontemporaneo.jpg": {
+  "src": "/media/memoria/2016-artecontemporaneo-jpg-153.jpg",
+  "widths": [
+   153
+  ],
+  "width": 153,
+  "height": 289,
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoQAB4AA4BaJbACdMoMYNc1hf9ksvgD3BcLL9DoceL1nHHT8O+L4ADi8ZgAzufcoxkb7Bk78tCuoi0bnBoVXhG1onTw3VshmY2NHUTMtonTOp8GpLHr/139POUy0a/Plg9wDvuYCKFOFxne2AzlP7NaIf+EVgbQc+wqhoP/dFfXfxQDU9RvXDKTAJyAifqD0i2V0fFa06GN9f745rysstznXPkTLeCCnXKgaNoIJmcxGn4Td9GgAA==",
+  "color": "rgb(88 152 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ed178a03_fot2-181x242.jpg": {
+  "src": "/media/memoria/2016-fot-181.jpg",
+  "widths": [
+   181
+  ],
+  "width": 181,
+  "height": 242,
+  "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoQABYAPu1iqU2ppaQiMAgBMB2JYwCdACPRwqVY411GYZPqHADN+5YakKLn9VrTCDaoiEdvsDdNkd5fN9e6BgWlB0gFdsonQjf8a7ilpMsIZR5LwKeZn0Ynx3kctrW6r4+DRM+GHgUWZnd1pv1zx39wEK20PdWKeDXj+XpvlqqKoQwK/IJwAA==",
+  "color": "rgb(168 152 136)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/fea9591b_agenda-octubre-2015web-b-237x183.jpg": {
+  "src": "/media/memoria/2015-evento-eae1-237.jpg",
+  "widths": [
+   237
+  ],
+  "width": 237,
+  "height": 183,
+  "placeholder": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAwAA4BaJZQAAujbg1sAsAAA/vZCyI7NSTvo5x73wKKj0ttzvMRiAttOcemTgUAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/202b3adf_abril_cale-252x171.jpg": {
+  "src": "/media/memoria/2013-abril-cale-252.jpg",
+  "widths": [
+   252
+  ],
+  "width": 252,
+  "height": 171,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAsAA4BaJbACdAD2BQ/zyGqAAP0lPbe+2g94z4LFD48Eiy5H8RyV2JUgJilHSAcdCDrljPv3vnnAKBPew7O9iTD/hd4ET9dtWku2q3C+TbQAbtNAAA==",
+  "color": "rgb(184 232 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/bf2ba843_agenda_agost12-250x171.jpg": {
+  "src": "/media/memoria/2013-agenda-agost-250.jpg",
+  "widths": [
+   250
+  ],
+  "width": 250,
+  "height": 171,
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAsAA4BaJaACdADpoxekEAAA/qwKeXwcoEfNwf5aMUONausFa9vIhBHfygC8qFqbCGFylPFm1u/YI1EYs1LZwk9tGqHAAAA=",
+  "color": "rgb(88 40 24)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/a79172a3_foto_patrocinio-178x230.jpg": {
+  "src": "/media/memoria/2015-obra-178.jpg",
+  "widths": [
+   178
+  ],
+  "width": 178,
+  "height": 230,
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdAdwA9EJAFx5r53mvIncgAP1qkXTBMRRPwRjd3lp5uih7BZb8QaV2WXYAsOI49pKEG/JmwJR22jbJoe/SQTqE7i6xcEWiO9/Eh1wLCqntxxYPPvY+isA6XdX8GUBqjkL+ibL7UG901ea/9m3yrIwZQJW6g8esEypSVXPUPSEgyAAAAA==",
+  "color": "rgb(24 24 40)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/2fb1414f_Febrero13-168x243.jpg": {
+  "src": "/media/memoria/2013-febrero-4323-168.jpg",
+  "widths": [
+   168
+  ],
+  "width": 168,
+  "height": 243,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoBOACdZdHKG0cAdHBEMQwAA/r2exwh+EqyhqeSo0Druj4roQKOAj4QVEuVlka2TA6gnz4V0hZ5EsYEaJ2E6oBGZi+a6SubupmZG2dc82VDrN/8imuuEPnL/Q9Rc7SVYxo9vBld6yIgGVtz4mBmO0AAA",
+  "color": "rgb(72 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ac5ae453_Cali-Rivera_fot.jpg": {
+  "src": "/media/memoria/2022-cali-rivera-fot-237.jpg",
+  "widths": [
+   237
+  ],
+  "width": 237,
+  "height": 169,
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAwAA4BaJZgCdAD6mlcyHD6UAAD+9teo4GPgnSpj2+VIyWUte++6ORjsWIpmAuZ4DmSd1uTm8OyYGOanCLujAto1My2wPWPwwowfAAA=",
+  "color": "rgb(40 24 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/331e41d8_revelaciones_Grecia-166x237.jpg": {
+  "src": "/media/memoria/2011-revelaciones-grecia-166.jpg",
+  "widths": [
+   166
+  ],
+  "width": 166,
+  "height": 237,
+  "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQAwCdASoQABcAPu1iqU2ppaQiMAgBMB2JYwC06CIO2Lx2bJh+oOwA/uJ8eVxvk95Kw/hY5mF1BkxYFNLZ4b0mEwyRy7/7gmdzb//PvSMwj/qkFdKz+nuzkvBL6ZeA6iu692G7bumyhHgERpJ7gsQ+kXwaNavt7mtTjGaoe7xZ7kEzel6NhDEMKm4AAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/d0b23f1a_mayo_2012-238x162.jpg": {
+  "src": "/media/memoria/2012-evento-238.jpg",
+  "widths": [
+   238
+  ],
+  "width": 238,
+  "height": 162,
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoQAAsAA4BaJbACdAEPS6+K9TXJQAD+5DkKELzw746ZgRDIDz3USa8hefIilyI6U0xe8fXd5olAtkb1C9QOTfni+f/yAAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/7ebff8c2_jw_sig_cache_58a9a274c1_img_8243.jpg": {
+  "src": "/media/memoria/2019-obra-fe1a-240.jpg",
+  "widths": [
+   240
+  ],
+  "width": 240,
+  "height": 160,
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAsAA4BaJagCdAERCDwn8eL+AAD+3SHxE9F17l3/Nzkk2MILsFUTBIYjeX+64XQGpbqAEify5Hi9IaZWr8oj68dvZvxsUYeqJSIWUed9eElxJZQAAA==",
+  "color": "rgb(24 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/166c476a_marzo_13_2-240x160.jpg": {
+  "src": "/media/memoria/2013-marzo-13-240.jpg",
+  "widths": [
+   240
+  ],
+  "width": 240,
+  "height": 160,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAsAA4BaJZQC7AEOIkXELAAA/vWjuuiWTIb3i+Yj3V0b5E5FXwhu3CViZp0NYsY2LH5Yn9oXTvsgCJAieqyVlwVpTZCOhPonigAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0e2b9ca6_Plegarias_Galeria_Klaus_16_julio2-240x156.jpg": {
+  "src": "/media/memoria/2011-plegarias-galeria-klaus-16-julio-240.jpg",
+  "widths": [
+   240
+  ],
+  "width": 240,
+  "height": 156,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAoAA4BaJQBOiP/wLJTZMAD+4oNwn1HzkCGIIMF/OVeKkO0tCYIH69WhTWVbHvHSbi3k/0JtIyhu9gKzO+ynCYWRWtEv2omiCciCco5PjePswAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/d198a304_148x252-images-stories-obras-banderas-detalle_bande2.jpg": {
+  "src": "/media/memoria/2019-detalle-bande2-jpg-148.jpg",
+  "widths": [
+   148
+  ],
+  "width": 148,
+  "height": 252,
+  "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACQBACdASoQABwALrV2u12jqampiYC0S2AE6ZQZLJYANs/RixD7ZJos7mBzZBAA/lL5O1Mt0qrSVFPcbNqsr83QiNwB0SsEL7L5adg/FsTnEu2hQZYw1yhQfzqhHHSf2O9XRENZAj9jaDMhd/U+A0cizDU2hUL9vo1FPhrrfjUJQUT/APmWZ6JjYA3WCCrDJkfDgmmkuwaZqnXLTt8Adv0GrhngAA==",
+  "color": "rgb(136 168 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/f839e8fb_ries-exposiciones-globalizacion-internacional_sea_turtle.jpg": {
+  "src": "/media/memoria/2004-internacional-sea-turtle-bd2f-130.jpg",
+  "widths": [
+   130
+  ],
+  "width": 130,
+  "height": 263,
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoQACEAPt1cpU2opSOiNUgBEBuJaQAAeaPqNh5v/+Yi2azAAP7qxdSmL1tvrPU5dMGSq6NspFWy9dP1BzjGZXZu4S+n2PrrRDZKiopILUXH+7qnTolRQAAA",
+  "color": "rgb(216 216 216)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/ab9dfff1_jw_sig_cache_8457de6a3a_img_5529.jpg": {
+  "src": "/media/memoria/2019-obra-e73a-213.jpg",
+  "widths": [
+   213
+  ],
+  "width": 213,
+  "height": 160,
+  "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAwAA4BaJZACdAEPfxcb/1egAP7SB0bnh3WX4c/wTj6hox6Pl9gOSETG/IRubSP/Bprp7tNu27NsO5p5g3Sm1dyJAAAA",
+  "color": "rgb(152 152 152)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/3c315fb5_jw_sig_cache_8457de6a3a_luigi_009.jpg": {
+  "src": "/media/memoria/2019-obra-0c78-213.jpg",
+  "widths": [
+   213
+  ],
+  "width": 213,
+  "height": 160,
+  "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAwAA4BaJbACdAYuvgWg+2CwAPj9KmYFZCwSPYBrwRE0ONdCxQtPnc+ELj3DB49oO/jKQTDIasQb6SXuSGBcnZiaWBQ7RdVXj+dzYq1dR6Fex14+E/k+K4g6CwAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/0d3aa722_editus18.jpg": {
+  "src": "/media/memoria/2022-editus-150.jpg",
+  "widths": [
+   150
+  ],
+  "width": 150,
+  "height": 225,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAwCdASoQABkAPu1iqU2ppaOiMAgBMB2JZACdACHPT1ACwAD+6VlzLlvw636eT0s/aNtUxFazCstCo0YJLmGpWjsA8i9FHz5Hlw7rdAHX4AAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/e94c9dc2_180x180-images-stories-puntos_de_vista-arte.jpg": {
+  "src": "/media/memoria/2019-arte-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 180,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQABAAA4BaJbACdAEfq/2rxyP/l2AA/uulqsjdrEhHonTIr5k/A5HQwgHreVPCHPD2rUMUrszV2jaXsjzTpXQFxlHshVHRy6O0bu1W2T/Zhr83Xcc0Vh2LnDvOsFw4X8iWjR3HozPKKJQJl99u584DCwAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/memoria/raw/742373fb_180x180-images-stories-puntos_de_vista-breves.jpg": {
+  "src": "/media/memoria/2019-breves-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 180,
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoQABAAA4BaJbACdH8EwZjlLNo9koSiBwAA/umvzwq6p154kSCFvESh3qzG2+0+6Oy83ypGtBlTVL3+ogb62D95mDT5EseKPue/X1waQgEyrvFy8xhUmd4X/T9TUZY1Yujy3ZZepSifMWWYcXKQxet963Z4uLnvLue38UwURq2S59GMCT0SJe/FfQN/AAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/fa547e45_cali-bebe-203x150.jpg": {
+  "src": "/media/memoria/2016-cali-bebe-203.jpg",
+  "widths": [
+   203
+  ],
+  "width": 203,
+  "height": 150,
+  "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAwAA4BaJQBOgCIO1LreNQAA92I50ROo/uvsxlsb8gWAMP23nL/O+sFN+2fKoAA=",
+  "color": "rgb(168 152 120)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/f5d16da2_incensario-130x190.jpg": {
+  "src": "/media/memoria/1996-incensario-130.jpg",
+  "widths": [
+   130
+  ],
+  "width": 130,
+  "height": 190,
+  "placeholder": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQAB8tEMPgJ0e3VK7wIH035pAAP7BKz2n9lccBBT6f8dN2nLzeW6C8HyB7FvUIFDhhVhwiOqv6B536r8rkeXTAy0dgssQDeIDHGbJWAAZJaXtSYwZt7T/Z/NiUtm/SYUlDj4VNdB2kVGL8PY70ZOM3/bzX7y1V70AC13N0yu6WGUuW2ZtBPX4eBt2EjHG3QJpiI1reEkhzv7gR7fn/YAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/faeb8597_00347ceb1f97b4c99cf62a5f98dcf6fb-elementos.jpg": {
+  "src": "/media/memoria/2016-ver-pdf-del-libro-elementos-el-manifiesto-de-ira-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 120,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAsAA4BaJYwC7H8AEV6Bke2AAP6Kbd1UfOd4P9YwmvPF1GQCopXufZlsTVXkKS7pDreO1Nu1GNaxUAsfIOg4ea1V1K8yWSlFAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/3c9534fe_935c6a53c2196594c1a5931394c0f570-sincret.jpg": {
+  "src": "/media/memoria/2014-sincretismo-religioso-catalogo-digital-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 120,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoQAAsAA4BaJZQAAudiSHiNAAD+8Kalhrw/PDoHvMMyu3b07+hw/UycrVC8hg/2X5UWVaWskBgNNWZjqm0AZUKH1lm2DpQPPHOkJTefUd0JjQAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/b2b2cb5a_849927d0283f235c5adc7731b25b83dc-plegaria.jpg": {
+  "src": "/media/memoria/2011-ver-pdf-catalogo-plegaria-2011-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 120,
+  "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAsAA4BaJZgCdAD1qgIPSCUqAAD+9ennHw/FGK36GzQkAWMptuhFOfO+RgXOh9NQNFLKsSlf/Lhaq9MQJ1P0dheLsyO2iOAnT2H5uTBou31RpiTt9/A9qAAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/eff6541c_1ed743168d3969b4b4a6feb49bb783ef-banderas_corpus.jpg": {
+  "src": "/media/memoria/2010-catalogo-de-las-banderas-del-corpus-christi-2010-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 120,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsAA4BaJQBdj+ABoGC7AAD+9/E3OlXh3hPXVVfLmKEglj3pPyoqoBmG/ie39iFdWsxno18vfLA6FziMFjn6hvyyI9s49SyXmWAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
  }
 }

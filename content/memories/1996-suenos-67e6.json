@@ -1,0 +1,29 @@
+{
+ "id": "1996-suenos-67e6",
+ "slug": "1996-suenos-67e6",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 306,
+ "image": {
+  "src": "/media/memoria/1996-suenos-67e6-259.jpg",
+  "alt": "Suenos",
+  "width": 259,
+  "height": 500,
+  "widths": [
+   259
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoQAB8APu1kqk4ppaQiMAgBMB2JbACdMoKCBgjoLYef1MwkX0sJkAD+9aGyrZOYG0GLAiBWWCHnqhW84Px+aoV9viFLQr+Pl3WPjFd7Bv6yxffphs//LWK4dh97utgF/iMpPdbbXf/lOny/6NNV58/59+3jdCr8nEvKHB9eVPbAU0v9o4CNEFU32bhPlC8ek330SAAA",
+  "color": "rgb(40 72 72)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Suenos",
+ "year": 1996,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://web.archive.org/web/20161207142513id_/http://calirivera.com/images/obras-galeria/suenos_en_azul/suenos13.jpg"
+}

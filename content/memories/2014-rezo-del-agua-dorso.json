@@ -1,0 +1,31 @@
+{
+ "id": "2014-rezo-del-agua-dorso",
+ "slug": "2014-rezo-del-agua-dorso",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 108,
+ "image": {
+  "src": "/media/memoria/2014-rezo-del-agua-dorso-618.jpg",
+  "alt": "rezo del agua dorso",
+  "width": 618,
+  "height": 800,
+  "widths": [
+   480,
+   618
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoQABUAPu1kqU2ppaQiMAgBMB2JQBOkCChZQWItkwlIcgXAAP7zgrj9Ueh/562WaPWc5Z2ZD8G/dMh+r4jsCu0qwUltSynkCbOPjM1LDt057wA9tZoQy0dZcRhtfa+AAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "rezo del agua dorso",
+ "caption": "En «Obras»",
+ "year": 2014,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/sincretismo/padre_nuestro_dorso.jpg",
+ "sourcePage": "Obras"
+}

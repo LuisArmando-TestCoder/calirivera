@@ -1,0 +1,29 @@
+{
+ "id": "1996-hogar-donde",
+ "slug": "1996-hogar-donde",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 61,
+ "image": {
+  "src": "/media/suenos-en-azul/hogar-donde-965.jpg",
+  "alt": "Hogar donde",
+  "width": 965,
+  "height": 1629,
+  "widths": [
+   640,
+   965
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBQCdASoQABsAPu1iqk2ppaQiMAgBMB2JbACdMoR4T5Xbg4zMClHLdf+sk60eDIqneAD+5Fh6kbfcOm1l4V9b1MxzBZ6zhNgjkvujOa5o8/tzww/yigODHx+APR8X7Z6ybXuLA/eOM1hT7vRASsafaU11XhUpR3cfeuPrXTnea+vre8NQn5+MtxcPPOYlRWm2UvWVSDV6CnumtLfYPsm7sZIhuQAA",
+  "color": "rgb(8 40 72)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Hogar donde",
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/hogar-donde-7AQ0WDPNzicL3Dw4.png"
+}

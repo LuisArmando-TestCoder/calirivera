@@ -1,0 +1,24 @@
+{
+ "id": "sf-cali-rivera",
+ "slug": "sf-cali-rivera",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 76,
+ "image": {
+  "src": "/media/memoria/sf-cali-rivera-800.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 800,
+  "height": 1000,
+  "widths": [
+   480,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoQABQAPu1iqU2ppaOjMAgBMB2JYgCdMoAC/MX+cIYPEwAA/vDfoBa2Z0hNp6ElQyQAxY/jZF1sX41dRlsItbrHGEQX3XSIP5r5U+fcGBxXIYAA",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "prensa",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "sourceUrl": "https://calirivera.com/trayectoria-and-entrevistas/cali_rivera-1-klhdbIHdJrdTHbKJ.jpg"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2000-expocision-detras-de-la-ventana-museo-jose-figue",
+ "slug": "2000-expocision-detras-de-la-ventana-museo-jose-figue",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 176,
+ "image": {
+  "src": "/media/memoria/2000-expocision-detras-de-la-ventana-museo-jose-figue-436.jpg",
+  "alt": "Expocisión Detrás de la Ventana Museo José Figueres",
+  "width": 436,
+  "height": 638,
+  "widths": [
+   436
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JYwDCgCHf7pJYBoZSm7Kb8MAA/u168WBlOo41TtAaSQDWXM8NxAGIHJ2PEUYnG/0xaqYfzVZSjPusi6zhlTVeJ9ieiRPX1YmK2Xb8D++Lby+SqYgwUR2XjUQN6tP/oZQAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Expocisión Detrás de la Ventana Museo José Figueres",
+ "caption": "En «Detras de la ventana marzo 2000»",
+ "year": 2000,
+ "seenAt": "2016-12-06",
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://web.archive.org/web/20161206135321id_/http://calirivera.com/images/stories/exposiciones/detras/invitacion_detras_ventana.jpg",
+ "sourcePage": "Detras de la ventana marzo 2000"
+}

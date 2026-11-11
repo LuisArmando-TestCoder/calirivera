@@ -1,0 +1,28 @@
+{
+ "id": "2001-zona-restringida",
+ "slug": "2001-zona-restringida",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 168,
+ "image": {
+  "src": "/media/memoria/2001-zona-restringida-500.jpg",
+  "alt": "Zona restringida",
+  "width": 500,
+  "height": 571,
+  "widths": [
+   480,
+   500
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZgCdB2gAR4+mmx/14To4q+byOAD+2n+sH2eDpPz6haISfU+k/KGu9ZfXSxNhStDCHZHCQIkyQc3NUieNvbILVzi/szeBrjnpUyUT6T9NNOkhJth0GRXqKLJqRE+I3m/oRNZYouk4bzu21CAAAA==",
+  "color": "rgb(24 8 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Zona restringida",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207161631id_/http://calirivera.com/images/obras-galeria/identidad_2001/zona_restringida.jpg"
+}

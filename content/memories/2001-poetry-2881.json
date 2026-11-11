@@ -1,0 +1,28 @@
+{
+ "id": "2001-poetry-2881",
+ "slug": "2001-poetry-2881",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 342,
+ "image": {
+  "src": "/media/memoria/2001-poetry-2881-449.jpg",
+  "alt": "Poetry",
+  "width": 449,
+  "height": 222,
+  "widths": [
+   449
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAgAA4BaJZQC7AEUa+H8ckAA/sElcB0XZyCgkN57MK6HtQRm6IOh9U2C4lH108VbDal23Ud+zB3qcVWsL5RJRafgqcY72+MAAA==",
+  "color": "rgb(24 24 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Poetry",
+ "year": 2001,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206205335id_/http://calirivera.com/images/stories/obras/poetry/poetry0.gif"
+}

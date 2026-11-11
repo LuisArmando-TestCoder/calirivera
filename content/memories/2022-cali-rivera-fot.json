@@ -1,0 +1,28 @@
+{
+ "id": "2022-cali-rivera-fot",
+ "slug": "2022-cali-rivera-fot",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 412,
+ "image": {
+  "src": "/media/memoria/2022-cali-rivera-fot-237.jpg",
+  "alt": "Cali rivera fot",
+  "width": 237,
+  "height": 169,
+  "widths": [
+   237
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAwAA4BaJZgCdAD6mlcyHD6UAAD+9teo4GPgnSpj2+VIyWUte++6ORjsWIpmAuZ4DmSd1uTm8OyYGOanCLujAto1My2wPWPwwowfAAA=",
+  "color": "rgb(40 24 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Cali rivera fot",
+ "year": 2022,
+ "yearApprox": true,
+ "seenAt": "2022-03-23",
+ "sourceUrl": "https://web.archive.org/web/20220323160928id_/http://calirivera.com/images/Cali-Rivera_fot.jpg"
+}

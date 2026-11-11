@@ -1,0 +1,29 @@
+{
+ "id": "2016-vida",
+ "slug": "2016-vida",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 112,
+ "image": {
+  "src": "/media/memoria/2016-vida-700.jpg",
+  "alt": "Vida",
+  "width": 700,
+  "height": 702,
+  "widths": [
+   480,
+   700
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJZACdAEPArVdJlT4AP7qNggRdAnqcKabI106pmMwt1NXBfFth3dMeMHTSieSSZstJKu7wmj5MzH9QDFWTGPYBMKaf+0GRXVKPBhpjoZGyB2AAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Vida",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206205740id_/http://calirivera.com/images/stories/obras-galeria/alquimia/4flor-de-vida.jpg"
+}

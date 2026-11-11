@@ -1,0 +1,27 @@
+{
+ "id": "2019-labios-de-placer",
+ "slug": "2019-labios-de-placer",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 362,
+ "image": {
+  "src": "/media/memoria/2019-labios-de-placer-241.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 241,
+  "height": 350,
+  "widths": [
+   241
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdIExCubQs/yu/SkNZsAAA/uzeLRdhO1LyKnHMYuM/ot/d42zS6qKeMvKavdVllV/E2PiLzH60v5pBznK/Uvslk9NoDX4o5nuFlo09/tRU7PJ1G3rwNwPAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423053436id_/http://calirivera.com/images/stories/exposiciones/octubre3/labios_de_placer.jpg"
+}

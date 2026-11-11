@@ -3,7 +3,7 @@
  */
 import type { LayoutPreset } from "@/lib/content/types";
 
-export const CONTENT_COLLECTIONS = ["pages", "collections", "artworks", "catalogs", "programs", "people", "posts", "settings"] as const;
+export const CONTENT_COLLECTIONS = ["pages", "collections", "artworks", "catalogs", "programs", "people", "posts", "memories", "settings"] as const;
 export type ContentCollection = (typeof CONTENT_COLLECTIONS)[number];
 export const SYSTEM_COLLECTIONS = ["authCodes", "rateLimits", "auditLog", "drafts"] as const;
 
@@ -60,6 +60,8 @@ export interface CollectionDef {
   singleton?: string;
   /** Item type names used by EditableList's itemType for "+" in collection lists. */
   itemTypes: string[];
+  /** Filtros de la lista del dashboard (chips). Sin `options` → se arman con los valores que existen. */
+  filters?: { name: string; label: string; options?: { value: string; label: string }[] }[];
 }
 
 export const PROGRAM_OPTIONS = [
@@ -95,7 +97,59 @@ const slug: FieldDef = {
 };
 const order: FieldDef = { name: "order", label: "Orden", type: "number", help: "Número menor aparece primero." };
 
+export const MEMORY_KIND_OPTIONS = [
+  { value: "obra", label: "Obra" },
+  { value: "taller", label: "El Taller" },
+  { value: "evento", label: "Evento" },
+  { value: "prensa", label: "Prensa" },
+  { value: "persona", label: "Persona" },
+  { value: "lugar", label: "Lugar" },
+  { value: "documento", label: "Documento" },
+];
+export const MEMORY_SOURCE_OPTIONS = [
+  { value: "sitio-actual", label: "Sitio actual" },
+  { value: "wayback", label: "Sitio viejo (Wayback)" },
+  { value: "catalogo", label: "Catálogo" },
+  { value: "cali", label: "Subida por Cali" },
+];
+
 export const COLLECTION_DEFS: Record<ContentCollection, CollectionDef> = {
+  memories: {
+    name: "memories",
+    label: "Recuerdos",
+    singular: "recuerdo",
+    gender: "m",
+    icon: "◌",
+    description: "Las fotos de siempre: el Taller, las obras, la gente, los años.",
+    titleField: "title",
+    imageField: "image",
+    sort: "order",
+    itemTypes: ["memory", "memories"],
+    filters: [
+      { name: "year", label: "Año" },
+      { name: "kind", label: "Tipo", options: MEMORY_KIND_OPTIONS },
+      { name: "source", label: "De dónde salió", options: MEMORY_SOURCE_OPTIONS },
+      { name: "aiAltered", label: "Revisar", options: [{ value: "true", label: "Pasó por IA" }] },
+    ],
+    fields: [
+      { name: "image", label: "Foto", type: "image", required: true, quick: true, help: "Desde el celular: tocá y elegí una foto o tomala con la cámara." },
+      { name: "title", label: "Título", type: "text", max: 120, quick: true, placeholder: "Inauguración de Detrás de la ventana" },
+      { name: "year", label: "Año", type: "text", max: 9, quick: true, placeholder: "2000" },
+      { name: "yearApprox", label: "El año es aproximado", type: "boolean" },
+      { name: "caption", label: "Qué se ve, quiénes están", type: "textarea", max: 600, rows: 3, quick: true },
+      { name: "kind", label: "Tipo", type: "select", required: true, quick: true, options: MEMORY_KIND_OPTIONS },
+      { name: "place", label: "Lugar", type: "text", max: 120, placeholder: "Taller del Artista, Tres Ríos" },
+      { name: "people", label: "Personas", type: "tags", help: "Nombres separados por coma." },
+      { name: "collectionId", label: "Colección relacionada", type: "select", optionsFrom: "collections" },
+      { name: "featured", label: "Destacar (sale más grande)", type: "boolean" },
+      { name: "aiAltered", label: "La foto pasó por IA", type: "boolean", help: "Marcala si la imagen fue cambiada con IA. Al aprobarla y publicarla, se muestra igual pero con un aviso." },
+      { name: "lostInFire", label: "La obra se perdió en el incendio de 2017", type: "boolean" },
+      { name: "source", label: "De dónde salió", type: "select", options: MEMORY_SOURCE_OPTIONS },
+      { name: "sourceUrl", label: "Enlace de origen", type: "url" },
+      order,
+      slug,
+    ],
+  },
   posts: {
     name: "posts",
     label: "Bitácora",
@@ -321,6 +375,8 @@ export function publicUrl(collection: string, doc: { slug?: string; id: string; 
       return `/catalogos-and-proyectos/${slug}`;
     case "posts":
       return `/bitacora/${slug}`;
+    case "memories":
+      return `/memoria/${slug}`;
     case "programs":
       return doc.kind === "colaboracion"
         ? "/colaboracion-al-artista-nacional"

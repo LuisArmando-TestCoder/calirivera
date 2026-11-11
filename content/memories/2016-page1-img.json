@@ -1,0 +1,30 @@
+{
+ "id": "2016-page1-img",
+ "slug": "2016-page1-img",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 379,
+ "image": {
+  "src": "/media/memoria/2016-page1-img-270.jpg",
+  "alt": "Page1 img",
+  "width": 270,
+  "height": 235,
+  "widths": [
+   270
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQAA4AA4BaJbACdAEPhCVez5osAAD+zx/+Vc6IvQqf+vMMtec47ZmOzmPJV7YZiGVLwjBtAZ1CIBXZPzYvGib+Fx9wVpbZvD2FNiwDuU1kBQAA",
+  "color": "rgb(40 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Page1 img",
+ "caption": "En «Mi obra»",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-10-15",
+ "sourceUrl": "https://web.archive.org/web/20161015134336id_/http://calirivera.com/images/top_home/page1-img1.jpg",
+ "sourcePage": "Mi obra"
+}

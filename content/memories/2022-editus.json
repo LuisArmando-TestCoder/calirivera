@@ -1,0 +1,28 @@
+{
+ "id": "2022-editus",
+ "slug": "2022-editus",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 422,
+ "image": {
+  "src": "/media/memoria/2022-editus-150.jpg",
+  "alt": "Editus",
+  "width": 150,
+  "height": 225,
+  "widths": [
+   150
+  ],
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAwCdASoQABkAPu1iqU2ppaOiMAgBMB2JZACdACHPT1ACwAD+6VlzLlvw636eT0s/aNtUxFazCstCo0YJLmGpWjsA8i9FHz5Hlw7rdAHX4AAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Editus",
+ "year": 2022,
+ "yearApprox": true,
+ "seenAt": "2022-09-05",
+ "sourceUrl": "https://web.archive.org/web/20220905215630id_/http://calirivera.com/images/gallery//thumbs/editus18.jpg"
+}

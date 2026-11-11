@@ -1,0 +1,27 @@
+{
+ "id": "2009-cristo-eae5",
+ "slug": "2009-cristo-eae5",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 185,
+ "image": {
+  "src": "/media/memoria/2009-cristo-eae5-428.jpg",
+  "alt": "Foto de 2009 del archivo de Cali Rivera",
+  "width": 428,
+  "height": 640,
+  "widths": [
+   428
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoAlwheVWJ837SuaPxpAAP4e5aj/BxMCtzzsLxI5ZTOTlo6RXaz6APxfl5sX9BBHGptPyoV7WjKQVNZ9ise5E2LRIy9Wx37ogk5gtB7B1+u524LqUvGWyirjeLbupOlqqa+pwHrbnLyKLjOJNcKjz4+0ifjw/nNj22reMzc7v4S5OvExDFf8rj6CTs3X3febVfgsStMToI+2W0pIQt8IcQAA",
+  "color": "rgb(168 152 104)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2009,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208024035id_/http://calirivera.com/images/obras-galeria/vistas_guate/cristo2.jpg"
+}

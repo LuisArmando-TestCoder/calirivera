@@ -1,0 +1,26 @@
+{
+ "id": "2013-evento-5aa5",
+ "slug": "2013-evento-5aa5",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 354,
+ "image": {
+  "src": "/media/memoria/2013-evento-5aa5-249.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 249,
+  "height": 364,
+  "widths": [
+   249
+  ],
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZACdMoGv/7oABM9u1pDtwthe+wAA/t2CrBnOIStmH4v57boXS00yq65vX3jzvlnZH9WM6iAl4RY88sjogEorYIolkhyP1xvN+IF1Wl9+y+PAZh8o3J07qCqyYFTeJShGTOvNj29auwQA",
+  "color": "rgb(40 24 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220093828id_/http://calirivera.com/images/thumbnails/images/stories/actividades/mayo_2013-249x364.jpeg"
+}

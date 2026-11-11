@@ -7,6 +7,7 @@ import { getAt } from "@/lib/cms/paths";
 import { listDocs, titleOf } from "@/lib/cms/write";
 import type { ImageAsset } from "@/lib/content/types";
 import { AdminHeader, fmtDay, Loading, PageHead } from "../ui";
+import { QuickStatus } from "@/components/cms/admin/RowActions";
 import s from "@/components/cms/admin/admin.module.scss";
 
 const STATUS_TABS = [
@@ -28,10 +29,28 @@ async function List({ params, searchParams }: PageProps<"/admin/[collection]">) 
   const q = typeof sp.q === "string" ? sp.q : "";
   const status = (["all", "published", "draft"] as const).find((x) => x === sp.estado) ?? "all";
   const page = Number(sp.pagina) || 1;
-  const res = await listDocs(collection, { q, status, page, per: 20 });
+  const where: Record<string, string> = {};
+  for (const f of def.filters ?? []) if (typeof sp[f.name] === "string" && sp[f.name]) where[f.name] = sp[f.name] as string;
+  const res = await listDocs(collection, { q, status, page, per: 20, where });
+  // Valores de filtros sin opciones fijas (p. ej. años): los que existen en la colección
+  const filterOpts =
+    def.filters?.some((f) => !f.options)
+      ? await listDocs(collection, { status: "all", per: 100000 }).then((r) =>
+          Object.fromEntries(
+            (def.filters ?? [])
+              .filter((f) => !f.options)
+              .map((f) => [
+                f.name,
+                [...new Set(r.items.map((d) => String(d[f.name] ?? "")).filter(Boolean))]
+                  .sort()
+                  .map((v) => ({ value: v, label: v })),
+              ]),
+          ),
+        )
+      : {};
   const qs = (patch: Record<string, string | number | undefined>) => {
     const u = new URLSearchParams();
-    const merged = { q, estado: status === "all" ? undefined : status, pagina: undefined as number | undefined, ...patch };
+    const merged = { q, estado: status === "all" ? undefined : status, ...where, pagina: undefined as number | undefined, ...patch };
     for (const [k, v] of Object.entries(merged)) if (v !== undefined && v !== "" && v !== 1) u.set(k, String(v));
     const str = u.toString();
     return str ? `?${str}` : "";
@@ -56,6 +75,9 @@ async function List({ params, searchParams }: PageProps<"/admin/[collection]">) 
             </label>
             <input id="q" name="q" type="search" defaultValue={q} placeholder={`Buscar en ${def.label.toLowerCase()}…`} />
             {status !== "all" && <input type="hidden" name="estado" value={status} />}
+            {Object.entries(where).map(([k, v]) => (
+              <input key={k} type="hidden" name={k} value={v} />
+            ))}
             <button className={s.btn}>Buscar</button>
           </form>
           <nav className={s.tabs} aria-label="Filtrar por estado">
@@ -66,8 +88,25 @@ async function List({ params, searchParams }: PageProps<"/admin/[collection]">) 
             ))}
           </nav>
         </div>
+        {def.filters?.map((f) => {
+          const opts = f.options ?? filterOpts[f.name] ?? [];
+          if (!opts.length) return null;
+          return (
+            <nav key={f.name} className={s.tabs} aria-label={`Filtrar por ${f.label.toLowerCase()}`} data-filter>
+              <span className={s.filterLabel}>{f.label}</span>
+              <Link href={qs({ [f.name]: undefined })} aria-current={!where[f.name] ? "page" : undefined}>
+                Todos
+              </Link>
+              {opts.map((o) => (
+                <Link key={o.value} href={qs({ [f.name]: o.value })} aria-current={where[f.name] === o.value ? "page" : undefined}>
+                  {o.label}
+                </Link>
+              ))}
+            </nav>
+          );
+        })}
         {res.items.length === 0 ? (
-          <p className={s.empty}>{q ? `No encontramos nada con «${q}».` : `Todavía no hay ${def.label.toLowerCase()}.`}</p>
+          <p className={s.empty}>{q || Object.keys(where).length ? `No encontramos nada con esos filtros.` : `Todavía no hay ${def.label.toLowerCase()}.`}</p>
         ) : (
           <ul className={s.list}>
             {res.items.map((d) => {
@@ -98,6 +137,9 @@ async function List({ params, searchParams }: PageProps<"/admin/[collection]">) 
                       ›
                     </span>
                   </Link>
+                  {collection === "memories" && (
+                    <QuickStatus collection={collection} id={d.id} status={(d.status ?? "published") as "draft" | "published"} title={titleOf(collection, d)} />
+                  )}
                 </li>
               );
             })}

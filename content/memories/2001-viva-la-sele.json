@@ -1,0 +1,27 @@
+{
+ "id": "2001-viva-la-sele",
+ "slug": "2001-viva-la-sele",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 257,
+ "image": {
+  "src": "/media/memoria/2001-viva-la-sele-400.jpg",
+  "alt": "Viva la sele",
+  "width": 400,
+  "height": 522,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1oqk6ppiQiMAgBMB2JagCdAF8xpQlF1EF6xWAA/tUVIhlr7E+MQj1VrVmYFk3HotfGF90EKME5MvGKoNw/ovqh1lg6CzwlyuF8NxlXja8Z+/4jfEWsjo1/87H246XC7gEhmtu4vFAAAA==",
+  "color": "rgb(40 40 72)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Viva la sele",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207154400id_/http://calirivera.com/images/obras-galeria/identidad_2001/viva_la_sele.jpg"
+}

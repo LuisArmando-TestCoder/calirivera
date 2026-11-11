@@ -1,0 +1,27 @@
+{
+ "id": "2013-abril-cale",
+ "slug": "2013-abril-cale",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 408,
+ "image": {
+  "src": "/media/memoria/2013-abril-cale-252.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 252,
+  "height": 171,
+  "widths": [
+   252
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAsAA4BaJbACdAD2BQ/zyGqAAP0lPbe+2g94z4LFD48Eiy5H8RyV2JUgJilHSAcdCDrljPv3vnnAKBPew7O9iTD/hd4ET9dtWku2q3C+TbQAbtNAAA==",
+  "color": "rgb(184 232 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220091650id_/http://calirivera.com/images/thumbnails/images/stories/actividades/abril_cale-252x171.jpg"
+}

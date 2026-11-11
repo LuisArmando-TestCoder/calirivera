@@ -1,0 +1,31 @@
+{
+ "id": "2011-plegaria-israel",
+ "slug": "2011-plegaria-israel",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 135,
+ "image": {
+  "src": "/media/memoria/2011-plegaria-israel-480.jpg",
+  "alt": "Plegaria Israel",
+  "width": 480,
+  "height": 720,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoQABgAPu1kqk4ppaQiMAgBMB2JZwAD5Soe8w19sY9jBKL+AAD+8d+u/PSoNoiNFE6p6R93f9pIDXfxiZfkXYrsf3gF2SrlM9Mf5V17gRNa6QdRzsR7OLdB8oRamDezFEnWbFNOYPuJReAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegaria Israel",
+ "caption": "En «Obras»",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/stories/plegaria_obras/Plegaria_Israel.jpg",
+ "sourcePage": "Obras"
+}

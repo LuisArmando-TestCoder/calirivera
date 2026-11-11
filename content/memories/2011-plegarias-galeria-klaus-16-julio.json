@@ -1,0 +1,29 @@
+{
+ "id": "2011-plegarias-galeria-klaus-16-julio",
+ "slug": "2011-plegarias-galeria-klaus-16-julio",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 417,
+ "image": {
+  "src": "/media/memoria/2011-plegarias-galeria-klaus-16-julio-240.jpg",
+  "alt": "Plegarias galeria klaus 16 julio",
+  "width": 240,
+  "height": 156,
+  "widths": [
+   240
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAoAA4BaJQBOiP/wLJTZMAD+4oNwn1HzkCGIIMF/OVeKkO0tCYIH69WhTWVbHvHSbi3k/0JtIyhu9gKzO+ynCYWRWtEv2omiCciCco5PjePswAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Plegarias galeria klaus 16 julio",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2016-05-26",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20160526210757id_/http://calirivera.com/images/thumbnails/images/Plegarias_Galeria_Klaus_16_julio2-240x156.jpg"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "2011-revelaciones-pigmeos",
+ "slug": "2011-revelaciones-pigmeos",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 74,
+ "image": {
+  "src": "/media/memoria/2011-revelaciones-pigmeos-800.jpg",
+  "alt": "revelaciones Pigmeos",
+  "width": 800,
+  "height": 1149,
+  "widths": [
+   480,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACwAwCdASoQABcAPu1oqk6ppiQiMAgBMB2JZwAFgAEmYlLahPRqgAD+4nyK5ZG9mS+UKPQvV/Lakg0GTba0IvIxmmGBYFeQHrNsHz6PU5aljIAQaGPc7hUvWSiIBCipd/GOzPAjrDKt8zvsTV3qb23kfypFJQ6KXO7kQm6elsHAAA==",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "revelaciones Pigmeos",
+ "caption": "En «Obras»",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/stories/plegaria_obras/revelaciones_Pigmeos.jpg",
+ "sourcePage": "Obras"
+}

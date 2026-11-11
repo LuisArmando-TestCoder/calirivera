@@ -1,0 +1,28 @@
+{
+ "id": "2019-padre-nuestro-que-estas-en-cielo",
+ "slug": "2019-padre-nuestro-que-estas-en-cielo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 392,
+ "image": {
+  "src": "/media/memoria/2019-padre-nuestro-que-estas-en-cielo-189.jpg",
+  "alt": "Padre nuestro que estas en cielo",
+  "width": 189,
+  "height": 280,
+  "widths": [
+   189
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZAC1GoAltRW84yqwPgebo2xDZCYAAP70MtsmfpoYlvKNpv7cIsby0cKNbUIxrCGhOmG1D/9U6LY227vKtBZ42qZNpe86tkO/A6CAx2jXcyEYiY1yuuH4OrNm5JE719SeBiPOrwYL16Y0c45GKrSaDTXoHfidTrkuKR+5T03gAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Padre nuestro que estas en cielo",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423054136id_/http://calirivera.com/images/stories/obras/padre_nuestro_que_estas_en_cielo2.jpg"
+}

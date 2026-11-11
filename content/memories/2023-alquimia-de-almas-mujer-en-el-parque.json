@@ -1,0 +1,29 @@
+{
+ "id": "2023-alquimia-de-almas-mujer-en-el-parque",
+ "slug": "2023-alquimia-de-almas-mujer-en-el-parque",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 454,
+ "image": {
+  "src": "/media/alquimia-de-almas/mujer-en-el-parque-2400.jpg",
+  "width": 2400,
+  "height": 2405,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoQABAAA4BaJbACdDiMwUqg/2ET6AAA/t0x/KtLnBo/JqlQ2tPvK6FhBOSGUb+k3IPJR7VL6cU5sbz+FiSDUOJT0Xj8fFD6gxlvNq7xonk9FV99cgmYBl645cYGUjIDIJ5MN6Q9GbhATg3iUf6CI0Dyt2nlJPrgAAA=",
+  "color": "rgb(248 248 248)",
+  "alt": "Mujer en el parque, Alquimia de Almas, 2023"
+ },
+ "title": "Mujer en el parque",
+ "caption": "Mixta sobre tela · 20 × 20 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

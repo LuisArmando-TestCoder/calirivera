@@ -1,0 +1,26 @@
+{
+ "id": "2015-evento-d174",
+ "slug": "2015-evento-d174",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 389,
+ "image": {
+  "src": "/media/memoria/2015-evento-d174-243.jpg",
+  "alt": "Foto de 2015 del archivo de Cali Rivera",
+  "width": 243,
+  "height": 226,
+  "widths": [
+   243
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAA8AA4BaJYgCdADwLvaH5Y8AAOJwc5g/fjzXa0PKWo8lqvKt6VKIaX/CrF6oYdQOwLf8a7GjAbLZirIPOzAWQAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2015,
+ "seenAt": "2016-05-27",
+ "sourceUrl": "https://web.archive.org/web/20160527034701id_/http://calirivera.com/images/thumbnails/images/stories/actividades/agenda-julio2015web-243x226.jpg"
+}

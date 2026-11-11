@@ -1,0 +1,27 @@
+{
+ "id": "2013-alquimia-taller",
+ "slug": "2013-alquimia-taller",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 233,
+ "image": {
+  "src": "/media/memoria/2013-alquimia-taller-400.jpg",
+  "alt": "Foto de 2013 del archivo de Cali Rivera",
+  "width": 400,
+  "height": 607,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYgCdAB9rAIdWAWk3sLTxKgAA/k3LKwsuJ8pSAFRY0fDsMJppB0iWcifAzHxmogCY8TGdQpvgoturcxuVMIouDt4qMMHFhvGgTpUsyVn/tNXlWtTsMfChPQx72o/ZTG6ve+ufvmSd+SIWr4v6Hd/K5FoYL/DS8wByXK7kwOlPmM57D+8zdrGQ0fS7X+/uYCjXQOn/3qbR/HaAAAA=",
+  "color": "rgb(24 24 24)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2013,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "sourceUrl": "https://web.archive.org/web/20131220090731id_/http://calirivera.com/images/stories/obras-galeria/alquimia-taller.jpg"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "2016-banderas-terramall",
+ "slug": "2016-banderas-terramall",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 89,
+ "image": {
+  "src": "/media/memoria/2016-banderas-terramall-960.jpg",
+  "alt": "Banderas terramall",
+  "width": 960,
+  "height": 639,
+  "widths": [
+   480,
+   960
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAsAA4BaJQBWABemDUpbgAD+we+om4jvDbvhRjnmjlKan8eqsxdYKqzA5Gt02ZJ7q0NHsMU5bIcbXNTFNRWMwBjtyuOrbsvDS5zg3iZAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Banderas terramall",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-11-21",
+ "sourceUrl": "https://web.archive.org/web/20161121032116id_/http://calirivera.com/images/mi_trabajo/banderas_terramall.jpg"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2019-afiche-iglesia",
+ "slug": "2019-afiche-iglesia",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 251,
+ "image": {
+  "src": "/media/memoria/2019-afiche-iglesia-400.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 400,
+  "height": 533,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoLUCis9MA3mYB4m0zik8bzfkAD7dO5I1nSPnD5XDgU+LbkkHNdGdI5R2w6ukgMe1G2h6JT7gswuYWNMUlevD1JHOkIYWYQzu4GBfkAgZeS7ceTA1PHCxSueDBPINn1R07YJQ4xLjk5NQLIRHl4BaXWFQnNpc+BKYzztSVdEJc63DQBnrHpyXcGXs49xEG6rq2Q40Yc/YsuN4vjYgyAAAA==",
+  "color": "rgb(248 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423084032id_/http://calirivera.com/images/mgthumbnails/400x533-images-stories-actividades-Afiche_Iglesia.jpg"
+}

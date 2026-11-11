@@ -1,0 +1,26 @@
+{
+ "id": "2020-web",
+ "slug": "2020-web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 80,
+ "image": {
+  "src": "/media/archivo/agenda-marzo-2020-web-700.jpg",
+  "alt": "Foto de 2020 del archivo de Cali Rivera",
+  "width": 700,
+  "height": 1023,
+  "widths": [
+   640,
+   700
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JagC7BagWwJoMTjpkQ0+Wv75nmGAA4XJOEblBuyo4xryIkzTg6bJvth4oC6Xo9ixtFLni9W5cJIdzKWQjE/RnRnHbZW3MouDOgTZ3tVYD3ZjY1ytlXWMeriH5eMKk/Uw0sxvysL7f5TPx97g+mYdr4DG3k/qy/fZ3ocCcXwEsnoe75OIhqpgyl4C3Od0ahvCjFt9XE42/AKuqfQAAAA==",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2020,
+ "seenAt": "2025-07-27",
+ "sourceUrl": "https://web.archive.org/web/20250727042229id_/http://calirivera.com/images/agenda-Marzo-2020-web.jpg"
+}

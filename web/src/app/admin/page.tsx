@@ -13,10 +13,12 @@ const QUICK = [
   { href: "/admin/posts/nuevo", icon: "✎", label: "Nueva entrada de Bitácora", desc: "Un evento, una visita, una noticia", primary: true },
   { href: "/admin/people/nuevo", icon: "☺", label: "Nueva persona o beneficiario", desc: "Poetas, músicos, artistas apoyados" },
   { href: "/admin/artworks/nuevo", icon: "▣", label: "Nueva obra", desc: "Foto y ficha técnica" },
+  { href: "/admin/memories/nuevo", icon: "◌", label: "Subir un recuerdo", desc: "Una foto vieja del Taller, desde el celular" },
+  { href: "/admin/memories?aiAltered=true&estado=draft", icon: "◑", label: "Recuerdos por revisar", desc: "Fotos que pasaron por IA: aprobalas o dejalas ocultas" },
   { href: "/", icon: "◐", label: "Editar directo en el sitio", desc: "Abrí cualquier página y tocá «Editar página»", external: true },
 ];
 
-const SECTIONS = ["collections", "pages", "programs", "catalogs", "posts", "people", "artworks"] as const;
+const SECTIONS = ["memories", "collections", "pages", "programs", "catalogs", "posts", "people", "artworks"] as const;
 
 async function Home() {
   await requireAdmin("/admin");

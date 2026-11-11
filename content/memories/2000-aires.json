@@ -1,0 +1,29 @@
+{
+ "id": "2000-aires",
+ "slug": "2000-aires",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 384,
+ "image": {
+  "src": "/media/memoria/2000-aires-197.jpg",
+  "alt": "Aires",
+  "width": 197,
+  "height": 300,
+  "widths": [
+   197
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAACwBACdASoQABkAPu1iqU2ppaOiMAgBMB2JbACdAdwLfSVoZ+EOGQQ8S7JTr24AAP4nhDDjjsSY7FwwO6G9Crdq3sFUYtckes70VItGPzPn7JG8UEfiP9E/jBBoYPzhn7vpfv8KHEEZKp/xgwpftP838yreaLiCoJME6ymK5p/wegwQTKJNE+yPIIxhs/dLV+b6WQliOqLdze/3AQ0WdQu2OtnP//RmL5uGrNS1Ar+aVjSC1JXiiwV+eP4B8tcoGbIwLa+X8IXyQF174hLlgAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Aires",
+ "year": 2000,
+ "yearApprox": true,
+ "seenAt": "2013-12-20",
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://web.archive.org/web/20131220085509id_/http://calirivera.com/images/stories/obras/detras/aires1.jpg"
+}

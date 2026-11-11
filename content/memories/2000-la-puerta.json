@@ -1,0 +1,28 @@
+{
+ "id": "2000-la-puerta",
+ "slug": "2000-la-puerta",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 96,
+ "image": {
+  "src": "/media/memoria/2000-la-puerta-586.jpg",
+  "alt": "La puerta",
+  "width": 586,
+  "height": 880,
+  "widths": [
+   480,
+   586
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQBOmUABWfGIeX1onU1MSAAD+WeTMJLJTb8niqFSjWkJ8q7rgYoyKO67aYF4xFkRynMQYUpZfCIsRAAA=",
+  "color": "rgb(184 200 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "La puerta",
+ "year": 2000,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210050id_/http://calirivera.com/images/obras-galeria/ave_fenix_2000/la_puerta.jpg"
+}

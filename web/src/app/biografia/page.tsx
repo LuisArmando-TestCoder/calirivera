@@ -60,6 +60,7 @@ export default async function Biografia() {
       <nav className={s.next} aria-label="Seguir leyendo">
         <Link href="/trayectoria-and-entrevistas">Exposiciones, prensa y currículum</Link>
         <Link href="/colecciones">Las colecciones</Link>
+        <Link href="/memoria">La memoria del Taller, año por año</Link>
       </nav>
     </article>
   );

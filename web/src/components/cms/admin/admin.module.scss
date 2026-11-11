@@ -1221,3 +1221,23 @@ textarea.input {
     display: none;
   }
 }
+
+// Filtros por campo (recuerdos: año, tipo, origen)
+.tabs[data-filter] {
+  align-items: center;
+  margin-top: 10px;
+  padding-bottom: 4px;
+}
+.filterLabel {
+  flex: none;
+  font-weight: 600;
+  margin-right: 4px;
+  min-width: 6.5em;
+}
+.list > li:has(> button) {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 8px;
+}
+.btnSmall[data-primary] { background: var(--c-ink); color: #fff; border-color: var(--c-ink); }

@@ -1,0 +1,26 @@
+{
+ "id": "sf-6aeym85n10s",
+ "slug": "sf-6aeym85n10s",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 256,
+ "image": {
+  "src": "/media/memoria/sf-6aeym85n10s-560.jpg",
+  "alt": "6aeym85n10s",
+  "width": 560,
+  "height": 373,
+  "widths": [
+   480,
+   560
+  ],
+  "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoQAAsAA4BaJQBOgCHgDVgAAP72gvlZMmKZ2CVuonUrYAAA",
+  "color": "rgb(8 24 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "6aeym85n10s",
+ "sourceUrl": "https://calirivera.com/biografia/6AEYm85N10s.jpeg"
+}

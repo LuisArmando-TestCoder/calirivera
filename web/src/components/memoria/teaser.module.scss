@@ -1,0 +1,75 @@
+@use "../../styles/tokens" as *;
+
+.teaser {
+  @include tone(ink);
+  background: var(--c-bg);
+  color: var(--c-fg);
+  padding-block: var(--space-3xl);
+  overflow: clip;
+}
+.head {
+  @include wrap;
+  display: grid;
+  gap: var(--space-s);
+  margin-bottom: var(--space-xl);
+  @include above($bp-m) { grid-template-columns: 1fr auto; align-items: end; }
+}
+.h2 { @include display(100, 820); font-size: var(--step-5); line-height: 0.85; }
+.lead { font-size: var(--step-1); max-width: 30ch; @include above($bp-m) { grid-column: 1; } }
+.cta {
+  @include label;
+  color: var(--c-accent);
+  text-decoration: none;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  border-bottom: 2px solid currentColor;
+  justify-self: start;
+  @include above($bp-m) { grid-column: 2; grid-row: 1 / span 2; align-self: end; }
+}
+.rope {
+  list-style: none;
+  margin: 0;
+  padding: var(--space-m) var(--gutter) var(--space-l);
+  display: flex;
+  gap: clamp(1rem, 3vw, 2.5rem);
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  scrollbar-width: none;
+  // la cuerda
+  background: linear-gradient(var(--c-linea), var(--c-linea)) 0 1.2rem / 100% 1px no-repeat;
+  li {
+    flex: none;
+    scroll-snap-align: start;
+    width: clamp(9rem, 22vw, 15rem);
+    rotate: var(--rot);
+    transform-origin: 50% 0;
+    @include motion {
+      animation: mece 7s ease-in-out infinite alternate;
+      animation-delay: calc(var(--i) * -0.9s);
+    }
+  }
+}
+@keyframes mece {
+  from { rotate: calc(var(--rot) - 1.2deg); }
+  to { rotate: calc(var(--rot) + 1.2deg); }
+}
+.item {
+  display: grid;
+  gap: 0.4rem;
+  color: inherit;
+  text-decoration: none;
+  outline-offset: 5px;
+  &:focus-visible { outline: 3px solid var(--c-accent); }
+  picture { display: block; aspect-ratio: var(--ar); overflow: hidden; background: oklch(100% 0 0 / 0.06); box-shadow: 0 0.6rem 1.6rem -0.8rem oklch(0% 0 0 / 0.6); }
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: sepia(0.6) grayscale(0.35) contrast(0.9) brightness(0.92) blur(0.4px);
+    transition: filter 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  &:hover img, &:focus-visible img { filter: none; }
+}
+.year { @include label; color: var(--c-muted); }

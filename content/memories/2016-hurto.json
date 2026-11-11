@@ -1,0 +1,28 @@
+{
+ "id": "2016-hurto",
+ "slug": "2016-hurto",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 171,
+ "image": {
+  "src": "/media/memoria/2016-hurto-442.jpg",
+  "alt": "Hurto",
+  "width": 442,
+  "height": 640,
+  "widths": [
+   442
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoAlsxWcYq9G2SzX5FwAAP6+h+0jt7EWPfWT1i5/a7LZGVZWfmNAOAkAHioM4PWONUj+NqO5ugcD8fRMz9ozFCOj4ftKxOymtRUFWkM/Y93O1ah07PdgXa6q0JGYu8ucOV/b9XW7Qx6KzRWDdtzHcShyRvVLTHyQvN2uguDN+8nt0x28Udtyu8/sOJ2HtNhurSIpaPEOP2v3x/1lycwOQAAA",
+  "color": "rgb(24 24 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Hurto",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210556id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/hurto.jpg"
+}

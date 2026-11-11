@@ -1,0 +1,29 @@
+{
+ "id": "2003-6transmutacion-azul",
+ "slug": "2003-6transmutacion-azul",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 88,
+ "image": {
+  "src": "/media/memoria/2003-6transmutacion-azul-792.jpg",
+  "alt": "6transmutacion azul",
+  "width": 792,
+  "height": 799,
+  "widths": [
+   480,
+   792
+  ],
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQABAAA4BaJagCdBPAKkd25QTeAAD9mNLjAyWyrqfGtYa8/MD74K/e3NiUXiDdS/+5nFHdhTT49IpOxZc591swWE5/dFKMbc1Cmiz23Dssyu7QZJPrf2pziZcVcrYiwEroQO72r4XgTdGQAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "6transmutacion azul",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210725id_/http://calirivera.com/images/stories/obras-galeria/alquimia/6transmutacion-azul.jpg"
+}

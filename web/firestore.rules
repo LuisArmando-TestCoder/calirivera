@@ -41,6 +41,10 @@ service cloud.firestore {
       allow read: if isPublished() || isAdmin();
       allow write: if isAdmin();
     }
+    match /memories/{id} {
+      allow read: if isPublished() || isAdmin();
+      allow write: if isAdmin();
+    }
 
     match /settings/{id} {
       allow read: if true;

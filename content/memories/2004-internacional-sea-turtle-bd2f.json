@@ -1,0 +1,30 @@
+{
+ "id": "2004-internacional-sea-turtle-bd2f",
+ "slug": "2004-internacional-sea-turtle-bd2f",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 419,
+ "image": {
+  "src": "/media/memoria/2004-internacional-sea-turtle-bd2f-130.jpg",
+  "alt": "internacional sea turtle",
+  "width": 130,
+  "height": 263,
+  "widths": [
+   130
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoQACEAPt1cpU2opSOiNUgBEBuJaQAAeaPqNh5v/+Yi2azAAP7qxdSmL1tvrPU5dMGSq6NspFWy9dP1BzjGZXZu4S+n2PrrRDZKiopILUXH+7qnTolRQAAA",
+  "color": "rgb(216 216 216)",
+  "lowRes": true
+ },
+ "kind": "prensa",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "internacional sea turtle",
+ "caption": "En «Globalizacion»",
+ "year": 2004,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206134826id_/http://calirivera.com/~calirive/images/mgthumbnails/130x263-images-stories-exposiciones-globalizacion-internacional_sea_turtle.jpg",
+ "sourcePage": "Globalizacion"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2019-breves",
+ "slug": "2019-breves",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 424,
+ "image": {
+  "src": "/media/memoria/2019-breves-180.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 180,
+  "height": 180,
+  "widths": [
+   180
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoQABAAA4BaJbACdH8EwZjlLNo9koSiBwAA/umvzwq6p154kSCFvESh3qzG2+0+6Oy83ypGtBlTVL3+ogb62D95mDT5EseKPue/X1waQgEyrvFy8xhUmd4X/T9TUZY1Yujy3ZZepSifMWWYcXKQxet963Z4uLnvLue38UwURq2S59GMCT0SJe/FfQN/AAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "prensa",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423041042id_/http://calirivera.com/images/mgthumbnails/180x180-images-stories-puntos_de_vista-breves.jpg"
+}

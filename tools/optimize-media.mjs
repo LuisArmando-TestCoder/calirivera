@@ -1,14 +1,16 @@
 #!/usr/bin/env node
 // Optimiza imágenes fuente → web/public/media/<grupo>/<nombre>-<w>.{avif,webp,jpg}
 // Escribe web/public/media/_manifest.json: { "<ruta fuente>": { src, widths, width, height, placeholder, color, lowRes, aiAltered } }
-// Uso: node tools/optimize-media.mjs <lista.json>   (lista = [{ path, group }])
+// Uso: node tools/optimize-media.mjs <lista.json>   (lista = [{ path, group, as? }])
+// MEDIA_WIDTHS=480,960,1600 MEDIA_MAX=1600 para colecciones grandes (Memoria).
 import sharp from "sharp";
 import { readFile, writeFile, mkdir, stat } from "node:fs/promises";
 import path from "node:path";
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const OUT = path.join(ROOT, "web/public/media");
-const WIDTHS = [640, 1280, 1920];
+const WIDTHS = process.env.MEDIA_WIDTHS ? process.env.MEDIA_WIDTHS.split(",").map(Number) : [640, 1280, 1920];
+const MAX_W = Number(process.env.MEDIA_MAX || 2400);
 const list = JSON.parse(await readFile(process.argv[2], "utf8"));
 const manifestPath = path.join(OUT, "_manifest.json");
 let manifest = {};
@@ -18,18 +20,18 @@ const ai = new Map(JSON.parse(await readFile(path.join(ROOT, "content/_images.js
 const slugify = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/\.[a-z0-9]+$/, "").replace(/-[A-Za-z0-9]{16}$/i, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 60) || "img";
 
 let done = 0;
-for (const { path: rel, group } of list) {
+for (const { path: rel, group, as } of list) {
   if (manifest[rel] && !process.argv.includes("--force")) { done++; continue; }
   const file = path.join(ROOT, rel);
   try { await stat(file); } catch { console.warn("falta", rel); continue; }
   const img = sharp(file, { failOn: "none", animated: false }).rotate();
   const meta = await img.metadata();
   if (!meta.width || !meta.height) { console.warn("sin dimensiones", rel); continue; }
-  const name = slugify(path.basename(rel).replace(/^[0-9a-f]{8}_/, ""));
+  const name = as ? slugify(as) : slugify(path.basename(rel).replace(/^[0-9a-f]{8}_/, ""));
   const dir = path.join(OUT, group);
   await mkdir(dir, { recursive: true });
   const widths = WIDTHS.filter((w) => w < meta.width);
-  widths.push(Math.min(meta.width, 2400));
+  widths.push(Math.min(meta.width, MAX_W));
   const uniq = [...new Set(widths)].sort((a, b) => a - b);
   for (const w of uniq) {
     const base = sharp(file, { failOn: "none" }).rotate().resize({ width: w, withoutEnlargement: true }).flatten({ background: "#ffffff" });

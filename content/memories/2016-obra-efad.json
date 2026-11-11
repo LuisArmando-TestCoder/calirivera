@@ -1,0 +1,28 @@
+{
+ "id": "2016-obra-efad",
+ "slug": "2016-obra-efad",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 161,
+ "image": {
+  "src": "/media/memoria/2016-obra-efad-640.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 640,
+  "height": 480,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAwAA4BaJbACdAEO/6J9rQAA/Zz/uPfxiFsrdlcSZQHJB7xw+CVc8+VTKixcD92bu5Ac8nqj1Khv59EAAA==",
+  "color": "rgb(168 152 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207015244id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/img_5635.jpg"
+}

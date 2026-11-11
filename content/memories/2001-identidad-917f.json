@@ -1,0 +1,27 @@
+{
+ "id": "2001-identidad-917f",
+ "slug": "2001-identidad-917f",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 259,
+ "image": {
+  "src": "/media/memoria/2001-identidad-917f-400.jpg",
+  "alt": "Identidad",
+  "width": 400,
+  "height": 517,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwACIFVdDC+VjvBJ8wAM1LTGFSgoICi3PPnQ5zWHEYuJ8OUUrItJ3T642WUbarlVmPJK7TY7g3W7zETPZ21SrC6CGivi0aaJAeoP5YUQ3SIqPU9p4dsEdLS0AAAA==",
+  "color": "rgb(40 136 168)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Identidad",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207154348id_/http://calirivera.com/images/obras-galeria/identidad_2001/identidad1.jpg"
+}

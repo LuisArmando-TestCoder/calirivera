@@ -1,0 +1,25 @@
+{
+ "id": "sf-teatro-92dd",
+ "slug": "sf-teatro-92dd",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 43,
+ "image": {
+  "src": "/media/biografia/teatro-1086.jpg",
+  "alt": "Teatro",
+  "width": 1086,
+  "height": 1448,
+  "widths": [
+   640,
+   1086
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JaAC7ACHT3v3JxS8Yu7aAAP7j5TDQe1CW+dSqu2TXjvnrRwZeIluMCbjEIhZNv/Wik/3vJpX1a3KXeFosYSbvD3Bdj9+jwGG5ptdHChUkEefk/R9GD+cDKvX/ndLIHB8z7DeeAAA=",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Teatro",
+ "sourceUrl": "https://calirivera.com/biografia/teatro-nSaSnE9MNoF7vqEM.jpeg"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "1995-musa",
+ "slug": "1995-musa",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 19,
+ "image": {
+  "src": "/media/musas-del-cantaro/musa-3-1002.jpg",
+  "alt": "Musa",
+  "width": 1002,
+  "height": 1570,
+  "widths": [
+   640,
+   1002
+  ],
+  "placeholder": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAABwBACdASoQABkAPu1iqU2ppaOiMAgBMB2JZgCsAYwS7L3ZIz/7E4Q0WFRSAADylwY0Xvhom/XUQ+NrbiHanRFFoZed0i/J+7BnrFnrE9iX9cv8x3zkXObABs9flcdCHURLjT9gPGsVrptuwFyCTHW0+ZYe3+pKvQxzvpOPIhtAkMD8l9RQVhc62PHjZmiW0eQ69UEjrhnnZRBGcHyATze3Kat6sFPRzOgseiE9clsojFdH0jdzqOx8vbJ7T+qvh+U86Ie4M6yEtwYdb73GZjm+5LetuDvgMinit7cwNc/IhCDG/QRVeLfzPkAAAA==",
+  "color": "rgb(248 248 232)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Musa",
+ "year": 1995,
+ "yearApprox": true,
+ "collectionId": "musas-del-cantaro",
+ "sourceUrl": "https://calirivera.com/musas-del-cantaro/musa-3-SYjwiaBnj0dDUNsO.png"
+}

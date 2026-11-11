@@ -1,0 +1,26 @@
+{
+ "id": "sf-beso",
+ "slug": "sf-beso",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 131,
+ "image": {
+  "src": "/media/memoria/sf-beso-680.jpg",
+  "alt": "Beso",
+  "width": 680,
+  "height": 536,
+  "widths": [
+   480,
+   680
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoQAA0AA4BaJZgCdAYvXq/sHz/f5rYA/viT74FRjsI/aAizUi+l4Bj++4cIqUJFzNIrDtLxRNlW/GNgO+MZuBubfCTNNPs5HBfpB/dCr6G4DSZSod20Xl3jsAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Beso",
+ "sourceUrl": "https://calirivera.com/home/beso-II4wdOCaLll6pSMP.PNG"
+}

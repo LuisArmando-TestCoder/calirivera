@@ -1,0 +1,29 @@
+{
+ "id": "2006-img-0675-jpg",
+ "slug": "2006-img-0675-jpg",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 328,
+ "image": {
+  "src": "/media/memoria/2006-img-0675-jpg-400.jpg",
+  "alt": "img_0675.jpg",
+  "width": 400,
+  "height": 267,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsAA4BaJZQC7ACeuHtw1GAA78eEgJ19O7YV53Fmj8xnFSriiQUMazDQ5AsUn8I95wAA",
+  "color": "rgb(184 168 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "img_0675.jpg",
+ "caption": "En «El agua como elemento marzo 2006»",
+ "year": 2006,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206085912id_/http://calirivera.com/images/stories/obras-galeria/sexto_sol/img_0675.jpg",
+ "sourcePage": "El agua como elemento marzo 2006"
+}

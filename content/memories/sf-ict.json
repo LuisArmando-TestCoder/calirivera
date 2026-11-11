@@ -1,0 +1,25 @@
+{
+ "id": "sf-ict",
+ "slug": "sf-ict",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 140,
+ "image": {
+  "src": "/media/memoria/sf-ict-900.jpg",
+  "alt": "Foto del archivo de Cali Rivera",
+  "width": 900,
+  "height": 364,
+  "widths": [
+   480,
+   900
+  ],
+  "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAYAA4BaJZwAAupBSA8kAAD++Bl9vciHlzJRz8VmOAaz/rMSbREAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "sourceUrl": "https://calirivera.com/taller-del-artista/ict-2HZ2xB2MXX8gxLdP.webp"
+}

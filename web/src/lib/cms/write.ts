@@ -26,7 +26,12 @@ const now = () => new Date().toISOString();
 
 export function titleOf(collection: ContentCollection, doc: Record<string, unknown>): string {
   const t = getAt(doc, COLLECTION_DEFS[collection].titleField.split("."));
-  return typeof t === "string" && t ? t : String(doc.slug ?? doc.id ?? "Sin título");
+  if (typeof t === "string" && t) return t;
+  if (collection === "memories") {
+    const cap = typeof doc.caption === "string" ? doc.caption.slice(0, 60) : "";
+    return cap || (doc.year ? `Recuerdo de ${doc.year}` : "Recuerdo sin fecha");
+  }
+  return String(doc.slug ?? doc.id ?? "Sin título");
 }
 
 async function bumpVersion() {
@@ -55,7 +60,7 @@ async function afterWrite(collection: ContentCollection, slug?: string) {
 
 export async function listDocs(
   collection: ContentCollection,
-  opts: { q?: string; status?: "all" | DocStatus | "trash"; page?: number; per?: number } = {},
+  opts: { q?: string; status?: "all" | DocStatus | "trash"; page?: number; per?: number; where?: Record<string, string> } = {},
 ) {
   const def = COLLECTION_DEFS[collection];
   const all = (await getStore().list(collection)) as AdminDoc[];
@@ -63,9 +68,10 @@ export async function listDocs(
   const status = opts.status ?? "all";
   let docs = all.filter((d) => (status === "trash" ? d.trashed : !d.trashed));
   if (status === "draft" || status === "published") docs = docs.filter((d) => (d.status ?? "published") === status);
+  for (const [k, v] of Object.entries(opts.where ?? {})) if (v) docs = docs.filter((d) => String(d[k] ?? "") === v);
   if (q)
     docs = docs.filter((d) =>
-      fold([titleOf(collection, d), d.slug, d.excerpt, d.discipline, d.technique, d.year, d.summary].filter(Boolean).join(" ")).includes(q),
+      fold([titleOf(collection, d), d.slug, d.excerpt, d.discipline, d.technique, d.year, d.summary, d.caption, d.place, Array.isArray(d.people) ? d.people.join(" ") : ""].filter(Boolean).join(" ")).includes(q),
     );
   const key = def.sort;
   docs.sort((a, b) => {

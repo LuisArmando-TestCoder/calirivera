@@ -1,0 +1,27 @@
+{
+ "id": "2019-obra-6106",
+ "slug": "2019-obra-6106",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 390,
+ "image": {
+  "src": "/media/memoria/2019-obra-6106-200.jpg",
+  "alt": "Foto de 2019 del archivo de Cali Rivera",
+  "width": 200,
+  "height": 267,
+  "widths": [
+   200
+  ],
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JQBYdhEQLafOG46VY1tFOAAD+2tXGQpVHA7n176m8feI7CuwbllSyy7XmEyihruAfqGVw1GANYO3q+KJw5e4jEbmc4arvOoB0+zNRf8jPwU9wAAA=",
+  "color": "rgb(88 136 152)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423070616id_/http://calirivera.com/cache/jw_sig/jw_sig_cache_8457de6a3a_img_5544.jpg"
+}

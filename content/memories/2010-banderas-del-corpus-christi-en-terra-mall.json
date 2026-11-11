@@ -1,0 +1,30 @@
+{
+ "id": "2010-banderas-del-corpus-christi-en-terra-mall",
+ "slug": "2010-banderas-del-corpus-christi-en-terra-mall",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 375,
+ "image": {
+  "src": "/media/memoria/2010-banderas-del-corpus-christi-en-terra-mall-300.jpg",
+  "alt": "Banderas del Corpus Christi en Terra Mall",
+  "width": 300,
+  "height": 225,
+  "widths": [
+   300
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAwAA4BaJQBdgBR0o9boAP7RI+6LDu1oYgAJjU2E4DdxVBSlk85io1V/BzIauv1ryyX2YZtu0POuhU850RB9qnx3bkgDPO7pBb1w/4imIRAAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Banderas del Corpus Christi en Terra Mall",
+ "caption": "En «~calirive»",
+ "year": 2010,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mi_trabajo/p_banderas_terramall.jpg",
+ "sourcePage": "~calirive"
+}

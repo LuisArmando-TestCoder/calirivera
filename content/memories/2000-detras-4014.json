@@ -1,0 +1,28 @@
+{
+ "id": "2000-detras-4014",
+ "slug": "2000-detras-4014",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 30,
+ "image": {
+  "src": "/media/detras-de-la-ventana/detras-5-1210.jpg",
+  "alt": "Detras",
+  "width": 1210,
+  "height": 1300,
+  "widths": [
+   640,
+   1210
+  ],
+  "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoQABEAPu1iqU2ppaOiMAgBMB2JbACdMoMYNb+IK4X7uDCIFfidAADeSY+ituFNKJgIf/17KhrT0qruhQd4QsbPDvqJxmzyWoOc+h20w4yOcnNEJ6YTCSnNdKOXhiySYpyszG+7gXlb3U0gCPceY+SONHRp3599GWGK4l1s3FUAsZlE5JyUUNUgXK/ccoWViejbnd/LgnvBCvCeAAA=",
+  "color": "rgb(8 8 24)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Detras",
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/detras-5-9NB3iQTtYOxW0xCQ.png"
+}

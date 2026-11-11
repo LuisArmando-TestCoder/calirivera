@@ -1,0 +1,28 @@
+{
+ "id": "2001-que-pasara",
+ "slug": "2001-que-pasara",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 273,
+ "image": {
+  "src": "/media/memoria/2001-que-pasara-500.jpg",
+  "alt": "Que pasara",
+  "width": 500,
+  "height": 363,
+  "widths": [
+   480,
+   500
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoQAAwAA4BaJaAC7AYwd2zKeNChjrsEAAD+moc8g7jPpIkAFbcdANeAjwxMi/fYubmxWfvLZenlay+ALKEqWwYfN9fj91dBJrpg9jEAwh5QOYL44mnq89xzaHetPRonUgAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Que pasara",
+ "year": 2001,
+ "seenAt": "2016-12-07",
+ "sourceUrl": "https://web.archive.org/web/20161207142505id_/http://calirivera.com/images/obras-galeria/identidad_2001/que_pasara.jpg"
+}

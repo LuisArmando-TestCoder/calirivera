@@ -1,0 +1,27 @@
+{
+ "id": "2016-enero-web",
+ "slug": "2016-enero-web",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 357,
+ "image": {
+  "src": "/media/memoria/2016-enero-web-243.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 243,
+  "height": 355,
+  "widths": [
+   243
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoR3ACF4wwKiC/pqO2EgAPwLQSnwOt0R6DcYUfDZzgd4NYAVsv1B5ukTcJpXG8HKnUt0OPB+SWi0yF3wjG7+gIFl7vhoDhXCohD+O6urq4Ev9V5uu0OOSGm0qhavPsHoIzy2aokqVrgHket8muzmUudooGvgDmt8vAAAAA==",
+  "color": "rgb(88 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-05-27",
+ "sourceUrl": "https://web.archive.org/web/20160527164133id_/http://calirivera.com/images/thumbnails/images/stories/actividades/enero-web-243x355.jpg"
+}

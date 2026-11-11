@@ -1,0 +1,28 @@
+{
+ "id": "2016-triptico-20nuevo",
+ "slug": "2016-triptico-20nuevo",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 266,
+ "image": {
+  "src": "/media/memoria/2016-triptico-20nuevo-301.jpg",
+  "alt": "Triptico%20nuevo",
+  "width": 301,
+  "height": 640,
+  "widths": [
+   301
+  ],
+  "placeholder": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASoQACMAPt1Wo02opKMiNUgBEBuJbAC/aoHgguwDeRK48oMBmuChYmfNe292G/V7iRrUPQAAzijBHWwTAuJHGhSE78O6YhDfBTD4nvTK97YcrRvepPX72v60z11AsuRntXbz9bqfc7sErPLrVPjI83+L4Mq5gi1HTdyoY7+KCCvNYWTY9Eskg7iaIE53uefKVqq6C8rgCyOXeQ5klxutdPbuCJYoj4RSMzqn4Mb5s/BQQIQxw3vIhXZHUNyryx1N4JKQY+SpYy4tO8fzX/8IZ50Wd+CePRmBL6H25zZrGM7h/mrSQi1kNuJbnFFLp7IwdpbtGMlne+UdlDEoAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Triptico%20nuevo",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206210221id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/triptico%20nuevo.jpg"
+}

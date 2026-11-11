@@ -1,0 +1,31 @@
+{
+ "id": "2011-revelaciones-grecia",
+ "slug": "2011-revelaciones-grecia",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 413,
+ "image": {
+  "src": "/media/memoria/2011-revelaciones-grecia-166.jpg",
+  "alt": "revelaciones Grecia",
+  "width": 166,
+  "height": 237,
+  "widths": [
+   166
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQAwCdASoQABcAPu1iqU2ppaQiMAgBMB2JYwC06CIO2Lx2bJh+oOwA/uJ8eVxvk95Kw/hY5mF1BkxYFNLZ4b0mEwyRy7/7gmdzb//PvSMwj/qkFdKz+nuzkvBL6ZeA6iu692G7bumyhHgERpJ7gsQ+kXwaNavt7mtTjGaoe7xZ7kEzel6NhDEMKm4AAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "revelaciones Grecia",
+ "caption": "En «Obras»",
+ "year": 2011,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/thumbnails/images/stories/plegaria_obras/revelaciones_Grecia-166x237.jpg",
+ "sourcePage": "Obras"
+}

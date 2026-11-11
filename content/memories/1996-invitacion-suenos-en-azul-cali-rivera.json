@@ -1,0 +1,31 @@
+{
+ "id": "1996-invitacion-suenos-en-azul-cali-rivera",
+ "slug": "1996-invitacion-suenos-en-azul-cali-rivera",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 146,
+ "image": {
+  "src": "/media/memoria/1996-invitacion-suenos-en-azul-cali-rivera-500.jpg",
+  "alt": "Invitación Sueños en Azul - Cali Rivera",
+  "width": 500,
+  "height": 617,
+  "widths": [
+   480,
+   500
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JQBOmUAApatNVUE74ANUxF86gsjMAL0NwEPPiktpCwpBuUMmQOLyh6IPnqAiEiNgAAA==",
+  "color": "rgb(168 136 88)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Invitación Sueños en Azul - Cali Rivera",
+ "caption": "En «Suenos en azul 1996»",
+ "year": 1996,
+ "seenAt": "2016-12-06",
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://web.archive.org/web/20161206195406id_/http://calirivera.com/images/stories/exposiciones/suenos_en_azul/invitacion_sazul.jpg",
+ "sourcePage": "Suenos en azul 1996"
+}

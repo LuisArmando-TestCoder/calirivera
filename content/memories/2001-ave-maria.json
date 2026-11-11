@@ -1,0 +1,28 @@
+{
+ "id": "2001-ave-maria",
+ "slug": "2001-ave-maria",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 216,
+ "image": {
+  "src": "/media/memoria/2001-ave-maria-450.jpg",
+  "alt": "Ave maria",
+  "width": 450,
+  "height": 600,
+  "widths": [
+   450
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JQBdj+ABXNpciB20gkzsAAP3SQ/KxX7nXZRaMB2uXabUr8sjGbLlRRX3GOH7cqQqaSmEkqWkM+C4tqT0DKXQAOAAAAA==",
+  "color": "rgb(200 168 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Ave maria",
+ "year": 2001,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206133723id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/ave_maria.jpg"
+}

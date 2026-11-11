@@ -1,0 +1,29 @@
+{
+ "id": "2019-pendiente",
+ "slug": "2019-pendiente",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 113,
+ "image": {
+  "src": "/media/memoria/2019-pendiente-601.jpg",
+  "alt": "Pendiente",
+  "width": 601,
+  "height": 800,
+  "widths": [
+   480,
+   601
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JaQAAW+nyFYAA/vKYRkYBZ2s493+OfRrbJYrQhSEAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Pendiente",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107194128id_/http://calirivera.com/images/obras-galeria/alquimia/arte-objeto/pendiente.jpg"
+}

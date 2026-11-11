@@ -1,0 +1,28 @@
+{
+ "id": "1996-musa-mixta",
+ "slug": "1996-musa-mixta",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 300,
+ "image": {
+  "src": "/media/memoria/1996-musa-mixta-267.jpg",
+  "alt": "Musa mixta",
+  "width": 267,
+  "height": 500,
+  "widths": [
+   267
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACQBACdASoQAB4APu1iqk2ppaQiMAgBMB2JYgC/PAgEEE0ZJAilvZCqzxo5EBAA/eNp9hk5oS8OohTvNyUKfVRscTNsByVelA6HZLVk8Z2XH542Lp0cDmTfHUduyJvkgfvmmK5Fm5/WZ47PvlwTmCTv9jwt2YY4AJwl5sheu4aRRX4pg3rRzeK2M6j8foYOUkRgeXEzjOPjwOKmHCxAlx8d2AYaP6vcmdkqYjJY98AL6uvVJIO4jeiCMh/NlicRGSs07Cl8AAA=",
+  "color": "rgb(232 232 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Musa mixta",
+ "year": 1996,
+ "seenAt": "2016-12-06",
+ "collectionId": "musas-del-cantaro",
+ "sourceUrl": "https://web.archive.org/web/20161206210251id_/http://calirivera.com/images/obras-galeria/musas_cantaro_1996/musa_mixta.jpg"
+}

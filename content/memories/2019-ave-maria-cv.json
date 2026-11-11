@@ -1,0 +1,28 @@
+{
+ "id": "2019-ave-maria-cv",
+ "slug": "2019-ave-maria-cv",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 363,
+ "image": {
+  "src": "/media/memoria/2019-ave-maria-cv-360.jpg",
+  "alt": "Ave maria cv",
+  "width": 360,
+  "height": 234,
+  "widths": [
+   360
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAoAA4BaJZgCdACytKnQ6AAA/rUdUE3m027QJ2jeUglqbBMMzjs72aajrF5IHGvqpXa0PuRHP0IJUwxllf80+nPQ2rF7IORAAA==",
+  "color": "rgb(200 168 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Ave maria cv",
+ "year": 2019,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423075155id_/http://calirivera.com/images/stories/obras/ave_maria_cv.jpg"
+}

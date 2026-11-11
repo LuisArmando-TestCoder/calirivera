@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera14",
+ "slug": "2003-bandera14",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 172,
+ "image": {
+  "src": "/media/memoria/2003-bandera14-480.jpg",
+  "alt": "Bandera14",
+  "width": 480,
+  "height": 589,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JYwC7ACPpINm4VEw368cwAP7f+L++7qHl58GGcjB0e0y2+uH0EhD95DrfPUDQ8vdb1w/UKHO8tXwXDHeYQOwGkyfkfMJZebSXrqz4dndvGU3bqGyhwAAA",
+  "color": "rgb(232 232 232)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera14",
+ "caption": "En «Bandera 9»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2011-01-01",
+ "sourceUrl": "https://web.archive.org/web/20110101053954id_/http://calirivera.com/prayer_flags/images/bandera14_01.gif",
+ "sourcePage": "Bandera 9"
+}

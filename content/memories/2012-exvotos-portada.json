@@ -1,0 +1,29 @@
+{
+ "id": "2012-exvotos-portada",
+ "slug": "2012-exvotos-portada",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 38,
+ "image": {
+  "src": "/media/exvotos/exvotos-portada-1693.jpg",
+  "alt": "Foto de 2012 del archivo de Cali Rivera",
+  "width": 1693,
+  "height": 929,
+  "widths": [
+   640,
+   1280,
+   1693
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAQCdASoQAAkAA4BaJbACdADY2f/oAP7vYn5arKffbMAESE3/fMX58A9ZwOe5EQg1IYD4jtDrtDIOuo0ebhjVHilZuYHuacjeZgMxN2V6MWC6uFLAAA==",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "documento",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/exvotos-portada-ba7rdXaDBkP1atAo.png"
+}

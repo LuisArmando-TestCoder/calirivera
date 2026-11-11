@@ -1,0 +1,28 @@
+{
+ "id": "2016-artecontemporaneo-jpg",
+ "slug": "2016-artecontemporaneo-jpg",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 405,
+ "image": {
+  "src": "/media/memoria/2016-artecontemporaneo-jpg-153.jpg",
+  "alt": "artecontemporaneo.jpg",
+  "width": 153,
+  "height": 289,
+  "widths": [
+   153
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoQAB4AA4BaJbACdMoMYNc1hf9ksvgD3BcLL9DoceL1nHHT8O+L4ADi8ZgAzufcoxkb7Bk78tCuoi0bnBoVXhG1onTw3VshmY2NHUTMtonTOp8GpLHr/139POUy0a/Plg9wDvuYCKFOFxne2AzlP7NaIf+EVgbQc+wqhoP/dFfXfxQDU9RvXDKTAJyAifqD0i2V0fFa06GN9f745rysstznXPkTLeCCnXKgaNoIJmcxGn4Td9GgAA==",
+  "color": "rgb(88 152 152)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "artecontemporaneo.jpg",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206195335id_/http://calirivera.com/images/mgthumbnails/153x290-images-stories-exposiciones-elbeso-artecontemporaneo.jpg"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2023-alquimia-de-almas-siempre-hay-una-salida",
+ "slug": "2023-alquimia-de-almas-siempre-hay-una-salida",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 459,
+ "image": {
+  "src": "/media/alquimia-de-almas/siempre-hay-una-salida-954.jpg",
+  "width": 954,
+  "height": 967,
+  "widths": [
+   640,
+   954
+  ],
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAgCdASoQABAAA4BaJbACdH8D2MwWlmPFrtaZ9uAA+6C6lzOdQ1DsyqtFTIfN0sUiW90wkYRp72xqUptScMJG49hSPzRy8rI4r38KFcWHS+WvBt8K+5P8+d1mBkELYfJr06nA1kpa0sE06YsVwNUFYklavjgq1rq/cgAA",
+  "color": "rgb(248 248 248)",
+  "alt": "Siempre hay una salida, Alquimia de Almas, 2023",
+  "lowRes": true
+ },
+ "title": "Siempre hay una salida",
+ "caption": "Mixta sobre tela · 50 × 50 cm",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "alquimia-de-almas",
+ "aiAltered": false
+}

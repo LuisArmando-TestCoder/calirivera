@@ -1,0 +1,29 @@
+{
+ "id": "2001-irak-dios-america",
+ "slug": "2001-irak-dios-america",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 226,
+ "image": {
+  "src": "/media/memoria/2001-irak-dios-america-400.jpg",
+  "alt": "irak dios america",
+  "width": 400,
+  "height": 640,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdMoR4IXAA0MjKqlQOGjqRzQAA/jL8Qh50BHBJPcJXi/avp8DeWfC9oei0YEqNohIBbG6Id0e3iuEkjHkTrazcR1DGpAyX2MbjbJ8Uad2qCubBZQNmgHB2ObL9YWUU/niFXa9+BS6qmNZMNMxyoVIdcVEaAAA=",
+  "color": "rgb(120 56 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "irak dios america",
+ "caption": "En «Identidad»",
+ "year": 2001,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206134927id_/http://calirivera.com/images/obras-galeria/identidad_2001/irak_dios_america.jpg",
+ "sourcePage": "Identidad"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2012-contemporaneo-exvotos",
+ "slug": "2012-contemporaneo-exvotos",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 53,
+ "image": {
+  "src": "/media/exvotos/contemporaneo-exvotos-1163.jpg",
+  "alt": "Contemporaneo exvotos",
+  "width": 1163,
+  "height": 1352,
+  "widths": [
+   640,
+   1163
+  ],
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoRwACnILJ96GcSGoAD+SfZOlgYuOGZVXZco4oadMGD2OlB/S+nFFjeY3KaOtPotSgKRQI+93jPWSnwvajp81JvLr55XZdexR6q4cBGLs48ZQx2R346GklyZFHJEgAAA",
+  "color": "rgb(168 136 24)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Contemporaneo exvotos",
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/contemporaneo-exvotos-SE4162FEEGeZHj5W.png"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2016-agend-set16",
+ "slug": "2016-agend-set16",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 70,
+ "image": {
+  "src": "/media/archivo/agend-set16-800.jpg",
+  "alt": "agend set16",
+  "width": 800,
+  "height": 1170,
+  "widths": [
+   640,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JYwAAWp7jzEMOtCrOAPyPuiEdKwFWR4MAgvF3UJmeZVHSK4H/wZuVeiqYXj+vuNxhLVcM9f0h3xTnprgNvGYSHgFnPtWk9HJisFK68pJ66nPN6lrlaUYO9B/ZL2UY3uXgAA==",
+  "color": "rgb(248 248 248)"
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "agend set16",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-10-15",
+ "sourceUrl": "https://web.archive.org/web/20161015134421id_/http://calirivera.com/images/agend_set16.jpg"
+}

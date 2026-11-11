@@ -1,0 +1,28 @@
+{
+ "id": "2017-candela",
+ "slug": "2017-candela",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 237,
+ "image": {
+  "src": "/media/memoria/2017-candela-430.jpg",
+  "alt": "Candela",
+  "width": 430,
+  "height": 548,
+  "widths": [
+   430
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYgCdMoRwN0AAL4nQ9PjmeqyYg0AA/ujKHHpOMNLHuM7Gy5G9FsbP7cqW3UUjeA7lUxgMUStThY3MXs503WLCOJ3S1YxKDMnsFQglm3T3pRykCVVKFVFFxfbGXsaAAAA=",
+  "color": "rgb(72 40 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Candela",
+ "year": 2017,
+ "yearApprox": true,
+ "collectionId": "la-cofradia",
+ "sourceUrl": "https://calirivera.com/la-cofradia/candela-SjvXHdgnaGUodgNo.PNG"
+}

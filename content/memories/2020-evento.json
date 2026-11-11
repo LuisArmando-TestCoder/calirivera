@@ -1,0 +1,27 @@
+{
+ "id": "2020-evento",
+ "slug": "2020-evento",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 346,
+ "image": {
+  "src": "/media/archivo/image2-600.jpg",
+  "alt": "Foto de 2020 del archivo de Cali Rivera",
+  "width": 600,
+  "height": 161,
+  "widths": [
+   600
+  ],
+  "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAQAA4BaJaQAAlxCtwEgAP2wefjLp+BnFaNuiArb6nszYIrrepfMQAAAAA==",
+  "color": "rgb(120 120 120)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2020,
+ "yearApprox": true,
+ "seenAt": "2025-07-27",
+ "sourceUrl": "https://web.archive.org/web/20250727011346id_/http://calirivera.com/images/nobienal/image2.jpeg"
+}

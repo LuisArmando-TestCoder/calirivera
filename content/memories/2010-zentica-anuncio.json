@@ -1,0 +1,27 @@
+{
+ "id": "2010-zentica-anuncio",
+ "slug": "2010-zentica-anuncio",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 386,
+ "image": {
+  "src": "/media/memoria/2010-zentica-anuncio-200.jpg",
+  "alt": "Foto de 2010 del archivo de Cali Rivera",
+  "width": 200,
+  "height": 290,
+  "widths": [
+   200
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQABcAPu1iqk2ppaQiMAgBMB2JaQAAV4SN1Yy+s3vgJiWAAP7zf5GewYpxqaA6ogGoTyHgwY5oAGg5/SOBvrhavID96pNeIm/uJ9gYcCLy6usn55X+HWz7f+MR8LBi7sLTY4J4ORkgQHCs7+atqhqdSPszb2qMnAAAAA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2010,
+ "yearApprox": true,
+ "seenAt": "2019-04-23",
+ "sourceUrl": "https://web.archive.org/web/20190423045341id_/http://calirivera.com/images/mgthumbnails/200x290-images-stories-actividades-zentica_anuncio.jpg"
+}

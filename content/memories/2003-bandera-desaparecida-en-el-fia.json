@@ -1,0 +1,30 @@
+{
+ "id": "2003-bandera-desaparecida-en-el-fia",
+ "slug": "2003-bandera-desaparecida-en-el-fia",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 267,
+ "image": {
+  "src": "/media/memoria/2003-bandera-desaparecida-en-el-fia-390.jpg",
+  "alt": "Bandera desaparecida en el FIA",
+  "width": 390,
+  "height": 479,
+  "widths": [
+   390
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYwDFEUDZABUrrxsXdErzSJQA4nSQJeWXx3obzI3IBz53My9PCSPDcpfYRUmXDrc++SNfzgbKwInt9XaZZ67pDl2clTREGb2fFR150/bspQi491b1Hei0oo8C/BVwDmEIRlFjV2mgBEFfTW7A5agEoH1JAAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Bandera desaparecida en el FIA",
+ "caption": "En «Se robaron la ix bandera de la coleccion prayer flags»",
+ "year": 2003,
+ "yearApprox": true,
+ "seenAt": "2019-08-21",
+ "sourceUrl": "https://web.archive.org/web/20190821144639id_/http://calirivera.com/images/stories/bandera_desaparecida.jpg",
+ "sourcePage": "Se robaron la ix bandera de la coleccion prayer flags"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2014-evento",
+ "slug": "2014-evento",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 319,
+ "image": {
+  "src": "/media/memoria/2014-evento-267.jpg",
+  "alt": "Foto de 2014 del archivo de Cali Rivera",
+  "width": 267,
+  "height": 442,
+  "widths": [
+   267
+  ],
+  "placeholder": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAAAwBACdASoQABsAPu1iqU2ppaOiMAgBMB2JZACdAdwA8gnEOZrePTvrZfAA/I9oE9hcRDgDi3Og+oG43TFXPIpW0/Y2Ks2kMKskyelV3IcNVih4aVI2rTnY6/EKln8w0kA3ZvZfTUD6BziAQfv6oL/UqleGkrCutpfLoYNz67E5rOlAwdbyO3X4J7I1smceKIMWWuLd9Sij95V1StaANRSjEMP7hA86IYHzpjE0zcY4AA==",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2014,
+ "yearApprox": true,
+ "seenAt": "2014-10-11",
+ "sourceUrl": "https://web.archive.org/web/20141011015455id_/http://calirivera.com/images/thumbnails/images/stories/Agenda-Agosto-20142-267x442.jpg"
+}

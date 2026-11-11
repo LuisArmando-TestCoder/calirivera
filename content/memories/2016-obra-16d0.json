@@ -1,0 +1,27 @@
+{
+ "id": "2016-obra-16d0",
+ "slug": "2016-obra-16d0",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 236,
+ "image": {
+  "src": "/media/memoria/2016-obra-16d0-369.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 369,
+  "height": 640,
+  "widths": [
+   369
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQBACdASoQABwAPu1kqU2ppaQiMAgBMB2JQBOgZYA2RGtM9FUKhNTBmiwAAP7nH/a7g8QCg/9/pybBoxXhM0SeXwNraj9WHAOMKT/lKVGKN9ZK7FeKQtTg71pPd4K2OwcJarKiJD5c9WViokm6GS5UE8265a8gFF25qFAWjgAAAA==",
+  "color": "rgb(200 200 184)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206074534id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/img_5408.jpg"
+}

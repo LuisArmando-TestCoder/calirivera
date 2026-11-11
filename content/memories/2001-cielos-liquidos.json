@@ -1,0 +1,29 @@
+{
+ "id": "2001-cielos-liquidos",
+ "slug": "2001-cielos-liquidos",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 129,
+ "image": {
+  "src": "/media/memoria/2001-cielos-liquidos-500.jpg",
+  "alt": "Cielos liquidos",
+  "width": 500,
+  "height": 745,
+  "widths": [
+   480,
+   500
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7H8EwAAL5wMVvfCxV39AA/K/ThVq/pj1V/HdLhn+85RKWD/3QMyBjsIgQQ8BDeMvxzFdrCgdqSRNoAj3Q1RX+bviv00byskgdRtxuv9nZfvl+Bo6DKUKcbEjoKWEtK3VYoSAKXa36ttdSxBxNs8FhxS5RlAwMqRlcUNuKV3eHxx5kCpfxNBmOxqv7xiPNXya0bSY3oOlQ0jLl5P5uKWAAAA==",
+  "color": "rgb(232 216 168)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Cielos liquidos",
+ "year": 2001,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206133718id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/cielos_liquidos.jpg"
+}

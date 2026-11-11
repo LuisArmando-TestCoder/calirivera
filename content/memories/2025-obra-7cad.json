@@ -1,0 +1,27 @@
+{
+ "id": "2025-obra-7cad",
+ "slug": "2025-obra-7cad",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 333,
+ "image": {
+  "src": "/media/memoria/2025-obra-7cad-266.jpg",
+  "alt": "Foto de 2025 del archivo de Cali Rivera",
+  "width": 266,
+  "height": 400,
+  "widths": [
+   266
+  ],
+  "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoAC8iDz3BLTiXkJrCFYAAD68wnqZwahycIawrZvkPuS8gsnelUQaQib80zlGfD5OK81A6xY6ppqnv6D26OjKeX2YukARK6EaU7N9J9LdfHTRm9buqjTZygTlkKJwT7DIwGgY0Jhf1COG+/sfcvFEHgeswRkPFXx9fgBLXsBCfSo489cAAA=",
+  "color": "rgb(56 56 120)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2025,
+ "yearApprox": true,
+ "seenAt": "2025-07-27",
+ "sourceUrl": "https://web.archive.org/web/20250727021546id_/http://calirivera.com/cache/preview/c37909c48109f28d98d3cfab2db80936.jpg"
+}

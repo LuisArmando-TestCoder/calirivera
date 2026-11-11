@@ -4,6 +4,7 @@ import { CollectionBanner } from "@/components/art/CollectionBanner";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
 import { ArtImage } from "@/components/media/ArtImage";
 import { NarrationSlot } from "@/components/narration/NarrationSlot";
+import { MemoriaTeaser } from "@/components/memoria/MemoriaTeaser";
 import { EditableList } from "@/components/cms/editable";
 import { getPage, getProgram, listCollections, listPosts } from "@/lib/content/repo";
 import { formatMonth } from "@/lib/format";
@@ -85,6 +86,8 @@ export default async function Home() {
           </div>
         </section>
       )}
+
+      <MemoriaTeaser />
 
       {posts.length > 0 && (
         <section className={s.log} aria-labelledby="home-bitacora">

@@ -1,0 +1,28 @@
+{
+ "id": "2016-del-corazon",
+ "slug": "2016-del-corazon",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 282,
+ "image": {
+  "src": "/media/memoria/2016-del-corazon-250.jpg",
+  "alt": "Del corazon",
+  "width": 250,
+  "height": 640,
+  "widths": [
+   250
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASoQACkAPu1eqE2ppKOiNVgIATAdiWwAnTLVP/hWb1xBW77QUZfzaiOPft0jAAD+6jhHetlHpNlFvTlWN7DiZrn/vj1lH5Qy9rNl+J74cEDsAtSFc2Ffv1BHToeGPL7S4qgPMjGZ9EgfNS9OlRENkrOpIPxhPt8KJ9h5OK+rbjaqjbK6jWh6AFJn2v4IK/uHSl6UbsYpZDMppF+rncWM+XGtZousZptjBp9sL3TZUmLWd07OJsAfysrXggYaDGX5w2P+T0598wAAAA==",
+  "color": "rgb(104 56 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Del corazon",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206205735id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/del_corazon.jpg"
+}

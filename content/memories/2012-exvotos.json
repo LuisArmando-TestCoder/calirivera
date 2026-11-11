@@ -1,0 +1,29 @@
+{
+ "id": "2012-exvotos",
+ "slug": "2012-exvotos",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 23,
+ "image": {
+  "src": "/media/exvotos/exvotos-2-1421.jpg",
+  "alt": "Exvotos",
+  "width": 1421,
+  "height": 1107,
+  "widths": [
+   640,
+   1280,
+   1421
+  ],
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAAwAA4BaJbACdAYu5aszqT9dQAD+7MkJqs5VgiMI9+kfZjRXqgGQezGXKsW/M8J5OLsjkvVpBjvzevVeMPrPIiMEvOnW3o4tY1kmPPwf/VbG0PXEYC4oBTiYt+hoVy5ZYFZhMqiEknUZSAA=",
+  "color": "rgb(8 8 8)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Exvotos",
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/exvotos-2-PTzyFCT3Zpj7VAnk.png"
+}

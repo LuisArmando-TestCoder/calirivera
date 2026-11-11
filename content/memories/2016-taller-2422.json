@@ -1,0 +1,28 @@
+{
+ "id": "2016-taller-2422",
+ "slug": "2016-taller-2422",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 194,
+ "image": {
+  "src": "/media/memoria/2016-taller-2422-640.jpg",
+  "alt": "Foto de 2016 del archivo de Cali Rivera",
+  "width": 640,
+  "height": 428,
+  "widths": [
+   480,
+   640
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoQAAsAA4BaJaACdAYr7alzRqNvLAAA/vfA/2nvYUYPmqN2+bLdTpkhX3VGT1cRjPsZmGbYOWVHOJUCqCgRnWmToXauQ79tSKyBiTRhCkZECHm7ht771YYae7by53Mm6doLThbSzDtLwyDvPFoztSMAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "taller",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-08",
+ "sourceUrl": "https://web.archive.org/web/20161208024938id_/http://calirivera.com/images/stories/obras-galeria/vistas/dsc_3838%20ret.jpg"
+}

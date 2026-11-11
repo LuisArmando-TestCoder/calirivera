@@ -1,0 +1,29 @@
+{
+ "id": "2001-frecuencia",
+ "slug": "2001-frecuencia",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 128,
+ "image": {
+  "src": "/media/memoria/2001-frecuencia-534.jpg",
+  "alt": "Frecuencia",
+  "width": 534,
+  "height": 700,
+  "widths": [
+   480,
+   534
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwABv4JVVtrSXRFuAA/uv9ffvOcUJ1mHprvCJFeHR193Ut8rZ1r7cgMKcTnDxeEe/Ab+s/f/ZkhLWeSdP2eb4L1Mvw6H+Sos+xnImWg0TkiTvuYz09GydX28jB24hDyUowKCNAAAA=",
+  "color": "rgb(8 24 104)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Frecuencia",
+ "year": 2001,
+ "seenAt": "2016-12-06",
+ "collectionId": "plegaria",
+ "sourceUrl": "https://web.archive.org/web/20161206195436id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/frecuencia.jpg"
+}

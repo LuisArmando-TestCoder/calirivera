@@ -1,0 +1,28 @@
+{
+ "id": "2016-fot",
+ "slug": "2016-fot",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 406,
+ "image": {
+  "src": "/media/memoria/2016-fot-181.jpg",
+  "alt": "Fot",
+  "width": 181,
+  "height": 242,
+  "widths": [
+   181
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoQABYAPu1iqU2ppaQiMAgBMB2JYwCdACPRwqVY411GYZPqHADN+5YakKLn9VrTCDaoiEdvsDdNkd5fN9e6BgWlB0gFdsonQjf8a7ilpMsIZR5LwKeZn0Ynx3kctrW6r4+DRM+GHgUWZnd1pv1zx39wEK20PdWKeDXj+XpvlqqKoQwK/IJwAA==",
+  "color": "rgb(168 152 136)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Fot",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-05-26",
+ "sourceUrl": "https://web.archive.org/web/20160526133220id_/http://calirivera.com/images/thumbnails/images/fot2-181x242.jpg"
+}

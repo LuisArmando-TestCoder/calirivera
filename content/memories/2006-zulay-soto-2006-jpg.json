@@ -1,0 +1,30 @@
+{
+ "id": "2006-zulay-soto-2006-jpg",
+ "slug": "2006-zulay-soto-2006-jpg",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 142,
+ "image": {
+  "src": "/media/memoria/2006-zulay-soto-2006-jpg-500.jpg",
+  "alt": "zulay_soto_2006.jpg",
+  "width": 500,
+  "height": 652,
+  "widths": [
+   480,
+   500
+  ],
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZwC7ACHgALrhCW6mhuaWAAD+6VQ6B3ef665BiJ/00eiu1qa/Y/kO4J8E0PfeDn8hrSlkH9aR3vWwbkzASYCujZc0fbYX6Es2F8n4Fgiy5w+ZKo8Qjeqgg4SK0QaYihKr7307P2AAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "zulay_soto_2006.jpg",
+ "caption": "En «Juego de los circulos 2006»",
+ "year": 2006,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206133727id_/http://calirivera.com/images/mgthumbnails/500x652-images-stories-exposiciones-juego_circulos-zulay_soto_2006.jpg",
+ "sourcePage": "Juego de los circulos 2006"
+}

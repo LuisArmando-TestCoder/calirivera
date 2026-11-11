@@ -1,0 +1,29 @@
+{
+ "id": "1995-musa-c350",
+ "slug": "1995-musa-c350",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 28,
+ "image": {
+  "src": "/media/musas-del-cantaro/musa-1-933.jpg",
+  "alt": "Musa",
+  "width": 933,
+  "height": 1686,
+  "widths": [
+   640,
+   933
+  ],
+  "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACwBACdASoQAB0APu1iqU2ppaOiMAgBMB2JbACdMoC4AKC0XwqOJBHc2MujjxoAAP29Tcaf9JMPy3gAijEHPHhnaJ0491hn0xonrW1KwmYPlAXsQdizF9m3YCZf3pVciM1j2uiW+1nLKSByEB7v1y+hLfSsDgYUkn4i/XgFBAXgXzd2ANi6d/0GzbVdMDt90qdcjW7EPxfhoC1v3CTG0TVIrszuppvYnmvTgy834qGev75/dsQh9QK8n6m6lXs/waigfd0yCxnGZ49Ly7sj2CSDWj/ISvkqZtVqUjv5LkQQAA==",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Musa",
+ "year": 1995,
+ "yearApprox": true,
+ "collectionId": "musas-del-cantaro",
+ "sourceUrl": "https://calirivera.com/musas-del-cantaro/musa-1-fsAYJ1F4qImm3JpI.png"
+}

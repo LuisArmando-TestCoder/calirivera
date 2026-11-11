@@ -1,0 +1,28 @@
+{
+ "id": "2000-obra-acac",
+ "slug": "2000-obra-acac",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 54,
+ "image": {
+  "src": "/media/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-1023.jpg",
+  "alt": "Foto de 2000 del archivo de Cali Rivera",
+  "width": 1023,
+  "height": 1537,
+  "widths": [
+   640,
+   1023
+  ],
+  "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7AYuu5TJ37jlSRQyELahEAP7u79vu+n98r784apvfpavwnSxEj9Q8bsk1f+ny6nkv0xkwjw4MEhg6JH2yMTfcKUq9Z8MUzg1jbghiiKPGIRG7Baw9gkyQXQfFrBf/4vEfdHSnz9p0p5OyW/ne+cyh/9EHXKFsBs5p0Aw/t2QCRi8Tl2ocgAA=",
+  "color": "rgb(8 8 24)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "year": 2000,
+ "yearApprox": true,
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://calirivera.com/detras-de-la-ventana/0e79b4a2-ecf4-4102-a668-efa94485210a-NA48uabF5DS2Rr31.png"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2017-incendio",
+ "slug": "2017-incendio",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 3,
+ "image": {
+  "src": "/media/biografia/incendio-2-1078.jpg",
+  "alt": "Incendio",
+  "width": 1078,
+  "height": 1460,
+  "widths": [
+   640,
+   1078
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JaAC06CHN1Ci1jGp4NDrQAP70KnSH+pEDLLbrvkZ3hD1aPjlYdPV1n/VaPmfVMW/M/0847ne2WX6UR1n/5/Nbpdag/abJXQsgiRqtjbruAAAA",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Incendio",
+ "year": 2017,
+ "yearApprox": true,
+ "sourceUrl": "https://calirivera.com/biografia/incendio-2-fiX7isAhh1AegYgy.png"
+}

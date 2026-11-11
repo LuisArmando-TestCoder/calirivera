@@ -1,0 +1,30 @@
+{
+ "id": "2000-invitacion-exposicion-detras-de-la-ventana",
+ "slug": "2000-invitacion-exposicion-detras-de-la-ventana",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 250,
+ "image": {
+  "src": "/media/memoria/2000-invitacion-exposicion-detras-de-la-ventana-380.jpg",
+  "alt": "Invitación Exposición Detrás de la Ventana",
+  "width": 380,
+  "height": 563,
+  "widths": [
+   380
+  ],
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAgCdASoQABgAPu1iqU2ppaQiMAgBMB2JaQAAifQAAP7wR4FuAgakj1UJ9DzhhFpRUy5/MAIx+xYNNIgR9G9hfCy6tI0KAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "evento",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Invitación Exposición Detrás de la Ventana",
+ "caption": "En «Detras de la ventana marzo 2000»",
+ "year": 2000,
+ "seenAt": "2016-12-06",
+ "collectionId": "detras-de-la-ventana",
+ "sourceUrl": "https://web.archive.org/web/20161206135321id_/http://calirivera.com/images/stories/exposiciones/detras/invitacion_detras_de_la_ventana.jpg",
+ "sourcePage": "Detras de la ventana marzo 2000"
+}

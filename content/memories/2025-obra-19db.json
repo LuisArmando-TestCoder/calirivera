@@ -1,0 +1,27 @@
+{
+ "id": "2025-obra-19db",
+ "slug": "2025-obra-19db",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 285,
+ "image": {
+  "src": "/media/memoria/2025-obra-19db-400.jpg",
+  "alt": "Foto de 2025 del archivo de Cali Rivera",
+  "width": 400,
+  "height": 386,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAQCdASoQAA8AA4BaJZACdIExE4RjLugA/u7pgsjftsOaTiTgOt3ZT58hFJ8NfBfZn2fP2GnG25Yix6M5nCJ/BRtC+l9mNYpa8mfpN22ICwlLaZGErRPfGqnmm7XbUHlwsaA2o/3JuZbuW8wg6n0eQeGRvzmhVuM9cAAA",
+  "color": "rgb(24 24 24)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2025,
+ "yearApprox": true,
+ "seenAt": "2025-07-27",
+ "sourceUrl": "https://web.archive.org/web/20250727040839id_/http://calirivera.com/cache/preview/8c7e34467c14369e22a2236e9ca6639d.jpg"
+}

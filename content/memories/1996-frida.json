@@ -1,0 +1,29 @@
+{
+ "id": "1996-frida",
+ "slug": "1996-frida",
+ "status": "draft",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 51,
+ "image": {
+  "src": "/media/suenos-en-azul/frida-1116.jpg",
+  "alt": "Frida",
+  "width": 1116,
+  "height": 1409,
+  "widths": [
+   640,
+   1116
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoFWAAHOS/5TDiZ1XRAA/u9O9V00vvzTxE3mPQp9Cf+TGYYkGyKpofGhI2hM7A0vNh5hVvpany2bt1kB/yqCSVG9ET7zHpZwkngITrdLfMNHdlw7PMcjK8cndh4TkYWyuZdzElLmUmGJ96WQ+dcZBcAA",
+  "color": "rgb(8 8 8)",
+  "aiAltered": true
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": true,
+ "title": "Frida",
+ "year": 1996,
+ "yearApprox": true,
+ "collectionId": "suenos-en-azul",
+ "sourceUrl": "https://calirivera.com/suenos-en-azul/frida-TVyRcbUkKaSvmHI1.png"
+}

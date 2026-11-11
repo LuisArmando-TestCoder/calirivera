@@ -1,0 +1,28 @@
+{
+ "id": "2016-el-triunfo-del-amor",
+ "slug": "2016-el-triunfo-del-amor",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 124,
+ "image": {
+  "src": "/media/archivo/el-triunfo-del-amor-533.jpg",
+  "alt": "El triunfo del amor",
+  "width": 533,
+  "height": 800,
+  "widths": [
+   533
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwAwCdASoQABgAPu1iqk2ppaQiMAgBMB2JZwC+SCFTMmjgxxNAAAD+8dwwY+mrizzIGIXV9OhzprcURtks6kEdTPqkKtHZBKEmZ5L1+L99SWGNkBP9jpQan73mWEyRLgRVggCswWJphHgZ9WkJ4/MYDCLugAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "El triunfo del amor",
+ "year": 2016,
+ "yearApprox": true,
+ "seenAt": "2016-12-06",
+ "sourceUrl": "https://web.archive.org/web/20161206195022id_/http://calirivera.com/images/El_triunfo_del_amor.jpg"
+}

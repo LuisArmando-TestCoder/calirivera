@@ -1,0 +1,28 @@
+{
+ "id": "2012-luna-azul",
+ "slug": "2012-luna-azul",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 2,
+ "image": {
+  "src": "/media/exvotos/luna-azul-1148.jpg",
+  "alt": "Luna azul",
+  "width": 1148,
+  "height": 1371,
+  "widths": [
+   640,
+   1148
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdMoRwEGAASjReHRAwrv2wAP55AMSQGkd43fStLa26TIxoC3/wUib1JwciCXUdzO3o222RBsr/4pl4uAP8hibVTpfzgZxIJTMfbSFur8w/pzlCptSZmZUThmI51wE3ngCdUhiEoG3aIUNYe0AAAAA=",
+  "color": "rgb(168 136 40)"
+ },
+ "kind": "obra",
+ "source": "sitio-actual",
+ "aiAltered": false,
+ "title": "Luna azul",
+ "year": 2012,
+ "yearApprox": true,
+ "collectionId": "exvotos",
+ "sourceUrl": "https://calirivera.com/exvotos/luna-azul-sJNevcciZEpaggyc.png"
+}

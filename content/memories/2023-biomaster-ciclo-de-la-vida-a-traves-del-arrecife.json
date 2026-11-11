@@ -1,0 +1,29 @@
+{
+ "id": "2023-biomaster-ciclo-de-la-vida-a-traves-del-arrecife",
+ "slug": "2023-biomaster-ciclo-de-la-vida-a-traves-del-arrecife",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 464,
+ "image": {
+  "src": "/media/biomaster/ciclo-de-la-vida-a-traves-del-arrecife-1556.jpg",
+  "width": 1556,
+  "height": 814,
+  "widths": [
+   640,
+   1280,
+   1556
+  ],
+  "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAgAA4BaJagCdAClJr0hUgAA/ez57/9QoPMzS01ZnSVphSgNpst3TX7WFjVgBYcoJ2vZgUAAAA==",
+  "color": "rgb(72 136 152)",
+  "alt": "Ciclo de la vida a través del arrecife, Biomaster, 2023"
+ },
+ "title": "Ciclo de la vida a través del arrecife",
+ "caption": "Mixta sobre tela · 120 × 60 cm (tríptico)",
+ "year": 2023,
+ "kind": "obra",
+ "source": "catalogo",
+ "collectionId": "biomaster",
+ "aiAltered": false,
+ "place": "Taller del Artista, Tres Ríos"
+}

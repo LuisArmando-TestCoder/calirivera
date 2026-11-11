@@ -1,0 +1,31 @@
+{
+ "id": "2014-padre-nuestro-frente",
+ "slug": "2014-padre-nuestro-frente",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 107,
+ "image": {
+  "src": "/media/memoria/2014-padre-nuestro-frente-618.jpg",
+  "alt": "padre nuestro frente",
+  "width": 618,
+  "height": 800,
+  "widths": [
+   480,
+   618
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JYwDE+IjCuT9fNkHvi0AA/vHgYtM7dz8tsUkUf+f+fJJvEfAXa8Rnvg0jptq2BuB1q9q045RhoEFtghRPSH7wMxc1YJwAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "padre nuestro frente",
+ "caption": "En «Obras»",
+ "year": 2014,
+ "yearApprox": true,
+ "seenAt": "2019-08-20",
+ "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/sincretismo/padre_nuestro_frente.jpg",
+ "sourcePage": "Obras"
+}

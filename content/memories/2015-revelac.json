@@ -1,0 +1,28 @@
+{
+ "id": "2015-revelac",
+ "slug": "2015-revelac",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 360,
+ "image": {
+  "src": "/media/memoria/2015-revelac-256.jpg",
+  "alt": "Revelac",
+  "width": 256,
+  "height": 331,
+  "widths": [
+   256
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JYwC/OBbwdEEDQHNgwIAA+fKwUCIe0YFzuha6t/moE9N5UCb3NBL87OT5nK0u9CHUdx9nr73uGaV9ISt5svGTVMkHUyvVkX+hWloAyriIPUAA",
+  "color": "rgb(88 72 56)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "title": "Revelac",
+ "year": 2015,
+ "yearApprox": true,
+ "seenAt": "2019-01-07",
+ "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/revelac.jpg"
+}

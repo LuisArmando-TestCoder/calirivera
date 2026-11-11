@@ -1,0 +1,27 @@
+{
+ "id": "2015-obra",
+ "slug": "2015-obra",
+ "status": "published",
+ "createdAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-11T09:11:48Z",
+ "order": 410,
+ "image": {
+  "src": "/media/memoria/2015-obra-178.jpg",
+  "alt": "Foto de 2015 del archivo de Cali Rivera",
+  "width": 178,
+  "height": 230,
+  "widths": [
+   178
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdAdwA9EJAFx5r53mvIncgAP1qkXTBMRRPwRjd3lp5uih7BZb8QaV2WXYAsOI49pKEG/JmwJR22jbJoe/SQTqE7i6xcEWiO9/Eh1wLCqntxxYPPvY+isA6XdX8GUBqjkL+ibL7UG901ea/9m3yrIwZQJW6g8esEypSVXPUPSEgyAAAAA==",
+  "color": "rgb(24 24 40)",
+  "lowRes": true
+ },
+ "kind": "obra",
+ "source": "wayback",
+ "aiAltered": false,
+ "year": 2015,
+ "yearApprox": true,
+ "seenAt": "2015-08-17",
+ "sourceUrl": "https://web.archive.org/web/20150817111152id_/http://calirivera.com/images/thumbnails/images/foto_patrocinio-178x230.jpg"
+}
