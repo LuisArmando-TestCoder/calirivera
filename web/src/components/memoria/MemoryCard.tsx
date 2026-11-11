@@ -7,14 +7,19 @@ import s from "./memoria.module.scss";
  * Un recuerdo en la trama. Es un enlace real a su ficha (/memoria/<slug>) — sin JS funciona igual.
  * Los data-* alimentan el visor (diálogo), los filtros y la capa WebGPU sin mandar JSON aparte.
  */
-export function MemoryCard({ p, priority = false }: { p: Placed; priority?: boolean }) {
+export const archiveNo = (n: number) => `[${String(n).padStart(3, "0")}]`;
+
+export function MemoryCard({ p, index, priority = false }: { p: Placed; index: number; priority?: boolean }) {
   const m = p.memory;
   const path = `memories/${m.id}`;
   const img = m.image;
   const w = img.width ?? 1000;
   const h = img.height ?? 1000;
-  const sizes = `(min-width: 60em) ${Math.round((p.c / 12) * 80)}vw, ${Math.round((p.cm / 6) * 100)}vw`;
+  // alto en la línea ≈ hr/8 de la pantalla; el ancho sale del aspecto
+  const sizes = `${Math.round(Math.min(90, (p.hr / 8) * 80 * Math.max(0.4, w / h)))}vh`;
   const style = {
+    "--hr": p.hr,
+    "--hc": p.hc,
     "--c": p.c,
     "--r": p.r,
     "--cm": p.cm,
@@ -37,6 +42,7 @@ export function MemoryCard({ p, priority = false }: { p: Placed; priority?: bool
       data-lead={p.lead ? "" : undefined}
       data-ai={m.aiAltered ? "" : undefined}
       data-fire={m.lostInFire ? "" : undefined}
+      data-label={m.title || [KIND_LABEL[m.kind], yearLabel].filter(Boolean).join(", ")}
     >
       <a
         href={`/memoria/${m.slug}`}
@@ -55,7 +61,7 @@ export function MemoryCard({ p, priority = false }: { p: Placed; priority?: bool
         data-h={h}
         aria-label={`${label}${yearLabel && !label.includes(yearLabel) ? `, ${yearLabel}` : ""}`}
       >
-        <span className={s.frame}>
+        <span className={s.frame} data-gl-frame>
           <picture>
             {srcsetOf(img.src, img.widths, "avif") && <source type="image/avif" srcSet={srcsetOf(img.src, img.widths, "avif")} sizes={sizes} />}
             {srcsetOf(img.src, img.widths, "webp") && <source type="image/webp" srcSet={srcsetOf(img.src, img.widths, "webp")} sizes={sizes} />}
@@ -72,6 +78,7 @@ export function MemoryCard({ p, priority = false }: { p: Placed; priority?: bool
       <div className={s.caption}>
         {m.title ? <EditableText path={`${path}#title`} value={m.title} className={s.capTitle} /> : null}
         <span className={s.capMeta}>
+          <span className={s.no}>{archiveNo(index)}</span>
           {yearLabel && <span>{yearLabel}</span>}
           {KIND_LABEL[m.kind] && <span>{KIND_LABEL[m.kind]}</span>}
           {m.aiAltered && <span className={s.aiTag} title="La foto fue alterada con inteligencia artificial">IA</span>}

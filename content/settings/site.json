@@ -1,0 +1,37 @@
+{
+  "id": "site",
+  "siteName": "Cali Rivera",
+  "tagline": "El arte es para ser libres.",
+  "email": "arte@calirivera.com",
+  "location": "San José, Costa Rica",
+  "social": [
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/caliriveraartista"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/elarteparaserlibres/"
+    }
+  ],
+  "footerNote": "Obra viva y legado artístico desde Costa Rica.",
+  "address": "300 m este del Saint Gregory School, La Unión, Tres Ríos, Costa Rica",
+  "whatsapp": "+506 8348 3785",
+  "hours": [
+    {
+      "days": "Martes a jueves",
+      "time": "4 p. m. – 12 a. m."
+    },
+    {
+      "days": "Viernes y sábado",
+      "time": "4 p. m. – 2 a. m."
+    },
+    {
+      "days": "Domingo",
+      "time": "4 p. m. – 12 a. m."
+    }
+  ],
+  "mapUrl": "https://maps.google.com/maps?q=Taller%20del%20Artista%2C%20Tres%20R%C3%ADos%2C%20Cartago",
+  "contentVersion": "mwcjuqr2",
+  "updatedAt": "2026-11-11T20:06:26.030Z"
+}

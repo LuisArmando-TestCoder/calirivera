@@ -1,0 +1,29 @@
+{
+ "id": "atmosfera-pensamiento",
+ "slug": "atmosfera-pensamiento",
+ "status": "published",
+ "title": "Pensamiento",
+ "collectionId": "atmosfera",
+ "images": [
+  {
+   "src": "/media/memoria/1993-pensamiento-294.jpg",
+   "alt": "Pensamiento — Atmósfera, 1993. Tiza pastel sobre papel",
+   "width": 294,
+   "height": 406,
+   "widths": [
+    294
+   ],
+   "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoRwACj+geV1/qW4zlA80XkAAP6obgi5h3Obu/UQcntgG9BVB8nU602+Arthy423f1S8pHeuRIGmjeLlLB+G4UJWZnFlzWS4ILMMTxjMJdFW6mRkEsBnaduWhg+Ek3fbLuqZXIkib+bKpxVb8bSa/+kEGCHPU3wfcjpHO/auw/7cnv5HwAA=",
+   "color": "rgb(152 24 24)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 6,
+ "year": 1993,
+ "technique": "Tiza pastel sobre papel",
+ "notes": "Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206195541id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/pensamiento.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

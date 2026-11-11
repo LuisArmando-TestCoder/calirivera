@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { BlockView } from "@/components/layout-engine/Blocks";
 import { NarrationSlot } from "@/components/narration/NarrationSlot";
 import { getPage } from "@/lib/content/repo";
@@ -13,7 +14,7 @@ export async function generateMetadata(): Promise<Metadata> {
 /**
  * Trayectoria: un libro de registro. A la izquierda la línea de tiempo de exposiciones
  * (con el año fijo mientras se recorre); a la derecha, en columna estrecha, el currículum,
- * las entrevistas y la crítica.
+ * las entrevistas. La crítica y la prensa tienen su propia página (/puntos-de-vista), anunciada al final.
  */
 export default async function Trayectoria() {
   const page = await getPage("trayectoria-and-entrevistas");
@@ -25,7 +26,6 @@ export default async function Trayectoria() {
   };
   const expo = sec("exposiciones");
   const side = ["curriculum", "entrevistas"].map(sec).filter(Boolean) as NonNullable<ReturnType<typeof sec>>[];
-  const pv = sec("puntos-de-vista");
   const timelineBlock = expo?.s.blocks.findIndex((b) => b.type === "timeline") ?? -1;
   const years = expo && timelineBlock >= 0 && expo.s.blocks[timelineBlock].type === "timeline"
     ? (expo.s.blocks[timelineBlock] as { items: { year: string }[] }).items.map((x) => x.year) : [];
@@ -57,11 +57,11 @@ export default async function Trayectoria() {
           ))}
         </aside>
       </div>
-      {pv && (
-        <section className={s.pv}>
-          {pv.s.blocks.map((b, i) => <BlockView key={b.id ?? i} block={b} base={pv.base} index={i} />)}
-        </section>
-      )}
+      <Link href="/puntos-de-vista" className={s.pv}>
+        <span className={s.pvKicker}>Crítica y prensa, 1995–2011</span>
+        <span className={s.pvTitle}>Puntos de vista</span>
+        <span className={s.pvGo} aria-hidden>→</span>
+      </Link>
     </>
   );
 }

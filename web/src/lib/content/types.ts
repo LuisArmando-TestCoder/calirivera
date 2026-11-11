@@ -86,7 +86,8 @@ export type LayoutPreset =
   | "horizontal-track"
   | "kinetic-statement"
   | "gallery-masonry"
-  | "poem-center";
+  | "poem-center"
+  | "chronicle";
 
 export interface Section {
   id: string;
@@ -95,6 +96,8 @@ export interface Section {
   blocks: Block[];
   /** Optional theme override per section. */
   tone?: "paper" | "ink" | "clay" | "blue";
+  /** Marca fechas, lugares y obras en los párrafos (textos autobiográficos). */
+  marks?: boolean;
 }
 
 export interface Page extends Publishable {
@@ -102,6 +105,8 @@ export interface Page extends Publishable {
   description?: string;
   hero?: { title: string; subtitle?: string; image?: ImageAsset; cta?: { label: string; href: string } };
   sections: Section[];
+  /** Páginas creadas desde el editor: en qué grupo del menú aparecen ("fuera" o ausente = no aparece). */
+  menu?: "obra" | "taller" | "fuera";
   seo?: { title?: string; description?: string; ogImage?: string };
 }
 
@@ -189,6 +194,24 @@ export interface Post extends Publishable {
   sourceUrl?: string;
 }
 
+/** Nota de prensa sobre Cali («Puntos de vista» del sitio viejo), rescatada de Wayback como página propia. */
+export interface PressArticle extends Publishable {
+  title: string;
+  /** Medio: «La Nación», «The Tico Times»… */
+  outlet: string;
+  author?: string;
+  publishedAt: ISODate;
+  /** Fecha tal como se puede afirmar: «7 de marzo de 2000», «marzo de 2000» o «2000». */
+  dateLabel?: string;
+  excerpt?: string;
+  cover?: ImageAsset;
+  body: AnyBlock[];
+  /** Página archivada original (Wayback Machine). */
+  sourceUrl?: string;
+  /** Fotos de la nota que Wayback nunca guardó. */
+  missingImages?: number;
+}
+
 export interface SiteSettings {
   id: "site";
   siteName: string;
@@ -245,6 +268,7 @@ export const COLLECTIONS = {
   posts: "posts",
   settings: "settings",
   memories: "memories",
+  press: "press",
 } as const;
 
 export type CollectionName = (typeof COLLECTIONS)[keyof typeof COLLECTIONS];

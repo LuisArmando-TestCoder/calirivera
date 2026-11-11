@@ -5,23 +5,29 @@ import { usePathname } from "next/navigation";
 import type { InlineOp } from "@/lib/cms/ops";
 import { parsePath } from "@/lib/cms/paths";
 import type { ImageAsset } from "@/lib/content/types";
-import {
-  inlineDiscardDraftAction,
-  inlineLoadDraftAction,
-  inlinePublishAction,
-  inlineSaveDraftAction,
-  whoAmIAction,
-} from "@/app/admin/actions";
+import { deployStatusAction, inlinePublishAction, whoAmIAction } from "@/app/admin/actions";
 import { ImageSheet, type ArtworkMeta } from "../shared/ImageSheet";
 import { Confirm } from "../shared/Sheet";
 import { Toaster, useToast } from "../shared/Toaster";
 import { applyDom, itemDocId, listItems, type Undo } from "./dom";
 import { EditSession, type ListCtx } from "./session";
 import { ItemSheet, type NewItem } from "./ItemSheet";
+import { addSending, allDrafts, CHANGE, loadDraft, outbox, saveDraft, setStates, type LocalDraft, type Sending } from "./local";
+import { StatusSheet } from "./StatusSheet";
+import { sign } from "@/components/brand/SignatureMoments";
 import { EDIT_CSS } from "./editCss";
 import o from "./overlay.module.scss";
 
 type Entry = { op: InlineOp; undo: Undo };
+
+/** Un documento recién creado deja de llamarse por su id provisorio: el DOM pasa a usar el id real. */
+function retarget(created: Record<string, string> | undefined) {
+  for (const [temp, real] of Object.entries(created ?? {}))
+    document.querySelectorAll<HTMLElement>(`[data-cms-path*="/${CSS.escape(temp)}#"]`).forEach((el) => {
+      el.setAttribute("data-cms-path", el.getAttribute("data-cms-path")!.replace(`/${temp}#`, `/${real}#`));
+    });
+}
+const pageName = () => document.title.split(" · ")[0].split(":")[0].trim() || "esta página";
 
 let tempSeq = 0;
 const tempId = () => `__nuevo-${Date.now().toString(36)}-${++tempSeq}`;
@@ -41,20 +47,15 @@ function Overlay() {
   const [editing, setEditing] = useState(false);
   const [entries, setEntries] = useState<Entry[]>([]);
   const entriesRef = useRef<Entry[]>([]);
-  const [savedCount, setSavedCount] = useState(0);
-  const savedRef = useRef(0);
-  const [busy, setBusy] = useState<"" | "draft" | "publish">("");
-  const [draft, setDraft] = useState<{ ops: InlineOp[]; savedAt: string } | null>(null);
+  const [busy, setBusy] = useState<"" | "publish">("");
+  const [sendings, setSendings] = useState<Sending[]>([]);
+  const [drafts, setDrafts] = useState<LocalDraft[]>([]);
+  const [statusOpen, setStatusOpen] = useState(false);
+  const armed = useRef(false); // el guardado automático arranca después de recuperar el borrador
   const [imageFor, setImageFor] = useState<{ path: string; initial: ImageAsset | null; insert?: ListCtx } | null>(null);
   const [itemFor, setItemFor] = useState<ListCtx | null>(null);
-  const [confirmExit, setConfirmExit] = useState(false);
   const [confirmDelete, setConfirmDelete] = useState<{ ctx: ListCtx; item: HTMLElement } | null>(null);
   const session = useRef<EditSession | null>(null);
-
-  const setSaved = (n: number) => {
-    savedRef.current = n;
-    setSavedCount(n);
-  };
 
   const commit = useCallback((op: InlineOp) => {
     let undo: Undo = () => {};
@@ -77,10 +78,6 @@ function Overlay() {
     } catch {}
     entriesRef.current = cur.slice(0, -1);
     setEntries(entriesRef.current);
-    if (savedRef.current > entriesRef.current.length) {
-      savedRef.current = entriesRef.current.length;
-      setSavedCount(savedRef.current);
-    }
     requestAnimationFrame(() => {
       session.current?.scan();
       session.current?.refreshTools();
@@ -98,12 +95,87 @@ function Overlay() {
     });
     session.current = s;
     setEditing(true);
-    requestAnimationFrame(() => s.start());
-    try {
-      const d = await inlineLoadDraftAction(pathname);
-      if (d?.ops?.length) setDraft(d);
-    } catch {}
+    requestAnimationFrame(() => {
+      s.start();
+      // Lo que quedó sin publicar en este dispositivo vuelve solo (se apagó el teléfono, se cerró la pestaña…).
+      const d = loadDraft(pathname);
+      if (d?.ops.length) {
+        for (const op of d.ops) commit(op);
+        const n = d.ops.length;
+        toast({ text: `Recuperé ${n} cambio${n === 1 ? "" : "s"} que no habías publicado.`, tone: "ok", ms: 6000 });
+      }
+      armed.current = true;
+    });
   }, [commit, undo, toast, pathname]);
+
+  // Guardado automático en este dispositivo: cada cambio queda escrito al instante.
+  useEffect(() => {
+    if (editing && armed.current) saveDraft(pathname, entries.map((e) => e.op));
+  }, [entries, editing, pathname]);
+
+  // Envíos y borradores (para el indicador de estado, en todas las páginas).
+  useEffect(() => {
+    const sync = () => {
+      setSendings(outbox());
+      setDrafts(allDrafts());
+    };
+    sync();
+    window.addEventListener(CHANGE, sync);
+    window.addEventListener("storage", sync);
+    return () => {
+      window.removeEventListener(CHANGE, sync);
+      window.removeEventListener("storage", sync);
+    };
+  }, []);
+
+  // Seguir cada envío hasta que esté en línea.
+  const waiting = sendings.filter((s) => s.state === "sent" || s.state === "building");
+  const waitKey = waiting.map((s) => s.commit).join(",");
+  useEffect(() => {
+    if (!ready || !waitKey) return;
+    let alive = true;
+    const check = async () => {
+      try {
+        const info = await deployStatusAction(waitKey.split(","));
+        if (!alive) return;
+        const before = outbox();
+        setStates(info.states);
+        for (const s of before) {
+          const st = info.states[s.commit];
+          if (st === "live" && s.state !== "live") toast({ text: `Ya está en línea: ${s.label}.`, tone: "ok", ms: 7000 });
+          if (st === "failed" && s.state !== "failed") toast({ text: "Un envío no se pudo construir. Tocá el estado para ver qué pasó.", tone: "error", ms: 10000 });
+        }
+      } catch {}
+    };
+    const first = setTimeout(check, 4000);
+    const t = setInterval(check, 15000);
+    return () => {
+      alive = false;
+      clearTimeout(first);
+      clearInterval(t);
+    };
+  }, [ready, waitKey, toast]);
+
+  // Lo que ya se envió pero el sitio todavía no reconstruyó se vuelve a dibujar encima de esta página.
+  const replayed = useRef(new Set<string>());
+  useEffect(() => {
+    if (!ready) return;
+    replayed.current = new Set();
+    const t = setTimeout(() => {
+      for (const s of outbox().slice().reverse()) {
+        if (s.pathname !== pathname || s.state === "live" || replayed.current.has(s.commit)) continue;
+        replayed.current.add(s.commit);
+        for (const op of s.ops) {
+          try {
+            applyDom(op);
+          } catch {}
+        }
+        retarget(s.created);
+      }
+      session.current?.scan();
+    }, 600);
+    return () => clearTimeout(t);
+  }, [ready, pathname]);
 
   // Confirm the real session once; reopen edit mode after a publish reload (?editar).
   const enterRef = useRef(enter);
@@ -131,27 +203,7 @@ function Overlay() {
     };
   }, []);
 
-  useEffect(() => {
-    if (!editing) return;
-    const onUnload = (e: BeforeUnloadEvent) => {
-      if (entriesRef.current.length > savedRef.current) e.preventDefault();
-    };
-    window.addEventListener("beforeunload", onUnload);
-    return () => window.removeEventListener("beforeunload", onUnload);
-  }, [editing]);
-
   const ops = entries.map((e) => e.op);
-  const unsaved = entries.length - savedCount;
-
-  async function saveDraft() {
-    setBusy("draft");
-    const r = await inlineSaveDraftAction(pathname, entriesRef.current.map((e) => e.op));
-    setBusy("");
-    if (r.ok) {
-      setSaved(entriesRef.current.length);
-      toast({ text: "Borrador guardado. No se ve en el sitio hasta que publiques.", tone: "ok" });
-    } else toast({ text: ("error" in r && r.error) || "No se pudo guardar", tone: "error" });
-  }
 
   async function publish() {
     if (!ops.length) return;
@@ -159,38 +211,46 @@ function Overlay() {
     const r = await inlinePublishAction(pathname, ops);
     if (!r.ok) {
       setBusy("");
-      toast({ text: ("error" in r && r.error) || "No se pudo publicar", tone: "error", ms: 8000 });
+      toast({ text: ("error" in r && r.error) || "No se pudo publicar. Tus cambios siguen guardados en este dispositivo.", tone: "error", ms: 9000 });
+      return;
+    }
+    const created = "created" in r ? r.created : undefined;
+    const newPage = ops.find((o) => o.t === "create" && o.collection === "pages");
+    const newHref = newPage && newPage.t === "create" && created?.[newPage.tempId] ? `/${created[newPage.tempId]}` : undefined;
+    saveDraft(pathname, []);
+    if (r.deploys) {
+      // El sitio se reconstruye: lo enviado queda «en camino» y la página sigue mostrando el cambio.
+      const n = ops.length;
+      if (r.commit) addSending({ commit: r.commit, pathname, label: newHref ? `página nueva en ${pageName()}` : `${n} cambio${n === 1 ? "" : "s"} en ${pageName()}`, ops, created, href: newHref });
+      retarget(created);
+      entriesRef.current = [];
+      setEntries([]);
+      setBusy("");
+      if (r.commit) sign("Enviado · en camino al sitio");
+      toast({ text: r.commit ? "Enviado. El sitio se está actualizando: en unos minutos lo ve todo el mundo. Te aviso." : "No había nada nuevo para publicar.", tone: "ok", ms: 7000 });
+      if (r.commit) setStatusOpen(true);
+      requestAnimationFrame(() => session.current?.scan());
       return;
     }
     toast({ text: "¡Publicado! Actualizando la página…", tone: "ok" });
-    savedRef.current = entriesRef.current.length;
+    sign("Publicado");
     setTimeout(() => {
-      const u = new URL(window.location.href);
+      const u = new URL(newHref ?? window.location.href, window.location.href);
       u.searchParams.set("editar", "");
       window.location.replace(u.toString());
-    }, 700);
+    }, 2600);
   }
 
   function exit() {
-    if (unsaved > 0) return setConfirmExit(true);
-    if (entries.length) return window.location.reload();
+    // Los cambios sin publicar ya están guardados en este dispositivo: salir nunca pierde nada.
+    if (entries.length) {
+      toast({ text: "Tus cambios quedan guardados acá. Cuando vuelvas a editar, siguen donde los dejaste.", tone: "ok" });
+      return void setTimeout(() => window.location.reload(), 900);
+    }
     session.current?.stop();
     session.current = null;
+    armed.current = false;
     setEditing(false);
-    setDraft(null);
-  }
-
-  function continueDraft() {
-    if (!draft) return;
-    for (const op of draft.ops) commit(op);
-    setSaved(entriesRef.current.length);
-    setDraft(null);
-  }
-
-  async function discardDraft() {
-    await inlineDiscardDraftAction(pathname);
-    setDraft(null);
-    toast({ text: "Borrador descartado." });
   }
 
   function onImage(asset: ImageAsset, extra: { artwork?: ArtworkMeta }) {
@@ -214,25 +274,43 @@ function Overlay() {
     if (!ctx) return;
     if (item.kind === "doc") {
       commit({ t: "create", collection: item.collection, tempId: tempId(), value: item.value });
+      if (item.collection === "pages") toast({ text: "Página lista para crear. Tocá «Publicar» y aparece en el menú.", tone: "ok", ms: 7000 });
       return;
     }
     let index = listItems(ctx.el).length;
     for (const v of item.values) commit({ t: "insert", path: ctx.path, index: index++, value: v });
   }
 
-  function onDelete() {
+  function onDelete(how: "archive" | "trash" = "trash") {
     const d = confirmDelete;
     setConfirmDelete(null);
     if (!d) return;
     const { ctx, item } = d;
     if (ctx.collection) {
       const id = itemDocId(item, ctx.collection);
-      if (id) commit({ t: "trash", collection: ctx.collection, id });
+      if (id) commit({ t: how, collection: ctx.collection, id });
     } else commit({ t: "remove", path: ctx.path, index: listItems(ctx.el).indexOf(item) });
   }
 
   if (!ready || pathname.startsWith("/admin")) return null;
   const imgPath = imageFor ? parsePath(imageFor.path) : null;
+
+  const failed = sendings.filter((s) => s.state === "failed").length;
+  const otherDrafts = drafts.filter((d) => d.pathname !== pathname || !editing);
+  const chip = failed
+    ? { tone: "bad", text: "Un envío falló" }
+    : waiting.length
+      ? { tone: "busy", text: `${waiting.length} en camino` }
+      : otherDrafts.length
+        ? { tone: "draft", text: `${otherDrafts.length} sin publicar` }
+        : { tone: "ok", text: "Todo en línea" };
+  const statusChip = (
+    <button type="button" className={o.chip} data-tone={chip.tone} onClick={() => setStatusOpen(true)} aria-label={`Estado del sitio: ${chip.text}. Ver detalle`}>
+      <i aria-hidden />
+      {chip.text}
+    </button>
+  );
+  const isCollectionItem = !!confirmDelete?.ctx.collection;
 
   return (
     <>
@@ -242,42 +320,28 @@ function Overlay() {
           <button type="button" className={o.editBtn} onClick={enter}>
             <span aria-hidden>✎</span> Editar esta página
           </button>
+          {statusChip}
           <Link className={o.panelLink} href="/admin">
             Panel
           </Link>
         </div>
       ) : (
         <div className={o.bar} data-cms-bar role="toolbar" aria-label="Edición de la página">
-          {draft ? (
-            <div className={o.draftBanner}>
-              <span>
-                Tenés {draft.ops.length} cambio{draft.ops.length === 1 ? "" : "s"} guardado{draft.ops.length === 1 ? "" : "s"} como borrador.
-              </span>
-              <button type="button" className={o.btnPrimary} onClick={continueDraft}>
-                Seguir con el borrador
-              </button>
-              <button type="button" className={o.btn} onClick={discardDraft}>
-                Descartar
-              </button>
-            </div>
-          ) : (
-            <p className={o.status} aria-live="polite">
-              {entries.length === 0
-                ? "Tocá un texto para cambiarlo, o una foto para reemplazarla."
-                : unsaved > 0
-                  ? `${entries.length} cambio${entries.length === 1 ? "" : "s"} sin publicar`
-                  : "Borrador guardado · falta publicar"}
-            </p>
-          )}
+          <p className={o.status} aria-live="polite">
+            {entries.length === 0
+              ? "Tocá un texto para cambiarlo o una foto para reemplazarla. «＋ Agregar» suma cosas nuevas."
+              : `${entries.length} cambio${entries.length === 1 ? "" : "s"} guardado${entries.length === 1 ? "" : "s"} en este dispositivo · falta publicar`}
+          </p>
           <div className={o.actions}>
+            {statusChip}
             <button type="button" className={o.btn} onClick={undo} disabled={!entries.length || !!busy}>
               ↶ Deshacer
             </button>
-            <button type="button" className={o.btn} onClick={saveDraft} disabled={!entries.length || !!busy || unsaved === 0}>
-              {busy === "draft" ? "Guardando…" : "Guardar borrador"}
+            <button type="button" className={o.btn} onClick={() => setItemFor({ el: document.body, path: "pages", itemType: "page", collection: "pages" })} disabled={!!busy}>
+              ＋ Página nueva
             </button>
             <button type="button" className={o.btnPrimary} onClick={publish} disabled={!entries.length || !!busy}>
-              {busy === "publish" ? "Publicando…" : "Publicar"}
+              {busy === "publish" ? "Enviando…" : "Publicar"}
             </button>
             <button type="button" className={o.btnGhost} onClick={exit} disabled={!!busy}>
               Salir
@@ -286,6 +350,7 @@ function Overlay() {
         </div>
       )}
 
+      <StatusSheet open={statusOpen} onClose={() => setStatusOpen(false)} sendings={sendings} drafts={drafts} here={pathname} />
       <ImageSheet
         open={!!imageFor}
         initial={imageFor?.initial ?? null}
@@ -297,24 +362,21 @@ function Overlay() {
       <ItemSheet open={!!itemFor} itemType={itemFor?.itemType ?? "block"} onClose={() => setItemFor(null)} onDone={onItem} />
       <Confirm
         open={!!confirmDelete}
-        title="¿Quitar este elemento?"
-        body={<p>{confirmDelete?.ctx.collection ? "Va a la papelera: lo podés recuperar desde el panel." : "Lo podés deshacer antes de publicar."}</p>}
-        confirmLabel="Quitar"
-        danger
+        title={isCollectionItem ? "¿Qué hacemos con esto?" : "¿Quitar este elemento?"}
+        body={
+          isCollectionItem ? (
+            <p>
+              <strong>Archivar</strong> lo saca del sitio pero lo guarda tal cual: desde el Panel lo volvés a mostrar cuando quieras. La <strong>papelera</strong> es para lo que ya no va; también se puede recuperar desde el Panel.
+            </p>
+          ) : (
+            <p>Lo podés deshacer antes de publicar.</p>
+          )
+        }
+        confirmLabel={isCollectionItem ? "Archivar" : "Quitar"}
+        danger={!isCollectionItem}
         onClose={() => setConfirmDelete(null)}
-        onConfirm={onDelete}
-      />
-      <Confirm
-        open={confirmExit}
-        title="Tenés cambios sin guardar"
-        body={<p>¿Querés guardarlos como borrador antes de salir? Si no, se pierden.</p>}
-        confirmLabel="Guardar borrador y salir"
-        onClose={() => setConfirmExit(false)}
-        onConfirm={async () => {
-          await saveDraft();
-          window.location.reload();
-        }}
-        extra={{ label: "Salir sin guardar", run: () => window.location.reload() }}
+        onConfirm={() => onDelete(isCollectionItem ? "archive" : "trash")}
+        extra={isCollectionItem ? { label: "Mandar a la papelera", run: () => onDelete("trash") } : undefined}
       />
     </>
   );

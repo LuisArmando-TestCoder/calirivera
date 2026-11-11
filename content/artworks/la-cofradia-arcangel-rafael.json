@@ -1,0 +1,28 @@
+{
+ "id": "la-cofradia-arcangel-rafael",
+ "slug": "la-cofradia-arcangel-rafael",
+ "status": "published",
+ "title": "Arcángel Rafael",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/la-cofradia/arcangel-rafael-1177.jpg",
+   "widths": [
+    640,
+    1177
+   ],
+   "width": 1177,
+   "height": 1835,
+   "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBACdASoQABkAPu1iqU2ppaOiMAgBMB2JYwCdIHCmAKDIYeYF6T7APWWC2YVaAAD+8IdOxewGn9RlGBb/JPq8s3nOrXnYgtFtjLLDljqutz1M+WPZ1ZjGcvlX3nr7TN7xpHythCbdiUbZoqqAP/CaZETgREdBzoru16OlHJhuW3BX1jiCKqJ85B5J+2SdbIyLOVz1rXtr8XGp2JNI8ZlsPl6GBgAA",
+   "color": "rgb(248 248 248)",
+   "alt": "Arcángel Rafael — La Cofradía, 2017"
+  }
+ ],
+ "aiAltered": false,
+ "order": 6,
+ "year": 2017,
+ "technique": "Mixta sobre objeto, intervenido con pedrería, pintura y resina",
+ "dimensions": "20 × 40 cm",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

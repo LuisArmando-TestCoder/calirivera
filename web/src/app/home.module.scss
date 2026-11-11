@@ -24,6 +24,7 @@
 .line { height: 2px; background: var(--c-anil); margin-inline: var(--gutter); }
 .trackViewport {
   overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none;
+  scroll-padding-inline: var(--gutter); // el snap respeta el margen: la primera colección no queda cortada
   &::-webkit-scrollbar { display: none; }
   @include above($bp-m) { overflow: visible; }
 }

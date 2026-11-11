@@ -1,0 +1,65 @@
+{
+ "id": "la-nacion-un-milano-para-el-arte-2001",
+ "slug": "la-nacion-un-milano-para-el-arte-2001",
+ "status": "published",
+ "createdAt": "2026-11-11T18:30:00Z",
+ "updatedAt": "2026-11-11T18:30:00Z",
+ "title": "Un Milano para el arte",
+ "outlet": "La Nación",
+ "publishedAt": "2001-06-20T12:00:00Z",
+ "dateLabel": "20 de junio de 2001",
+ "excerpt": "Un Milano para el arte: Milano... si accende es el nuevo espacio para el arte, donde el artista Cali Rivera expone su nueva obra: 15 trabajos en acrílico (en la foto).",
+ "body": [
+  {
+   "type": "image",
+   "id": "la-nacion-un-milano-para-el-arte-2001-1",
+   "image": {
+    "src": "/media/prensa/breves-180.jpg",
+    "widths": [
+     180
+    ],
+    "width": 180,
+    "height": 180,
+    "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoQABAAA4BaJbACdH8EwZjlLNo9koSiBwAA/umvzwq6p154kSCFvESh3qzG2+0+6Oy83ypGtBlTVL3+ogb62D95mDT5EseKPue/X1waQgEyrvFy8xhUmd4X/T9TUZY1Yujy3ZZepSifMWWYcXKQxet963Z4uLnvLue38UwURq2S59GMCT0SJe/FfQN/AAAA",
+    "color": "rgb(248 248 248)",
+    "alt": " ",
+    "lowRes": true
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-un-milano-para-el-arte-2001-2",
+   "text": "Breves"
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-un-milano-para-el-arte-2001-5",
+   "text": "Un Milano para el arte: Milano... si accende es el nuevo espacio para el arte, donde el artista Cali Rivera expone su nueva obra: 15 trabajos en acrílico (en la foto)."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-un-milano-para-el-arte-2001-6",
+   "text": "Ese espacio diseñado por el italiano Emiliano Ferreti también muestra las esculturas de la Ericka Ling y las cerámicas de Robert Rodríguez."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-un-milano-para-el-arte-2001-7",
+   "text": "La exposición permanecerá abierta hasta el 16 de julio."
+  }
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260115043417/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/24-la-nacion-miercoles-20-de-junio-2001",
+ "order": 13,
+ "author": "Doriam Díaz",
+ "cover": {
+  "src": "/media/prensa/breves-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 180,
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoQABAAA4BaJbACdH8EwZjlLNo9koSiBwAA/umvzwq6p154kSCFvESh3qzG2+0+6Oy83ypGtBlTVL3+ogb62D95mDT5EseKPue/X1waQgEyrvFy8xhUmd4X/T9TUZY1Yujy3ZZepSifMWWYcXKQxet963Z4uLnvLue38UwURq2S59GMCT0SJe/FfQN/AAAA",
+  "color": "rgb(248 248 248)",
+  "alt": " ",
+  "lowRes": true
+ }
+}

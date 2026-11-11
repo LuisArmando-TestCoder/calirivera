@@ -1,0 +1,90 @@
+{
+ "id": "la-nacion-arte-y-banderas-2003",
+ "slug": "la-nacion-arte-y-banderas-2003",
+ "status": "published",
+ "createdAt": "2026-11-11T18:30:00Z",
+ "updatedAt": "2026-11-11T18:30:00Z",
+ "title": "Arte y banderas en el Parque de la Paz",
+ "outlet": "La Nación",
+ "publishedAt": "2003-04-15T12:00:00Z",
+ "dateLabel": "15 de abril de 2003",
+ "excerpt": "Una de las banderas de Cali Rivera. (Foto: Archivo/La Nación).",
+ "body": [
+  {
+   "type": "image",
+   "id": "la-nacion-arte-y-banderas-2003-1",
+   "image": {
+    "src": "/media/prensa/arte-180.jpg",
+    "widths": [
+     180
+    ],
+    "width": 180,
+    "height": 180,
+    "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQABAAA4BaJbACdAEfq/2rxyP/l2AA/uulqsjdrEhHonTIr5k/A5HQwgHreVPCHPD2rUMUrszV2jaXsjzTpXQFxlHshVHRy6O0bu1W2T/Zhr83Xcc0Vh2LnDvOsFw4X8iWjR3HozPKKJQJl99u584DCwAAAA==",
+    "color": "rgb(8 8 8)",
+    "alt": "Banderas en el Parque de la Paz",
+    "lowRes": true
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-2",
+   "text": "Una de las banderas de Cali Rivera. (Foto: Archivo/La Nación)."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-3",
+   "text": "Arte y banderas en el Parque de la Paz"
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-6",
+   "text": "Con algo de teatro y acrobacia, esta noche, a las 7:30 p. m., en el Parque de la Paz se inaugura Banderas de oración, la nueva exposición de gran formato de Cali Rivera."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-7",
+   "text": "Esta vez, ese hombre de treinta y tres años que empezó a trabajar en arte en 1993 presenta al aire libre nueve enormes banderas verticales."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-8",
+   "text": "Dichas obras usan pintura, gel, objetos y resina, entre otros materiales. Están inspiradas en la cultura tibetana que tienen la costumbre de poner banderas al aire para elevar una plegaria a su dios. Así, Rivera representa un elemento más: el aire."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-9",
+   "text": "Desde 1995 viene trabajando con los elementos esenciales (agua, tierra, fuego y aire) y ya antes hizo exposiciones que aludían a la tierra y el fuego en una búsqueda, según dice, del balance y la armonía del ser humano con el universo."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-10",
+   "text": "Hoy, martes, en el Parque de la Paz clausura sus exposiciones al aire libre que lo han llevado a exponer en la Plaza Roosevelt en San Pedro de Montes de Oca y en el jardín del Museo de los Niños."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-11",
+   "text": "Sus Banderas de oración se exhibirán desde hoy hasta el s¥¥abado 19. En la actividad de esta noche participarán la actriz Alejandra Rosabal y bailarina y actriz Metzí Hovenga."
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-arte-y-banderas-2003-12",
+   "text": "Su performance –creación artística en vivo– será acompañada con música tibetana y la lectura de la Carta de la Tierra."
+  }
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260609154830/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/20-la-nacion-martes-15-de-abril-2003",
+ "order": 8,
+ "author": "Doriam Díaz",
+ "cover": {
+  "src": "/media/prensa/arte-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 180,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQABAAA4BaJbACdAEfq/2rxyP/l2AA/uulqsjdrEhHonTIr5k/A5HQwgHreVPCHPD2rUMUrszV2jaXsjzTpXQFxlHshVHRy6O0bu1W2T/Zhr83Xcc0Vh2LnDvOsFw4X8iWjR3HozPKKJQJl99u584DCwAAAA==",
+  "color": "rgb(8 8 8)",
+  "alt": "Banderas en el Parque de la Paz",
+  "lowRes": true
+ }
+}

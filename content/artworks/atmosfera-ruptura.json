@@ -1,0 +1,29 @@
+{
+ "id": "atmosfera-ruptura",
+ "slug": "atmosfera-ruptura",
+ "status": "published",
+ "title": "Ruptura",
+ "collectionId": "atmosfera",
+ "images": [
+  {
+   "src": "/media/memoria/1993-ruptura-322.jpg",
+   "alt": "Ruptura — Atmósfera, 1993. Tiza pastel sobre papel",
+   "width": 322,
+   "height": 450,
+   "widths": [
+    322
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBOmUAnHc6vbpf6yiOXBeoAA/r3chZ07c/GBUouHA6y0EpKh0AWZqWi8mvnxBuF1rPL8MNNZdReUKHOKTihAdDTgRhXVF14qjPPKPzNtDxp+sQrLtUXc3bZ2HKChCB3SA1GpkqGylE9uUfbBLRVaZgQXYLuQRKWjakQBKfDzQAAA",
+   "color": "rgb(8 24 24)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 7,
+ "year": 1993,
+ "technique": "Tiza pastel sobre papel",
+ "notes": "Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206135252id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/ruptura.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

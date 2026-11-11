@@ -69,31 +69,152 @@
 }
 @keyframes unfurl { from { clip-path: inset(0 0 100% 0); } to { clip-path: inset(0 0 0 0); } }
 
+// El menú es un índice: cada página es un renglón con su número, su nombre, una línea que dice qué hay y una
+// flecha. Las reglas entre renglones se trazan al abrir, una tras otra: se ve que son destinos distintos.
 .nav {
   display: grid;
-  gap: var(--space-xl);
+  gap: var(--space-xl) var(--space-2xl);
   align-content: start;
   width: min(100%, var(--max-w));
   margin-inline: auto;
   @include above($bp-m) { grid-template-columns: 1fr 1fr; }
-  ul { list-style: none; padding: 0; display: grid; gap: 0.1em; }
-}
-.groupLabel { @include label; color: oklch(80% 0.04 260); margin-bottom: var(--space-s); }
-.link {
-  @include display(60, 720);
-  font-size: var(--step-4);
-  line-height: 1;
-  text-decoration: none;
-  display: inline-block;
-  padding-block: 0.08em;
-  @include motion {
-    transition: font-stretch var(--dur-ui) var(--ease-out), color var(--dur-micro);
-    li & { animation: rise 700ms var(--ease-out) both; animation-delay: calc(140ms + var(--i) * 45ms); }
+  ul { list-style: none; padding: 0; margin: 0; }
+  li { position: relative; }
+  // la regla de arriba de cada renglón
+  li::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: 1px;
+    background: oklch(100% 0 0 / 0.22);
+    transform-origin: left;
+    @include motion { animation: rule 700ms var(--ease-out) both; animation-delay: calc(120ms + var(--i) * 50ms); }
   }
-  &:hover, &:focus-visible { font-stretch: 100%; color: var(--c-ocre); }
-  &[aria-current="page"] { color: var(--c-ocre); }
+  li:last-child::after { content: ""; position: absolute; inset: auto 0 0 0; height: 1px; background: oklch(100% 0 0 / 0.22); }
+  // al pasar por uno, los demás se apagan un poco: el ojo sabe dónde está
+  @media (hover: hover) {
+    &:has(.link:hover) .link:not(:hover) { opacity: 0.42; }
+  }
+}
+@keyframes rule { from { transform: scaleX(0); } }
+.groupLabel {
+  @include label;
+  display: flex;
+  justify-content: space-between;
+  color: var(--c-ocre);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  padding-bottom: var(--space-xs);
+  @include motion { animation: rise 600ms var(--ease-out) both; animation-delay: calc(60ms + var(--g) * 120ms); }
+  span:last-child { opacity: 0.6; font-variant-numeric: tabular-nums; }
+}
+.link {
+  position: relative;
+  display: grid;
+  grid-template-columns: 2.4rem minmax(0, 1fr) auto;
+  grid-template-areas: "num text arrow" ". note arrow";
+  align-items: baseline;
+  column-gap: var(--space-xs);
+  min-height: 56px;
+  padding: 0.85rem var(--space-xs) 0.8rem 0;
+  text-decoration: none;
+  color: var(--c-hilo);
+  isolation: isolate;
+  @include motion {
+    transition: opacity 0.3s, padding 0.45s var(--ease-out);
+    li & { animation: rise 700ms var(--ease-out) both; animation-delay: calc(170ms + var(--i) * 50ms); }
+  }
+  // el renglón se llena de ocre desde la izquierda
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: var(--c-ocre);
+    transform: scaleX(0);
+    transform-origin: left;
+    @include motion { transition: transform 0.5s var(--ease-out); }
+  }
+  &:hover {
+    color: var(--c-anil);
+    padding-left: var(--space-s);
+    &::before { transform: none; }
+    .arrow { transform: none; opacity: 1; }
+    .num, .linkNote { color: inherit; opacity: 0.85; }
+  }
+  // con teclado: un marco y la flecha (el relleno queda para el puntero, así nunca hay dos renglones llenos)
+  &:focus-visible {
+    outline: 2px solid var(--c-ocre);
+    outline-offset: -2px;
+    padding-left: var(--space-s);
+    .arrow { transform: none; opacity: 1; }
+  }
+  &[aria-current="page"] {
+    .num { color: var(--c-ocre); }
+    .num::after { content: " ●"; font-size: 0.6em; vertical-align: middle; }
+    .linkText { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.18em; text-decoration-color: var(--c-ocre); }
+  }
+}
+.num {
+  grid-area: num;
+  @include label;
+  font-variant-numeric: tabular-nums;
+  color: oklch(80% 0.04 260);
+  @include motion { transition: color 0.3s; }
+}
+.linkText {
+  grid-area: text;
+  @include display(60, 720);
+  font-size: clamp(1.55rem, 1.1rem + 2.2vw, 2.9rem);
+  line-height: 1.02;
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+.linkNote {
+  grid-area: note;
+  @include read;
+  font-size: var(--step--1);
+  line-height: 1.35;
+  color: oklch(84% 0.03 260);
+  margin-top: 0.2rem;
+  @include motion { transition: color 0.3s; }
+}
+.arrow {
+  grid-area: arrow;
+  align-self: center;
+  @include display(60, 400);
+  font-size: var(--step-2);
+  opacity: 0;
+  transform: translateX(-0.5em);
+  @include motion { transition: transform 0.45s var(--ease-out), opacity 0.3s; }
+  // sin hover (táctil) la flecha está siempre: se entiende que se toca
+  @media (hover: none) { opacity: 0.55; transform: none; }
 }
 @keyframes rise { from { opacity: 0; transform: translateY(0.6em); } to { opacity: 1; transform: none; } }
+
+// vista viva: la página real, a escala, dentro del renglón y debajo del nombre
+.live {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.45s var(--ease-out);
+  iframe { position: absolute; left: 0; top: 0; border: 0; max-width: none; transform-origin: 0 0; background: var(--c-anil); }
+  // velo: oscuro donde va el texto, abierto hacia la derecha para que se vea la página
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, color-mix(in oklch, var(--c-anil) 94%, transparent) 0%, color-mix(in oklch, var(--c-anil) 78%, transparent) 40%, color-mix(in oklch, var(--c-anil) 12%, transparent) 100%);
+  }
+}
+.link[data-live] {
+  .live { opacity: 1; }
+  &:hover { color: var(--c-hilo); }
+  .linkText, .linkNote, .num { text-shadow: 0 1px 14px var(--c-anil); }
+}
 
 .contact {
   width: min(100%, var(--max-w)); margin-inline: auto;
@@ -101,3 +222,10 @@
   @include label; font-size: var(--step-0);
   a { text-decoration: none; border-bottom: 1px solid currentColor; padding-block: 0.4rem; }
 }
+
+// botón de sonido: a la derecha, pegado al de menú
+.sound { margin-left: auto; display: inline-flex; }
+
+// la firma junto al nombre: se escribe al cargar
+.mark { display: inline-flex; align-items: center; gap: 0.55rem; }
+.markSig { width: 2.9rem; flex: none; margin-block: -0.5rem; }

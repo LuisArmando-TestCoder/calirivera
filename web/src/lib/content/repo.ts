@@ -14,6 +14,7 @@ import {
   type Page,
   type Person,
   type Post,
+  type PressArticle,
   type Program,
   type ProgramKind,
   type SiteSettings,
@@ -65,6 +66,8 @@ async function readAll<T extends Doc>(name: CollectionName): Promise<T[]> {
   return docs.sort((a, b) => (a.order ?? 1e9) - (b.order ?? 1e9));
 }
 
+// Ojo: con JSON local (sin Firebase), los alcances "use cache" de abajo no ven cambios hechos a mano en
+// ../content hasta reiniciar `npm run dev` (predev vuelve a copiar a .content). El CMS sí invalida por etiqueta (rev. 2).
 async function readOne<T extends Doc>(name: CollectionName, slug: string): Promise<T | null> {
   const all = await readAll<T>(name);
   return all.find((d) => d.slug === slug || d.id === slug) ?? null;
@@ -100,6 +103,13 @@ export async function getPage(slug: string): Promise<Page | null> {
   cacheLife("max");
   cacheTag(tagFor(COLLECTIONS.pages), tagFor(COLLECTIONS.pages, slug));
   return readOne<Page>(COLLECTIONS.pages, slug);
+}
+
+export async function listPages(): Promise<Page[]> {
+  "use cache";
+  cacheLife("max");
+  cacheTag(tagFor(COLLECTIONS.pages));
+  return readAll<Page>(COLLECTIONS.pages);
 }
 
 export async function listCollections(): Promise<Collection[]> {
@@ -170,6 +180,21 @@ export async function listPosts(kind?: ProgramKind): Promise<Post[]> {
   return all
     .filter((p) => !kind || p.programKind === kind)
     .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+}
+
+export async function listPress(): Promise<PressArticle[]> {
+  "use cache";
+  cacheLife("max");
+  cacheTag(tagFor(COLLECTIONS.press));
+  const all = await readAll<PressArticle>(COLLECTIONS.press);
+  return all.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+}
+
+export async function getPress(slug: string): Promise<PressArticle | null> {
+  "use cache";
+  cacheLife("max");
+  cacheTag(tagFor(COLLECTIONS.press), tagFor(COLLECTIONS.press, slug));
+  return readOne<PressArticle>(COLLECTIONS.press, slug);
 }
 
 export async function getPost(slug: string): Promise<Post | null> {

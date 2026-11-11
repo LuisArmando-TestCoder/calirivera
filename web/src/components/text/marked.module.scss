@@ -1,0 +1,21 @@
+@use "../../styles/tokens" as *;
+
+// Fechas: cifras de ancho fijo y el color de acento (se leen de un vistazo, como una línea de tiempo)
+.date {
+  font-variant-numeric: lining-nums tabular-nums;
+  font-weight: 600;
+  color: var(--c-accent, var(--c-azul));
+  white-space: nowrap;
+}
+// Lugares: un subrayado punteado discreto
+.place {
+  text-decoration: underline dotted;
+  text-decoration-color: color-mix(in oklch, currentColor 45%, transparent);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.22em;
+}
+// Obras y documentos: en itálica, como se citan los títulos
+.work {
+  font-style: italic;
+  font-weight: inherit;
+}

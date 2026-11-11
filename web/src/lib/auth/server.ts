@@ -1,7 +1,7 @@
 import "server-only";
 import { cookies, headers } from "next/headers";
 import { redirect } from "next/navigation";
-import { adminEmail, getSecret } from "./secret";
+import { editorEmails, getSecret } from "./secret";
 import { hashKey } from "./otp";
 import { HINT_COOKIE, SESSION_COOKIE, verifySession, type Session } from "./session";
 
@@ -10,7 +10,7 @@ export async function getSession(): Promise<Session | null> {
   const token = jar.get(SESSION_COOKIE)?.value;
   if (!token) return null;
   try {
-    return await verifySession(token, getSecret(), adminEmail());
+    return await verifySession(token, getSecret(), editorEmails());
   } catch {
     return null;
   }

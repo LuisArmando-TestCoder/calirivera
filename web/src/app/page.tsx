@@ -4,14 +4,14 @@ import { CollectionBanner } from "@/components/art/CollectionBanner";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
 import { ArtImage } from "@/components/media/ArtImage";
 import { NarrationSlot } from "@/components/narration/NarrationSlot";
-import { MemoriaTeaser } from "@/components/memoria/MemoriaTeaser";
+import { MemoriaTeaser, memoriaPicks } from "@/components/memoria/MemoriaTeaser";
 import { EditableList } from "@/components/cms/editable";
 import { getPage, getProgram, listCollections, listPosts } from "@/lib/content/repo";
 import { formatMonth } from "@/lib/format";
 import s from "./home.module.scss";
 
 export default async function Home() {
-  const [page, collections, posts, taller, incubadora, jovenes, colaboracion] = await Promise.all([
+  const [page, collections, posts, taller, incubadora, jovenes, colaboracion, mem] = await Promise.all([
     getPage("inicio"),
     listCollections(),
     listPosts(),
@@ -19,7 +19,37 @@ export default async function Home() {
     getProgram("incubadora"),
     getProgram("jovenes-talentos"),
     getProgram("colaboracion"),
+    memoriaPicks(),
   ]);
+  const thumbOf = (src: string, widths?: number[]) => {
+    const w = widths?.slice().sort((a, b) => a - b)[0];
+    return w && /-\d+\.jpg$/.test(src) ? src.replace(/-\d+\.jpg$/, `-${w}.webp`) : src;
+  };
+  const memoriaLink = mem.picks.length >= 3
+    ? {
+        count: mem.total,
+        thumbs: [mem.picks[0], mem.picks[Math.floor(mem.picks.length / 2)], mem.picks.at(-1)!].map((m) => ({
+          src: thumbOf(m.image.src, m.image.widths),
+          w: m.image.width ?? 400,
+          h: m.image.height ?? 400,
+        })),
+      }
+    : undefined;
+  // Escenario del hero: la portada de cada exposición (la más grande que no pase de 1600 px)
+  const best = (src: string, widths?: number[]) => {
+    const w = (widths ?? []).filter((x) => x <= 1600).sort((a, b) => b - a)[0];
+    return w && /-\d+\.jpg$/.test(src) ? src.replace(/-\d+\.jpg$/, `-${w}.webp`) : src;
+  };
+  const stage = collections
+    .filter((c) => c.cover && (c.cover.width ?? 0) >= 900 && !c.cover.aiAltered)
+    .map((c) => ({
+      src: best(c.cover!.src, c.cover!.widths),
+      w: c.cover!.width ?? 1200,
+      h: c.cover!.height ?? 1200,
+      title: c.title,
+      period: c.period,
+      href: `/colecciones/${c.slug}`,
+    }));
   const hero = page?.hero ?? { title: "Cali Rivera", subtitle: "El arte es para ser libres." };
   const statement = page?.sections.find((x) => x.id === "quien-es");
   const collIntro = page?.sections.find((x) => x.id === "colecciones");
@@ -28,7 +58,7 @@ export default async function Home() {
 
   return (
     <>
-      <Banners name={hero.title} tagline={hero.subtitle ?? ""} cta={hero.cta} path="pages/inicio#hero" />
+      <Banners name={hero.title} tagline={hero.subtitle ?? ""} cta={hero.cta} path="pages/inicio#hero" memoria={memoriaLink} stage={stage} />
 
       {statement && (
         <>

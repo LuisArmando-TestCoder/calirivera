@@ -1,0 +1,29 @@
+{
+ "id": "plegaria-trascendencia",
+ "slug": "plegaria-trascendencia",
+ "status": "published",
+ "title": "Trascendencia",
+ "collectionId": "plegaria",
+ "images": [
+  {
+   "src": "/media/memoria/2001-trascendencia-438.jpg",
+   "alt": "Trascendencia — Plegaria, el fuego como elemento, 2001",
+   "width": 438,
+   "height": 600,
+   "widths": [
+    438
+   ],
+   "placeholder": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdMoRwAkgAojefO+qZ9SSQLlgA/jNhNwUa8/WdedjT5YcP0xoUZwcyiC1UtVdEpC00Zfo8M/xNWet5ZKTyme4rMxvOCCYxgFDiC4zsM+Canl309PIo313LtReCOOHI6+dx0YS7VyuDyOF0Ts6Gx2Vkf1MLmhNwEmYdfba1a72BVIO56OXY784/cLtsfucDRSInfpqIdDRV9PwOyDpufcP9B6UDQofSi4AeLMFRKSCXdsiwRDEaQeoq1725pjIAAA==",
+   "color": "rgb(8 8 8)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 7,
+ "year": 2001,
+ "technique": "Acrílico",
+ "notes": "De «Plegaria, el fuego como elemento», Galería Nacional de Costa Rica, 2001. Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206210526id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/trascendencia.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

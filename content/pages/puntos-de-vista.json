@@ -1,0 +1,53 @@
+{
+ "id": "puntos-de-vista",
+ "slug": "puntos-de-vista",
+ "status": "published",
+ "createdAt": "2026-11-11T19:30:00Z",
+ "updatedAt": "2026-11-11T19:30:00Z",
+ "title": "Puntos de vista",
+ "description": "Crítica y prensa sobre la obra de Cali Rivera, de 1995 a 2011: lo que escribieron diarios, revistas y críticos.",
+ "hero": {
+  "title": "Puntos de vista",
+  "subtitle": "Crítica y prensa, 1995–2011"
+ },
+ "sections": [
+  {
+   "id": "intro",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "id": "pv-intro",
+     "lead": true,
+     "text": "Lo que otros vieron en la obra: notas de diarios y revistas, textos de críticos y reseñas de exposiciones, rescatadas del sitio original y ordenadas en el tiempo."
+    }
+   ]
+  },
+  {
+   "id": "archivo",
+   "title": "Solo en el archivo",
+   "layout": "auto",
+   "blocks": [
+    {
+     "type": "links",
+     "id": "pv-archivo",
+     "title": "Notas que solo quedan en el archivo de internet",
+     "items": [
+      {
+       "label": "Festival Fusión, Nicaragua",
+       "href": "https://web.archive.org/web/20161206134847/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/65-festival-fusion-nicaragua-2004.html",
+       "note": "Archivo del sitio original · 2004",
+       "kind": "external"
+      },
+      {
+       "label": "Entre luces y sueños, por Monthia Sancho",
+       "href": "https://web.archive.org/web/20161206133835/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/66-entre-luces-y-suenos-por-monthia-sancho.html",
+       "note": "Archivo del sitio original",
+       "kind": "external"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

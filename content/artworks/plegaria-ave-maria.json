@@ -1,0 +1,29 @@
+{
+ "id": "plegaria-ave-maria",
+ "slug": "plegaria-ave-maria",
+ "status": "published",
+ "title": "Ave María",
+ "collectionId": "plegaria",
+ "images": [
+  {
+   "src": "/media/memoria/2001-ave-maria-450.jpg",
+   "alt": "Ave María — Plegaria, el fuego como elemento, 2001",
+   "width": 450,
+   "height": 600,
+   "widths": [
+    450
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JQBdj+ABXNpciB20gkzsAAP3SQ/KxX7nXZRaMB2uXabUr8sjGbLlRRX3GOH7cqQqaSmEkqWkM+C4tqT0DKXQAOAAAAA==",
+   "color": "rgb(200 168 120)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 1,
+ "year": 2001,
+ "technique": "Acrílico",
+ "notes": "De «Plegaria, el fuego como elemento», Galería Nacional de Costa Rica, 2001. Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes. La obra incluye una variación musical del Ave María de Schubert interpretada por el artista.",
+ "sourceUrl": "https://web.archive.org/web/20161206133723id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/ave_maria.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

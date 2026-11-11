@@ -1,0 +1,29 @@
+{
+ "id": "atmosfera-viaje",
+ "slug": "atmosfera-viaje",
+ "status": "published",
+ "title": "Viaje",
+ "collectionId": "atmosfera",
+ "images": [
+  {
+   "src": "/media/memoria/1993-viaje-450.jpg",
+   "alt": "Viaje — Atmósfera, 1993. Tiza pastel sobre papel",
+   "width": 450,
+   "height": 322,
+   "widths": [
+    450
+   ],
+   "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoQAAsAA4BaJbACdAEN+ElCT71AAP7nbLEuYBjfgJmmuwLb8K3YcS6xwH/YGzBAAAA=",
+   "color": "rgb(56 168 200)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 8,
+ "year": 1993,
+ "technique": "Tiza pastel sobre papel",
+ "notes": "Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161207015346id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/viaje.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

@@ -2,7 +2,7 @@ import "server-only";
 import { getStore } from "@/lib/cms/store";
 import { rateLimit, retryText } from "@/lib/cms/rateLimit";
 import { checkCode, generateCode, hashKey, MAX_ATTEMPTS, newStoredCode, type StoredCode } from "./otp";
-import { adminEmail, getSecret } from "./secret";
+import { getSecret, isEditor } from "./secret";
 import { sendLoginCode } from "./mail";
 
 export type RequestResult = { ok: true } | { ok: false; error: string };
@@ -11,7 +11,7 @@ export type VerifyResult = { ok: true } | { ok: false; error: string; reason: "i
 const normEmail = (e: string) => e.trim().toLowerCase();
 const isEmail = (e: string) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e);
 
-/** Same answer whether or not the e-mail is the admin's (no account enumeration). */
+/** Same answer whether or not the e-mail is an editor's (no account enumeration). */
 export async function requestCode(emailRaw: string, ipKey: string): Promise<RequestResult> {
   const email = normEmail(emailRaw);
   if (!isEmail(email)) return { ok: false, error: "Ese correo no parece válido." };
@@ -21,7 +21,7 @@ export async function requestCode(emailRaw: string, ipKey: string): Promise<Requ
   const byEmail = await rateLimit("codeRequestEmail", hashKey(`email:${email}`, secret));
   if (!byEmail.allowed) return { ok: false, error: `Ya pediste varios códigos. Probá de nuevo ${retryText(byEmail.retryAfterMs)}.` };
 
-  if (email !== adminEmail()) return { ok: true };
+  if (!isEditor(email)) return { ok: true };
 
   const code = generateCode();
   await getStore().set("authCodes", hashKey(`code:${email}`, secret), { ...newStoredCode(code, email, secret) });

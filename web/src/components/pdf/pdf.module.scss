@@ -1,0 +1,247 @@
+@use "../../styles/tokens" as *;
+
+// Sala de lectura: fondo de tinta, páginas como papel. Doble página = libro abierto con su lomo.
+.dialog {
+  @include tone(ink);
+  width: 100vw;
+  height: 100svh;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--c-bg);
+  color: var(--c-fg);
+  &::backdrop { background: oklch(10% 0.03 272 / 0.88); }
+  &[open] {
+    @include motion { animation: lector 0.5s cubic-bezier(0.16, 1, 0.3, 1); }
+  }
+}
+@keyframes lector {
+  from { opacity: 0; transform: translateY(2rem) scale(0.985); }
+}
+
+.book {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  height: 100%;
+  background:
+    radial-gradient(120% 80% at 50% 0%, oklch(100% 0 0 / 0.05), transparent 60%),
+    var(--c-bg);
+  &[data-mode="inline"] {
+    @include tone(ink);
+    height: min(88svh, 62rem);
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2rem 5rem -2rem oklch(0% 0 0 / 0.55);
+  }
+}
+
+.bar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs) var(--space-m);
+  padding: var(--space-xs) var(--gutter);
+  border-bottom: 1px solid var(--c-linea);
+  background: color-mix(in oklch, var(--c-bg) 90%, transparent);
+}
+.name {
+  @include text;
+  font-style: italic;
+  font-size: var(--step-1);
+  flex: 1 1 14rem;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.counter {
+  @include label;
+  color: var(--c-muted);
+  font-variant-numeric: tabular-nums;
+  span { color: var(--c-fg); }
+}
+.tools {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+  button, a {
+    @include label;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0 0.8em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4em;
+    border-radius: 999px;
+    border: 1px solid var(--c-linea);
+    background: transparent;
+    color: var(--c-fg);
+    text-decoration: none;
+    cursor: pointer;
+    &:hover:not(:disabled), &:focus-visible { border-color: var(--c-accent); color: var(--c-accent); }
+    &:disabled { opacity: 0.35; cursor: default; }
+  }
+  kbd { font: inherit; opacity: 0.6; }
+}
+.text { padding: 0 1.1em !important; }
+.progress {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 2px;
+  background: var(--c-accent);
+  transform-origin: left;
+  transition: transform 0.3s;
+}
+
+.scroll {
+  container-type: size; // el alto disponible decide el tamaño de la página (100cqh)
+  overflow: auto;
+  overscroll-behavior: contain;
+  outline: none;
+  padding: var(--space-l) var(--gutter) var(--space-3xl);
+  scroll-padding-top: var(--space-m);
+  &:focus-visible { box-shadow: inset 0 0 0 2px var(--c-accent); }
+}
+.error { text-align: center; padding: var(--space-2xl) 0; a { color: var(--c-accent); } }
+
+// por defecto el pliego entero cabe en el alto disponible; el zoom agranda desde ahí
+.pages {
+  --cols: 1;
+  --fit: calc((100cqh - 2 * var(--space-l)) / var(--ratio) * var(--cols));
+  --w: calc(min(100cqw - 2 * var(--gutter), var(--fit)) * var(--zoom));
+  display: grid;
+  justify-items: center;
+  gap: var(--space-l);
+  width: max-content;
+  min-width: 100%;
+  &[data-spread] { --cols: 2; }
+}
+.row {
+  width: var(--w);
+  display: grid;
+  grid-template-columns: 1fr;
+  .pages[data-spread] & {
+    grid-template-columns: 1fr 1fr;
+    // el lomo
+    position: relative;
+    &:not([data-single])::after {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 50%;
+      width: 3rem;
+      translate: -50% 0;
+      pointer-events: none;
+      background: linear-gradient(90deg, transparent, oklch(0% 0 0 / 0.16) 45%, oklch(0% 0 0 / 0.22) 50%, oklch(0% 0 0 / 0.16) 55%, transparent);
+    }
+    &[data-cover] .page { grid-column: 2; }
+  }
+}
+.page {
+  position: relative;
+  margin: 0;
+  width: 100%;
+  aspect-ratio: 1 / var(--ratio);
+  background: oklch(97% 0.005 80);
+  box-shadow: 0 1.2rem 2.6rem -1.2rem oklch(0% 0 0 / 0.6), 0 0 0 1px oklch(0% 0 0 / 0.08);
+  overflow: hidden;
+  canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    @include motion { transition: opacity 0.5s ease-out; }
+  }
+  &[data-ready] canvas { opacity: 1; }
+  // mientras llega: papel con un brillo que pasa
+  &:not([data-ready])::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(100deg, transparent 30%, oklch(100% 0 0 / 0.5) 50%, transparent 70%) -100% 0 / 200% 100% no-repeat;
+    @include motion { animation: papel 1.6s infinite; }
+  }
+}
+@keyframes papel { to { background-position: 100% 0; } }
+.pageNo {
+  position: absolute;
+  right: 0.6rem;
+  bottom: 0.4rem;
+  @include label;
+  font-size: var(--step--2);
+  color: oklch(40% 0 0 / 0.6);
+  .page[data-ready] & { opacity: 0; }
+}
+
+.inline { margin-block: var(--space-xl); }
+.inlinePlaceholder {
+  display: grid;
+  place-items: center;
+  height: min(88svh, 62rem);
+  @include label;
+  border: 1px dashed var(--c-linea);
+  color: inherit;
+}
+
+// El libro 3D: mesa de tinta con una luz cálida desde arriba a la izquierda
+.stage {
+  position: relative;
+  min-height: 0;
+  outline: none;
+  background:
+    radial-gradient(60% 55% at 42% 38%, oklch(42% 0.06 60 / 0.35), transparent 70%),
+    radial-gradient(120% 90% at 50% 120%, oklch(8% 0.02 272), transparent 60%);
+  cursor: default;
+  &:focus-visible { box-shadow: inset 0 0 0 2px var(--c-accent); }
+}
+.stageNote { position: absolute; inset: 0; display: grid; place-items: center; @include label; color: var(--c-muted); }
+.scroll[hidden] { display: none; }
+
+// ---------- libro: ayudas de interacción ----------
+.stageHint {
+  position: absolute;
+  left: 50%;
+  bottom: 4.4rem;
+  translate: -50% 0;
+  width: max-content;
+  max-width: 92%;
+  text-align: center;
+  @include label;
+  color: #fff;
+  opacity: 0;
+  pointer-events: none;
+  // aparece cuando el libro ya se abrió, se queda un momento y se va
+  @include motion { animation: hint 8s ease 3.4s both; }
+}
+@keyframes hint { 0% { opacity: 0; } 10%, 75% { opacity: 0.65; } 100% { opacity: 0; } }
+.hintCoarse { display: none; }
+@media (pointer: coarse) { .hintFine { display: none; } .hintCoarse { display: inline; } }
+.stageZoom {
+  position: absolute;
+  left: 50%;
+  bottom: max(0.9rem, env(safe-area-inset-bottom));
+  translate: -50% 0;
+  display: flex;
+  gap: 0.2rem;
+  padding: 0.25rem;
+  border-radius: 999px;
+  background: oklch(10% 0.02 272 / 0.6);
+  backdrop-filter: blur(10px);
+  border: 1px solid oklch(100% 0 0 / 0.18);
+  button {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 0;
+    background: transparent;
+    color: #fff;
+    font: 300 1.4rem/1 var(--font-display);
+    cursor: pointer;
+    &:hover, &:focus-visible { background: oklch(100% 0 0 / 0.14); }
+  }
+}

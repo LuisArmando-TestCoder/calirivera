@@ -6052,5 +6052,160 @@
   "color": "rgb(248 248 248)",
   "lowRes": true,
   "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/arcangel-miguel.png": {
+  "src": "/media/la-cofradia/arcangel-miguel-972.jpg",
+  "widths": [
+   640,
+   972
+  ],
+  "width": 972,
+  "height": 1866,
+  "placeholder": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABwBACdASoQAB8APu1iqU2ppaOiMAgBMB2JYgCw7Yxus7KQNueYMoxCrUmbAAD+/jBmm8q0V93f8O+06QWSzY5QjQ5EcXjhzhaf562v1KMg7sm11/0QnQit0mA1leoo1+gdU025c1i6k9Dwu6Hh9qF29FCtr34MYkfMege67TSB2aCcEN43QSUXuQZNZqpF3v4M5NuWKfldZ1ORStZGgMa4f5RW5II/mKQ2V1fbhAjT7NYCmmjlvzsVQ5khFHL4Dwj5xCrwWa9gs8OAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/arcangel-rafael.png": {
+  "src": "/media/la-cofradia/arcangel-rafael-1177.jpg",
+  "widths": [
+   640,
+   1177
+  ],
+  "width": 1177,
+  "height": 1835,
+  "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBACdASoQABkAPu1iqU2ppaOiMAgBMB2JYwCdIHCmAKDIYeYF6T7APWWC2YVaAAD+8IdOxewGn9RlGBb/JPq8s3nOrXnYgtFtjLLDljqutz1M+WPZ1ZjGcvlX3nr7TN7xpHythCbdiUbZoqqAP/CaZETgREdBzoru16OlHJhuW3BX1jiCKqJ85B5J+2SdbIyLOVz1rXtr8XGp2JNI8ZlsPl6GBgAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/arcangel-gabriel.png": {
+  "src": "/media/la-cofradia/arcangel-gabriel-1490.jpg",
+  "widths": [
+   640,
+   1280,
+   1490
+  ],
+  "width": 1490,
+  "height": 2683,
+  "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoQAB0APu1kqk4ppaQiMAgBMB2JZQC26JPgrhNSBZYK2TQ6JaptxgAA/uuwmqke+H+sO9wN+mvu2PH9O0Kq7gq1PYjb2bjEvqArcmFmW1KxeDQe/KzqQu+7hYkQvVnQXp2Y77364A1pO2d0xF/3AB2pucP41rihpEvK0R65qA/hu+4BpCFZ0oG+kP/wQat8XzRInzoQ8VniSQG8Ow48Z/7LSczF0/h3+yDNPZbaJFl3D/+W+HeDw1AA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/caliz.png": {
+  "src": "/media/la-cofradia/caliz-1090.jpg",
+  "widths": [
+   640,
+   1090
+  ],
+  "width": 1090,
+  "height": 2602,
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASoQACYAPu1qqE8ppiOiKqwBMB2JYwCdIExqQPdcWpSNJdVaQ2Pm+ps3FThpAAD+83sHzHGxSMtTA0hH3KY68QErHk698MDKEN8MAQNb/sfpkebkh8kw3/deW+8wz/e3D9hbnVfK9gEMEgngrX59Q5xKRT80sM7ki2E0zjxpOgLc5HZBulwqTNFtiBrFP3hjfzhGQXe8qWKREqttji2j7s4MKooR3fgcq2aVZQGr7WsTmON7/SLAn2CF+Z9PcAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/el-ojo-del-cosmos.png": {
+  "src": "/media/la-cofradia/el-ojo-del-cosmos-1182.jpg",
+  "widths": [
+   640,
+   1182
+  ],
+  "width": 1182,
+  "height": 1148,
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoQABAAA4BaJagCdAYtVlVlQoSeuiQAAP7ykGLpvzZzOXx+IFw9dz4HOMHLNvbBg0uyu2I19Nf2jyroYEPx1jbAi1tyz8DH33uEzwdIIIlkrGDqk7B9ZPElUKfZOBXA9a9GYOAnIL8/VPyTkwUWgS26/hovAves3ztlpQ03zxJ453QXZAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/plegaria-por-los-cristianos.png": {
+  "src": "/media/la-cofradia/plegaria-por-los-cristianos-1057.jpg",
+  "widths": [
+   640,
+   1057
+  ],
+  "width": 1057,
+  "height": 955,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAA4AA4BaJbACdAEQZdQxiQZMAADOJD9GUpmU4YZF1/a4VrDgP15MPtl3vXipdr8gc3BxpRHZIPw/d1mgCAbXbyn1JDgR59Gw/myeU/7Hm7L8wiRlb6kNh63BOp/RbkN//c7agAFb3cPIAAA=",
+  "color": "rgb(248 232 216)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/los-ausentes.png": {
+  "src": "/media/la-cofradia/los-ausentes-1452.jpg",
+  "widths": [
+   640,
+   1280,
+   1452
+  ],
+  "width": 1452,
+  "height": 1758,
+  "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAACwBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdL14UAIL0Vz71PkffQd2bHRbUAP7KgSfi0v0Zz6EmnqLxMfIXbDg07Yr5U8vsfUDxgbxdHbnBxbbAFwI64LHhRJht9acZdDyVlfdIcgXPl+tg0fbpoF6q8N7z/ecyqbRsl66reW/Ua9Heb+IIaTSIOe6hgpVH2LEMH5E4Wpg1gAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/catalogos/la-cofradia/mariposa-de-la-libertad.png": {
+  "src": "/media/la-cofradia/mariposa-de-la-libertad-1350.jpg",
+  "widths": [
+   640,
+   1280,
+   1350
+  ],
+  "width": 1350,
+  "height": 1870,
+  "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdABuMQ02dy3K3C/KdKg4AAP3iciNE+ze0inW1urq3PRwZGtq8rUxWUb4zNfZ9de54mq8cFdMRb8xF1cZU08cAyJumLRIsF+CB9bkItMvM0MHal/aunRxA5Ecf/NgL3XEdJRQ4hNQ0whTpzKbzWKp/8ebXsoIag6FGS8ydmcOY1d04jLNE1cPncMAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": false,
+  "aiAltered": false
+ },
+ "legacy/assets/prensa/1057779.jpg": {
+  "src": "/media/prensa/1057779-250.jpg",
+  "widths": [
+   250
+  ],
+  "width": 250,
+  "height": 192,
+  "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoQAAwAA4BaJbACdDiKxyh3RQIOZMAA+yP7+BHFJPbs+Au5NOn5fMWBjkR/Le6Z6hjtTDkIRHRXYgbit78lv4I5UZvgpkAREh7/JymDGXUHNmWYOudJe+rA5KcK3uj2oau+3IaGDXt1Q+/UbC49tdXSQT1gXcAA",
+  "color": "rgb(248 248 232)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/prensa/arte.jpg": {
+  "src": "/media/prensa/arte-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 180,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQABAAA4BaJbACdAEfq/2rxyP/l2AA/uulqsjdrEhHonTIr5k/A5HQwgHreVPCHPD2rUMUrszV2jaXsjzTpXQFxlHshVHRy6O0bu1W2T/Zhr83Xcc0Vh2LnDvOsFw4X8iWjR3HozPKKJQJl99u584DCwAAAA==",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/prensa/breves.jpg": {
+  "src": "/media/prensa/breves-180.jpg",
+  "widths": [
+   180
+  ],
+  "width": 180,
+  "height": 180,
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoQABAAA4BaJbACdH8EwZjlLNo9koSiBwAA/umvzwq6p154kSCFvESh3qzG2+0+6Oy83ypGtBlTVL3+ogb62D95mDT5EseKPue/X1waQgEyrvFy8xhUmd4X/T9TUZY1Yujy3ZZepSifMWWYcXKQxet963Z4uLnvLue38UwURq2S59GMCT0SJe/FfQN/AAAA",
+  "color": "rgb(248 248 248)",
+  "lowRes": true,
+  "aiAltered": false
+ },
+ "legacy/assets/prensa/informatico6.jpg": {
+  "src": "/media/prensa/informatico6-280.jpg",
+  "widths": [
+   280
+  ],
+  "width": 280,
+  "height": 200,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAsAA4BaJbACdADp9Foly2iwAP72rtUjA5wpk3NKifyN+zdGCCz6GNhhzdpg0Cba35NrP+LvYKnZEwG5LSxAG4/5Qbh2Vadq2dVQWIOgBbgstJD7WYibOAAuLyMDuxzrgtRKOK7rwlgA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true,
+  "aiAltered": false
  }
 }

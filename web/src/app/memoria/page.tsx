@@ -39,11 +39,12 @@ export default async function Memoria() {
           </span>
         </h1>
         <p className={s.lead}>
-          {memories.length} fotos rescatadas del sitio de siempre{first && last ? `, de ${first} a ${last}` : ""}. Pasá el cursor —o el dedo— por
-          encima: el color vuelve donde la memoria se toca.
+          {words(
+            `${memories.length} fotos rescatadas del sitio de siempre${first && last ? `, de ${first} a ${last}` : ""}. Como el Taller después del incendio de 2017, cada una vuelve de la ceniza al llegar.`,
+          )}
         </p>
         <p className={s.hint}>
-          Arrastrá para recorrer los años · <kbd>←</kbd> <kbd>→</kbd> para moverse entre fotos · <kbd>Enter</kbd> para abrir
+          Bajá (o arrastrá de lado) para recorrer los años · <kbd>←</kbd> <kbd>→</kbd> entre fotos · <kbd>Enter</kbd> para abrir · <kbd>+</kbd> <kbd>−</kbd> abajo para acercar o alejar
         </p>
       </header>
 
@@ -62,6 +63,9 @@ export default async function Memoria() {
               data-year-block={y.key}
               aria-labelledby={`yh${y.key}`}
             >
+              <span className={s.ghost} aria-hidden data-ghost>
+                {y.year !== null ? y.label : "s/f"}
+              </span>
               <h2 id={`yh${y.key}`} className={s.yearHead}>
                 <span className={s.yearNum}>{y.label}</span>
                 <span className={s.yearCount}>
@@ -71,7 +75,7 @@ export default async function Memoria() {
               </h2>
               <EditableList path="memories" itemType="memory" className={s.loom}>
                 {y.items.map((p) => (
-                  <MemoryCard key={p.memory.id} p={p} priority={n++ < 3} />
+                  <MemoryCard key={p.memory.id} p={p} index={++n} priority={n <= 3} />
                 ))}
               </EditableList>
             </section>
@@ -88,5 +92,16 @@ export default async function Memoria() {
         </p>
       </footer>
     </div>
+  );
+}
+
+/** Cada palabra en su span (se enfocan una a una); el texto sigue siendo uno solo para lectores de pantalla. */
+function words(text: string) {
+  return text.split(/(\s+)/).map((w, i) =>
+    /^\s+$/.test(w) ? w : (
+      <span key={i} className={s.word} style={{ "--w": i / 2 } as React.CSSProperties}>
+        {w}
+      </span>
+    ),
   );
 }

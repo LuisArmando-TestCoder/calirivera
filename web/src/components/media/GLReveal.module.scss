@@ -1,0 +1,12 @@
+// La capa del canvas va por encima de las imágenes (que se esconden mientras el GPU las dibuja)
+// pero dentro del contexto de apilamiento del grupo: menús y encabezado siguen encima.
+.root { position: relative; isolation: isolate; }
+.layer {
+  position: fixed;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  :global(canvas) { display: block; }
+}
+.root[data-gl-on] :global([data-mem]:not([data-gl-skip])) img:not([aria-hidden]) { visibility: hidden; }
+.root[data-gl-on] :global([data-mem][data-gl-ready]:not(:has(> img[aria-hidden]))) { background: none; box-shadow: none; }

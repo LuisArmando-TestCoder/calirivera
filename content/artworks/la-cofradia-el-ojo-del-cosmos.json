@@ -1,0 +1,28 @@
+{
+ "id": "la-cofradia-el-ojo-del-cosmos",
+ "slug": "la-cofradia-el-ojo-del-cosmos",
+ "status": "published",
+ "title": "El ojo del cosmos",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/la-cofradia/el-ojo-del-cosmos-1182.jpg",
+   "widths": [
+    640,
+    1182
+   ],
+   "width": 1182,
+   "height": 1148,
+   "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoQABAAA4BaJagCdAYtVlVlQoSeuiQAAP7ykGLpvzZzOXx+IFw9dz4HOMHLNvbBg0uyu2I19Nf2jyroYEPx1jbAi1tyz8DH33uEzwdIIIlkrGDqk7B9ZPElUKfZOBXA9a9GYOAnIL8/VPyTkwUWgS26/hovAves3ztlpQ03zxJ453QXZAA=",
+   "color": "rgb(248 248 248)",
+   "alt": "El ojo del cosmos — La Cofradía, 2017"
+  }
+ ],
+ "aiAltered": false,
+ "order": 1,
+ "year": 2017,
+ "technique": "Mixta sobre objeto, intervenido con pedrería, pintura y resina",
+ "dimensions": "130 cm de diámetro",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "la-cofradia-arcangel-miguel",
+ "slug": "la-cofradia-arcangel-miguel",
+ "status": "published",
+ "title": "Arcángel Miguel",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/la-cofradia/arcangel-miguel-972.jpg",
+   "widths": [
+    640,
+    972
+   ],
+   "width": 972,
+   "height": 1866,
+   "placeholder": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABwBACdASoQAB8APu1iqU2ppaOiMAgBMB2JYgCw7Yxus7KQNueYMoxCrUmbAAD+/jBmm8q0V93f8O+06QWSzY5QjQ5EcXjhzhaf562v1KMg7sm11/0QnQit0mA1leoo1+gdU025c1i6k9Dwu6Hh9qF29FCtr34MYkfMege67TSB2aCcEN43QSUXuQZNZqpF3v4M5NuWKfldZ1ORStZGgMa4f5RW5II/mKQ2V1fbhAjT7NYCmmjlvzsVQ5khFHL4Dwj5xCrwWa9gs8OAAAA=",
+   "color": "rgb(248 248 248)",
+   "alt": "Arcángel Miguel — La Cofradía, 2017"
+  }
+ ],
+ "aiAltered": false,
+ "order": 5,
+ "year": 2017,
+ "technique": "Mixta sobre objeto, intervenido con pedrería, pintura y resina",
+ "dimensions": "30 × 60 cm",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

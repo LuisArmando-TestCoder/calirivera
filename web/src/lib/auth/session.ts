@@ -25,12 +25,14 @@ export async function signSession(email: string, secret: string, ttlS = SESSION_
     .sign(key(secret));
 }
 
-export async function verifySession(token: string | undefined, secret: string, adminEmail: string): Promise<Session | null> {
+/** `allowed`: el correo (o la lista de correos) que puede tener sesión. Quitar a alguien de la lista le cierra la sesión. */
+export async function verifySession(token: string | undefined, secret: string, allowed: string | readonly string[]): Promise<Session | null> {
   if (!token) return null;
   try {
     const { payload } = await jwtVerify(token, key(secret), { issuer: "calirivera-cms", algorithms: ["HS256"] });
-    if (payload.role !== "admin" || payload.sub?.toLowerCase() !== adminEmail) return null;
-    return { email: payload.sub, role: "admin", iat: payload.iat ?? 0, exp: payload.exp ?? 0 };
+    const sub = payload.sub?.toLowerCase();
+    if (payload.role !== "admin" || !sub || !(typeof allowed === "string" ? [allowed] : allowed).includes(sub)) return null;
+    return { email: sub, role: "admin", iat: payload.iat ?? 0, exp: payload.exp ?? 0 };
   } catch {
     return null;
   }

@@ -30,6 +30,9 @@ describe("session cookie", () => {
     expect(await verifySession(t, "y".repeat(48), "arte@calirivera.com")).toBeNull();
     expect(await verifySession(t.slice(0, -2) + "aa", SECRET, "arte@calirivera.com")).toBeNull();
     expect(await verifySession(undefined, SECRET, "arte@calirivera.com")).toBeNull();
+    // varios editores: vale cualquiera de la lista, y nadie fuera de ella
+    expect((await verifySession(t, SECRET, ["otro@x.com", "arte@calirivera.com"]))?.email).toBe("arte@calirivera.com");
+    expect(await verifySession(t, SECRET, ["otro@x.com"])).toBeNull();
     const expired = await signSession("arte@calirivera.com", SECRET, -10);
     expect(await verifySession(expired, SECRET, "arte@calirivera.com")).toBeNull();
   });

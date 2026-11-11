@@ -37,6 +37,7 @@ export function MotionRoot() {
 
       const touch = matchMedia("(pointer: coarse)").matches;
       const lenis = touch ? null : new Lenis({ duration: 1.15, smoothWheel: true });
+      (window as unknown as { __lenis?: unknown }).__lenis = lenis ?? undefined; // RouteEffects la frena al navegar
       const raf = (t: number) => lenis?.raf(t * 1000);
       if (lenis) {
         lenis.on("scroll", ScrollTrigger.update);
@@ -116,7 +117,7 @@ export function MotionRoot() {
 
       cleanup = () => {
         ctx.revert();
-        if (lenis) { gsap.ticker.remove(raf); lenis.destroy(); }
+        if (lenis) { gsap.ticker.remove(raf); lenis.destroy(); delete (window as unknown as { __lenis?: unknown }).__lenis; }
         removeEventListener("scroll", onNative);
       };
     };

@@ -7,7 +7,7 @@
  "order": 50,
  "image": {
   "src": "/media/memoria/2000-madre-tierra-1080.jpg",
-  "alt": "Madre tierra",
+  "alt": "Madre Tierra",
   "width": 1080,
   "height": 1456,
   "widths": [
@@ -22,7 +22,7 @@
  "kind": "obra",
  "source": "sitio-actual",
  "aiAltered": true,
- "title": "Madre tierra",
+ "title": "Madre Tierra",
  "year": 2000,
  "yearApprox": true,
  "collectionId": "detras-de-la-ventana",

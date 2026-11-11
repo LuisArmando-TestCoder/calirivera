@@ -11,7 +11,7 @@ import { useSyncExternalStore } from "react";
 const EditorOverlay = dynamic(() => import("./EditorOverlay"), { ssr: false });
 
 const subscribe = () => () => {};
-const hasHint = () => /(?:^|;\s*)cr_admin=1(?:;|$)/.test(document.cookie);
+const hasHint = () => window.top === window && /(?:^|;\s*)cr_admin=1(?:;|$)/.test(document.cookie);
 
 export function CmsBoot() {
   // No usePathname here: this sits in the root layout and must not make routes dynamic.

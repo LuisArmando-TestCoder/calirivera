@@ -3,12 +3,13 @@
  "slug": "musas-del-cantaro",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-11T18:00:00Z",
  "title": "Musas del Cántaro",
  "artworkIds": [
   "musas-del-cantaro-01",
   "musas-del-cantaro-02",
-  "musas-del-cantaro-03"
+  "musas-del-cantaro-03",
+  "musas-del-cantaro-musa-mixta"
  ],
  "order": 1,
  "period": "1995–1996",

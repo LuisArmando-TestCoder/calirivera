@@ -3,7 +3,7 @@
  "slug": "manifiesto",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-11T19:10:00Z",
  "title": "Manifiesto",
  "description": "Mi visión: el texto de Cali Rivera sobre el arte, la paz y la unidad.",
  "hero": {
@@ -20,10 +20,10 @@
      "title": "Mi visión",
      "author": "Cali Rivera",
      "lines": [
-      "Soy artista,",
-      "me decidí por el arte desde que soy un niño y con el paso del tiempo he ido descubriendo sus bemoles.",
-      "Trato de dar siempre lo mejor de mí como ser humano consiente de la realidad que como humanidad vivimos,",
-      "quiero ser una voz más de ese gran coro que entona un mensaje de paz y unidad entre todos los seres de este planeta,",
+      "Soy artista:",
+      "me decidí por el arte desde que era niño y, con el paso del tiempo, he ido descubriendo sus bemoles.",
+      "Trato de dar siempre lo mejor de mí como ser humano consciente de la realidad que vivimos como humanidad;",
+      "quiero ser una voz más de ese gran coro que entona un mensaje de paz y unidad entre todos los seres de este planeta:",
       "ese es mi mayor interés en la vida."
      ]
     }
@@ -31,95 +31,129 @@
   },
   {
    "id": "historia",
-   "layout": "editorial-columns",
+   "layout": "chronicle",
    "tone": "paper",
    "blocks": [
     {
      "type": "paragraph",
-     "id": "man-2",
-     "text": "Canté desde la edad de 4 años en festivales infantiles y colegiales en programitas de radio y televisión, componía y mandaba a concurso mis canciones desde jovencito, hasta que en 1989, siendo ya mayor de edad, clasifiqué para el festival OTI Era muy joven y siempre he tenido pánico escénico, pero fue una gran experiencia, clasifiqué en un grupo de 266 entre los mejores 26 cantantes y al final, la ganadora de la gran final nacional, la cantante Grace Abarca, que dicho sea de paso, es una gran cantante, me descalificó. Es de entender, pues ella sí es una cantante profesional."
+     "id": "historia-1",
+     "text": "Canté desde los 4 años en festivales infantiles y colegiales, y en programitas de radio y televisión. Desde jovencito componía y mandaba mis canciones a concurso, hasta que en 1989, siendo ya mayor de edad, clasifiqué para el festival OTI."
     },
     {
      "type": "paragraph",
-     "id": "man-3",
-     "text": "Luego de esa maravillosa experiencia estuve un tiempo viviendo en los Estados Unidos en la ciudad de Los Ángeles y allí conocí las mieles de la producción de cine y televisión, trabajando en varias películas y comerciales, fue un tiempo muy entretenido. Películas como “Duro de matar 2”, “La Lambada el baile prohibido”, El 35 aniversario de Disney Land, el comercial del censo # 90 de los Ángeles, California, entre otras producciones, algunas de las muchas en las que trabajé como extra, antes de volver a Costa Rica a continuar mi carrera en publicidad y ayudar en una empresa de mi familia, una gasolinera."
+     "id": "historia-2",
+     "text": "Era muy joven y siempre he tenido pánico escénico, pero fue una gran experiencia: de un grupo de 266, clasifiqué entre los 26 mejores cantantes. Al final, la ganadora de la gran final nacional, la cantante Grace Abarca —que, dicho sea de paso, es una gran cantante—, me descalificó. Es de entender, pues ella sí es una cantante profesional."
     },
     {
      "type": "paragraph",
-     "id": "man-4",
-     "text": "En el año 1995, mientras me encontraba recorriendo Europa, viví una situación muy especial en Berlín estando frente al entonces recién demolido Muro, un grupo de xenófobos, trataron de atacarnos y yo no supe de dónde, tomé fuerzas para enfrentarlos y no salir huyendo y entonces, algo pasó en ese momento,que me marcó e hizo que mi rumbo de vida cambiara y como ciudadano del mundo que me sentí, inicié un proyecto de vida para poder enviar un mensaje de unidad entre todos los seres humanos, decidí ser una voz de cambio."
+     "id": "historia-3",
+     "text": "Luego de esa maravillosa experiencia viví un tiempo en Estados Unidos, en la ciudad de Los Ángeles, y allí conocí las mieles de la producción de cine y televisión. Trabajé como extra en varias películas y comerciales —«Duro de matar 2», «Lambada, el baile prohibido», el 35 aniversario de Disneyland, el comercial del censo 90 de Los Ángeles, entre otras producciones—; fue un tiempo muy entretenido. Después volví a Costa Rica a continuar mi carrera en publicidad y a ayudar en una empresa de mi familia, una gasolinera."
     },
     {
      "type": "paragraph",
-     "id": "man-5",
-     "text": "El arte fue esa herramienta que utilicé y utilizo desde entonces para lograr mi Misión de Vida."
+     "id": "historia-4",
+     "text": "En 1995, mientras recorría Europa, viví una situación muy especial en Berlín, frente al Muro recién demolido: un grupo de xenófobos trató de atacarnos y yo, no sé de dónde, tomé fuerzas para enfrentarlos en lugar de salir huyendo. Algo pasó en ese momento que me marcó y cambió el rumbo de mi vida. Como el ciudadano del mundo que me sentí, inicié un proyecto de vida para enviar un mensaje de unidad entre todos los seres humanos: decidí ser una voz de cambio.",
+     "lead": true
     },
     {
      "type": "paragraph",
-     "id": "man-6",
-     "text": "Siempre, desde que era un niño, mi imaginación fue una gran herramienta, tenía mil nombres, una amiga imaginaria que a mis 4 años jugaba conmigo en el jardín construyendo cementerios la llamaba “mi mamá virgen” y fue por medio del recuerdo que tenía de ella que inicié con el discurso de los Elementos, siendo la Tierra el primero de ellos mi primer elemento a trabajar, con una serie de obras al óleo cuyo discurso reza: \" mujeres de colores en un planeta sin fronteras, sin guerras”. Utópica visión reflejada en seres oníricos de meditación disfrazada, imágenes que gritan tolerancia a través de la entrega y el silencio, reflejando el lado femenino de la humanidad."
+     "id": "historia-5",
+     "text": "El arte fue la herramienta que utilicé —y que utilizo desde entonces— para cumplir mi misión de vida."
     },
     {
      "type": "paragraph",
-     "id": "man-7",
-     "text": "La espiritualidad es la que mueve el Todo, la esperanza para el siglo que empezamos\" - Cali Rivera, 2000 -. Para poder exponer estas obras tuve que acondicionar mi taller de trabajo como galería, pues no tenía espacio donde exponer un trabajo tan romántico. Desde ese entonces mi carrera dio otro giro, en el año 1999 había recibido el mensaje del Papa Juan Pablo II mediante su carta a los artistas la carta a los artistas y ese documento era la confirmación para seguir mi camino como lo había decidido pues invitaba a los artistas cristianos del mundo a redescubrir la dimensión espiritual que hay en el arte, entonces compraba telas por montones y empecé a trabajar haciendo banderas de oración inspirado en las banderas tibetanas; en el año 2001 la Galería Nacional acogió el proyecto del Fuego como Elemento y en el 2003 el del Aire, una colección de 9 estandartes que ya estaban terminados y tuve la dicha de tener una gran exposición en parques y plazas avalado por esta importante Galería."
+     "id": "historia-6",
+     "text": "Desde niño, mi imaginación fue una gran herramienta. Tenía una amiga imaginaria de mil nombres que, a mis 4 años, jugaba conmigo en el jardín construyendo cementerios; yo la llamaba «mi mamá virgen». A partir del recuerdo que tenía de ella inicié el discurso de los Elementos. La Tierra fue el primero que trabajé, con una serie de obras al óleo cuyo discurso reza: «Mujeres de colores en un planeta sin fronteras, sin guerras. Utópica visión reflejada en seres oníricos de meditación disfrazada, imágenes que gritan tolerancia a través de la entrega y el silencio, reflejando el lado femenino de la humanidad. La espiritualidad es la que mueve el Todo, la esperanza para el siglo que empezamos» (Cali Rivera, 2000)."
     },
     {
      "type": "paragraph",
-     "id": "man-8",
-     "text": "Estos estandartes fueron mi primer colección de banderas y la tercera parte en la propuesta de Los Elementos, se inauguró el mismo día en que la Organización de las Naciones Unidas se reunió a decidir sobre la guerra de Irak y fue este el detonador para que recibieran el reconocimiento como los símbolos alegóricos de la nueva declaración de los Derechos Humanos (Carta de la Tierra)."
+     "id": "historia-7",
+     "text": "Para poder exponer estas obras tuve que acondicionar mi taller de trabajo como galería, pues no tenía dónde exponer un trabajo tan romántico. Desde entonces mi carrera dio otro giro."
     },
     {
      "type": "paragraph",
-     "id": "man-9",
-     "text": "Fue entonces en este mismo año cuando paralelamente abrí mi estudio de trabajo como el \"Taller del Artista\", un espacio fusión donde convergen todas las disciplinas artísticas, la gastronomía inclusive. Tenía que agenciar un medio de vida y como artista que trabaja haciendo consciencia y arte espiritual, siempre ha sido era muy difícil sobrevivir, así que empecé a trabajar en el concepto y lo vi hecho una realidad."
+     "id": "historia-8",
+     "text": "En 1999 había recibido el mensaje del papa Juan Pablo II en su Carta a los artistas, y ese documento fue la confirmación para seguir el camino que había decidido, pues invitaba a los artistas cristianos del mundo a redescubrir la dimensión espiritual del arte. Entonces compraba telas por montones y empecé a hacer banderas de oración inspiradas en las banderas tibetanas."
     },
     {
      "type": "paragraph",
-     "id": "man-10",
-     "text": "En el año 2004 el Simposio Mundial de Ecologistas me invitó a su concentración, con mi trabajo plástico junto a 1000 científicos del mundo, fue una gran oportunidad y honor ser el invitado especial de este acontecimiento, para ellos desarrollé la colección de las Banderas de Globalización, 5 estandartes que rezan por la paz de los 5 continentes, mi carrera continuó y seguí trabajando en mis propuestas y paralelamente en mi centro de gestión cultural. Siempre tengo mucho trabajo y soy un loco apasionado del mismo, pero vivo mi vida feliz, agradecido con el Universo por él. He hecho exposiciones colectivas en muchos países: en París, Japón, Nicaragua, por ejemplo."
+     "id": "historia-9",
+     "text": "En 2001, la Galería Nacional acogió el proyecto del Fuego como elemento, y en 2003, el del Aire: una colección de nueve estandartes que ya estaban terminados. Tuve la dicha de presentarlos en una gran exposición en parques y plazas, avalada por esa importante galería."
     },
     {
      "type": "paragraph",
-     "id": "man-11",
-     "text": "En el año 2009 decidí darme un respiro y me fui a vivir en las orillas del lago Atitlán por espacio de año y medio a desarrollar un proyecto de bien social y una nueva colección de estandartes \" Las Banderas del Corpus Christi\" que participarían en un convivio entre artistas de Japón y Costa Rica. Igualmente a la vez hice un jardín de gradas para proteger de agroquímicos el lago y dirigí una campaña de limpieza y recolección de basura en los alrededores de donde monté mi estudio. Fue una experiencia mágica y un tiempo bellísimo. Con una de las obras confeccionadas en esta pasantía obtuve el primer lugar a nivel iberoamericano de arte textil de la Red Textil Internacional, en el año 2010, otro gran acontecimiento vino a mi vida, la USAC Universidad Tricentenaria de Guatemala me invitó a exponer “La Cruz de San Pedro” otro símbolo de importancia universal."
+     "id": "historia-10",
+     "text": "Esos estandartes fueron mi primera colección de banderas y la tercera parte de la propuesta de los Elementos. La exposición se inauguró el mismo día en que la Organización de las Naciones Unidas se reunió para decidir sobre la guerra de Irak, y ese fue el detonante para que los estandartes fueran reconocidos como símbolos alegóricos de la nueva Declaración de los Derechos Humanos: la Carta de la Tierra."
     },
     {
      "type": "paragraph",
-     "id": "man-12",
-     "text": "Mi carrera me ha generado muchos éxitos, gracias a Dios, pues me inspira la necesidad de reconocer el carácter sagrado de la Madre Tierra y nuestro deber de aceptarnos como una sola especie, sin que medien diferencias existenciales religiosas o políticas. En el año 2014, el Museo Central de Polonia me invita a una exposición colectiva llamada “Milagro”, y luego en el 2015 el jurado internacional de la Trienal de Riga, Letonia (el festival de arte textil más importante del mundo) me clasificó con una de mis obras de la serie del 2014 – “Sincretismo Religioso, un camino para La Paz”. No sé cómo, pero casi paralelamente el Museo Central de Polonia me invita una vez más y en esta ocasión me concedió tres meses para tener una exposición individual, ¡esto sí que fue un maravilloso milagro!, mi primer exposición individual en un museo internacional. Hoy ambos museos, el de Polonia y el de Letonia se quedaron con una de mis obras para su colección."
+     "id": "historia-11",
+     "text": "Ese mismo año abrí, paralelamente, mi estudio de trabajo como el «Taller del Artista», un espacio de fusión donde convergen todas las disciplinas artísticas, incluida la gastronomía. Tenía que agenciarme un medio de vida —para un artista que trabaja haciendo consciencia y arte espiritual, sobrevivir siempre ha sido muy difícil—, así que empecé a trabajar en el concepto y lo vi hecho realidad."
     },
     {
      "type": "paragraph",
-     "id": "man-13",
-     "text": "Recientemente, este año, acabo de realizar mi exposición individual de la Colección 2015 en el Teatro Nacional de Costa Rica, otro inesperado acontecimiento histórico pues soy el primer artista plástico que logra este honor de exponer sus obras en 120 años de existencia del Teatro Nacional."
+     "id": "historia-12",
+     "text": "En 2004, el Simposio Mundial de Ecologistas me invitó a su encuentro con mi trabajo plástico, junto a mil científicos del mundo. Fue una gran oportunidad y un honor ser el invitado especial de ese acontecimiento; para ellos desarrollé la colección de las Banderas de Globalización: cinco estandartes que rezan por la paz de los cinco continentes."
     },
     {
      "type": "paragraph",
-     "id": "man-14",
-     "text": "Esta reciente exposición se llamó “Canto a la Libertad” y se inauguró con la interpretación de la Misa Solemne de Mozart por la orquesta Sinfónica Nacional y cantada por el Coro Sinfónico Nacional. Sin duda, un sueño hecho realidad. Las 12 Banderas son doce rezos por distintas comunidades y grupos étnicos y fue un regalo del cielo poder desarrollar esta maravillosa exposición junto al Coro y la Orquesta. Una exposición que fue dedicada a la comunidad no vidente pues se pueden tocar las obras por su gran cantidad de texturas."
+     "id": "historia-13",
+     "text": "Mi carrera continuó: seguí trabajando en mis propuestas y, paralelamente, en mi centro de gestión cultural. Siempre tengo mucho trabajo y soy un loco apasionado de él, pero vivo feliz, agradecido con el Universo por ello. He participado en exposiciones colectivas en muchos países: en París, en Japón y en Nicaragua, por ejemplo."
     },
     {
      "type": "paragraph",
-     "id": "man-15",
-     "text": "Actualmente trabajo en mi nueva propuesta y sigo día a día procurando con mi arte y trabajo elevar la energía del planeta, sigo con mi Taller y mi centro de gestión cultural autofinanciado sin pensar mucho en el mañana, pero abierto a lo que viene a nuevas exposiciones, quizá se dé algo en Luxemburgo o acá en Costa Rica."
+     "id": "historia-14",
+     "text": "En 2009 decidí darme un respiro y me fui a vivir a orillas del lago Atitlán durante año y medio, para desarrollar un proyecto de bien social y una nueva colección de estandartes, «Las Banderas del Corpus Christi», que participarían en un convivio entre artistas de Japón y Costa Rica. A la vez hice un jardín de gradas para proteger el lago de los agroquímicos y dirigí una campaña de limpieza y recolección de basura en los alrededores de donde monté mi estudio. Fue una experiencia mágica y un tiempo bellísimo."
     },
     {
      "type": "paragraph",
-     "id": "man-16",
-     "text": "Yo vivo intensamente el presente pues creo que el futuro no existe."
+     "id": "historia-15",
+     "text": "Con una de las obras confeccionadas en esa pasantía obtuve, en 2010, el primer lugar iberoamericano de arte textil de la Red Textil Internacional. Después llegó otro gran acontecimiento: la USAC, la Universidad Tricentenaria de Guatemala, me invitó a exponer «La Cruz de San Pedro», otro símbolo de importancia universal."
     },
     {
      "type": "paragraph",
-     "id": "man-17",
-     "text": "Y creo, firmemente y ha sido la línea que ha marcado mi vida, que el Arte es para ser Libres."
+     "id": "historia-16",
+     "text": "Mi carrera me ha dado muchos éxitos, gracias a Dios. Me inspira la necesidad de reconocer el carácter sagrado de la Madre Tierra y nuestro deber de aceptarnos como una sola especie, sin que medien diferencias existenciales, religiosas o políticas."
     },
     {
      "type": "paragraph",
-     "id": "man-18",
-     "text": "350 mts este del Saint Gregory School - calle vieja a Tres Rios"
+     "id": "historia-17",
+     "text": "En 2014, el Museo Central de Polonia me invitó a una exposición colectiva llamada «Milagro», y en 2015 el jurado internacional de la Trienal de Riga, Letonia —el festival de arte textil más importante del mundo—, me clasificó con una de mis obras de la serie de 2014, «Sincretismo religioso, un camino para la paz»."
+    },
+    {
+     "type": "paragraph",
+     "id": "historia-18",
+     "text": "No sé cómo, pero casi al mismo tiempo el Museo Central de Polonia me invitó una vez más, y en esta ocasión me concedió tres meses para una exposición individual. ¡Eso sí que fue un maravilloso milagro: mi primera exposición individual en un museo internacional! Hoy ambos museos, el de Polonia y el de Letonia, conservan una de mis obras en su colección."
+    },
+    {
+     "type": "paragraph",
+     "id": "historia-19",
+     "text": "Este año acabo de realizar mi exposición individual de la Colección 2015 en el Teatro Nacional de Costa Rica, otro acontecimiento histórico inesperado, pues soy el primer artista plástico que logra el honor de exponer sus obras en los 120 años de existencia del Teatro Nacional."
+    },
+    {
+     "type": "paragraph",
+     "id": "historia-20",
+     "text": "Esa exposición se llamó «Canto a la Libertad» y se inauguró con la Misa Solemne de Mozart, interpretada por la Orquesta Sinfónica Nacional y cantada por el Coro Sinfónico Nacional. Sin duda, un sueño hecho realidad. Las doce banderas son doce rezos por distintas comunidades y grupos étnicos, y fue un regalo del cielo desarrollar esta exposición junto al Coro y la Orquesta. Estuvo dedicada a la comunidad no vidente: por su gran cantidad de texturas, las obras se pueden tocar."
+    },
+    {
+     "type": "paragraph",
+     "id": "historia-21",
+     "text": "Actualmente trabajo en mi nueva propuesta y sigo, día a día, procurando elevar la energía del planeta con mi arte y mi trabajo. Sigo con mi Taller y mi centro de gestión cultural autofinanciado, sin pensar mucho en el mañana, pero abierto a lo que venga y a nuevas exposiciones: quizá se dé algo en Luxemburgo o aquí en Costa Rica."
+    },
+    {
+     "type": "paragraph",
+     "id": "historia-22",
+     "text": "Vivo intensamente el presente, pues creo que el futuro no existe.",
+     "lead": true
+    },
+    {
+     "type": "paragraph",
+     "id": "historia-23",
+     "text": "Y creo firmemente —ha sido la línea que ha marcado mi vida— que el arte es para ser libres.",
+     "lead": true
     }
-   ]
+   ],
+   "marks": true
   }
  ]
 }

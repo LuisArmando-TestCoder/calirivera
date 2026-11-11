@@ -1,0 +1,45 @@
+{
+ "id": "la-nacion-120-obras-elevan-plegarias-2011",
+ "slug": "la-nacion-120-obras-elevan-plegarias-2011",
+ "status": "published",
+ "createdAt": "2026-11-11T18:30:00Z",
+ "updatedAt": "2026-11-11T18:30:00Z",
+ "title": "120 obras de arte elevan ‘plegarias’ en Cartago",
+ "outlet": "La Nación",
+ "publishedAt": "2011-03-10T12:00:00Z",
+ "dateLabel": "10 de marzo de 2011",
+ "excerpt": "La Nación reseñó la apertura de «Plegaria» en el Museo Municipal de Cartago, el antiguo Cuartel Militar: 120 obras que repasan quince años de trayectoria —arte textil, banderas y estandartes, objetos intervenidos,…",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "la-nacion-120-obras-elevan-plegarias-2011-s0",
+   "text": "La Nación reseñó la apertura de «Plegaria» en el Museo Municipal de Cartago, el antiguo Cuartel Militar: 120 obras que repasan quince años de trayectoria —arte textil, banderas y estandartes, objetos intervenidos, ensamblajes, instalaciones y pintura— ocupando paredes, pasillos, salas y hasta los calabozos del edificio.",
+   "lead": true
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-120-obras-elevan-plegarias-2011-s1",
+   "text": "La nota destaca la instalación «Ave María», un altar donde el público enciende una vela y escucha el Ave María en versión electrónica, y la obra «Oración por el calentamiento global», premiada en el I Encuentro Textil Iberoamericano."
+  },
+  {
+   "type": "quote",
+   "id": "la-nacion-120-obras-elevan-plegarias-2011-q",
+   "text": "Cada uno de los espacios del Museo está acondicionado para despertar en el público una sensación de estar en un recinto espiritual.",
+   "cite": "Cali Rivera, en La Nación"
+  },
+  {
+   "type": "links",
+   "id": "la-nacion-120-obras-elevan-plegarias-2011-l",
+   "items": [
+    {
+     "label": "Leer la nota completa en el archivo de La Nación",
+     "href": "https://web.archive.org/web/2011/http://www.nacion.com/2011-03-11/AldeaGlobal/FotoVideoDestacado/AldeaGlobal2704119.aspx",
+     "note": "Internet Archive",
+     "kind": "external"
+    }
+   ]
+  }
+ ],
+ "sourceUrl": "https://web.archive.org/web/20161206133917/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/180-120-obras-de-arte-elevan-plegarias-en-cartago-la-nacion-10032011.html",
+ "order": 0
+}

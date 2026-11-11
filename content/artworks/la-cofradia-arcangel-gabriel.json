@@ -1,0 +1,29 @@
+{
+ "id": "la-cofradia-arcangel-gabriel",
+ "slug": "la-cofradia-arcangel-gabriel",
+ "status": "published",
+ "title": "Arcángel Gabriel",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/la-cofradia/arcangel-gabriel-1490.jpg",
+   "widths": [
+    640,
+    1280,
+    1490
+   ],
+   "width": 1490,
+   "height": 2683,
+   "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoQAB0APu1kqk4ppaQiMAgBMB2JZQC26JPgrhNSBZYK2TQ6JaptxgAA/uuwmqke+H+sO9wN+mvu2PH9O0Kq7gq1PYjb2bjEvqArcmFmW1KxeDQe/KzqQu+7hYkQvVnQXp2Y77364A1pO2d0xF/3AB2pucP41rihpEvK0R65qA/hu+4BpCFZ0oG+kP/wQat8XzRInzoQ8VniSQG8Ow48Z/7LSczF0/h3+yDNPZbaJFl3D/+W+HeDw1AA",
+   "color": "rgb(248 248 248)",
+   "alt": "Arcángel Gabriel — La Cofradía, 2017"
+  }
+ ],
+ "aiAltered": false,
+ "order": 7,
+ "year": 2017,
+ "technique": "Mixta sobre objeto, intervenido con pedrería, pintura y resina",
+ "dimensions": "25 × 45 cm",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

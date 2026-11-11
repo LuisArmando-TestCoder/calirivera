@@ -7,7 +7,7 @@
  "order": 360,
  "image": {
   "src": "/media/memoria/2015-revelac-256.jpg",
-  "alt": "Revelac",
+  "alt": "Revelaciones",
   "width": 256,
   "height": 331,
   "widths": [
@@ -20,7 +20,7 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "title": "Revelac",
+ "title": "Revelaciones",
  "year": 2015,
  "yearApprox": true,
  "seenAt": "2019-01-07",

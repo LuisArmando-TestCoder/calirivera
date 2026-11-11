@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { articleLd, breadcrumbLd } from "@/lib/seo";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
@@ -30,6 +32,8 @@ async function PostContent({ params }: { params: PageProps<"/bitacora/[slug]">["
   const approx = p.tags?.includes("fecha-aproximada");
   return (
     <article className={s.page}>
+      <JsonLd data={articleLd(p, `/bitacora/${p.slug}`)} />
+      <JsonLd data={breadcrumbLd([{ name: "Bitácora", path: "/bitacora" }, { name: p.title, path: `/bitacora/${p.slug}` }])} />
       <header className={s.hero}>
         <Link href="/bitacora" className={s.back}>Bitácora</Link>
         <time dateTime={p.publishedAt} className={s.date}>{approx ? formatYear(p.publishedAt) : formatMonth(p.publishedAt)}</time>

@@ -20,6 +20,9 @@ export type Placed = {
   rot: number;
   /** recuerdo «fuerte» de su año (el que se lee primero) */
   lead: boolean;
+  /** línea horizontal: alto en filas y ancho en columnas de una trama de celdas cuadradas */
+  hr: number;
+  hc: number;
 };
 
 export type YearBlock = { key: string; label: string; year: number | null; approx: boolean; items: Placed[] };
@@ -63,8 +66,20 @@ function place(m: Memory, nInYear: number, idx: number): Placed {
   let cm = c >= 4 ? 4 : 3;
   if (aspect > 1.25 || m.featured || lead) cm = 6;
   const rm = Math.max(2, Math.min(cm * 2, Math.round((cm * COL_TO_ROW_M) / aspect)));
+  // Línea horizontal: el alto decide la jerarquía (8 filas en total); el ancho sale del aspecto real.
+  let hr = nInYear <= 2 ? 6 : nInYear <= 5 ? 5 : nInYear <= 12 ? 4 : 3;
+  if (lead) hr += 2;
+  if (m.featured) hr += 2;
+  if (longSide < 420) hr -= 1;
+  if (longSide < 700) hr = Math.min(hr, 4);
+  // un poco de variación estable: la línea respira, no es una grilla de catálogo
+  if (!lead && rnd(seed, 4) > 0.72) hr += 1;
+  hr = Math.max(2, Math.min(7, hr));
+  const hc = Math.max(1, Math.min(14, Math.round(hr * aspect)));
   return {
     memory: m,
+    hr,
+    hc,
     c,
     r,
     cm,

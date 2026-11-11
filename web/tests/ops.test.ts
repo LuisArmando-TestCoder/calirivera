@@ -90,3 +90,15 @@ describe("validateDoc", () => {
     expect(errors["social.0"]).toBeTruthy();
   });
 });
+
+describe("archive", () => {
+  it("hides a document without deleting it", () => {
+    const docs = new Map([[docKey("artworks", "a1"), { id: "a1", title: "Obra", status: "published" }]]) as DocMap;
+    const ops = [{ t: "archive" as const, collection: "artworks", id: "a1" }];
+    expect(isInlineOps(ops)).toBe(true);
+    expect(docsTouched(ops)).toEqual([{ collection: "artworks", id: "a1" }]);
+    const r = applyOps(docs, ops, isContentCollection);
+    expect(r.docs.get(docKey("artworks", "a1"))).toMatchObject({ status: "draft", archived: true, title: "Obra" });
+    expect(r.trashed).toEqual([]);
+  });
+});

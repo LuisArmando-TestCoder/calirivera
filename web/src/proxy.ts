@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { adminEmail, getSecret } from "@/lib/auth/secret";
+import { editorEmails, getSecret } from "@/lib/auth/secret";
 import { SESSION_COOKIE, verifySession } from "@/lib/auth/session";
 
 /** Optimistic gate for /admin (pages and actions re-check the session server-side). */
@@ -8,7 +8,7 @@ export async function proxy(req: NextRequest) {
   if (pathname === "/admin/entrar" || pathname.startsWith("/admin/entrar/")) return NextResponse.next();
   let session = null;
   try {
-    session = await verifySession(req.cookies.get(SESSION_COOKIE)?.value, getSecret(), adminEmail());
+    session = await verifySession(req.cookies.get(SESSION_COOKIE)?.value, getSecret(), editorEmails());
   } catch {
     // SESSION_SECRET missing in production → nobody is logged in; the login screen explains it.
   }

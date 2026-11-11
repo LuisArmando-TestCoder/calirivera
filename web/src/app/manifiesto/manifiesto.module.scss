@@ -5,6 +5,7 @@
   min-height: 100svh;
   padding: calc(var(--header-h) + var(--space-xl)) var(--gutter) var(--space-2xl);
   display: flex; flex-wrap: wrap; align-content: end; gap: 0 0.22em;
+  font-size: clamp(3.4rem, 13.5vw, 15rem); // el espacio entre palabras se mide con el tamaño de las palabras
   margin: 0;
   line-height: 0.86;
 }

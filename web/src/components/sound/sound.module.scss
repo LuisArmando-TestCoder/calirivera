@@ -1,0 +1,37 @@
+@use "../../styles/tokens" as *;
+
+.toggle {
+  display: inline-grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  color: inherit;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  border-radius: 50%;
+  &:focus-visible { outline: 2px solid var(--c-accent); outline-offset: 2px; }
+}
+// cuatro barras: se mueven cuando hay sonido, quedan en una línea cuando no
+.bars {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  height: 16px;
+  i {
+    display: block;
+    width: 2px;
+    height: 3px;
+    background: currentColor;
+    border-radius: 1px;
+    @include motion { transition: height 0.4s var(--ease-out); }
+  }
+  &[data-on] i {
+    height: 9px;
+    @include motion { animation: eq 1.3s ease-in-out infinite alternate; }
+    &:nth-child(2) { height: 15px; animation-delay: -0.5s; }
+    &:nth-child(3) { height: 6px; animation-delay: -0.9s; }
+    &:nth-child(4) { height: 12px; animation-delay: -0.2s; }
+  }
+}
+@keyframes eq { to { transform: scaleY(0.35); } }

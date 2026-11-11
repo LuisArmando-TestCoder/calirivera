@@ -1,0 +1,71 @@
+@use "../../../styles/tokens" as *;
+
+// Una nota de diario: papel, columna de lectura, cabecera con el medio como en la portada del periódico.
+.page {
+  @include tone(paper);
+  background: var(--c-bg);
+  color: var(--c-fg);
+  padding-top: var(--header-h);
+  min-height: 100svh;
+}
+.mast {
+  @include wrap;
+  max-width: 52rem;
+  padding-block: var(--space-2xl) var(--space-l);
+  display: grid;
+  gap: var(--space-s);
+  border-bottom: 1px solid var(--c-linea);
+}
+.crumbs a { @include label; color: var(--c-azul); text-decoration: none; min-height: 44px; display: inline-flex; align-items: center; }
+.outlet {
+  display: flex;
+  align-items: center;
+  gap: var(--space-s);
+  @include label;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--c-muted);
+  time { white-space: nowrap; }
+}
+.rule { flex: 1; height: 1px; background: currentColor; opacity: 0.4; max-width: 6rem; }
+.title {
+  @include text;
+  font-weight: 560;
+  font-size: clamp(2.2rem, 1.4rem + 3.6vw, 4.4rem);
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+.byline { @include text; font-style: italic; font-size: var(--step-1); color: var(--c-muted); }
+.body {
+  // el cuerpo usa el motor de bloques; acá solo se le da medida de lectura
+  :global(p) { max-width: 66ch; }
+}
+.foot {
+  @include wrap;
+  max-width: 52rem;
+  padding-block: var(--space-xl) var(--space-3xl);
+  display: grid;
+  gap: var(--space-l);
+  border-top: 1px solid var(--c-linea);
+}
+.source { @include text; font-style: italic; color: var(--c-muted); a { color: inherit; } }
+.pager {
+  display: grid;
+  gap: var(--space-s);
+  @include above($bp-m) { grid-template-columns: 1fr 1fr; }
+  a {
+    display: grid;
+    gap: 0.2rem;
+    @include text;
+    font-size: var(--step-1);
+    line-height: 1.15;
+    text-decoration: none;
+    color: inherit;
+    padding: var(--space-s) 0;
+    span { @include label; color: var(--c-muted); }
+    &:hover, &:focus-visible { color: var(--c-azul); }
+  }
+}
+.next { text-align: right; justify-items: end; }
+.links { @include wrap; max-width: 52rem; padding-bottom: var(--space-l); }

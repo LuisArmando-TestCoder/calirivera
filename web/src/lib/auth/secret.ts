@@ -18,3 +18,16 @@ export function getSecret(): string {
 export function adminEmail(): string {
   return (process.env.ADMIN_EMAIL ?? "arte@calirivera.com").trim().toLowerCase();
 }
+
+/**
+ * Quiénes pueden entrar al editor: Cali (ADMIN_EMAIL) y, si hace falta, otros correos en EDITOR_EMAILS
+ * (separados por coma), p. ej. el de Oriens.ninja. Cada quien pide su propio código, que llega solo a su correo.
+ */
+export function editorEmails(): string[] {
+  const extra = (process.env.EDITOR_EMAILS ?? "")
+    .split(/[,;\s]+/)
+    .map((e) => e.trim().toLowerCase())
+    .filter((e) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e));
+  return [...new Set([adminEmail(), ...extra])];
+}
+export const isEditor = (email: string) => editorEmails().includes(email.trim().toLowerCase());

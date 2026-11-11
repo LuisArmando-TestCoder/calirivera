@@ -12,6 +12,7 @@ type AnyBlock = Partial<Block> & { type: Block["type"]; id: string } & Record<st
 
 export function emptyBlock(type: Block["type"]): AnyBlock {
   const id = newId();
+  if ((type as string) === "video") return { type, id, url: "", title: "" };
   switch (type) {
     case "heading":
       return { type, id, level: 2, text: "" };
@@ -29,6 +30,7 @@ export function emptyBlock(type: Block["type"]): AnyBlock {
 }
 
 function BlockPreview({ b }: { b: AnyBlock }) {
+  if ((b.type as string) === "video") return <p className={s.pvText}>▶ {String(b.title || b.url || "Enlace de video…")}</p>;
   switch (b.type) {
     case "heading":
       return <p className={s.pvHeading} data-level={String(b.level ?? 2)}>{String(b.text || "Título…")}</p>;
@@ -97,6 +99,14 @@ function BlockFields({ b, set, errorsPrefix, errors }: { b: AnyBlock; set: (patc
       </label>
     );
   };
+  if ((b.type as string) === "video")
+    return (
+      <div className={s.stack}>
+        {text("url", "Enlace del video (YouTube o Vimeo)", { max: 300 })}
+        {text("title", "Título (opcional)", { max: 160 })}
+        <small>Subí el video a YouTube o Vimeo y pegá acá el enlace: el sitio lo muestra con su reproductor.</small>
+      </div>
+    );
   switch (b.type) {
     case "heading":
       return (
@@ -223,7 +233,7 @@ export function BlocksEditor({
       <div className={s.addBar} role="group" aria-label="Agregar bloque">
         <span className={s.addBarLabel}>Agregar:</span>
         {BLOCK_TYPES.map((t) => (
-          <button key={t.value} type="button" className={s.addChip} onClick={() => add(t.value)}>
+          <button key={t.value} type="button" className={s.addChip} onClick={() => add(t.value as Block["type"])}>
             <span aria-hidden>{t.icon}</span> {t.label}
           </button>
         ))}
@@ -312,6 +322,12 @@ export function SectionsEditor({ value, onChange, path, errors }: { value: AnySe
                   </option>
                 ))}
               </select>
+            </label>
+            <label className={s.field}>
+              <span>
+                <input type="checkbox" role="switch" checked={sec.marks === true} onChange={(e) => update(i, { marks: e.target.checked || undefined })} />{" "}
+                Resaltar fechas, lugares y obras
+              </span>
             </label>
             <BlocksEditor value={sec.blocks ?? []} onChange={(blocks) => update(i, { blocks })} path={`${path}.${i}.blocks`} errors={errors} />
           </div>

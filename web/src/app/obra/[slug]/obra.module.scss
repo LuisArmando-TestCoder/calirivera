@@ -15,10 +15,18 @@
   background: color-mix(in oklch, var(--c-anil) 6%, var(--c-ceniza));
   @include above($bp-m) { position: sticky; top: var(--header-h); height: calc(100svh - var(--header-h)); padding: var(--space-xl); }
 }
+// El marco mide lo que queda de pantalla; la obra entra ENTERA, sea vertical u horizontal:
+// ancho = lo que dé primero, el ancho del marco o su alto × la proporción de la obra.
 .frame {
+  position: relative;
   width: 100%;
-  @include above($bp-m) { height: 100%; display: grid; place-items: center; min-width: 0;
-    > figure { height: auto; max-height: 100%; width: auto; max-width: 100%; aspect-ratio: var(--ratio); } }
+  height: min(72svh, 100vw * 1.25);
+  container-type: size;
+  display: grid;
+  place-items: center;
+  min-width: 0;
+  @include above($bp-m) { height: 100%; }
+  figure { width: min(100cqw, 100cqh * var(--ratio)); height: auto; aspect-ratio: var(--ratio); max-width: none; }
 }
 .label {
   min-width: 0;
@@ -32,7 +40,7 @@
 .sheet { display: grid; border-top: 1px solid var(--c-linea); margin: 0; }
 .row { display: grid; grid-template-columns: 7rem 1fr; gap: var(--space-s); padding-block: var(--space-xs); border-bottom: 1px solid var(--c-linea);
   dt { @include label; color: var(--c-muted); } dd { margin: 0; } }
-.notes { color: var(--c-muted); font-style: italic; }
+.notes { @include read; font-size: var(--step--1); line-height: 1.6; color: var(--c-muted); }
 .pager { display: flex; justify-content: space-between; align-items: center; gap: var(--space-s); @include label;
   a { min-height: 44px; display: inline-flex; align-items: center; text-decoration: none; border-bottom: 2px solid currentColor; } }
 .count { color: var(--c-muted); }

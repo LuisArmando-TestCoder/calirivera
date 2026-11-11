@@ -13,7 +13,9 @@ export type InlineOp =
   /** New document in a collection-level list. `tempId` is used by later ops until the real id exists. */
   | { t: "create"; collection: string; tempId: string; value: Record<string, unknown> }
   | { t: "reorder"; collection: string; ids: string[] }
-  | { t: "trash"; collection: string; id: string };
+  | { t: "trash"; collection: string; id: string }
+  /** Archivar: deja de verse en el sitio pero no se borra (queda como «oculto» en el panel). */
+  | { t: "archive"; collection: string; id: string };
 
 export type DocKey = `${string}/${string}`;
 export type DocMap = Map<DocKey, Record<string, unknown>>;
@@ -32,7 +34,7 @@ export function docsTouched(ops: InlineOp[]): { collection: string; id: string }
       const p = parsePath(op.path);
       if (p?.kind === "field") add(p.collection, p.docId);
     } else if (op.t === "reorder") op.ids.forEach((id) => add(op.collection, id));
-    else if (op.t === "trash") add(op.collection, op.id);
+    else if (op.t === "trash" || op.t === "archive") add(op.collection, op.id);
   }
   return [...out.values()];
 }
@@ -69,6 +71,10 @@ export function applyOps(input: DocMap, ops: InlineOp[], allowed: (collection: s
       op.ids.forEach((id) => need(op.collection, id));
       op.ids.forEach((id, i) => docs.set(docKey(op.collection, id), { ...need(op.collection, id), order: (i + 1) * 10 }));
       res.reordered.push({ collection: op.collection, ids: op.ids });
+      continue;
+    }
+    if (op.t === "archive") {
+      docs.set(docKey(op.collection, op.id), { ...need(op.collection, op.id), status: "draft", archived: true });
       continue;
     }
     if (op.t === "trash") {
@@ -120,6 +126,7 @@ export function isInlineOps(x: unknown): x is InlineOp[] {
       case "reorder":
         return typeof op.collection === "string" && Array.isArray(op.ids) && op.ids.every((i) => typeof i === "string");
       case "trash":
+      case "archive":
         return typeof op.collection === "string" && typeof op.id === "string";
       default:
         return false;

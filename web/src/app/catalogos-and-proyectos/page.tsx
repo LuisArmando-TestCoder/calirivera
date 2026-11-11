@@ -32,14 +32,15 @@ export default async function Catalogos() {
             <a
               key={c.id}
               href={c.fileUrl}
-              target="_blank"
-              rel="noopener"
+              data-pdf-title={c.title}
               className={s.spine}
               style={{ "--h": 70 + ((i * 37) % 30), "--t": i % 4 } as React.CSSProperties}
             >
-              <EditableText path={`catalogs/${c.id}#title`} value={c.title} className={s.spineTitle} />
-              {c.year && <span className={s.spineYear}>{String(c.year)}</span>}
-              <span className="visually-hidden">, abrir catálogo en PDF{c.summary ? ` (${c.summary})` : ""}</span>
+              <span className={s.book}>
+                <EditableText path={`catalogs/${c.id}#title`} value={c.title} className={s.spineTitle} />
+                {c.year && <span className={s.spineYear}>{String(c.year)}</span>}
+              </span>
+              <span className="visually-hidden">, leer el catálogo{c.summary ? ` (${c.summary})` : ""}</span>
             </a>
           ))}
         </EditableList>

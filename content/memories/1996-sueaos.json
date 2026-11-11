@@ -7,7 +7,7 @@
  "order": 44,
  "image": {
   "src": "/media/suenos-en-azul/sueaos-4-1086.jpg",
-  "alt": "Sueaos",
+  "alt": "Sueños en azul",
   "width": 1086,
   "height": 1448,
   "widths": [
@@ -21,7 +21,7 @@
  "kind": "obra",
  "source": "sitio-actual",
  "aiAltered": true,
- "title": "Sueaos",
+ "title": "Sueños en azul",
  "year": 1996,
  "yearApprox": true,
  "collectionId": "suenos-en-azul",

@@ -1,0 +1,29 @@
+{
+ "id": "atmosfera-flamingos",
+ "slug": "atmosfera-flamingos",
+ "status": "published",
+ "title": "Flamingos",
+ "collectionId": "atmosfera",
+ "images": [
+  {
+   "src": "/media/memoria/1993-flamingos-322.jpg",
+   "alt": "Flamingos — Atmósfera, 1993. Tiza pastel sobre papel",
+   "width": 322,
+   "height": 450,
+   "widths": [
+    322
+   ],
+   "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JZV2AVda0UB/7nNjgAAD+8Jhv1zBFSMIWUthjIX/oxlQK2w4uGfshK/vvC1IwmWuAAA==",
+   "color": "rgb(184 184 184)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 4,
+ "year": 1993,
+ "technique": "Tiza pastel sobre papel",
+ "notes": "Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161207015943id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/flamingos.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

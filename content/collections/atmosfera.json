@@ -1,11 +1,54 @@
 {
  "id": "atmosfera",
  "slug": "atmosfera",
- "status": "draft",
+ "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-11T18:00:00Z",
  "title": "Atmósfera",
- "artworkIds": [],
+ "artworkIds": [
+  "atmosfera-vivian",
+  "atmosfera-atmosfera",
+  "atmosfera-espermato",
+  "atmosfera-flamingos",
+  "atmosfera-guardianes",
+  "atmosfera-pensamiento",
+  "atmosfera-ruptura",
+  "atmosfera-viaje",
+  "atmosfera-zonas-oscuras"
+ ],
  "order": 0,
- "period": "1993"
+ "period": "1993",
+ "subtitle": "Tiza pastel sobre papel",
+ "technique": "Tiza pastel sobre papel",
+ "statement": "La búsqueda de un personaje renace en esta propuesta: la mujer de mi infancia, la que muchas veces dibujé sobre grandes cartulinas con tizas, lentejuelas y escarcha, se reduce a pequeños formatos en técnica pastel.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "atmosfera-b1",
+   "text": "La serie Atmósfera culminó en una exposición que nació de la invitación de conocidos y amigos con quienes había compartido mi trabajo esporádico en épocas anteriores. La expuse en 1993 en La Taberna, un desaparecido bar de San José, Costa Rica."
+  },
+  {
+   "type": "paragraph",
+   "id": "atmosfera-b2",
+   "text": "Aunque la colección es mayor, solo se pudieron fotografiar los nueve cuadros que aquí se muestran."
+  },
+  {
+   "type": "quote",
+   "id": "atmosfera-b3",
+   "text": "Su diversidad y amplia visión de la vida, la expresión sentimental del auto encuentro y el deseo innato de comunicarlo, lo han llevado por el dibujo, técnicas mixtas, murales; prefiriendo el pastel, entregándonos una obra de trazo firme con veladuras de suave atmósfera…",
+   "cite": "Isaac Barra, Anuarium de Arte y Cultura, edición 1994"
+  }
+ ],
+ "cover": {
+  "src": "/media/memoria/1993-vivian-390.jpg",
+  "alt": "Vivian Azul — Atmósfera, 1993",
+  "width": 390,
+  "height": 524,
+  "widths": [
+   390
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBWABFqPTCZ//oWcmsY6zoAA/ptDByJc2nuIX7BtizKBjcricO79CbT5J1S8gD0kcNJKy0Kdg6BXB2KVJ1r2dcv0mG/1d7xsu8hizI9CbOfbDJReoQ8/EjVEK7aXtUUcOOR1vR91mlNVlf0wbSWIAAA=",
+  "color": "rgb(216 216 232)",
+  "lowRes": true
+ }
 }

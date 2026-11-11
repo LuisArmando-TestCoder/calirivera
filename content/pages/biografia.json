@@ -3,7 +3,7 @@
  "slug": "biografia",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-11T20:06:26.014Z",
  "title": "Biografía",
  "description": "Artista multidisciplinario costarricense, San José, 1969. Pintura, textiles, instalación y el Taller del Artista.",
  "hero": {
@@ -54,7 +54,8 @@
      "id": "bio1-5",
      "text": "Su trabajo aborda temas como la espiritualidad, la tolerancia, la identidad, la naturaleza, la paz y la relación del ser humano con el planeta. Más que adscribirse a una tendencia específica, Rivera ha defendido una idea que atraviesa toda su trayectoria: el arte como territorio de libertad."
     }
-   ]
+   ],
+   "marks": true
   },
   {
    "id": "una-vocacion-que-comenzo-en-la-infancia",
@@ -80,7 +81,7 @@
     {
      "type": "paragraph",
      "id": "bio2-4",
-     "text": "Su formación artística inició bajo la guía del maestro sueco Arvid Röström, con quien realizó estudios de pintura al óleo entre 1994 y 1998. Posteriormente amplió su preparación con talleres de dibujo impartidos por Fabio Herrera y estudios de grabado junto a Mario Maffioli y el propio Herrera, fortaleciendo una base técnica que ha acompañado la evolución de su lenguaje artístico.",
+     "text": "Su formación artística inició bajo la guía del maestro sueco Arvid Röström, con quien realizó estudios de pintura al óleo entre 1994 y 1998. Posteriormente, amplió su preparación con talleres de dibujo impartidos por Fabio Herrera y estudios de grabado junto a Mario Maffioli y el propio Herrera, fortaleciendo una base técnica que ha acompañado la evolución de su lenguaje artístico.",
      "lead": true
     },
     {
@@ -105,7 +106,8 @@
       "color": "rgb(248 248 248)"
      }
     }
-   ]
+   ],
+   "marks": true
   },
   {
    "id": "de-la-pintura-a-un-universo-multidisciplinario",
@@ -157,7 +159,8 @@
       "aiAltered": true
      }
     }
-   ]
+   ],
+   "marks": true
   },
   {
    "id": "un-espacio-para-vivir-el-arte",
@@ -207,7 +210,8 @@
      "id": "bio4-6",
      "text": "Más que una galería, el Taller del Artista se convirtió en una obra en permanente transformación y en una plataforma para artistas nacionales e internacionales."
     }
-   ]
+   ],
+   "marks": true
   },
   {
    "id": "crear-tambien-es-tomar-posicion",
@@ -238,7 +242,7 @@
     {
      "type": "paragraph",
      "id": "bio5-5",
-     "text": "Su investigación con textiles y estandartes alcanzaría reconocimiento internacional en 2010, cuando obtuvo el Primer Lugar Iberoamericano en Arte Textil de la Red Textil Iberoamerica na."
+     "text": "Su investigación con textiles y estandartes alcanzaría reconocimiento internacional en 2010, cuando obtuvo el Primer Lugar Iberoamericano en Arte Textil de la Red Textil Iberoamericana."
     },
     {
      "type": "image",
@@ -257,7 +261,8 @@
       "color": "rgb(8 8 8)"
      }
     }
-   ]
+   ],
+   "marks": true
   },
   {
    "id": "una-obra-que-traspasa-fronteras",
@@ -341,7 +346,8 @@
       "color": "rgb(8 8 8)"
      }
     }
-   ]
+   ],
+   "marks": true
   },
   {
    "id": "de-las-cenizas",
@@ -351,7 +357,7 @@
      "type": "heading",
      "id": "bio7-1",
      "level": 2,
-     "text": "2017 - de las cenizas"
+     "text": "2017: de las cenizas"
     },
     {
      "type": "image",
@@ -422,7 +428,8 @@
      }
     }
    ],
-   "tone": "ink"
+   "tone": "ink",
+   "marks": true
   }
  ]
 }

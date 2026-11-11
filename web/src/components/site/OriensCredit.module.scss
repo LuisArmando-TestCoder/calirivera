@@ -1,0 +1,16 @@
+.link { position: relative; isolation: isolate; }
+.name { position: relative; z-index: 1; }
+// el tablero rodea al nombre; cada célula es un píxel del lienzo, ampliado sin suavizar
+.life {
+  position: absolute;
+  inset: -16px -22px;
+  width: calc(100% + 44px);
+  max-width: none;
+  height: calc(100% + 32px);
+  image-rendering: pixelated;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 500ms ease;
+  z-index: 0;
+}
+.link[data-life="on"] .life { opacity: 0.42; transition-duration: 160ms; }

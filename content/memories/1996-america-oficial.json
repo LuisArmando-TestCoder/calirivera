@@ -7,7 +7,7 @@
  "order": 64,
  "image": {
   "src": "/media/suenos-en-azul/america-oficial-835.jpg",
-  "alt": "America oficial",
+  "alt": "América",
   "width": 835,
   "height": 1600,
   "widths": [
@@ -20,7 +20,7 @@
  "kind": "obra",
  "source": "sitio-actual",
  "aiAltered": false,
- "title": "America oficial",
+ "title": "América",
  "year": 1996,
  "yearApprox": true,
  "collectionId": "suenos-en-azul",

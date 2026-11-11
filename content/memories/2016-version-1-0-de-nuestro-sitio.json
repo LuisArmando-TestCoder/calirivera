@@ -7,7 +7,7 @@
  "order": 350,
  "image": {
   "src": "/media/memoria/2016-version-1-0-de-nuestro-sitio-375.jpg",
-  "alt": "Versión 1.0 de nuestro sitio.",
+  "alt": "Versión 1.0 de nuestro sitio",
   "width": 375,
   "height": 249,
   "widths": [
@@ -20,8 +20,8 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "title": "Versión 1.0 de nuestro sitio.",
- "caption": "En «Sin infulas ni pretenciones»",
+ "title": "Versión 1.0 de nuestro sitio",
+ "caption": "En «Sin ínfulas ni pretenciones»",
  "year": 2016,
  "yearApprox": true,
  "seenAt": "2016-12-06",

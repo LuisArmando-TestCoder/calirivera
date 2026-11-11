@@ -1,3 +1,4 @@
+import { League_Spartan, Lexend } from "next/font/google";
 import localFont from "next/font/local";
 
 /**
@@ -26,3 +27,11 @@ export const text = localFont({
   weight: "200 800",
   adjustFontFallback: "Times New Roman",
 });
+
+/**
+ * Lectura: Lexend (variable 100–900), pensada para leer párrafos largos sin cansarse.
+ * Títulos muy grandes: League Spartan (variable 100–900).
+ * Se descargan de Google Fonts al construir y quedan servidas desde el propio sitio.
+ */
+export const read = Lexend({ subsets: ["latin", "latin-ext"], variable: "--font-read-face", display: "swap", preload: false });
+export const title = League_Spartan({ subsets: ["latin", "latin-ext"], variable: "--font-title-face", display: "swap" });

@@ -71,6 +71,12 @@ export function cleanBlock(v: unknown, path: string, errors: Errors): Block | nu
         ...(str(o.author) ? { author: str(o.author).slice(0, 120) } : {}),
       };
     }
+    case "video": {
+      // solo enlaces a reproductores que se pueden incrustar (el sitio no aloja archivos de video)
+      const url = str(o.url);
+      if (!/^https:\/\/((www\.|m\.)?youtube\.com\/|youtu\.be\/|(www\.|player\.)?vimeo\.com\/)/.test(url)) errors[`${path}.url`] = "Pegá el enlace de YouTube o Vimeo (empieza con https://)";
+      return { type, id, url: url.slice(0, 300), ...(str(o.title) ? { title: str(o.title).slice(0, 160) } : {}) } as unknown as Block;
+    }
     case "image": {
       const image = cleanImage(o.image);
       if (!image) {
@@ -102,6 +108,7 @@ function cleanSections(v: unknown, path: string, errors: Errors): Section[] {
       ...(str(o.title) ? { title: str(o.title).slice(0, 160) } : {}),
       layout,
       ...(tone ? { tone } : {}),
+      ...(o.marks === true ? { marks: true } : {}),
       blocks: cleanBlocks(o.blocks, `${path}.${i}.blocks`, errors),
     };
   });

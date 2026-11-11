@@ -6,8 +6,10 @@
 .h3 { font-size: var(--step-2); font-stretch: 80%; }
 .h4 { font-size: var(--step-1); }
 
-.p { max-width: var(--measure); color: var(--c-fg); overflow-wrap: anywhere; }
+.p { @include read; color: color-mix(in oklch, var(--c-fg) 88%, transparent); overflow-wrap: anywhere; }
 .p + .p, div + div > .p { margin-top: 0; }
+// un párrafo después de otro: aire de un renglón, para que el ojo descanse
+div:has(> .p) + div:has(> .p) { margin-top: 0.35em; }
 .lead {
   @include text;
   font-size: var(--step-2);

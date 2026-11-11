@@ -275,6 +275,7 @@ export function applyDom(op: InlineOp): Undo {
       };
     }
 
+    case "archive":
     case "trash": {
       const list = listEl(op.collection);
       const item = list ? listItems(list).find((i) => itemDocId(i, op.collection) === op.id) : undefined;

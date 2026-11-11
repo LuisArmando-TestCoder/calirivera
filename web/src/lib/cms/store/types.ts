@@ -8,7 +8,7 @@ export interface ListOptions {
 }
 
 export interface Store {
-  readonly kind: "firestore" | "local";
+  readonly kind: "firestore" | "local" | "github";
   get(collection: string, id: string): Promise<AnyDoc | null>;
   list(collection: string, opts?: ListOptions): Promise<AnyDoc[]>;
   set(collection: string, id: string, data: Record<string, unknown>): Promise<void>;

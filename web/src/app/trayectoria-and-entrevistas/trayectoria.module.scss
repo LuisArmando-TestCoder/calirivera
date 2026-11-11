@@ -22,10 +22,17 @@
 .main { display: grid; gap: var(--space-m); align-content: start; > p { max-width: 50ch; color: var(--c-muted); } }
 .side { display: grid; gap: var(--space-2xl); align-content: start;
   @include above($bp-l) { position: sticky; top: calc(var(--header-h) + var(--space-m)); } }
+// Pase a «Puntos de vista»: una franja oscura entera que es el enlace (el hover solo mueve la flecha, nunca la caja)
 .pv {
   @include tone(ink); background: var(--c-bg); color: var(--c-fg);
-  padding: var(--space-3xl) var(--gutter);
-  > nav { width: min(100%, var(--max-w)); margin-inline: auto;
-    @include above($bp-m) { > div { columns: 2; column-gap: var(--space-2xl); > a { break-inside: avoid; } } } }
+  display: grid; gap: var(--space-2xs) var(--space-l); align-items: end;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas: "kicker go" "title go";
+  padding: var(--space-2xl) max(var(--gutter), calc((100% - var(--max-w)) / 2));
+  text-decoration: none;
+  &:hover .pvGo, &:focus-visible .pvGo { transform: translateX(0.25em); color: var(--c-accent); }
 }
+.pvKicker { grid-area: kicker; @include label; color: var(--c-muted); }
+.pvTitle { grid-area: title; @include display(70, 820); font-size: clamp(2.6rem, 9vw, 8rem); line-height: 0.88; letter-spacing: -0.02em; }
+.pvGo { grid-area: go; @include display(70, 400); font-size: clamp(2.6rem, 9vw, 8rem); line-height: 0.88; @include motion { transition: transform 0.4s var(--ease-out), color 0.3s; } }
 .sideBlock { display: grid; gap: var(--space-s); }

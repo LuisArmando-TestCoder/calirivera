@@ -5,10 +5,10 @@ import type { AnyBlock as Block, LinkItem, TimelineItem } from "@/lib/content/ty
 import { LiteVideo } from "./LiteVideo";
 import s from "./Blocks.module.scss";
 
-type Ctx = { base: string; index: number; sizes?: string; reveal?: boolean };
+type Ctx = { base: string; index: number; sizes?: string; reveal?: boolean; marks?: boolean };
 
 /** Un bloque de contenido. `base` = ruta CMS de la lista de bloques, p. ej. "pages/biografia#sections.2.blocks". */
-export function BlockView({ block, base, index, sizes, reveal = true }: { block: Block } & Ctx) {
+export function BlockView({ block, base, index, sizes, reveal = true, marks = false }: { block: Block } & Ctx) {
   const p = `${base}.${index}`;
   switch (block.type) {
     case "heading": {
@@ -25,13 +25,13 @@ export function BlockView({ block, base, index, sizes, reveal = true }: { block:
     case "paragraph":
       return (
         <div data-reveal={reveal && block.lead ? "lines" : undefined}>
-          <EditableText path={`${p}.text`} value={block.text} as="p" multiline className={block.lead ? s.lead : s.p} />
+          <EditableText path={`${p}.text`} value={block.text} as="p" multiline marks={marks} className={block.lead ? s.lead : s.p} />
         </div>
       );
     case "quote":
       return (
         <figure className={s.quote}>
-          <EditableText path={`${p}.text`} value={block.text} as="blockquote" multiline className={s.quoteText} />
+          <EditableText path={`${p}.text`} value={block.text} as="blockquote" multiline marks={marks} className={s.quoteText} />
           {block.cite && (
             <figcaption className={s.cite}>
               {block.href ? <a href={block.href}>{block.cite}</a> : <EditableText path={`${p}.cite`} value={block.cite} />}
@@ -88,7 +88,7 @@ export function Links({ items, title, path }: { items: LinkItem[]; title?: strin
       {title && <EditableText path={`${path}.title`} value={title} as="h3" className={s.linksTitle} />}
       <EditableList path={`${path}.items`} itemType="link" className={s.linkList}>
         {items.map((it, i) => {
-          const ext = it.kind !== "internal";
+          const ext = it.kind !== "internal" && it.kind !== "pdf" && !/\.pdf($|[?#])/i.test(it.href);
           const inner = (
             <>
               <span className={s.linkLabel}>{it.label}</span>
@@ -100,7 +100,7 @@ export function Links({ items, title, path }: { items: LinkItem[]; title?: strin
           ) : (
             <a key={i} href={it.href} className={s.link} {...(ext ? { target: "_blank", rel: "noopener" } : {})}>
               {inner}
-              <span className="visually-hidden"> (se abre en otra pestaña)</span>
+              {ext && <span className="visually-hidden"> (se abre en otra pestaña)</span>}
             </a>
           );
         })}

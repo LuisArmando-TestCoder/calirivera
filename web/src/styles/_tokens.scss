@@ -19,6 +19,10 @@
 
   --font-display: var(--font-display-face), "Arial Narrow", Arial, sans-serif;
   --font-text: var(--font-text-face), Georgia, "Times New Roman", serif;
+  // párrafos (texto para leer) y títulos muy grandes. Para volver a la tipografía anterior en los títulos,
+  // basta con poner acá var(--font-display).
+  --font-read: var(--font-read-face), system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-title: var(--font-title-face), var(--font-display);
 
   // Escala tipográfica (razón 1.25 móvil → 1.333 escritorio)
   --step--2: clamp(0.72rem, 0.7rem + 0.1vw, 0.78rem);
@@ -80,13 +84,22 @@
 $bp-s: 40em;
 $bp-m: 60em;
 $bp-l: 84em;
+// En el teléfono los grandes silencios entre capítulos se acortan: el recorrido no se corta en huecos.
+@media (max-width: 47.99em) {
+  :root {
+    --space-2xl: 3.25rem;
+    --space-3xl: 4rem;
+    --space-4xl: 5.5rem;
+  }
+}
+
 @mixin above($bp) { @media (min-width: $bp) { @content; } }
 @mixin below($bp) { @media (max-width: ($bp - 0.01em)) { @content; } }
 @mixin motion { @media (prefers-reduced-motion: no-preference) { @content; } }
 
 // Tipografía
 @mixin display($wdth: 62, $wght: 760) {
-  font-family: var(--font-display);
+  font-family: var(--font-title);
   font-stretch: #{$wdth + "%"};
   font-weight: $wght;
   line-height: var(--leading-display);
@@ -94,6 +107,20 @@ $bp-l: 84em;
   text-wrap: balance;
 }
 @mixin text { font-family: var(--font-text); line-height: var(--leading-text); font-optical-sizing: auto; }
+// Texto para leer: párrafos largos. Lexend liviana, renglón amplio, línea corta, sin justificar.
+@mixin read {
+  font-family: var(--font-read);
+  font-weight: 300;
+  font-size: clamp(1.02rem, 0.98rem + 0.2vw, 1.14rem);
+  line-height: 1.78;
+  letter-spacing: 0.006em;
+  word-spacing: 0.02em;
+  max-width: 60ch;
+  text-wrap: pretty;
+  hanging-punctuation: first;
+  font-optical-sizing: auto;
+  strong, b { font-weight: 500; }
+}
 @mixin label { font-family: var(--font-display); font-stretch: 88%; font-weight: 560; font-size: var(--step--1); letter-spacing: 0.01em; line-height: 1.3; }
 @mixin wrap { width: min(100% - 2 * var(--gutter), var(--max-w)); margin-inline: auto; }
 

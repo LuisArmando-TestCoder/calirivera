@@ -1,0 +1,30 @@
+{
+ "id": "plegaria-cielos-liquidos",
+ "slug": "plegaria-cielos-liquidos",
+ "status": "published",
+ "title": "Cielos líquidos",
+ "collectionId": "plegaria",
+ "images": [
+  {
+   "src": "/media/memoria/2001-cielos-liquidos-500.jpg",
+   "alt": "Cielos líquidos — Plegaria, el fuego como elemento, 2001",
+   "width": 500,
+   "height": 745,
+   "widths": [
+    480,
+    500
+   ],
+   "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7H8EwAAL5wMVvfCxV39AA/K/ThVq/pj1V/HdLhn+85RKWD/3QMyBjsIgQQ8BDeMvxzFdrCgdqSRNoAj3Q1RX+bviv00byskgdRtxuv9nZfvl+Bo6DKUKcbEjoKWEtK3VYoSAKXa36ttdSxBxNs8FhxS5RlAwMqRlcUNuKV3eHxx5kCpfxNBmOxqv7xiPNXya0bSY3oOlQ0jLl5P5uKWAAAA==",
+   "color": "rgb(232 216 168)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 2,
+ "year": 2001,
+ "technique": "Acrílico",
+ "notes": "De «Plegaria, el fuego como elemento», Galería Nacional de Costa Rica, 2001. Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206133718id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/cielos_liquidos.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

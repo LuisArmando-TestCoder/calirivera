@@ -1,0 +1,29 @@
+{
+ "id": "la-cofradia-los-ausentes",
+ "slug": "la-cofradia-los-ausentes",
+ "status": "published",
+ "title": "Los Ausentes",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/la-cofradia/los-ausentes-1452.jpg",
+   "widths": [
+    640,
+    1280,
+    1452
+   ],
+   "width": 1452,
+   "height": 1758,
+   "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAACwBACdASoQABMAPu1iqU2ppaOiMAgBMB2JbACdL14UAIL0Vz71PkffQd2bHRbUAP7KgSfi0v0Zz6EmnqLxMfIXbDg07Yr5U8vsfUDxgbxdHbnBxbbAFwI64LHhRJht9acZdDyVlfdIcgXPl+tg0fbpoF6q8N7z/ecyqbRsl66reW/Ua9Heb+IIaTSIOe6hgpVH2LEMH5E4Wpg1gAA=",
+   "color": "rgb(248 248 248)",
+   "alt": "Los Ausentes — La Cofradía, 2017"
+  }
+ ],
+ "aiAltered": false,
+ "order": 4,
+ "year": 2017,
+ "technique": "Ensamble / arte objeto con cinco butacas históricas del Cine de Tres Ríos, estructura intervenida, pintura automotriz, esmaltes, exvotos, piedras e imágenes devocionales con pedrería, pintura y resina",
+ "dimensions": "244 × 60 × 120 cm",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

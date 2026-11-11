@@ -1,0 +1,30 @@
+{
+ "id": "plegaria-plegaria-de-las-aves",
+ "slug": "plegaria-plegaria-de-las-aves",
+ "status": "published",
+ "title": "Plegaria de las aves",
+ "collectionId": "plegaria",
+ "images": [
+  {
+   "src": "/media/memoria/2001-plegaria-de-las-aves-589.jpg",
+   "alt": "Plegaria de las aves — Plegaria, el fuego como elemento, 2001",
+   "width": 589,
+   "height": 783,
+   "widths": [
+    480,
+    589
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdAA39Ax1/Wg0qwAD7BC+corZAhQE3ykJxduKe2TZuyrzHjPk0U87lEiis4lZPXGYBTgUAWOnACLrrYAA2IjBi0bt6g+S7dXfo/SRda0wTDZ00X0jdle07oNIYfo+/sSkoU+vvciEojez/onAA",
+   "color": "rgb(120 152 232)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 6,
+ "year": 2001,
+ "technique": "Acrílico",
+ "notes": "De «Plegaria, el fuego como elemento», Galería Nacional de Costa Rica, 2001. Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206210206id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/plegaria_de_las_aves.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

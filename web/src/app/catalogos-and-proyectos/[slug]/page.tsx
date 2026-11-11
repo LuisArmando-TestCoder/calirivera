@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { PdfInline } from "@/components/pdf/PdfInline";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import { EditableText } from "@/components/cms/editable";
@@ -33,8 +34,13 @@ async function ProyectoContent({ params }: { params: PageProps<"/catalogos-and-p
         {c.year && <p className={s.year}>{String(c.year)}</p>}
         <EditableText path={`${path}#title`} value={c.title} as="h1" className={s.title} />
         {c.summary && <EditableText path={`${path}#summary`} value={c.summary} as="p" className={s.summary} />}
-        {c.fileUrl && <a className={s.file} href={c.fileUrl} target="_blank" rel="noopener">Abrir el catálogo (PDF)</a>}
+        {c.fileUrl && <a className={s.file} href={c.fileUrl} data-pdf-title={c.title}>Leer a pantalla completa</a>}
       </header>
+      {c.fileUrl && (
+        <section className={s.reader} aria-label={`Catálogo ${c.title}`}>
+          <PdfInline url={c.fileUrl} title={c.title} />
+        </section>
+      )}
       {c.body.length > 0 && <SectionRenderer section={{ id: "texto", layout: "auto", blocks: c.body }} base={`${path}#body`} />}
     </article>
   );

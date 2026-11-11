@@ -1,0 +1,3143 @@
+[
+ {
+  "file": "*",
+  "find": "ABRIO",
+  "replace": "ABRIÓ"
+ },
+ {
+  "file": "*",
+  "find": "ACUSTICO",
+  "replace": "ACÚSTICO"
+ },
+ {
+  "file": "*",
+  "find": "ADMISION",
+  "replace": "ADMISIÓN"
+ },
+ {
+  "file": "*",
+  "find": "ARBOL",
+  "replace": "ÁRBOL"
+ },
+ {
+  "file": "*",
+  "find": "ARTISTICA",
+  "replace": "ARTÍSTICA"
+ },
+ {
+  "file": "*",
+  "find": "Adrian",
+  "replace": "Adrián"
+ },
+ {
+  "file": "*",
+  "find": "America",
+  "replace": "América"
+ },
+ {
+  "file": "*",
+  "find": "Antillon",
+  "replace": "Antillón"
+ },
+ {
+  "file": "*",
+  "find": "Asi",
+  "replace": "Así"
+ },
+ {
+  "file": "*",
+  "find": "BALCON",
+  "replace": "BALCÓN"
+ },
+ {
+  "file": "*",
+  "find": "BESAME",
+  "replace": "BÉSAME"
+ },
+ {
+  "file": "*",
+  "find": "Beatríz",
+  "replace": "Beatriz"
+ },
+ {
+  "file": "*",
+  "find": "Brocoli",
+  "replace": "Brócoli"
+ },
+ {
+  "file": "*",
+  "find": "CAFETERIA",
+  "replace": "CAFETERÍA"
+ },
+ {
+  "file": "*",
+  "find": "COLABORACION",
+  "replace": "COLABORACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "CONTEMPORANEA",
+  "replace": "CONTEMPORÁNEA"
+ },
+ {
+  "file": "*",
+  "find": "CONTEMPORANEO",
+  "replace": "CONTEMPORÁNEO"
+ },
+ {
+  "file": "*",
+  "find": "Cafe",
+  "replace": "Café"
+ },
+ {
+  "file": "*",
+  "find": "Calí",
+  "replace": "Cali"
+ },
+ {
+  "file": "*",
+  "find": "Chacon",
+  "replace": "Chacón"
+ },
+ {
+  "file": "*",
+  "find": "Contemporaneo",
+  "replace": "Contemporáneo"
+ },
+ {
+  "file": "*",
+  "find": "Credito",
+  "replace": "Crédito"
+ },
+ {
+  "file": "*",
+  "find": "DEMAS",
+  "replace": "DEMÁS"
+ },
+ {
+  "file": "*",
+  "find": "DIA",
+  "replace": "DÍA"
+ },
+ {
+  "file": "*",
+  "find": "Detras",
+  "replace": "Detrás"
+ },
+ {
+  "file": "*",
+  "find": "Dia",
+  "replace": "Día"
+ },
+ {
+  "file": "*",
+  "find": "ECUACION",
+  "replace": "ECUACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "ESPECTACULO",
+  "replace": "ESPECTÁCULO"
+ },
+ {
+  "file": "*",
+  "find": "EXPERIMENTACION",
+  "replace": "EXPERIMENTACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "EXPOSICION",
+  "replace": "EXPOSICIÓN"
+ },
+ {
+  "file": "*",
+  "find": "Echeverria",
+  "replace": "Echeverría"
+ },
+ {
+  "file": "*",
+  "find": "FABIAN",
+  "replace": "FABIÁN"
+ },
+ {
+  "file": "*",
+  "find": "FRIO",
+  "replace": "FRÍO"
+ },
+ {
+  "file": "*",
+  "find": "Fabian",
+  "replace": "Fabián"
+ },
+ {
+  "file": "*",
+  "find": "Fenix",
+  "replace": "Fénix"
+ },
+ {
+  "file": "*",
+  "find": "GENERO",
+  "replace": "GÉNERO"
+ },
+ {
+  "file": "*",
+  "find": "GESTION",
+  "replace": "GESTIÓN"
+ },
+ {
+  "file": "*",
+  "find": "Galeria",
+  "replace": "Galería"
+ },
+ {
+  "file": "*",
+  "find": "Garcia",
+  "replace": "García"
+ },
+ {
+  "file": "*",
+  "find": "Geografia",
+  "replace": "Geografía"
+ },
+ {
+  "file": "*",
+  "find": "Globalizacion",
+  "replace": "Globalización"
+ },
+ {
+  "file": "*",
+  "find": "Gonzalez",
+  "replace": "González"
+ },
+ {
+  "file": "*",
+  "find": "ILUSION",
+  "replace": "ILUSIÓN"
+ },
+ {
+  "file": "*",
+  "find": "INAUGURACION",
+  "replace": "INAUGURACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "INNOVACION",
+  "replace": "INNOVACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "INSPIRACION",
+  "replace": "INSPIRACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "INSTALACION",
+  "replace": "INSTALACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "JARDIN",
+  "replace": "JARDÍN"
+ },
+ {
+  "file": "*",
+  "find": "JESUS",
+  "replace": "JESÚS"
+ },
+ {
+  "file": "*",
+  "find": "JOYERIA",
+  "replace": "JOYERÍA"
+ },
+ {
+  "file": "*",
+  "find": "Jesus",
+  "replace": "Jesús"
+ },
+ {
+  "file": "*",
+  "find": "JÉSUS",
+  "replace": "JESÚS"
+ },
+ {
+  "file": "*",
+  "find": "LIMON",
+  "replace": "LIMÓN"
+ },
+ {
+  "file": "*",
+  "find": "Lopez",
+  "replace": "López"
+ },
+ {
+  "file": "*",
+  "find": "MAGICOS",
+  "replace": "MÁGICOS"
+ },
+ {
+  "file": "*",
+  "find": "MARIA",
+  "replace": "MARÍA"
+ },
+ {
+  "file": "*",
+  "find": "MAS",
+  "replace": "MÁS"
+ },
+ {
+  "file": "*",
+  "find": "MIERCOLES",
+  "replace": "MIÉRCOLES"
+ },
+ {
+  "file": "*",
+  "find": "MUSICA",
+  "replace": "MÚSICA"
+ },
+ {
+  "file": "*",
+  "find": "Maria",
+  "replace": "María"
+ },
+ {
+  "file": "*",
+  "find": "Miercoles",
+  "replace": "Miércoles"
+ },
+ {
+  "file": "*",
+  "find": "Najera",
+  "replace": "Nájera"
+ },
+ {
+  "file": "*",
+  "find": "Nestor",
+  "replace": "Néstor"
+ },
+ {
+  "file": "*",
+  "find": "POESIA",
+  "replace": "POESÍA"
+ },
+ {
+  "file": "*",
+  "find": "PRORROGA",
+  "replace": "PRÓRROGA"
+ },
+ {
+  "file": "*",
+  "find": "Quiros",
+  "replace": "Quirós"
+ },
+ {
+  "file": "*",
+  "find": "RAMIREZ",
+  "replace": "RAMÍREZ"
+ },
+ {
+  "file": "*",
+  "find": "RAMON",
+  "replace": "RAMÓN"
+ },
+ {
+  "file": "*",
+  "find": "RESERVACION",
+  "replace": "RESERVACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "RIOS",
+  "replace": "RÍOS"
+ },
+ {
+  "file": "*",
+  "find": "Ramirez",
+  "replace": "Ramírez"
+ },
+ {
+  "file": "*",
+  "find": "Rios",
+  "replace": "Ríos"
+ },
+ {
+  "file": "*",
+  "find": "SABADO",
+  "replace": "SÁBADO"
+ },
+ {
+  "file": "*",
+  "find": "SABADOS",
+  "replace": "SÁBADOS"
+ },
+ {
+  "file": "*",
+  "find": "SALON",
+  "replace": "SALÓN"
+ },
+ {
+  "file": "*",
+  "find": "SANCHEZ",
+  "replace": "SÁNCHEZ"
+ },
+ {
+  "file": "*",
+  "find": "SAXOFON",
+  "replace": "SAXOFÓN"
+ },
+ {
+  "file": "*",
+  "find": "SIMBOLO",
+  "replace": "SÍMBOLO"
+ },
+ {
+  "file": "*",
+  "find": "SORPRENDERA",
+  "replace": "SORPRENDERÁ"
+ },
+ {
+  "file": "*",
+  "find": "Sanchez",
+  "replace": "Sánchez"
+ },
+ {
+  "file": "*",
+  "find": "Saxofon",
+  "replace": "Saxofón"
+ },
+ {
+  "file": "*",
+  "find": "Sinfonica",
+  "replace": "Sinfónica"
+ },
+ {
+  "file": "*",
+  "find": "Suenos",
+  "replace": "Sueños"
+ },
+ {
+  "file": "*",
+  "find": "TRANSMUTACION",
+  "replace": "TRANSMUTACIÓN"
+ },
+ {
+  "file": "*",
+  "find": "TRAVES",
+  "replace": "TRAVÉS"
+ },
+ {
+  "file": "*",
+  "find": "Tibet",
+  "replace": "Tíbet"
+ },
+ {
+  "file": "*",
+  "find": "Titulo",
+  "replace": "Título"
+ },
+ {
+  "file": "*",
+  "find": "UNICA",
+  "replace": "ÚNICA"
+ },
+ {
+  "file": "*",
+  "find": "UNICO",
+  "replace": "ÚNICO"
+ },
+ {
+  "file": "*",
+  "find": "UNION",
+  "replace": "UNIÓN"
+ },
+ {
+  "file": "*",
+  "find": "Union",
+  "replace": "Unión"
+ },
+ {
+  "file": "*",
+  "find": "Victor",
+  "replace": "Víctor"
+ },
+ {
+  "file": "*",
+  "find": "Zuñiga",
+  "replace": "Zúñiga"
+ },
+ {
+  "file": "*",
+  "find": "admision",
+  "replace": "admisión"
+ },
+ {
+  "file": "*",
+  "find": "alegoria",
+  "replace": "alegoría"
+ },
+ {
+  "file": "*",
+  "find": "altisimo",
+  "replace": "altísimo"
+ },
+ {
+  "file": "*",
+  "find": "america",
+  "replace": "América"
+ },
+ {
+  "file": "*",
+  "find": "artistica",
+  "replace": "artística"
+ },
+ {
+  "file": "*",
+  "find": "asi",
+  "replace": "así"
+ },
+ {
+  "file": "*",
+  "find": "bellisimo",
+  "replace": "bellísimo"
+ },
+ {
+  "file": "*",
+  "find": "cantaro",
+  "replace": "cántaro"
+ },
+ {
+  "file": "*",
+  "find": "circulos",
+  "replace": "círculos"
+ },
+ {
+  "file": "*",
+  "find": "coleccion",
+  "replace": "colección"
+ },
+ {
+  "file": "*",
+  "find": "comoda",
+  "replace": "cómoda"
+ },
+ {
+  "file": "*",
+  "find": "contemporanea",
+  "replace": "contemporánea"
+ },
+ {
+  "file": "*",
+  "find": "corazon",
+  "replace": "corazón"
+ },
+ {
+  "file": "*",
+  "find": "deleitaran",
+  "replace": "deleitarán"
+ },
+ {
+  "file": "*",
+  "find": "despues",
+  "replace": "después"
+ },
+ {
+  "file": "*",
+  "find": "detras",
+  "replace": "detrás"
+ },
+ {
+  "file": "*",
+  "find": "duo",
+  "replace": "dúo"
+ },
+ {
+  "file": "*",
+  "find": "fenix",
+  "replace": "fénix"
+ },
+ {
+  "file": "*",
+  "find": "fusion",
+  "replace": "fusión"
+ },
+ {
+  "file": "*",
+  "find": "galeria",
+  "replace": "galería"
+ },
+ {
+  "file": "*",
+  "find": "globalizacion",
+  "replace": "globalización"
+ },
+ {
+  "file": "*",
+  "find": "imágen",
+  "replace": "imagen"
+ },
+ {
+  "file": "*",
+  "find": "infulas",
+  "replace": "ínfulas"
+ },
+ {
+  "file": "*",
+  "find": "irak",
+  "replace": "Irak"
+ },
+ {
+  "file": "*",
+  "find": "jardin",
+  "replace": "jardín"
+ },
+ {
+  "file": "*",
+  "find": "lapiz",
+  "replace": "lápiz"
+ },
+ {
+  "file": "*",
+  "find": "liquidos",
+  "replace": "líquidos"
+ },
+ {
+  "file": "*",
+  "find": "mamí",
+  "replace": "mami"
+ },
+ {
+  "file": "*",
+  "find": "mas",
+  "replace": "más"
+ },
+ {
+  "file": "*",
+  "find": "mediterranea",
+  "replace": "mediterránea"
+ },
+ {
+  "file": "*",
+  "find": "nacion",
+  "replace": "nación"
+ },
+ {
+  "file": "*",
+  "find": "riquisima",
+  "replace": "riquísima"
+ },
+ {
+  "file": "*",
+  "find": "solida",
+  "replace": "sólida"
+ },
+ {
+  "file": "*",
+  "find": "suenos",
+  "replace": "sueños"
+ },
+ {
+  "file": "*",
+  "find": "tibet",
+  "replace": "Tíbet"
+ },
+ {
+  "file": "*",
+  "find": "transmutacion",
+  "replace": "transmutación"
+ },
+ {
+  "file": "*",
+  "find": "yá",
+  "replace": "ya"
+ },
+ {
+  "file": "*",
+  "find": "éste",
+  "replace": "este"
+ },
+ {
+  "file": "*",
+  "find": "Oscar",
+  "replace": "Óscar"
+ },
+ {
+  "file": "*",
+  "find": "Angel",
+  "replace": "Ángel"
+ },
+ {
+  "file": "*",
+  "find": "navidad",
+  "replace": "Navidad"
+ },
+ {
+  "file": "*",
+  "find": "dj",
+  "replace": "DJ"
+ },
+ {
+  "file": "*",
+  "find": "Dj",
+  "replace": "DJ"
+ },
+ {
+  "file": "*",
+  "find": "Cd",
+  "replace": "CD"
+ },
+ {
+  "file": "*",
+  "find": "pdf",
+  "replace": "PDF"
+ },
+ {
+  "file": "*",
+  "find": "carlos",
+  "replace": "Carlos"
+ },
+ {
+  "file": "*",
+  "find": "cartago",
+  "replace": "Cartago"
+ },
+ {
+  "file": "*",
+  "find": "jose",
+  "replace": "José"
+ },
+ {
+  "file": "*",
+  "find": "maria",
+  "replace": "María"
+ },
+ {
+  "file": "*",
+  "find": "inauguro",
+  "replace": "inauguró"
+ },
+ {
+  "file": "*",
+  "find": "sabado",
+  "replace": "sábado"
+ },
+ {
+  "file": "*",
+  "find": "podes",
+  "replace": "podés"
+ },
+ {
+  "file": "*",
+  "find": "nuestro propio ADN esta en",
+  "replace": "nuestro propio ADN está en",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "la obra esta casi",
+  "replace": "la obra está casi",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "cuerpos esta compuesto por, agua",
+  "replace": "cuerpos está compuesto por agua",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "naturales esta acabando",
+  "replace": "naturales está acabando",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "eso si, pues padezco De pánico",
+  "replace": "eso sí, pues padezco de pánico",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "unos a otros cómo hermanos",
+  "replace": "unos a otros como hermanos",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "satisfactorio para mi.",
+  "replace": "satisfactorio para mí.",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "y a mi me da como pena",
+  "replace": "y a mí me da como pena",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "es él lenguaje",
+  "replace": "es el lenguaje",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "conocerse a si mismo",
+  "replace": "conocerse a sí mismo",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "sentimientos que el siente",
+  "replace": "sentimientos que él siente",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "por si misma",
+  "replace": "por sí misma",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "del 2007 aun sirve",
+  "replace": "del 2007 aún sirve",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "que estas en cielo",
+  "replace": "que estás en el cielo",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "¿DONDE ESTÁN",
+  "replace": "¿DÓNDE ESTÁN",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "haga click",
+  "replace": "haga clic",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "Haga click",
+  "replace": "Haga clic",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "Click aquí",
+  "replace": "Clic aquí",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "Sueaos",
+  "replace": "Sueños"
+ },
+ {
+  "file": "*",
+  "find": "Herrrera",
+  "replace": "Herrera"
+ },
+ {
+  "file": "*",
+  "find": "Mafiolli",
+  "replace": "Maffioli"
+ },
+ {
+  "file": "*",
+  "find": "shumacher",
+  "replace": "Schumacher"
+ },
+ {
+  "file": "*",
+  "find": "paleativos",
+  "replace": "paliativos"
+ },
+ {
+  "file": "*",
+  "find": "FUSSION",
+  "replace": "FUSIÓN"
+ },
+ {
+  "file": "*",
+  "find": "DEVUTAN",
+  "replace": "DEBUTAN"
+ },
+ {
+  "file": "*",
+  "find": "persentacion",
+  "replace": "presentación"
+ },
+ {
+  "file": "*",
+  "find": "fuzion",
+  "replace": "fusión"
+ },
+ {
+  "file": "*",
+  "find": "Expocisión",
+  "replace": "Exposición"
+ },
+ {
+  "file": "*",
+  "find": "Naturalezaq",
+  "replace": "Naturaleza"
+ },
+ {
+  "file": "*",
+  "find": "esfuersos",
+  "replace": "esfuerzos"
+ },
+ {
+  "file": "*",
+  "find": "protejer",
+  "replace": "proteger"
+ },
+ {
+  "file": "*",
+  "find": "venditas",
+  "replace": "benditas"
+ },
+ {
+  "file": "*",
+  "find": "Atlitan",
+  "replace": "Atitlán"
+ },
+ {
+  "file": "*",
+  "find": "Atitlan",
+  "replace": "Atitlán"
+ },
+ {
+  "file": "*",
+  "find": "protegerloeste",
+  "replace": "protegerlo este"
+ },
+ {
+  "file": "*",
+  "find": "influercer",
+  "replace": "influencer"
+ },
+ {
+  "file": "*",
+  "find": "Tiramizú",
+  "replace": "Tiramisú"
+ },
+ {
+  "file": "*",
+  "find": "COPMUESTA",
+  "replace": "COMPUESTA"
+ },
+ {
+  "file": "*",
+  "find": "AVIERTO",
+  "replace": "ABIERTO"
+ },
+ {
+  "file": "*",
+  "find": "LENGUAGES",
+  "replace": "LENGUAJES"
+ },
+ {
+  "file": "*",
+  "find": "reluzes",
+  "replace": "reluces"
+ },
+ {
+  "file": "*",
+  "find": "Octubreb",
+  "replace": "Octubre"
+ },
+ {
+  "file": "*",
+  "find": "güipiles",
+  "replace": "huipiles"
+ },
+ {
+  "file": "*",
+  "find": "mostrario",
+  "replace": "muestrario"
+ },
+ {
+  "file": "*",
+  "find": "habemos",
+  "replace": "somos"
+ },
+ {
+  "file": "*",
+  "find": "NUEVOS ARTISTA",
+  "replace": "NUEVOS ARTISTAS"
+ },
+ {
+  "file": "*",
+  "find": "su propuestas",
+  "replace": "sus propuestas"
+ },
+ {
+  "file": "*",
+  "find": "reto de de",
+  "replace": "reto de"
+ },
+ {
+  "file": "*",
+  "find": "de el grupo",
+  "replace": "del grupo"
+ },
+ {
+  "file": "*",
+  "find": "lis invitados",
+  "replace": "los invitados"
+ },
+ {
+  "file": "*",
+  "find": "Ministra ministra",
+  "replace": "Ministra"
+ },
+ {
+  "file": "*",
+  "find": "Festival Internacional de la Artes",
+  "replace": "Festival Internacional de las Artes"
+ },
+ {
+  "file": "*",
+  "find": "LA VOS",
+  "replace": "LA VOZ"
+ },
+ {
+  "file": "*",
+  "find": "piano y vos",
+  "replace": "piano y voz"
+ },
+ {
+  "file": "*",
+  "find": "El vienes",
+  "replace": "El viernes"
+ },
+ {
+  "file": "*",
+  "find": "auto sostenible",
+  "replace": "autosostenible"
+ },
+ {
+  "file": "*",
+  "find": "pre inauguración",
+  "replace": "preinauguración"
+ },
+ {
+  "file": "*",
+  "find": "actual mente",
+  "replace": "actualmente"
+ },
+ {
+  "file": "*",
+  "find": "éste mes",
+  "replace": "este mes"
+ },
+ {
+  "file": "*",
+  "find": "Tu pones",
+  "replace": "Tú pones"
+ },
+ {
+  "file": "*",
+  "find": ".Reservaciones",
+  "replace": ". Reservaciones",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "300Viva",
+  "replace": "300. Viva",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "diciembre .Festival",
+  "replace": "diciembre. Festival",
+  "word": false
+ },
+ {
+  "file": "*",
+  "find": "de Enero de",
+  "replace": "de enero de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Enero",
+  "replace": "1 de enero"
+ },
+ {
+  "file": "*",
+  "find": "2 de Enero",
+  "replace": "2 de enero"
+ },
+ {
+  "file": "*",
+  "find": "3 de Enero",
+  "replace": "3 de enero"
+ },
+ {
+  "file": "*",
+  "find": "4 de Enero",
+  "replace": "4 de enero"
+ },
+ {
+  "file": "*",
+  "find": "5 de Enero",
+  "replace": "5 de enero"
+ },
+ {
+  "file": "*",
+  "find": "6 de Enero",
+  "replace": "6 de enero"
+ },
+ {
+  "file": "*",
+  "find": "7 de Enero",
+  "replace": "7 de enero"
+ },
+ {
+  "file": "*",
+  "find": "8 de Enero",
+  "replace": "8 de enero"
+ },
+ {
+  "file": "*",
+  "find": "9 de Enero",
+  "replace": "9 de enero"
+ },
+ {
+  "file": "*",
+  "find": "10 de Enero",
+  "replace": "10 de enero"
+ },
+ {
+  "file": "*",
+  "find": "11 de Enero",
+  "replace": "11 de enero"
+ },
+ {
+  "file": "*",
+  "find": "12 de Enero",
+  "replace": "12 de enero"
+ },
+ {
+  "file": "*",
+  "find": "13 de Enero",
+  "replace": "13 de enero"
+ },
+ {
+  "file": "*",
+  "find": "14 de Enero",
+  "replace": "14 de enero"
+ },
+ {
+  "file": "*",
+  "find": "15 de Enero",
+  "replace": "15 de enero"
+ },
+ {
+  "file": "*",
+  "find": "16 de Enero",
+  "replace": "16 de enero"
+ },
+ {
+  "file": "*",
+  "find": "17 de Enero",
+  "replace": "17 de enero"
+ },
+ {
+  "file": "*",
+  "find": "18 de Enero",
+  "replace": "18 de enero"
+ },
+ {
+  "file": "*",
+  "find": "19 de Enero",
+  "replace": "19 de enero"
+ },
+ {
+  "file": "*",
+  "find": "20 de Enero",
+  "replace": "20 de enero"
+ },
+ {
+  "file": "*",
+  "find": "21 de Enero",
+  "replace": "21 de enero"
+ },
+ {
+  "file": "*",
+  "find": "22 de Enero",
+  "replace": "22 de enero"
+ },
+ {
+  "file": "*",
+  "find": "23 de Enero",
+  "replace": "23 de enero"
+ },
+ {
+  "file": "*",
+  "find": "24 de Enero",
+  "replace": "24 de enero"
+ },
+ {
+  "file": "*",
+  "find": "25 de Enero",
+  "replace": "25 de enero"
+ },
+ {
+  "file": "*",
+  "find": "26 de Enero",
+  "replace": "26 de enero"
+ },
+ {
+  "file": "*",
+  "find": "27 de Enero",
+  "replace": "27 de enero"
+ },
+ {
+  "file": "*",
+  "find": "28 de Enero",
+  "replace": "28 de enero"
+ },
+ {
+  "file": "*",
+  "find": "29 de Enero",
+  "replace": "29 de enero"
+ },
+ {
+  "file": "*",
+  "find": "30 de Enero",
+  "replace": "30 de enero"
+ },
+ {
+  "file": "*",
+  "find": "31 de Enero",
+  "replace": "31 de enero"
+ },
+ {
+  "file": "*",
+  "find": "de Febrero de",
+  "replace": "de febrero de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Febrero",
+  "replace": "1 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "2 de Febrero",
+  "replace": "2 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "3 de Febrero",
+  "replace": "3 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "4 de Febrero",
+  "replace": "4 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "5 de Febrero",
+  "replace": "5 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "6 de Febrero",
+  "replace": "6 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "7 de Febrero",
+  "replace": "7 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "8 de Febrero",
+  "replace": "8 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "9 de Febrero",
+  "replace": "9 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "10 de Febrero",
+  "replace": "10 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "11 de Febrero",
+  "replace": "11 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "12 de Febrero",
+  "replace": "12 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "13 de Febrero",
+  "replace": "13 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "14 de Febrero",
+  "replace": "14 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "15 de Febrero",
+  "replace": "15 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "16 de Febrero",
+  "replace": "16 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "17 de Febrero",
+  "replace": "17 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "18 de Febrero",
+  "replace": "18 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "19 de Febrero",
+  "replace": "19 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "20 de Febrero",
+  "replace": "20 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "21 de Febrero",
+  "replace": "21 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "22 de Febrero",
+  "replace": "22 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "23 de Febrero",
+  "replace": "23 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "24 de Febrero",
+  "replace": "24 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "25 de Febrero",
+  "replace": "25 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "26 de Febrero",
+  "replace": "26 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "27 de Febrero",
+  "replace": "27 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "28 de Febrero",
+  "replace": "28 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "29 de Febrero",
+  "replace": "29 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "30 de Febrero",
+  "replace": "30 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "31 de Febrero",
+  "replace": "31 de febrero"
+ },
+ {
+  "file": "*",
+  "find": "de Marzo de",
+  "replace": "de marzo de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Marzo",
+  "replace": "1 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "2 de Marzo",
+  "replace": "2 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "3 de Marzo",
+  "replace": "3 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "4 de Marzo",
+  "replace": "4 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "5 de Marzo",
+  "replace": "5 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "6 de Marzo",
+  "replace": "6 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "7 de Marzo",
+  "replace": "7 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "8 de Marzo",
+  "replace": "8 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "9 de Marzo",
+  "replace": "9 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "10 de Marzo",
+  "replace": "10 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "11 de Marzo",
+  "replace": "11 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "12 de Marzo",
+  "replace": "12 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "13 de Marzo",
+  "replace": "13 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "14 de Marzo",
+  "replace": "14 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "15 de Marzo",
+  "replace": "15 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "16 de Marzo",
+  "replace": "16 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "17 de Marzo",
+  "replace": "17 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "18 de Marzo",
+  "replace": "18 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "19 de Marzo",
+  "replace": "19 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "20 de Marzo",
+  "replace": "20 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "21 de Marzo",
+  "replace": "21 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "22 de Marzo",
+  "replace": "22 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "23 de Marzo",
+  "replace": "23 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "24 de Marzo",
+  "replace": "24 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "25 de Marzo",
+  "replace": "25 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "26 de Marzo",
+  "replace": "26 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "27 de Marzo",
+  "replace": "27 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "28 de Marzo",
+  "replace": "28 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "29 de Marzo",
+  "replace": "29 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "30 de Marzo",
+  "replace": "30 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "31 de Marzo",
+  "replace": "31 de marzo"
+ },
+ {
+  "file": "*",
+  "find": "de Abril de",
+  "replace": "de abril de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Abril",
+  "replace": "1 de abril"
+ },
+ {
+  "file": "*",
+  "find": "2 de Abril",
+  "replace": "2 de abril"
+ },
+ {
+  "file": "*",
+  "find": "3 de Abril",
+  "replace": "3 de abril"
+ },
+ {
+  "file": "*",
+  "find": "4 de Abril",
+  "replace": "4 de abril"
+ },
+ {
+  "file": "*",
+  "find": "5 de Abril",
+  "replace": "5 de abril"
+ },
+ {
+  "file": "*",
+  "find": "6 de Abril",
+  "replace": "6 de abril"
+ },
+ {
+  "file": "*",
+  "find": "7 de Abril",
+  "replace": "7 de abril"
+ },
+ {
+  "file": "*",
+  "find": "8 de Abril",
+  "replace": "8 de abril"
+ },
+ {
+  "file": "*",
+  "find": "9 de Abril",
+  "replace": "9 de abril"
+ },
+ {
+  "file": "*",
+  "find": "10 de Abril",
+  "replace": "10 de abril"
+ },
+ {
+  "file": "*",
+  "find": "11 de Abril",
+  "replace": "11 de abril"
+ },
+ {
+  "file": "*",
+  "find": "12 de Abril",
+  "replace": "12 de abril"
+ },
+ {
+  "file": "*",
+  "find": "13 de Abril",
+  "replace": "13 de abril"
+ },
+ {
+  "file": "*",
+  "find": "14 de Abril",
+  "replace": "14 de abril"
+ },
+ {
+  "file": "*",
+  "find": "15 de Abril",
+  "replace": "15 de abril"
+ },
+ {
+  "file": "*",
+  "find": "16 de Abril",
+  "replace": "16 de abril"
+ },
+ {
+  "file": "*",
+  "find": "17 de Abril",
+  "replace": "17 de abril"
+ },
+ {
+  "file": "*",
+  "find": "18 de Abril",
+  "replace": "18 de abril"
+ },
+ {
+  "file": "*",
+  "find": "19 de Abril",
+  "replace": "19 de abril"
+ },
+ {
+  "file": "*",
+  "find": "20 de Abril",
+  "replace": "20 de abril"
+ },
+ {
+  "file": "*",
+  "find": "21 de Abril",
+  "replace": "21 de abril"
+ },
+ {
+  "file": "*",
+  "find": "22 de Abril",
+  "replace": "22 de abril"
+ },
+ {
+  "file": "*",
+  "find": "23 de Abril",
+  "replace": "23 de abril"
+ },
+ {
+  "file": "*",
+  "find": "24 de Abril",
+  "replace": "24 de abril"
+ },
+ {
+  "file": "*",
+  "find": "25 de Abril",
+  "replace": "25 de abril"
+ },
+ {
+  "file": "*",
+  "find": "26 de Abril",
+  "replace": "26 de abril"
+ },
+ {
+  "file": "*",
+  "find": "27 de Abril",
+  "replace": "27 de abril"
+ },
+ {
+  "file": "*",
+  "find": "28 de Abril",
+  "replace": "28 de abril"
+ },
+ {
+  "file": "*",
+  "find": "29 de Abril",
+  "replace": "29 de abril"
+ },
+ {
+  "file": "*",
+  "find": "30 de Abril",
+  "replace": "30 de abril"
+ },
+ {
+  "file": "*",
+  "find": "31 de Abril",
+  "replace": "31 de abril"
+ },
+ {
+  "file": "*",
+  "find": "de Mayo de",
+  "replace": "de mayo de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Mayo",
+  "replace": "1 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "2 de Mayo",
+  "replace": "2 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "3 de Mayo",
+  "replace": "3 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "4 de Mayo",
+  "replace": "4 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "5 de Mayo",
+  "replace": "5 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "6 de Mayo",
+  "replace": "6 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "7 de Mayo",
+  "replace": "7 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "8 de Mayo",
+  "replace": "8 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "9 de Mayo",
+  "replace": "9 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "10 de Mayo",
+  "replace": "10 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "11 de Mayo",
+  "replace": "11 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "12 de Mayo",
+  "replace": "12 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "13 de Mayo",
+  "replace": "13 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "14 de Mayo",
+  "replace": "14 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "15 de Mayo",
+  "replace": "15 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "16 de Mayo",
+  "replace": "16 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "17 de Mayo",
+  "replace": "17 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "18 de Mayo",
+  "replace": "18 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "19 de Mayo",
+  "replace": "19 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "20 de Mayo",
+  "replace": "20 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "21 de Mayo",
+  "replace": "21 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "22 de Mayo",
+  "replace": "22 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "23 de Mayo",
+  "replace": "23 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "24 de Mayo",
+  "replace": "24 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "25 de Mayo",
+  "replace": "25 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "26 de Mayo",
+  "replace": "26 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "27 de Mayo",
+  "replace": "27 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "28 de Mayo",
+  "replace": "28 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "29 de Mayo",
+  "replace": "29 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "30 de Mayo",
+  "replace": "30 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "31 de Mayo",
+  "replace": "31 de mayo"
+ },
+ {
+  "file": "*",
+  "find": "de Junio de",
+  "replace": "de junio de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Junio",
+  "replace": "1 de junio"
+ },
+ {
+  "file": "*",
+  "find": "2 de Junio",
+  "replace": "2 de junio"
+ },
+ {
+  "file": "*",
+  "find": "3 de Junio",
+  "replace": "3 de junio"
+ },
+ {
+  "file": "*",
+  "find": "4 de Junio",
+  "replace": "4 de junio"
+ },
+ {
+  "file": "*",
+  "find": "5 de Junio",
+  "replace": "5 de junio"
+ },
+ {
+  "file": "*",
+  "find": "6 de Junio",
+  "replace": "6 de junio"
+ },
+ {
+  "file": "*",
+  "find": "7 de Junio",
+  "replace": "7 de junio"
+ },
+ {
+  "file": "*",
+  "find": "8 de Junio",
+  "replace": "8 de junio"
+ },
+ {
+  "file": "*",
+  "find": "9 de Junio",
+  "replace": "9 de junio"
+ },
+ {
+  "file": "*",
+  "find": "10 de Junio",
+  "replace": "10 de junio"
+ },
+ {
+  "file": "*",
+  "find": "11 de Junio",
+  "replace": "11 de junio"
+ },
+ {
+  "file": "*",
+  "find": "12 de Junio",
+  "replace": "12 de junio"
+ },
+ {
+  "file": "*",
+  "find": "13 de Junio",
+  "replace": "13 de junio"
+ },
+ {
+  "file": "*",
+  "find": "14 de Junio",
+  "replace": "14 de junio"
+ },
+ {
+  "file": "*",
+  "find": "15 de Junio",
+  "replace": "15 de junio"
+ },
+ {
+  "file": "*",
+  "find": "16 de Junio",
+  "replace": "16 de junio"
+ },
+ {
+  "file": "*",
+  "find": "17 de Junio",
+  "replace": "17 de junio"
+ },
+ {
+  "file": "*",
+  "find": "18 de Junio",
+  "replace": "18 de junio"
+ },
+ {
+  "file": "*",
+  "find": "19 de Junio",
+  "replace": "19 de junio"
+ },
+ {
+  "file": "*",
+  "find": "20 de Junio",
+  "replace": "20 de junio"
+ },
+ {
+  "file": "*",
+  "find": "21 de Junio",
+  "replace": "21 de junio"
+ },
+ {
+  "file": "*",
+  "find": "22 de Junio",
+  "replace": "22 de junio"
+ },
+ {
+  "file": "*",
+  "find": "23 de Junio",
+  "replace": "23 de junio"
+ },
+ {
+  "file": "*",
+  "find": "24 de Junio",
+  "replace": "24 de junio"
+ },
+ {
+  "file": "*",
+  "find": "25 de Junio",
+  "replace": "25 de junio"
+ },
+ {
+  "file": "*",
+  "find": "26 de Junio",
+  "replace": "26 de junio"
+ },
+ {
+  "file": "*",
+  "find": "27 de Junio",
+  "replace": "27 de junio"
+ },
+ {
+  "file": "*",
+  "find": "28 de Junio",
+  "replace": "28 de junio"
+ },
+ {
+  "file": "*",
+  "find": "29 de Junio",
+  "replace": "29 de junio"
+ },
+ {
+  "file": "*",
+  "find": "30 de Junio",
+  "replace": "30 de junio"
+ },
+ {
+  "file": "*",
+  "find": "31 de Junio",
+  "replace": "31 de junio"
+ },
+ {
+  "file": "*",
+  "find": "de Julio de",
+  "replace": "de julio de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Julio",
+  "replace": "1 de julio"
+ },
+ {
+  "file": "*",
+  "find": "2 de Julio",
+  "replace": "2 de julio"
+ },
+ {
+  "file": "*",
+  "find": "3 de Julio",
+  "replace": "3 de julio"
+ },
+ {
+  "file": "*",
+  "find": "4 de Julio",
+  "replace": "4 de julio"
+ },
+ {
+  "file": "*",
+  "find": "5 de Julio",
+  "replace": "5 de julio"
+ },
+ {
+  "file": "*",
+  "find": "6 de Julio",
+  "replace": "6 de julio"
+ },
+ {
+  "file": "*",
+  "find": "7 de Julio",
+  "replace": "7 de julio"
+ },
+ {
+  "file": "*",
+  "find": "8 de Julio",
+  "replace": "8 de julio"
+ },
+ {
+  "file": "*",
+  "find": "9 de Julio",
+  "replace": "9 de julio"
+ },
+ {
+  "file": "*",
+  "find": "10 de Julio",
+  "replace": "10 de julio"
+ },
+ {
+  "file": "*",
+  "find": "11 de Julio",
+  "replace": "11 de julio"
+ },
+ {
+  "file": "*",
+  "find": "12 de Julio",
+  "replace": "12 de julio"
+ },
+ {
+  "file": "*",
+  "find": "13 de Julio",
+  "replace": "13 de julio"
+ },
+ {
+  "file": "*",
+  "find": "14 de Julio",
+  "replace": "14 de julio"
+ },
+ {
+  "file": "*",
+  "find": "15 de Julio",
+  "replace": "15 de julio"
+ },
+ {
+  "file": "*",
+  "find": "16 de Julio",
+  "replace": "16 de julio"
+ },
+ {
+  "file": "*",
+  "find": "17 de Julio",
+  "replace": "17 de julio"
+ },
+ {
+  "file": "*",
+  "find": "18 de Julio",
+  "replace": "18 de julio"
+ },
+ {
+  "file": "*",
+  "find": "19 de Julio",
+  "replace": "19 de julio"
+ },
+ {
+  "file": "*",
+  "find": "20 de Julio",
+  "replace": "20 de julio"
+ },
+ {
+  "file": "*",
+  "find": "21 de Julio",
+  "replace": "21 de julio"
+ },
+ {
+  "file": "*",
+  "find": "22 de Julio",
+  "replace": "22 de julio"
+ },
+ {
+  "file": "*",
+  "find": "23 de Julio",
+  "replace": "23 de julio"
+ },
+ {
+  "file": "*",
+  "find": "24 de Julio",
+  "replace": "24 de julio"
+ },
+ {
+  "file": "*",
+  "find": "25 de Julio",
+  "replace": "25 de julio"
+ },
+ {
+  "file": "*",
+  "find": "26 de Julio",
+  "replace": "26 de julio"
+ },
+ {
+  "file": "*",
+  "find": "27 de Julio",
+  "replace": "27 de julio"
+ },
+ {
+  "file": "*",
+  "find": "28 de Julio",
+  "replace": "28 de julio"
+ },
+ {
+  "file": "*",
+  "find": "29 de Julio",
+  "replace": "29 de julio"
+ },
+ {
+  "file": "*",
+  "find": "30 de Julio",
+  "replace": "30 de julio"
+ },
+ {
+  "file": "*",
+  "find": "31 de Julio",
+  "replace": "31 de julio"
+ },
+ {
+  "file": "*",
+  "find": "de Agosto de",
+  "replace": "de agosto de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Agosto",
+  "replace": "1 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "2 de Agosto",
+  "replace": "2 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "3 de Agosto",
+  "replace": "3 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "4 de Agosto",
+  "replace": "4 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "5 de Agosto",
+  "replace": "5 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "6 de Agosto",
+  "replace": "6 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "7 de Agosto",
+  "replace": "7 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "8 de Agosto",
+  "replace": "8 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "9 de Agosto",
+  "replace": "9 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "10 de Agosto",
+  "replace": "10 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "11 de Agosto",
+  "replace": "11 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "12 de Agosto",
+  "replace": "12 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "13 de Agosto",
+  "replace": "13 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "14 de Agosto",
+  "replace": "14 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "15 de Agosto",
+  "replace": "15 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "16 de Agosto",
+  "replace": "16 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "17 de Agosto",
+  "replace": "17 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "18 de Agosto",
+  "replace": "18 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "19 de Agosto",
+  "replace": "19 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "20 de Agosto",
+  "replace": "20 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "21 de Agosto",
+  "replace": "21 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "22 de Agosto",
+  "replace": "22 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "23 de Agosto",
+  "replace": "23 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "24 de Agosto",
+  "replace": "24 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "25 de Agosto",
+  "replace": "25 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "26 de Agosto",
+  "replace": "26 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "27 de Agosto",
+  "replace": "27 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "28 de Agosto",
+  "replace": "28 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "29 de Agosto",
+  "replace": "29 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "30 de Agosto",
+  "replace": "30 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "31 de Agosto",
+  "replace": "31 de agosto"
+ },
+ {
+  "file": "*",
+  "find": "de Septiembre de",
+  "replace": "de septiembre de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Septiembre",
+  "replace": "1 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "2 de Septiembre",
+  "replace": "2 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "3 de Septiembre",
+  "replace": "3 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "4 de Septiembre",
+  "replace": "4 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "5 de Septiembre",
+  "replace": "5 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "6 de Septiembre",
+  "replace": "6 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "7 de Septiembre",
+  "replace": "7 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "8 de Septiembre",
+  "replace": "8 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "9 de Septiembre",
+  "replace": "9 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "10 de Septiembre",
+  "replace": "10 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "11 de Septiembre",
+  "replace": "11 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "12 de Septiembre",
+  "replace": "12 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "13 de Septiembre",
+  "replace": "13 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "14 de Septiembre",
+  "replace": "14 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "15 de Septiembre",
+  "replace": "15 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "16 de Septiembre",
+  "replace": "16 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "17 de Septiembre",
+  "replace": "17 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "18 de Septiembre",
+  "replace": "18 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "19 de Septiembre",
+  "replace": "19 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "20 de Septiembre",
+  "replace": "20 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "21 de Septiembre",
+  "replace": "21 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "22 de Septiembre",
+  "replace": "22 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "23 de Septiembre",
+  "replace": "23 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "24 de Septiembre",
+  "replace": "24 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "25 de Septiembre",
+  "replace": "25 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "26 de Septiembre",
+  "replace": "26 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "27 de Septiembre",
+  "replace": "27 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "28 de Septiembre",
+  "replace": "28 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "29 de Septiembre",
+  "replace": "29 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "30 de Septiembre",
+  "replace": "30 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "31 de Septiembre",
+  "replace": "31 de septiembre"
+ },
+ {
+  "file": "*",
+  "find": "de Setiembre de",
+  "replace": "de setiembre de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Setiembre",
+  "replace": "1 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "2 de Setiembre",
+  "replace": "2 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "3 de Setiembre",
+  "replace": "3 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "4 de Setiembre",
+  "replace": "4 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "5 de Setiembre",
+  "replace": "5 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "6 de Setiembre",
+  "replace": "6 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "7 de Setiembre",
+  "replace": "7 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "8 de Setiembre",
+  "replace": "8 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "9 de Setiembre",
+  "replace": "9 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "10 de Setiembre",
+  "replace": "10 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "11 de Setiembre",
+  "replace": "11 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "12 de Setiembre",
+  "replace": "12 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "13 de Setiembre",
+  "replace": "13 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "14 de Setiembre",
+  "replace": "14 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "15 de Setiembre",
+  "replace": "15 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "16 de Setiembre",
+  "replace": "16 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "17 de Setiembre",
+  "replace": "17 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "18 de Setiembre",
+  "replace": "18 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "19 de Setiembre",
+  "replace": "19 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "20 de Setiembre",
+  "replace": "20 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "21 de Setiembre",
+  "replace": "21 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "22 de Setiembre",
+  "replace": "22 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "23 de Setiembre",
+  "replace": "23 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "24 de Setiembre",
+  "replace": "24 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "25 de Setiembre",
+  "replace": "25 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "26 de Setiembre",
+  "replace": "26 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "27 de Setiembre",
+  "replace": "27 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "28 de Setiembre",
+  "replace": "28 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "29 de Setiembre",
+  "replace": "29 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "30 de Setiembre",
+  "replace": "30 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "31 de Setiembre",
+  "replace": "31 de setiembre"
+ },
+ {
+  "file": "*",
+  "find": "de Octubre de",
+  "replace": "de octubre de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Octubre",
+  "replace": "1 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "2 de Octubre",
+  "replace": "2 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "3 de Octubre",
+  "replace": "3 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "4 de Octubre",
+  "replace": "4 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "5 de Octubre",
+  "replace": "5 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "6 de Octubre",
+  "replace": "6 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "7 de Octubre",
+  "replace": "7 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "8 de Octubre",
+  "replace": "8 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "9 de Octubre",
+  "replace": "9 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "10 de Octubre",
+  "replace": "10 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "11 de Octubre",
+  "replace": "11 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "12 de Octubre",
+  "replace": "12 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "13 de Octubre",
+  "replace": "13 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "14 de Octubre",
+  "replace": "14 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "15 de Octubre",
+  "replace": "15 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "16 de Octubre",
+  "replace": "16 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "17 de Octubre",
+  "replace": "17 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "18 de Octubre",
+  "replace": "18 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "19 de Octubre",
+  "replace": "19 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "20 de Octubre",
+  "replace": "20 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "21 de Octubre",
+  "replace": "21 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "22 de Octubre",
+  "replace": "22 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "23 de Octubre",
+  "replace": "23 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "24 de Octubre",
+  "replace": "24 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "25 de Octubre",
+  "replace": "25 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "26 de Octubre",
+  "replace": "26 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "27 de Octubre",
+  "replace": "27 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "28 de Octubre",
+  "replace": "28 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "29 de Octubre",
+  "replace": "29 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "30 de Octubre",
+  "replace": "30 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "31 de Octubre",
+  "replace": "31 de octubre"
+ },
+ {
+  "file": "*",
+  "find": "de Noviembre de",
+  "replace": "de noviembre de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Noviembre",
+  "replace": "1 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "2 de Noviembre",
+  "replace": "2 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "3 de Noviembre",
+  "replace": "3 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "4 de Noviembre",
+  "replace": "4 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "5 de Noviembre",
+  "replace": "5 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "6 de Noviembre",
+  "replace": "6 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "7 de Noviembre",
+  "replace": "7 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "8 de Noviembre",
+  "replace": "8 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "9 de Noviembre",
+  "replace": "9 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "10 de Noviembre",
+  "replace": "10 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "11 de Noviembre",
+  "replace": "11 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "12 de Noviembre",
+  "replace": "12 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "13 de Noviembre",
+  "replace": "13 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "14 de Noviembre",
+  "replace": "14 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "15 de Noviembre",
+  "replace": "15 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "16 de Noviembre",
+  "replace": "16 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "17 de Noviembre",
+  "replace": "17 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "18 de Noviembre",
+  "replace": "18 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "19 de Noviembre",
+  "replace": "19 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "20 de Noviembre",
+  "replace": "20 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "21 de Noviembre",
+  "replace": "21 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "22 de Noviembre",
+  "replace": "22 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "23 de Noviembre",
+  "replace": "23 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "24 de Noviembre",
+  "replace": "24 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "25 de Noviembre",
+  "replace": "25 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "26 de Noviembre",
+  "replace": "26 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "27 de Noviembre",
+  "replace": "27 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "28 de Noviembre",
+  "replace": "28 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "29 de Noviembre",
+  "replace": "29 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "30 de Noviembre",
+  "replace": "30 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "31 de Noviembre",
+  "replace": "31 de noviembre"
+ },
+ {
+  "file": "*",
+  "find": "de Diciembre de",
+  "replace": "de diciembre de"
+ },
+ {
+  "file": "*",
+  "find": "1 de Diciembre",
+  "replace": "1 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "2 de Diciembre",
+  "replace": "2 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "3 de Diciembre",
+  "replace": "3 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "4 de Diciembre",
+  "replace": "4 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "5 de Diciembre",
+  "replace": "5 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "6 de Diciembre",
+  "replace": "6 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "7 de Diciembre",
+  "replace": "7 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "8 de Diciembre",
+  "replace": "8 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "9 de Diciembre",
+  "replace": "9 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "10 de Diciembre",
+  "replace": "10 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "11 de Diciembre",
+  "replace": "11 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "12 de Diciembre",
+  "replace": "12 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "13 de Diciembre",
+  "replace": "13 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "14 de Diciembre",
+  "replace": "14 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "15 de Diciembre",
+  "replace": "15 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "16 de Diciembre",
+  "replace": "16 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "17 de Diciembre",
+  "replace": "17 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "18 de Diciembre",
+  "replace": "18 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "19 de Diciembre",
+  "replace": "19 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "20 de Diciembre",
+  "replace": "20 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "21 de Diciembre",
+  "replace": "21 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "22 de Diciembre",
+  "replace": "22 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "23 de Diciembre",
+  "replace": "23 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "24 de Diciembre",
+  "replace": "24 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "25 de Diciembre",
+  "replace": "25 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "26 de Diciembre",
+  "replace": "26 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "27 de Diciembre",
+  "replace": "27 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "28 de Diciembre",
+  "replace": "28 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "29 de Diciembre",
+  "replace": "29 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "30 de Diciembre",
+  "replace": "30 de diciembre"
+ },
+ {
+  "file": "*",
+  "find": "31 de Diciembre",
+  "replace": "31 de diciembre"
+ }
+]

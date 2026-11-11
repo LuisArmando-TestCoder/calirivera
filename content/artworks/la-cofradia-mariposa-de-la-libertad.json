@@ -1,0 +1,29 @@
+{
+ "id": "la-cofradia-mariposa-de-la-libertad",
+ "slug": "la-cofradia-mariposa-de-la-libertad",
+ "status": "published",
+ "title": "Mariposa de la Libertad",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/la-cofradia/mariposa-de-la-libertad-1350.jpg",
+   "widths": [
+    640,
+    1280,
+    1350
+   ],
+   "width": 1350,
+   "height": 1870,
+   "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdABuMQ02dy3K3C/KdKg4AAP3iciNE+ze0inW1urq3PRwZGtq8rUxWUb4zNfZ9de54mq8cFdMRb8xF1cZU08cAyJumLRIsF+CB9bkItMvM0MHal/aunRxA5Ecf/NgL3XEdJRQ4hNQ0whTpzKbzWKp/8ebXsoIag6FGS8ydmcOY1d04jLNE1cPncMAA",
+   "color": "rgb(248 248 248)",
+   "alt": "Mariposa de la Libertad — La Cofradía, 2017"
+  }
+ ],
+ "aiAltered": false,
+ "order": 3,
+ "year": 2017,
+ "technique": "Mixta sobre objeto, intervenido con pedrería, pintura y resina",
+ "dimensions": "120 × 120 cm",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

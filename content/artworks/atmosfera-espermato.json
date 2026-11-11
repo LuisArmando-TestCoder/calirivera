@@ -1,0 +1,29 @@
+{
+ "id": "atmosfera-espermato",
+ "slug": "atmosfera-espermato",
+ "status": "published",
+ "title": "Espermato",
+ "collectionId": "atmosfera",
+ "images": [
+  {
+   "src": "/media/memoria/1993-espermato-390.jpg",
+   "alt": "Espermato — Atmósfera, 1993. Tiza pastel sobre papel",
+   "width": 390,
+   "height": 636,
+   "widths": [
+    390
+   ],
+   "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADQBACdASoQABoAPu1kqk4ppaQiMAgBMB2JaAC7MoMlksACPZWixwvFur2+qRvyAAD+SJbQbC6PQTTeY60ij0WFQir9m529/zUniFdUEy3ThsJ6xlOs30WPDywKbOkg1iZQ6ieBMmqDqYrvUHZRV5vlVva8T02aX2jYkjk6IVLTV+wPcw7nrBkNWoH7BXcnCVFp6Vu5iVsedUeOyNG37gruXrLnW8WnykXwaeDuCZ/9DaQCc7kJveRg4AA=",
+   "color": "rgb(56 56 104)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 3,
+ "year": 1993,
+ "technique": "Tiza pastel sobre papel",
+ "notes": "Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206140008id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/espermato.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

@@ -4,6 +4,10 @@ import { notFound } from "next/navigation";
 import { Suspense, ViewTransition } from "react";
 import { EditableText } from "@/components/cms/editable";
 import { ArtImage } from "@/components/media/ArtImage";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { artworkLd, breadcrumbLd } from "@/lib/seo";
+import { ZoomView } from "@/components/media/ZoomView";
+import { GLReveal } from "@/components/media/GLReveal";
 import { getArtwork, getCollection, listArtworks, listSlugs } from "@/lib/content/repo";
 import { COLLECTIONS } from "@/lib/content/types";
 import s from "./obra.module.scss";
@@ -20,7 +24,12 @@ export async function generateMetadata({ params }: PageProps<"/obra/[slug]">): P
   const w = slug === EMPTY ? null : await getArtwork(slug);
   if (!w) return { title: "Obra" };
   const c = w.collectionId ? await getCollection(w.collectionId) : null;
-  return { title: c ? `${w.title} · ${c.title}` : w.title, openGraph: { images: w.images[0] ? [w.images[0].src] : [] } };
+  const bits = [w.year ? String(w.year) : "", w.technique ?? "", w.dimensions ?? ""].filter(Boolean).join(", ");
+  return {
+    title: c ? `${w.title} · ${c.title}` : w.title,
+    description: `«${w.title}», obra de Cali Rivera${bits ? ` (${bits})` : ""}${c ? `. Colección ${c.title}` : ""}.`,
+    openGraph: { type: "article", images: w.images[0] ? [{ url: w.images[0].src, alt: w.images[0].alt || w.title }] : [] },
+  };
 }
 
 const AVAILABILITY: Record<string, string> = {
@@ -44,11 +53,17 @@ async function ObraContent({ params }: { params: PageProps<"/obra/[slug]">["para
     ["Estado", "availability", w.availability ? AVAILABILITY[w.availability] : ""],
   ];
   return (
-    <article className={s.page}>
+    <GLReveal as="article" className={s.page} slot={1024}>
+      <JsonLd data={artworkLd(w, c ?? null)} />
+      <JsonLd data={breadcrumbLd([{ name: "Colecciones", path: "/colecciones" }, ...(c ? [{ name: c.title, path: `/colecciones/${c.slug}` }] : []), { name: w.title, path: `/obra/${w.slug}` }])} />
       <div className={s.media}>
         <ViewTransition name={`obra-${w.slug}`}>
           <div className={s.frame}>
-            {w.images[0] && <ArtImage image={w.images[0]} path={`${path}#images.0`} priority sizes="(min-width: 60em) 62vw, 100vw" />}
+            {w.images[0] && (
+              <ZoomView image={w.images[0]} label={w.title}>
+                <ArtImage image={w.images[0]} path={`${path}#images.0`} priority sizes="(min-width: 60em) 62vw, 100vw" />
+              </ZoomView>
+            )}
           </div>
         </ViewTransition>
       </div>
@@ -70,7 +85,7 @@ async function ObraContent({ params }: { params: PageProps<"/obra/[slug]">["para
           {next ? <Link href={`/obra/${next.slug}`} rel="next">Siguiente</Link> : <span />}
         </nav>
       </aside>
-    </article>
+    </GLReveal>
   );
 }
 

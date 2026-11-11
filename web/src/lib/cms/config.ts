@@ -3,7 +3,7 @@
  */
 import type { LayoutPreset } from "@/lib/content/types";
 
-export const CONTENT_COLLECTIONS = ["pages", "collections", "artworks", "catalogs", "programs", "people", "posts", "memories", "settings"] as const;
+export const CONTENT_COLLECTIONS = ["pages", "collections", "artworks", "catalogs", "programs", "people", "posts", "press", "memories", "settings"] as const;
 export type ContentCollection = (typeof CONTENT_COLLECTIONS)[number];
 export const SYSTEM_COLLECTIONS = ["authCodes", "rateLimits", "auditLog", "drafts"] as const;
 
@@ -64,6 +64,13 @@ export interface CollectionDef {
   filters?: { name: string; label: string; options?: { value: string; label: string }[] }[];
 }
 
+/** Dónde aparece una página creada desde el editor dentro del menú. */
+export const MENU_OPTIONS = [
+  { value: "obra", label: "En el menú, bajo «Obra»" },
+  { value: "taller", label: "En el menú, bajo «Taller del Artista»" },
+  { value: "fuera", label: "Fuera del menú (solo con el enlace)" },
+];
+
 export const PROGRAM_OPTIONS = [
   { value: "colaboracion", label: "Colaboración al Artista Nacional" },
   { value: "incubadora", label: "La Incubadora (jueves)" },
@@ -79,6 +86,7 @@ export const LAYOUT_OPTIONS: { value: LayoutPreset; label: string; hint: string 
   { value: "kinetic-statement", label: "Frase grande", hint: "Una idea corta, en grande" },
   { value: "gallery-masonry", label: "Galería", hint: "Muchas fotos juntas" },
   { value: "poem-center", label: "Poema", hint: "Versos centrados" },
+  { value: "chronicle", label: "Crónica", hint: "Relato por etapas: el año a la izquierda, lugares y obras a la derecha" },
 ];
 
 export const TONE_OPTIONS = [
@@ -169,6 +177,30 @@ export const COLLECTION_DEFS: Record<ContentCollection, CollectionDef> = {
       { name: "cover", label: "Foto principal", type: "image", quick: true },
       { name: "body", label: "Contenido", type: "blocks" },
       { name: "tags", label: "Etiquetas", type: "tags", help: "Separadas por coma." },
+      slug,
+    ],
+  },
+  press: {
+    name: "press",
+    label: "Prensa",
+    singular: "nota de prensa",
+    gender: "f",
+    icon: "❞",
+    description: "Lo que dijeron de Cali los diarios y revistas («Puntos de vista» del sitio viejo).",
+    titleField: "title",
+    imageField: "cover",
+    sort: "publishedAt",
+    itemTypes: ["press"],
+    fields: [
+      { name: "title", label: "Titular", type: "text", required: true, max: 140, quick: true },
+      { name: "outlet", label: "Medio", type: "text", required: true, max: 80, placeholder: "La Nación, The Tico Times…", quick: true },
+      { name: "author", label: "Autor/a", type: "text", max: 80, quick: true },
+      { name: "publishedAt", label: "Fecha", type: "date", required: true, quick: true },
+      { name: "dateLabel", label: "Fecha como se muestra", type: "text", max: 40, placeholder: "marzo de 2000", help: "Si no se sabe el día exacto, escribí solo el mes o el año." },
+      { name: "excerpt", label: "Resumen corto", type: "textarea", max: 280, rows: 3 },
+      { name: "cover", label: "Foto o recorte", type: "image" },
+      { name: "body", label: "Texto de la nota", type: "blocks" },
+      { name: "sourceUrl", label: "Original archivado", type: "url" },
       slug,
     ],
   },
@@ -322,7 +354,8 @@ export const COLLECTION_DEFS: Record<ContentCollection, CollectionDef> = {
     sort: "order",
     itemTypes: ["page", "pages"],
     fields: [
-      { name: "title", label: "Título", type: "text", required: true, max: 100 },
+      { name: "title", label: "Título", type: "text", required: true, max: 100, quick: true, placeholder: "Murales, Talleres para niños…" },
+      { name: "menu", label: "¿Dónde aparece?", type: "select", quick: true, options: MENU_OPTIONS, help: "Las páginas nuevas se suman solas al menú del sitio." },
       { name: "hero.title", label: "Portada: título grande", type: "text", max: 120 },
       { name: "hero.subtitle", label: "Portada: subtítulo", type: "text", max: 200 },
       { name: "hero.image", label: "Portada: imagen", type: "image" },
@@ -377,6 +410,8 @@ export function publicUrl(collection: string, doc: { slug?: string; id: string; 
       return `/bitacora/${slug}`;
     case "memories":
       return `/memoria/${slug}`;
+    case "press":
+      return `/puntos-de-vista/${slug}`;
     case "programs":
       return doc.kind === "colaboracion"
         ? "/colaboracion-al-artista-nacional"
@@ -399,4 +434,5 @@ export const BLOCK_TYPES = [
   { value: "gallery", label: "Galería", icon: "▦" },
   { value: "quote", label: "Cita", icon: "❝" },
   { value: "poem", label: "Poema", icon: "✿" },
+  { value: "video", label: "Video (enlace)", icon: "▶" },
 ] as const;

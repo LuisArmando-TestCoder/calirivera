@@ -7,7 +7,7 @@
  "order": 30,
  "image": {
   "src": "/media/detras-de-la-ventana/detras-5-1210.jpg",
-  "alt": "Detras",
+  "alt": "Detrás de la ventana",
   "width": 1210,
   "height": 1300,
   "widths": [
@@ -20,7 +20,7 @@
  "kind": "obra",
  "source": "sitio-actual",
  "aiAltered": false,
- "title": "Detras",
+ "title": "Detrás de la ventana",
  "year": 2000,
  "yearApprox": true,
  "collectionId": "detras-de-la-ventana",

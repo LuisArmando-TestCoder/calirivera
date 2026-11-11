@@ -57,6 +57,8 @@ export function ArtImage({
       className={`${s.figure} ${frame ? s.framed : ""} ${low ? s.low : ""} ${fit === "cover" ? s.fill : ""} ${className ?? ""}`}
       style={style}
       data-ai-altered={image.aiAltered ? "" : undefined}
+      // participa del renacer de la ceniza cuando está dentro de un <GLReveal>
+      data-mem={image.src}
     >
       {low && (
         // eslint-disable-next-line @next/next/no-img-element

@@ -1,0 +1,29 @@
+{
+ "id": "atmosfera-zonas-oscuras",
+ "slug": "atmosfera-zonas-oscuras",
+ "status": "published",
+ "title": "Zonas oscuras",
+ "collectionId": "atmosfera",
+ "images": [
+  {
+   "src": "/media/memoria/1993-zonas-oscuras-390.jpg",
+   "alt": "Zonas oscuras — Atmósfera, 1993. Tiza pastel sobre papel",
+   "width": 390,
+   "height": 624,
+   "widths": [
+    390
+   ],
+   "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JYgCdMoACN/VwQZagFvyObAAA/szQkNi336mhez9iq4DjrCpszYVZv1QrL5kPmtJ39bvkMwjpWiV1GdjT5m1OglZIdAZt9tM8mUMrzxrqpWAc5oAjw84AAAA=",
+   "color": "rgb(72 88 136)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 9,
+ "year": 1993,
+ "technique": "Tiza pastel sobre papel",
+ "notes": "Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206205656id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/zonas_oscuras.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

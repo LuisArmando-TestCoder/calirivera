@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import { EditableText } from "@/components/cms/editable";
 import { ArtImage } from "@/components/media/ArtImage";
+import { GLReveal } from "@/components/media/GLReveal";
 import { getMemory, listMemories, listSlugs } from "@/lib/content/repo";
 import { COLLECTIONS } from "@/lib/content/types";
 import { KIND_LABEL, SOURCE_LABEL } from "@/lib/memoria/layout";
@@ -36,7 +37,7 @@ async function Content({ params }: { params: PageProps<"/memoria/[slug]">["param
   const title = m.title || (year ? `Recuerdo de ${year}` : "Recuerdo");
   const label = (x: typeof prev) => (x ? x.title || (x.year ? `Recuerdo de ${x.year}` : "Recuerdo") : "");
   return (
-    <article className={s.page}>
+    <GLReveal as="article" className={s.page} slot={1024}>
       <nav className={s.crumbs} aria-label="Ruta">
         <Link href="/memoria">Memoria</Link>
         {m.year && (
@@ -111,7 +112,7 @@ async function Content({ params }: { params: PageProps<"/memoria/[slug]">["param
           <i />
         )}
       </nav>
-    </article>
+    </GLReveal>
   );
 }
 

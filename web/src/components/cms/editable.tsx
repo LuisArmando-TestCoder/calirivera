@@ -23,6 +23,7 @@
  */
 import type { ElementType, ReactNode } from "react";
 import type { ImageAsset } from "@/lib/content/types";
+import { Marked } from "@/components/text/Marked";
 
 export type FieldPath = string;
 
@@ -32,16 +33,22 @@ export function EditableText({
   as: Tag = "span",
   multiline = false,
   className,
+  marks = false,
+  fx = false,
 }: {
   path: FieldPath;
   value: string;
   as?: ElementType;
   multiline?: boolean;
   className?: string;
+  /** Marca fechas, lugares y obras (el texto no cambia; solo se envuelve). */
+  marks?: boolean;
+  /** Se puede «tocar» con el fuego, como los títulos grandes. */
+  fx?: boolean;
 }) {
   return (
-    <Tag className={className} data-cms-path={path} data-cms-kind={multiline ? "richtext" : "text"}>
-      {value}
+    <Tag className={className} data-cms-path={path} data-cms-kind={multiline ? "richtext" : "text"} data-title-fx={fx ? "" : undefined}>
+      {marks ? <Marked text={value} /> : value}
     </Tag>
   );
 }

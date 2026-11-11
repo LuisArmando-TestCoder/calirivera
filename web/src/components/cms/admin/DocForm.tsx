@@ -6,6 +6,7 @@ import { COLLECTION_DEFS, type ContentCollection, type FieldDef } from "@/lib/cm
 import { getAt, setAt } from "@/lib/cms/paths";
 import { slugify } from "@/lib/cms/slug";
 import { validateDoc } from "@/lib/cms/validate";
+import { noteCommit } from "../overlay/local";
 import { revertAction, saveDocAction, setStatusAction, trashDocAction, restoreDocAction } from "@/app/admin/actions";
 import { useToast } from "../shared/Toaster";
 import { Confirm } from "../shared/Sheet";
@@ -97,6 +98,7 @@ export function DocForm({
         toast({ text: r.error ?? "No se pudo guardar.", tone: "error" });
         return;
       }
+      noteCommit(r, `${values.title ? String(values.title) : collection} (desde el Panel)`);
       setDirty(false);
       setPast([]);
       lastKey.current = null;

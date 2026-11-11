@@ -1,0 +1,28 @@
+{
+ "id": "la-cofradia-candela",
+ "slug": "la-cofradia-candela",
+ "status": "published",
+ "title": "Candela",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/memoria/2017-candela-430.jpg",
+   "alt": "Candela — La Cofradía, 2017",
+   "width": 430,
+   "height": 548,
+   "widths": [
+    430
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYgCdMoRwN0AAL4nQ9PjmeqyYg0AA/ujKHHpOMNLHuM7Gy5G9FsbP7cqW3UUjeA7lUxgMUStThY3MXs503WLCOJ3S1YxKDMnsFQglm3T3pRykCVVKFVFFxfbGXsaAAAA=",
+   "color": "rgb(72 40 24)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 9,
+ "year": 2017,
+ "notes": "Del sitio actual. Ficha técnica pendiente.",
+ "sourceUrl": "https://calirivera.com/la-cofradia/candela-SjvXHdgnaGUodgNo.PNG",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}

@@ -5,6 +5,7 @@ import { BlockView } from "./Blocks";
 import { chooseLayout, firstSentence, segment, textLength } from "./choose";
 import s from "./Section.module.scss";
 import { RevealLines } from "@/components/motion/RevealLines";
+import { Chronicle } from "./Chronicle";
 
 /**
  * Renderiza una Section con la diagramación que corresponde (motor procedural).
@@ -12,18 +13,28 @@ import { RevealLines } from "@/components/motion/RevealLines";
  */
 export function SectionRenderer({ section, base, index = 0 }: { section: Section; base: string; index?: number }) {
   const layout = chooseLayout(section);
+  const marks = !!section.marks;
   const blocksBase = `${base}.blocks`;
   const tone = section.tone ? s[`tone-${section.tone}`] : "";
   const all = section.blocks as Block[];
   const withIdx = all.map((block, i) => ({ block, i }));
   const render = (list: { block: Block; i: number }[], sizes?: string) =>
-    list.map(({ block, i }) => <BlockView key={block.id ?? i} block={block} base={blocksBase} index={i} sizes={sizes} />);
+    list.map(({ block, i }) => <BlockView marks={marks} key={block.id ?? i} block={block} base={blocksBase} index={i} sizes={sizes} />);
   const heading = withIdx.find((x) => x.block.type === "heading");
   const title = section.title ? (
     <EditableText path={`${base}.title`} value={section.title} as="h2" className={s.sectionTitle} />
   ) : null;
 
   switch (layout) {
+    case "chronicle":
+      return (
+        <section className={`${s.section} ${tone}`} id={section.id}>
+          <div className={s.wrap}>
+            {title}
+            <Chronicle items={withIdx} base={blocksBase} />
+          </div>
+        </section>
+      );
     case "kinetic-statement": {
       return (
         <section className={`${s.section} ${s.kinetic} ${tone}`} id={section.id}>
@@ -32,10 +43,10 @@ export function SectionRenderer({ section, base, index = 0 }: { section: Section
             {withIdx.map(({ block, i }) =>
               block.type === "paragraph" ? (
                 <RevealLines key={i}>
-                  <EditableText path={`${blocksBase}.${i}.text`} value={block.text} as="p" multiline className={s.statement} />
+                  <EditableText path={`${blocksBase}.${i}.text`} value={block.text} as="p" multiline marks={marks} className={s.statement} fx />
                 </RevealLines>
               ) : (
-                <BlockView key={i} block={block} base={blocksBase} index={i} />
+                <BlockView marks={marks} key={i} block={block} base={blocksBase} index={i} />
               ),
             )}
           </div>
@@ -73,7 +84,7 @@ export function SectionRenderer({ section, base, index = 0 }: { section: Section
           <div className={s.splitMedia}>
             <div className={s.sticky}>{render(media, "(min-width: 60em) 42vw, 100vw")}</div>
           </div>
-          <div className={s.splitText}>{title}{renderSegmented(text, blocksBase)}</div>
+          <div className={s.splitText}>{title}{renderSegmented(text, blocksBase, marks)}</div>
         </section>
       );
     }
@@ -87,7 +98,7 @@ export function SectionRenderer({ section, base, index = 0 }: { section: Section
                 <ArtImage image={im} path={`${blocksBase}.${i}.images.${j}`} sizes="(min-width: 60em) 36vw, 80vw" />
               </div>
             ))
-          : [<div key={i} className={`${s.trackCell} ${block.type === "video" ? s.trackWide : ""}`}><BlockView block={block} base={blocksBase} index={i} /></div>],
+          : [<div key={i} className={`${s.trackCell} ${block.type === "video" ? s.trackWide : ""}`}><BlockView marks={marks} block={block} base={blocksBase} index={i} /></div>],
       );
       return (
         <section className={`${s.section} ${s.trackSection} ${tone}`} id={section.id} data-pin-track>
@@ -118,9 +129,9 @@ export function SectionRenderer({ section, base, index = 0 }: { section: Section
       return (
         <section className={`${s.section} ${s.editorial} ${long ? s.long : ""} ${tone}`} id={section.id}>
           <div className={s.wrap}>
-            {heading && <div className={s.editorialHead}>{title}<BlockView block={heading.block} base={blocksBase} index={heading.i} /></div>}
+            {heading && <div className={s.editorialHead}>{title}<BlockView marks={marks} block={heading.block} base={blocksBase} index={heading.i} /></div>}
             {!heading && title && <div className={s.editorialHead}>{title}</div>}
-            <div className={`${s.editorialBody} ${!heading && !title ? s.noHead : ""}`}>{renderSegmented(withIdx.filter((x) => x !== heading), blocksBase)}</div>
+            <div className={`${s.editorialBody} ${!heading && !title ? s.noHead : ""}`}>{renderSegmented(withIdx.filter((x) => x !== heading), blocksBase, marks)}</div>
           </div>
         </section>
       );
@@ -129,10 +140,10 @@ export function SectionRenderer({ section, base, index = 0 }: { section: Section
 }
 
 /** Texto largo → pliegos con cita destacada (de la primera frase del pliego). */
-function renderSegmented(list: { block: Block; i: number }[], base: string) {
+function renderSegmented(list: { block: Block; i: number }[], base: string, marks = false) {
   const blocks = list.map((x) => x.block);
   const groups = segment(blocks);
-  if (groups.length < 2) return list.map(({ block, i }) => <BlockView key={i} block={block} base={base} index={i} />);
+  if (groups.length < 2) return list.map(({ block, i }) => <BlockView marks={marks} key={i} block={block} base={base} index={i} />);
   let k = 0;
   return groups.map((g, gi) => {
     const items = g.map(() => list[k++]);
@@ -141,7 +152,7 @@ function renderSegmented(list: { block: Block; i: number }[], base: string) {
     return (
       <div key={gi} className={s.fold}>
         {pull && <p className={s.pull} aria-hidden>{pull}</p>}
-        {items.map(({ block, i }) => <BlockView key={i} block={block} base={base} index={i} />)}
+        {items.map(({ block, i }) => <BlockView marks={marks} key={i} block={block} base={base} index={i} />)}
       </div>
     );
   });

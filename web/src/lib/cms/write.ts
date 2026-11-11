@@ -280,6 +280,8 @@ export async function applyInline(actor: string, ops: InlineOp[]): Promise<Inlin
     if (col === "people" && !Array.isArray(doc.programKinds)) doc.programKinds = [];
     for (const k of ["body", "featured"]) if (def.fields.some((f) => f.name === k) && !Array.isArray(doc[k])) doc[k] = [];
     if (col === "posts" && !doc.publishedAt) doc.publishedAt = ts;
+    // una página nueva nace con una sección vacía donde «＋ Agregar» pone el contenido
+    if (col === "pages" && (!Array.isArray(doc.sections) || !doc.sections.length)) doc.sections = [{ id: `s-${id}`, layout: "auto", blocks: [] }];
     await store.set(col, id, doc);
     await audit({ actor, action: "create", collection: col, docId: id, title: titleOf(col, doc), before: null, after: doc, note: "Desde la página" });
     changed.push(`${col}/${id}`);

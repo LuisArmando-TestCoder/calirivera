@@ -1,0 +1,27 @@
+{
+ "id": "anuarium-1995",
+ "slug": "anuarium-1995",
+ "status": "published",
+ "createdAt": "2026-11-11T18:30:00Z",
+ "updatedAt": "2026-11-11T18:30:00Z",
+ "title": "La germinal obra de Cali Rivera",
+ "outlet": "Anuarium de Arte y Cultura",
+ "publishedAt": "1995-01-01T12:00:00Z",
+ "dateLabel": "1995",
+ "excerpt": "Como lo demuestra este cuadro alegórico al V centenario, el cual refleja la masacre cultural en que incurren los conquistadores para imponer la cruz de su religión",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "anuarium-1995-1",
+   "text": "La germinal obra de Cali Rivera es motivo de meditación,"
+  },
+  {
+   "type": "paragraph",
+   "id": "anuarium-1995-3",
+   "text": "Como lo demuestra este cuadro alegórico al V centenario, el cual refleja la masacre cultural en que incurren los conquistadores para imponer la cruz de su religión"
+  }
+ ],
+ "sourceUrl": "https://web.archive.org/web/20251215121613/https://www.calirivera.com/index.php/cali-rivera-74/puntos-de-vista/16-anuarium-de-arte-y-cultura-edicion-1995",
+ "order": 20,
+ "missingImages": 1
+}

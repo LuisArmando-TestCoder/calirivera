@@ -7,7 +7,7 @@
  "order": 216,
  "image": {
   "src": "/media/memoria/2001-ave-maria-450.jpg",
-  "alt": "Ave maria",
+  "alt": "Ave María",
   "width": 450,
   "height": 600,
   "widths": [
@@ -20,7 +20,7 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "title": "Ave maria",
+ "title": "Ave María",
  "year": 2001,
  "seenAt": "2016-12-06",
  "collectionId": "plegaria",

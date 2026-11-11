@@ -1,0 +1,12 @@
+@use "../../styles/tokens" as *;
+
+.page { padding-top: calc(var(--header-h) + var(--space-2xl)); padding-bottom: var(--space-3xl); min-height: 80svh; }
+.head { @include wrap; display: grid; gap: var(--space-m); padding-bottom: var(--space-xl); border-bottom: 2px solid var(--c-fg); }
+.title { @include display(56, 860); font-size: clamp(3rem, 11vw, 11rem); line-height: 0.84; letter-spacing: -0.03em; text-wrap: balance; }
+.lead { @include text; font-size: var(--step-2); line-height: 1.28; font-weight: 380; max-width: 34ch; text-wrap: balance; min-height: 1em; }
+.section { @include wrap; padding-top: var(--space-2xl); }
+.h2 { @include display(70, 780); font-size: var(--step-3); margin-bottom: var(--space-l); }
+// columna de lectura; fotos, galerías y videos se abren a todo el ancho
+.flow { display: grid; gap: var(--space-l); min-height: 3rem; }
+.block { width: min(100%, 44rem); margin-inline: auto; position: relative; }
+.wide { width: 100%; }

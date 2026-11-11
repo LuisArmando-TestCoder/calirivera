@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { breadcrumbLd, collectionLd } from "@/lib/seo";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense, ViewTransition } from "react";
@@ -6,6 +8,7 @@ import { EditableList, EditableText } from "@/components/cms/editable";
 import { BlockView } from "@/components/layout-engine/Blocks";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
 import { ArtImage } from "@/components/media/ArtImage";
+import { GLReveal } from "@/components/media/GLReveal";
 import { NarrationSlot } from "@/components/narration/NarrationSlot";
 import { getCollection, listArtworks, listCollections, listMemories, listSlugs } from "@/lib/content/repo";
 import { COLLECTIONS } from "@/lib/content/types";
@@ -26,7 +29,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps<"/colecciones/[slug]">): Promise<Metadata> {
   const { slug } = await params;
   const c = slug === EMPTY ? null : await getCollection(slug);
-  return { title: c?.title ?? "Colecciones", description: c?.statement?.slice(0, 160) };
+  return {
+    title: c?.title ?? "Colecciones",
+    description: c?.statement?.replace(/\s+/g, " ").slice(0, 160),
+    openGraph: c?.cover ? { type: "article", images: [{ url: c.cover.src, alt: c.cover.alt || c.title }] } : undefined,
+  };
 }
 
 async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[slug]">["params"] }) {
@@ -43,7 +50,9 @@ async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[s
   const media = body.filter((b) => !(longText as typeof body).includes(b));
 
   return (
-    <article className={s.page}>
+    <GLReveal as="article" className={s.page} slot={512}>
+      <JsonLd data={collectionLd(c, works)} />
+      <JsonLd data={breadcrumbLd([{ name: "Colecciones", path: "/colecciones" }, { name: c.title, path: `/colecciones/${c.slug}` }])} />
       <NarrationSlot beat={BEAT[c.slug] ?? ""} />
       <header className={s.hero}>
         <p className={s.period}>{c.period}</p>
@@ -93,7 +102,7 @@ async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[s
             <BlockView key={b.id} block={b} base={`${path}#body`} index={body.indexOf(b)} />
           ))}
           {c.catalogUrl && (
-            <a href={c.catalogUrl} className={s.catalog} target="_blank" rel="noopener">
+            <a href={c.catalogUrl} className={s.catalog} data-pdf-title={`Catálogo ${c.title}`}>
               <span className={s.catalogLabel}>Catálogo completo</span>
               <span className={s.catalogNote}>PDF con fichas técnicas</span>
             </a>
@@ -115,7 +124,7 @@ async function ColeccionContent({ params }: { params: PageProps<"/colecciones/[s
           <span className={s.nextTitle}>{next.title}</span>
         </Link>
       )}
-    </article>
+    </GLReveal>
   );
 }
 

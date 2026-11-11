@@ -1,0 +1,45 @@
+{
+ "id": "la-nacion-plegarias-por-la-madre-tierra-2011",
+ "slug": "la-nacion-plegarias-por-la-madre-tierra-2011",
+ "status": "published",
+ "createdAt": "2026-11-11T18:30:00Z",
+ "updatedAt": "2026-11-11T18:30:00Z",
+ "title": "Plegarias por la Madre Tierra",
+ "outlet": "La Nación · Áncora",
+ "publishedAt": "2011-04-17T12:00:00Z",
+ "dateLabel": "17 de abril de 2011",
+ "excerpt": "Un perfil largo en la revista Áncora de La Nación: desde los altares de flores secas que Cali levantaba a los cuatro años para un amigo imaginario —una «mamá virgen» que con los años reconoció como la Madre Tierra—…",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "la-nacion-plegarias-por-la-madre-tierra-2011-s0",
+   "text": "Un perfil largo en la revista Áncora de La Nación: desde los altares de flores secas que Cali levantaba a los cuatro años para un amigo imaginario —una «mamá virgen» que con los años reconoció como la Madre Tierra— hasta «Plegaria», abierta hasta el 15 de junio de 2011 en el Museo Municipal de Cartago.",
+   "lead": true
+  },
+  {
+   "type": "paragraph",
+   "id": "la-nacion-plegarias-por-la-madre-tierra-2011-s1",
+   "text": "La nota recorre la instalación de cerca de 125 piezas, ocho meses de montaje organizados alrededor de los cuatro elementos, y su llamado a la conservación del planeta."
+  },
+  {
+   "type": "quote",
+   "id": "la-nacion-plegarias-por-la-madre-tierra-2011-q",
+   "text": "Yo pretendo crear un mensaje de esperanza y reflexión universal.",
+   "cite": "Cali Rivera, en La Nación · Áncora"
+  },
+  {
+   "type": "links",
+   "id": "la-nacion-plegarias-por-la-madre-tierra-2011-l",
+   "items": [
+    {
+     "label": "Leer la nota completa en el archivo de La Nación",
+     "href": "https://web.archive.org/web/2011/http://www.nacion.com/2011-04-17/Ancora/NotaPrincipal/AX17-CALI-RIVERA.aspx",
+     "note": "Internet Archive",
+     "kind": "external"
+    }
+   ]
+  }
+ ],
+ "sourceUrl": "https://web.archive.org/web/20161206210215/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/178-plegarias-por-la-madre-tierra-la-nacion.html",
+ "order": 24
+}

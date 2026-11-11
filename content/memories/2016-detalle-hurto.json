@@ -7,7 +7,7 @@
  "order": 155,
  "image": {
   "src": "/media/memoria/2016-detalle-hurto-640.jpg",
-  "alt": "Detalle hurto",
+  "alt": "Hurto (detalle)",
   "width": 640,
   "height": 480,
   "widths": [
@@ -21,7 +21,7 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "title": "Detalle hurto",
+ "title": "Hurto (detalle)",
  "year": 2016,
  "yearApprox": true,
  "seenAt": "2016-12-06",

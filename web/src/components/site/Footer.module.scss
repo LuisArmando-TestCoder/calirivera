@@ -4,36 +4,138 @@
   @include tone(ink);
   background: var(--c-bg);
   color: var(--c-fg);
-  padding-top: var(--space-3xl);
   overflow: clip;
+  a { color: inherit; }
+  a:focus-visible { outline: 2px solid var(--c-ocre); outline-offset: 3px; }
 }
-.inner { @include wrap; }
-.cols {
+
+// ---------- 1. la invitación ----------
+.invite {
+  @include wrap;
+  padding-block: var(--space-3xl) var(--space-2xl);
+  display: grid;
+  gap: var(--space-s);
+  justify-items: start;
+}
+.kicker { @include label; font-size: var(--step--1); color: var(--c-ocre); text-transform: uppercase; letter-spacing: 0.14em; font-weight: 600; }
+.pitch { @include read; color: color-mix(in oklch, var(--c-fg) 80%, transparent); max-width: 36ch; }
+// el correo, enorme: es la acción principal del pie
+.mail {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35em;
+  max-width: 100%;
+  @include display(60, 760);
+  font-size: clamp(1.7rem, 0.6rem + 5.6vw, 6.2rem);
+  line-height: 1;
+  text-decoration: none;
+  padding-block: 0.12em;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 100% 2px no-repeat;
+  @include motion { transition: color 0.3s, background-size 0.5s var(--ease-out); }
+  > span:first-child { overflow-wrap: anywhere; min-width: 0; }
+  &:hover, &:focus-visible { color: var(--c-ocre); .go { transform: translateX(0.18em); } }
+}
+.go { display: inline-block; font-weight: 400; @include motion { transition: transform 0.45s var(--ease-out); } }
+.pill {
+  @include label;
+  font-size: var(--step-0);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+  min-height: 48px;
+  padding: 0 1.2rem;
+  margin-top: var(--space-xs);
+  border: 1px solid color-mix(in oklch, var(--c-fg) 40%, transparent);
+  border-radius: 999px;
+  text-decoration: none;
+  span { opacity: 0.75; font-variant-numeric: tabular-nums; }
+  @include motion { transition: background-color 0.3s, color 0.3s, border-color 0.3s; }
+  &:hover, &:focus-visible { background: var(--c-ocre); border-color: var(--c-ocre); color: var(--c-anil); }
+}
+
+// ---------- 2. el índice ----------
+.index {
+  @include wrap;
   display: grid;
   gap: var(--space-xl) var(--space-l);
+  padding-block: var(--space-xl);
+  border-top: 1px solid var(--c-linea);
   @include above($bp-s) { grid-template-columns: 1fr 1fr; }
-  @include above($bp-l) { grid-template-columns: 1.4fr 1.2fr 1fr 0.6fr; }
+  @include above($bp-l) { grid-template-columns: 1.3fr 1fr 1.15fr 0.7fr; }
 }
-.col { display: grid; gap: var(--space-2xs); align-content: start; }
-.label { @include label; color: var(--c-muted); margin-bottom: var(--space-2xs); }
-.big { @include display(70, 700); font-size: var(--step-2); text-decoration: none; overflow-wrap: anywhere;
-  &:hover { color: var(--c-ocre); } }
-.line { font-style: normal; }
-.note { color: var(--c-muted); font-size: var(--step--1); }
-.hours { display: flex; justify-content: space-between; gap: var(--space-s); font-size: var(--step--1); color: var(--c-muted); max-width: 22rem; }
-.navList { list-style: none; padding: 0; display: grid; gap: 0.15rem;
-  a { text-decoration: none; display: inline-block; padding-block: 0.3rem; &:hover { text-decoration: underline; } } }
-
-// Palabra final: estirada a todo el ancho con el eje de anchura de Anybody
-.wordmark {
-  margin-top: var(--space-3xl);
-  padding-inline: calc(var(--gutter) * 0.5);
+.col { display: grid; gap: var(--space-xs); align-content: start; min-width: 0; }
+.label { @include label; font-size: var(--step--1); font-weight: 600; color: var(--c-ocre); text-transform: uppercase; letter-spacing: 0.14em; margin-bottom: var(--space-2xs); }
+.address { font-style: normal; @include read; max-width: 26ch; }
+.text { @include label; font-size: var(--step-0); text-underline-offset: 0.25em; justify-self: start; padding-block: 0.4rem; &:hover { color: var(--c-ocre); } }
+.hours {
+  margin: var(--space-xs) 0 0;
   display: grid;
-  @include display(150, 860);
-  color: var(--c-ocre);
-  line-height: 0.82;
-  span { display: block; white-space: nowrap; }
-  span:first-child { font-stretch: 112%; font-size: 13.4vw; }
-  span:last-child { font-stretch: 58%; font-size: 16.4vw; color: var(--c-hilo); }
+  gap: 0.3rem;
+  max-width: 22rem;
+  > div { display: flex; justify-content: space-between; gap: var(--space-s); border-bottom: 1px dotted var(--c-linea); padding-bottom: 0.3rem; }
+  dt { @include label; }
+  dd { margin: 0; @include label; color: var(--c-muted); font-variant-numeric: tabular-nums; text-align: right; }
 }
-.legal { @include wrap; padding-block: var(--space-m); @include label; color: var(--c-muted); border-top: 1px solid var(--c-linea); margin-top: var(--space-m); }
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  a {
+    display: flex;
+    align-items: baseline;
+    gap: 0.7em;
+    min-height: 40px;
+    padding-block: 0.45rem;
+    text-decoration: none;
+    @include label;
+    font-size: var(--step-0);
+    @include motion { transition: color 0.25s, transform 0.4s var(--ease-out); }
+    &:hover, &:focus-visible { color: var(--c-ocre); transform: translateX(0.3rem); }
+  }
+}
+.num { font-size: 0.72em; color: var(--c-muted); font-variant-numeric: tabular-nums; }
+
+// ---------- 3. la despedida ----------
+// el lema, de borde a borde: cada renglón se ajusta solo al ancho (HeadingFit, data-fit)
+.wordmark {
+  margin: var(--space-xl) 0 0;
+  padding-inline: calc(var(--gutter) * 0.5);
+  @include display(100, 860);
+  line-height: 0.84;
+  color: var(--c-ocre);
+  // teléfono: dos renglones que llenan el ancho; pantalla ancha: un solo renglón de borde a borde
+  span { display: block; white-space: nowrap; font-size: 13.2vw; }
+  span:last-child { color: var(--c-hilo); }
+  @include above($bp-m) {
+    white-space: nowrap;
+    span { display: inline; font-size: 8.4vw; }
+    span + span::before { content: " "; }
+  }
+}
+.close {
+  @include wrap;
+  display: grid;
+  gap: var(--space-m);
+  align-items: end;
+  padding-block: var(--space-l) max(var(--space-l), env(safe-area-inset-bottom));
+  border-top: 1px solid var(--c-linea);
+  margin-top: var(--space-l);
+  @include above($bp-m) { grid-template-columns: minmax(0, 1fr) auto; }
+}
+.signature {
+  @include above($bp-m) { order: 2; }
+  svg { width: clamp(9rem, 6rem + 12vw, 17rem); }
+}
+.legal { display: grid; gap: var(--space-xs); @include label; color: var(--c-muted); }
+.small {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem var(--space-m);
+  a { text-underline-offset: 0.22em; padding-block: 0.5rem; display: inline-block; &:hover { color: var(--c-fg); } }
+}
+
+// dedos: todo lo que se toca mide al menos 44 px de alto
+@media (pointer: coarse) {
+  .footer a, .footer button { min-height: 44px; display: inline-flex; align-items: center; gap: 0.35em; }
+}

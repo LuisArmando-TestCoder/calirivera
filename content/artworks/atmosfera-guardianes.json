@@ -1,0 +1,29 @@
+{
+ "id": "atmosfera-guardianes",
+ "slug": "atmosfera-guardianes",
+ "status": "published",
+ "title": "Guardianes",
+ "collectionId": "atmosfera",
+ "images": [
+  {
+   "src": "/media/memoria/1993-guardianes-322.jpg",
+   "alt": "Guardianes — Atmósfera, 1993. Tiza pastel sobre papel",
+   "width": 322,
+   "height": 450,
+   "widths": [
+    322
+   ],
+   "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABYAPu1iqU2ppaOiMAgBMB2JZwDE2B7HGSR7eyXdoSogAP7ASSF9EMG+Cg9yF1ncepV27pUij233wq6IBy3ZsgNNefPoNc8OTOmTLP6Xh9FUTL3snl2/AODc3lW5zJbbwll4/xmMWNUgAAA=",
+   "color": "rgb(168 168 152)",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 5,
+ "year": 1993,
+ "technique": "Tiza pastel sobre papel",
+ "notes": "Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
+ "sourceUrl": "https://web.archive.org/web/20161206205906id_/http://calirivera.com/images/obras-galeria/atmosfera_1993/guardianes.jpg",
+ "createdAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-11T18:00:00Z"
+}
