@@ -64,7 +64,10 @@ function blendOf(el: HTMLElement): string {
 }
 
 export type TitleFx = {
-  stop: () => void;
+  /** `soft`: la copia se desvanece mientras el título real reaparece (sin salto). Sin `soft`: de inmediato. */
+  stop: (soft?: boolean) => void;
+  /** ¿algún título del lienzo se movió o cambió de tamaño desde que entró? (la copia ya no calza) */
+  moved: () => boolean;
   poke: (e: PointerEvent) => void;
   /** suma un título al lienzo (si ya está, no hace nada) */
   add: (el: HTMLElement) => void;
@@ -111,6 +114,20 @@ export async function startTitleFluid(first: HTMLElement, onIdle: () => void): P
 
   // título → su opacidad original; `pending` son los que todavía no se escondieron (falta dibujar su copia)
   const held = new Map<HTMLElement, [string, string]>();
+  /** dónde estaba cada título (en coordenadas de la página) cuando entró al lienzo */
+  const spots = new Map<HTMLElement, DOMRect>();
+  const docRect = (el: HTMLElement) => {
+    const r = el.getBoundingClientRect();
+    return new DOMRect(r.left + scrollX, r.top + scrollY, r.width, r.height);
+  };
+  const moved = () => {
+    for (const [el, a] of spots) {
+      if (!el.isConnected) return true;
+      const b = docRect(el);
+      if (Math.abs(a.x - b.x) + Math.abs(a.y - b.y) + Math.abs(a.width - b.width) + Math.abs(a.height - b.height) > 2) return true;
+    }
+    return false;
+  };
   let pending: HTMLElement[] = [];
   /** dónde está el lienzo en la pantalla ahora (se movió con el scroll) */
   const here = () => new DOMRect(origin.x - scrollX, origin.y - scrollY, box.width, box.height);
@@ -123,6 +140,7 @@ export async function startTitleFluid(first: HTMLElement, onIdle: () => void): P
   const add = (el: HTMLElement) => {
     if (held.has(el)) return;
     held.set(el, [el.style.getPropertyValue("opacity"), el.style.getPropertyPriority("opacity")]);
+    spots.set(el, docRect(el));
     rasterize(g, el, here());
     tex.needsUpdate = true;
     pending.push(el);
@@ -204,26 +222,47 @@ export async function startTitleFluid(first: HTMLElement, onIdle: () => void): P
       for (const el of pending) el.style.setProperty("opacity", "0", "important");
       pending = [];
     }
-    // cuando el aire se calmó del todo, el título vuelve a ser el de siempre
+    // cuando el aire se calmó del todo, el título vuelve a ser el de siempre (con un fundido, no de golpe)
     calm = awake ? 0 : calm + 1;
-    if (calm > 20) onIdle();
+    if (calm > 20 && !fading) onIdle();
   };
   renderer.setAnimationLoop(tick);
 
-  return {
+  const restore = () => {
+    for (const [el, [v, prio]] of held) {
+      if (v) el.style.setProperty("opacity", v, prio);
+      else el.style.removeProperty("opacity");
+    }
+    held.clear();
+  };
+  let fading = false;
+  const FADE = 650;
+
+  const fx: TitleFx = {
     poke,
     add,
     fits,
-    stop() {
+    moved,
+    stop(soft = false) {
       if (stopped) return;
+      if (soft && !fading) {
+        // fundido cruzado: la copia se apaga mientras el título real vuelve; el aire sigue moviéndose debajo
+        fading = true;
+        canvas.style.transition = `opacity ${FADE}ms ease`;
+        canvas.style.opacity = "0";
+        for (const el of held.keys()) {
+          const prev = el.style.transition;
+          el.style.transition = `opacity ${FADE}ms ease`;
+          window.setTimeout(() => (el.style.transition = prev), FADE + 50);
+        }
+        restore();
+        window.setTimeout(() => fx.stop(false), FADE + 30);
+        return;
+      }
       stopped = true;
       renderer.setAnimationLoop(null);
       clearFire("titulo");
-      for (const [el, [v, prio]] of held) {
-        if (v) el.style.setProperty("opacity", v, prio);
-        else el.style.removeProperty("opacity");
-      }
-      held.clear();
+      restore();
       fluid.dispose();
       tex.dispose();
       mat.dispose();
@@ -231,4 +270,5 @@ export async function startTitleFluid(first: HTMLElement, onIdle: () => void): P
       canvas.remove();
     },
   };
+  return fx;
 }

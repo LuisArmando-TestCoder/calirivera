@@ -20,8 +20,9 @@ export function TitlePlay() {
     let fx: TitleFx | null = null;
     let starting: HTMLElement | null = null;
     let lastMove: PointerEvent | null = null;
-    const stop = () => {
-      fx?.stop();
+    // al terminar, la copia se funde con el título real; nunca desaparece de golpe
+    const stop = (soft = true) => {
+      fx?.stop(soft);
       fx = null;
     };
     const onMove = (e: PointerEvent) => {
@@ -40,7 +41,7 @@ export function TitlePlay() {
       }
       starting = el;
       import("./title-fluid")
-        .then(({ startTitleFluid }) => startTitleFluid(el, stop))
+        .then(({ startTitleFluid }) => startTitleFluid(el, () => stop()))
         .then((h) => {
           fx = h;
           if (lastMove) h.poke(lastMove);
@@ -48,13 +49,16 @@ export function TitlePlay() {
         .catch(() => {})
         .finally(() => (starting = null));
     };
-    // cualquier cosa que mueva el título de lugar lo devuelve a la página
-    const reset = () => stop();
+    // solo si el título se movió de verdad (la copia ya no calza) se devuelve a la página
+    const reset = () => {
+      if (fx?.moved()) stop();
+    };
     addEventListener("pointermove", onMove, { passive: true });
     addEventListener("resize", reset);
     addEventListener("headings:fit", reset);
-    addEventListener("popstate", reset);
-    const onClick = () => setTimeout(reset, 0); // navegación
+    const onPop = () => stop();
+    addEventListener("popstate", onPop);
+    const onClick = () => setTimeout(() => stop(), 0); // navegación
     addEventListener("click", onClick, true);
     // el lienzo viaja con la página, pero si se desplazó más de media pantalla ya no cubre lo que se ve
     let y0 = scrollY;
@@ -67,10 +71,10 @@ export function TitlePlay() {
       removeEventListener("pointermove", onMove);
       removeEventListener("resize", reset);
       removeEventListener("headings:fit", reset);
-      removeEventListener("popstate", reset);
+      removeEventListener("popstate", onPop);
       removeEventListener("click", onClick, true);
       removeEventListener("scroll", onScroll);
-      stop();
+      stop(false);
     };
   }, []);
   return null;

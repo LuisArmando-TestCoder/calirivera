@@ -36,11 +36,16 @@ export function HeadingFit() {
     let raf = 0;
     const run = () => {
       raf = 0;
+      let changed = false;
       document.querySelectorAll<HTMLElement>(SEL).forEach((el) => {
         if (el.closest("dialog, [data-cms-bar]")) return;
+        const before = el.style.fontSize;
         fitHeading(el);
+        if (el.style.fontSize !== before) changed = true;
       });
-      window.dispatchEvent(new Event("headings:fit"));
+      // solo se avisa si algún título cambió de tamaño de verdad (el contenido de la página cambia seguido:
+      // el pie de foto del inicio, las líneas que se revelan… y eso no mueve ningún título)
+      if (changed) window.dispatchEvent(new Event("headings:fit"));
     };
     const queue = () => {
       if (!raf) raf = requestAnimationFrame(run);
