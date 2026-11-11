@@ -7,8 +7,10 @@ import type { MediaStore } from "./types";
 export class LocalMediaStore implements MediaStore {
   readonly name = "local" as const;
   async put(relPath: string, data: Buffer) {
-    const file = path.resolve(process.cwd(), "public", relPath);
-    if (!file.startsWith(path.resolve(process.cwd(), "public") + path.sep)) throw new Error("ruta inválida");
+    // solo en desarrollo: que el empaquetador no intente meter las 10 000 imágenes de public/ en la función
+    const root = path.resolve(/* turbopackIgnore: true */ process.cwd(), "public");
+    const file = path.resolve(/* turbopackIgnore: true */ root, relPath);
+    if (!file.startsWith(root + path.sep)) throw new Error("ruta inválida");
     await mkdir(path.dirname(file), { recursive: true });
     await writeFile(file, data);
     return { src: `/${relPath}` };

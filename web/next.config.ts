@@ -1,8 +1,12 @@
+import path from "node:path";
 import type { NextConfig } from "next";
 import { LEGACY_COLLECTION_SLUGS } from "./src/lib/routes";
 
 const nextConfig: NextConfig = {
   cacheComponents: true,
+  // La app vive en web/: ahí está su raíz (en la raíz del repo hay otro package-lock.json que confundía a Next)
+  turbopack: { root: path.resolve(__dirname) },
+  outputFileTracingRoot: path.resolve(__dirname),
   // De qué commit se construyó este sitio (Netlify: COMMIT_REF). El editor lo usa para saber si una
   // publicación ya está en línea.
   env: { NEXT_PUBLIC_BUILD_COMMIT: process.env.COMMIT_REF ?? "" },

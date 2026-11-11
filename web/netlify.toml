@@ -1,9 +1,13 @@
 # Netlify — base directory = web (repo root = cali-rivera/, so ../content is available at build).
-# Next.js runtime is auto-detected (OpenNext adapter); no plugin pin needed.
+# El runtime de Next.js va fijado abajo: sin él Netlify sube solo archivos estáticos (0 funciones) y no
+# funcionan el editor, /api, el proxy ni el contenido que se transmite en vivo.
 [build]
   base = "web"
   command = "npm run build"
   publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
 
 [build.environment]
   NODE_VERSION = "22"
