@@ -8,3 +8,12 @@ service-account.json
 *service-account*.json
 *-firebase-adminsdk-*.json
 netlify.env
+
+# Archivo crudo (extracción y rescate Wayback): vive solo en disco, no en el repo
+/assets/
+/.raw/
+/legacy/html/
+/legacy/assets/
+/legacy/pdf/
+/legacy/cdx/
+/legacy/catalogos/
