@@ -80,3 +80,20 @@ h1, h2, h3 { @include display; font-weight: 760; }
 
 // El editor (/admin) usa su propio marco: sin cabecera ni pie del sitio
 body:has([data-cms-admin]) [data-site-chrome], body:has([data-cms-admin]) .skip-link { display: none; }
+
+
+// Pista horizontal (MotionRoot): sin JS o en móvil el frame no existe para el layout;
+// en desktop con la pista activa queda fijo arriba mientras la sección (alargada) pasa.
+[data-pin-frame] { display: contents; }
+[data-pin-track][data-pinned] {
+  overflow: clip visible;
+  > [data-pin-frame] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    min-height: 100svh;
+    overflow: clip;
+  }
+}

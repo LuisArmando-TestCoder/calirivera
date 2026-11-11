@@ -90,9 +90,11 @@ export function SectionRenderer({ section, base, index = 0 }: { section: Section
       );
       return (
         <section className={`${s.section} ${s.trackSection} ${tone}`} id={section.id} data-pin-track>
-          <div className={s.trackHead}>{title}{render(head)}</div>
-          <div className={s.trackViewport}>
-            <div className={s.track} data-track>{cells}</div>
+          <div data-pin-frame>
+            <div className={s.trackHead}>{title}{render(head)}</div>
+            <div className={s.trackViewport}>
+              <div className={s.track} data-track>{cells}</div>
+            </div>
           </div>
         </section>
       );

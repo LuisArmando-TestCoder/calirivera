@@ -6,7 +6,7 @@
  *   data-reveal="fade"    → aparece al entrar
  *   data-parallax="0.15"  → desplazamiento vertical relativo al scroll (solo imágenes/fondos)
  *   data-skew             → se inclina con la velocidad del scroll (los estandartes)
- *   data-pin-track        → pista horizontal fijada (desktop); en móvil es scroll nativo con snap
+ *   data-pin-track        → pista horizontal fijada con sticky (desktop; requiere un hijo [data-pin-frame]); en móvil es scroll nativo con snap
  * Con prefers-reduced-motion no se inicia nada: todo queda en su estado final.
  */
 import { useEffect } from "react";
@@ -83,21 +83,37 @@ export function MotionRoot() {
           });
         });
 
+        // Pista horizontal: la sección se alarga y su frame interno queda fijo con position: sticky.
+        // NO usar pin de ScrollTrigger: envuelve la sección en un .pin-spacer que React no conoce,
+        // y al navegar React falla con "removeChild … not a child of this node".
         mm.add("(min-width: 60em)", () => {
+          const undo: (() => void)[] = [];
           document.querySelectorAll<HTMLElement>("[data-pin-track]").forEach((wrap) => {
+            const frame = wrap.querySelector<HTMLElement>("[data-pin-frame]");
             const track = wrap.querySelector<HTMLElement>("[data-track], [data-cms-kind='list']");
-            if (!track) return;
-            const dist = () => Math.max(0, track.scrollWidth - wrap.clientWidth);
+            if (!frame || !track) return;
+            const dist = () => Math.max(0, track.scrollWidth - frame.clientWidth);
             if (dist() < 40) return;
+            wrap.dataset.pinned = "";
+            const size = () => {
+              const cs = getComputedStyle(wrap);
+              const pad = parseFloat(cs.paddingTop) + parseFloat(cs.paddingBottom);
+              wrap.style.height = `${frame.offsetHeight + pad + dist()}px`;
+            };
+            size();
+            ScrollTrigger.addEventListener("refreshInit", size);
             gsap.to(track, {
               x: () => -dist(),
               ease: "none",
-              scrollTrigger: {
-                trigger: wrap, start: "top top", end: () => "+=" + dist(), pin: true, scrub: true,
-                invalidateOnRefresh: true, anticipatePin: 1, fastScrollEnd: true,
-              },
+              scrollTrigger: { trigger: wrap, start: "top top", end: "bottom bottom", scrub: true, invalidateOnRefresh: true },
+            });
+            undo.push(() => {
+              ScrollTrigger.removeEventListener("refreshInit", size);
+              delete wrap.dataset.pinned;
+              wrap.style.height = "";
             });
           });
+          return () => undo.forEach((f) => f());
         });
 
         // Capítulos con progreso propio (ej. el incendio de 2017): exponen --progress 0→1

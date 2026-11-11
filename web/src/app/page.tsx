@@ -37,6 +37,7 @@ export default async function Home() {
       )}
 
       <section className={s.collections} data-pin-track aria-labelledby="home-colecciones">
+        <div data-pin-frame>
         <NarrationSlot beat="10" />
         <div className={s.collHead}>
           <h2 id="home-colecciones" className={s.h2}>Colecciones</h2>
@@ -52,6 +53,7 @@ export default async function Home() {
               </div>
             ))}
           </EditableList>
+        </div>
         </div>
       </section>
 
