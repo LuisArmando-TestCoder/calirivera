@@ -5,6 +5,10 @@
   base = "web"
   command = "npm run build"
   publish = ".next"
+  # Netlify, con base = web, solo reconstruye si cambió algo DENTRO de web/. Pero lo que publica Cali desde el
+  # editor se guarda en ../content: sin esta regla esos cambios no disparaban el despliegue.
+  # (exit 0 = no construir; exit 1 = construir)
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ../content"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
