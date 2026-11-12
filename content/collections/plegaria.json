@@ -3,7 +3,7 @@
  "slug": "plegaria",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-11T18:00:00Z",
+ "updatedAt": "2026-11-12T08:26:52.440Z",
  "title": "Plegaria",
  "artworkIds": [
   "plegaria-ave-maria",
@@ -14,7 +14,7 @@
   "plegaria-plegaria-de-las-aves",
   "plegaria-trascendencia"
  ],
- "order": 4,
+ "order": 50,
  "period": "2001 · 2011",
  "catalogUrl": "/files/plegaria_catalogo.pdf",
  "subtitle": "El fuego como elemento",
@@ -72,16 +72,11 @@
   }
  ],
  "cover": {
-  "src": "/media/memoria/2001-plegaria-de-las-aves-589.jpg",
+  "src": "https://calirivera.netlify.app/media/memoria/2001-plegaria-de-las-aves-589.avif",
   "alt": "Plegaria de las aves — Plegaria, 2001",
-  "width": 589,
-  "height": 783,
-  "widths": [
-   480,
-   589
-  ],
-  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdAA39Ax1/Wg0qwAD7BC+corZAhQE3ykJxduKe2TZuyrzHjPk0U87lEiis4lZPXGYBTgUAWOnACLrrYAA2IjBi0bt6g+S7dXfo/SRda0wTDZ00X0jdle07oNIYfo+/sSkoU+vvciEojez/onAA",
-  "color": "rgb(120 152 232)",
-  "lowRes": true
+  "focal": {
+   "x": 0.5,
+   "y": 0.5
+  }
  }
 }

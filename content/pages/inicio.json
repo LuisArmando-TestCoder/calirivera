@@ -3,7 +3,7 @@
  "slug": "inicio",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-12T08:16:14.671Z",
+ "updatedAt": "2026-11-12T08:26:52.440Z",
  "title": "Inicio",
  "description": "Cali Rivera, artista multidisciplinario costarricense. Colecciones, catálogos y el Taller del Artista.",
  "hero": {
@@ -28,7 +28,7 @@
     {
      "type": "paragraph",
      "id": "home-2",
-     "text": "Una vida dedicada a transformar ideas, símbolos y emociones en arte.",
+     "text": "Una vida dedicada a transformar símbolos, emoción e ideas en arte.",
      "lead": true
     }
    ]
