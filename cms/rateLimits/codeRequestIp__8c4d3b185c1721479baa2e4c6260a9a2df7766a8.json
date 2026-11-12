@@ -1,10 +1,10 @@
 {
  "count": 1,
- "windowStart": 1794471180758,
+ "windowStart": 1794471931049,
  "backoffUntil": 0,
  "strikes": 0,
  "lastStrikeAt": 0,
  "policy": "codeRequestIp",
- "updatedAt": "2026-11-12T08:13:00.758Z",
+ "updatedAt": "2026-11-12T08:25:31.049Z",
  "id": "codeRequestIp__8c4d3b185c1721479baa2e4c6260a9a2df7766a8"
 }
