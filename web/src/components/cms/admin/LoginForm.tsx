@@ -5,6 +5,11 @@ import { requestCodeAction, verifyCodeAction } from "@/app/admin/entrar/actions"
 import s from "./admin.module.scss";
 
 const RESEND_S = 30;
+const OFFLINE = "No pudimos conectar con el servidor. Probá de nuevo en un momento.";
+/** Una acción del servidor que no contesta en 25 s se da por fallida (en vez de esperar para siempre). */
+function withTimeout<T>(p: Promise<T>, ms = 25_000): Promise<T> {
+  return Promise.race([p, new Promise<T>((_, reject) => setTimeout(() => reject(new Error("timeout")), ms))]);
+}
 
 function mailShortcut(email: string): { label: string; href: string } | null {
   const domain = email.split("@")[1]?.toLowerCase() ?? "";
@@ -39,7 +44,8 @@ export function LoginForm({ defaultEmail, next }: { defaultEmail: string; next?:
   const send = () =>
     start(async () => {
       setError("");
-      const r = await requestCodeAction(email);
+      // si el servidor no responde o falla, se dice: nunca queda «Enviando…» para siempre
+      const r = await withTimeout(requestCodeAction(email)).catch(() => ({ ok: false as const, error: OFFLINE }));
       if (!r.ok) return setError(r.error);
       setStep("code");
       setCode("");
@@ -50,7 +56,7 @@ export function LoginForm({ defaultEmail, next }: { defaultEmail: string; next?:
   const verify = (value: string) =>
     start(async () => {
       setError("");
-      const r = await verifyCodeAction(email, value, next);
+      const r = await withTimeout(verifyCodeAction(email, value, next)).catch(() => ({ ok: false as const, reason: "missing" as const, error: OFFLINE }));
       if (!r.ok) {
         setError(r.error);
         setShake((n) => n + 1);

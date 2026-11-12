@@ -42,6 +42,10 @@ export async function sendLoginCode(to: string, code: string, meta: { when: stri
     host: process.env.SMTP_HOST,
     port,
     secure: port === 465,
+    // que un servidor de correo lento no deje la función colgada hasta que Netlify la corte
+    connectionTimeout: 8000,
+    greetingTimeout: 6000,
+    socketTimeout: 10000,
     auth: { user: process.env.SMTP_USER, pass: process.env.SMTP_PASS },
   });
   await transport.sendMail({
