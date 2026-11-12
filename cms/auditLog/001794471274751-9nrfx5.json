@@ -1,0 +1,117 @@
+{
+ "actor": "arte@calirivera.com",
+ "action": "inline",
+ "collection": "pages",
+ "docId": "inicio",
+ "title": "Inicio",
+ "before": {
+  "id": "inicio",
+  "slug": "inicio",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-10T23:54:17Z",
+  "title": "Inicio",
+  "description": "Cali Rivera, artista multidisciplinario costarricense. Colecciones, catálogos y el Taller del Artista.",
+  "hero": {
+   "title": "Cali Rivera",
+   "subtitle": "El arte es para ser libres.",
+   "cta": {
+    "label": "Conocer a Cali",
+    "href": "/biografia"
+   }
+  },
+  "sections": [
+   {
+    "id": "quien-es",
+    "layout": "kinetic-statement",
+    "blocks": [
+     {
+      "type": "heading",
+      "id": "home-1",
+      "level": 2,
+      "text": "¿Quién es Cali?"
+     },
+     {
+      "type": "paragraph",
+      "id": "home-2",
+      "text": "Una vida dedicada a transformar ideas, símbolos y emociones en arte.",
+      "lead": true
+     }
+    ]
+   },
+   {
+    "id": "colecciones",
+    "layout": "horizontal-track",
+    "blocks": [
+     {
+      "type": "heading",
+      "id": "home-3",
+      "level": 2,
+      "text": "Colecciones"
+     },
+     {
+      "type": "paragraph",
+      "id": "home-4",
+      "text": "Una trayectoria contada a través de obras, símbolos y distintas etapas de creación."
+     }
+    ]
+   }
+  ]
+ },
+ "after": {
+  "id": "inicio",
+  "slug": "inicio",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-12T08:14:34.751Z",
+  "title": "Inicio",
+  "description": "Cali Rivera, artista multidisciplinario costarricense. Colecciones, catálogos y el Taller del Artista.",
+  "hero": {
+   "title": "Cali Rivera",
+   "subtitle": "El arte es para ser libres",
+   "cta": {
+    "label": "Conocer a Cali",
+    "href": "/biografia"
+   }
+  },
+  "sections": [
+   {
+    "id": "quien-es",
+    "layout": "kinetic-statement",
+    "blocks": [
+     {
+      "type": "heading",
+      "id": "home-1",
+      "level": 2,
+      "text": "¿Quién es Cali?"
+     },
+     {
+      "type": "paragraph",
+      "id": "home-2",
+      "text": "Una vida dedicada a transformar ideas, símbolos y emociones en arte.",
+      "lead": true
+     }
+    ]
+   },
+   {
+    "id": "colecciones",
+    "layout": "horizontal-track",
+    "blocks": [
+     {
+      "type": "heading",
+      "id": "home-3",
+      "level": 2,
+      "text": "Colecciones"
+     },
+     {
+      "type": "paragraph",
+      "id": "home-4",
+      "text": "Una trayectoria contada a través de obras, símbolos y distintas etapas de creación."
+     }
+    ]
+   }
+  ]
+ },
+ "at": "2026-11-12T08:14:34.751Z",
+ "id": "001794471274751-9nrfx5"
+}
