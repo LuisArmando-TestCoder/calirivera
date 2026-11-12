@@ -14,7 +14,7 @@ export function AdminHeader() {
         <a href="/" target="_blank" rel="noreferrer">
           Ver el sitio ↗
         </a>
-        <Link href="/admin/historial">Historial</Link>
+        <Link href="/admin/historial">Versiones</Link>
         <Link href="/admin/papelera">Papelera</Link>
         <form action={logoutAction}>
           <button type="submit">Salir</button>

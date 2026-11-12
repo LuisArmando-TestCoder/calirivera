@@ -44,3 +44,19 @@ qué ya está en línea, y explica el proceso en «¿Cómo funciona esto?».
 Cada persona escribe **su** correo en `/admin/entrar` y recibe **su propio** código (distinto del de los demás,
 vence en 10 minutos, sirve una vez). El historial guarda quién hizo cada cambio. Quitar un correo de la lista
 le cierra la sesión en el momento.
+
+## Versiones: volver atrás
+
+Cada «Publicar» guarda una versión. Para verlas: botón **↺ Versiones** (abajo a la derecha, también mientras se
+edita) o **Panel → Versiones**.
+
+- **Esta página / Todo el sitio**: qué versiones mirar.
+- Cada versión dice quién publicó, cuándo y qué cambió: lo quitado aparece tachado en rojo, lo nuevo resaltado
+  en verde, y las fotos se ven antes → después.
+- **Volver a esta versión**: la página queda exactamente como estaba en ese momento.
+- **Deshacer solo estos cambios** (o **Deshacer esta publicación** en la última): deshace lo de esa vez nada más.
+- Volver atrás **nunca borra nada**: lo que había queda como una versión más, así que también se puede deshacer.
+  Algo que en esa versión no existía va a la papelera (recuperable), no se borra.
+
+Con el sitio guardado en GitHub, la historia es el propio historial del repositorio: no ocupa nada extra y una
+versión vieja nunca cambia (se guarda en caché después de mirarla una vez).

@@ -7,12 +7,13 @@ import { parsePath } from "@/lib/cms/paths";
 import type { ImageAsset } from "@/lib/content/types";
 import { deployStatusAction, inlinePublishAction, whoAmIAction } from "@/app/admin/actions";
 import { ImageSheet, type ArtworkMeta } from "../shared/ImageSheet";
-import { Confirm } from "../shared/Sheet";
 import { Toaster, useToast } from "../shared/Toaster";
 import { applyDom, itemDocId, listItems, type Undo } from "./dom";
 import { EditSession, type ListCtx } from "./session";
 import { ItemSheet, type NewItem } from "./ItemSheet";
-import { addSending, allDrafts, CHANGE, loadDraft, outbox, saveDraft, setStates, type LocalDraft, type Sending } from "./local";
+import { addSending, allDrafts, CHANGE, loadDraft, noteCommit, outbox, saveDraft, setStates, type LocalDraft, type Sending } from "./local";
+import { Confirm, Sheet } from "../shared/Sheet";
+import { Versions } from "../versions/Versions";
 import { StatusSheet } from "./StatusSheet";
 import { sign } from "@/components/brand/SignatureMoments";
 import { EDIT_CSS } from "./editCss";
@@ -26,6 +27,19 @@ function retarget(created: Record<string, string> | undefined) {
     document.querySelectorAll<HTMLElement>(`[data-cms-path*="/${CSS.escape(temp)}#"]`).forEach((el) => {
       el.setAttribute("data-cms-path", el.getAttribute("data-cms-path")!.replace(`/${temp}#`, `/${real}#`));
     });
+}
+/** El documento que «es» esta página (el que más partes editables tiene), para ver sus versiones. */
+function mainDoc(): { collection: string; id: string; label: string } | null {
+  const n = new Map<string, number>();
+  document.querySelectorAll<HTMLElement>("main [data-cms-path]").forEach((el) => {
+    const m = el.getAttribute("data-cms-path")?.match(/^([\w-]+)\/([\w.-]+)#/);
+    if (!m || m[1] === "settings" || m[2].startsWith("__nuevo")) return;
+    n.set(`${m[1]}/${m[2]}`, (n.get(`${m[1]}/${m[2]}`) ?? 0) + 1);
+  });
+  const best = [...n].sort((a, b) => b[1] - a[1])[0]?.[0];
+  if (!best) return null;
+  const [collection, id] = best.split("/");
+  return { collection, id, label: "Esta página" };
 }
 const pageName = () => document.title.split(" · ")[0].split(":")[0].trim() || "esta página";
 
@@ -51,6 +65,7 @@ function Overlay() {
   const [sendings, setSendings] = useState<Sending[]>([]);
   const [drafts, setDrafts] = useState<LocalDraft[]>([]);
   const [statusOpen, setStatusOpen] = useState(false);
+  const [versionsFor, setVersionsFor] = useState<ReturnType<typeof mainDoc> | undefined>(undefined);
   const armed = useRef(false); // el guardado automático arranca después de recuperar el borrador
   const [imageFor, setImageFor] = useState<{ path: string; initial: ImageAsset | null; insert?: ListCtx } | null>(null);
   const [itemFor, setItemFor] = useState<ListCtx | null>(null);
@@ -321,6 +336,9 @@ function Overlay() {
             <span aria-hidden>✎</span> Editar esta página
           </button>
           {statusChip}
+          <button type="button" className={o.panelLink} onClick={() => setVersionsFor(mainDoc())}>
+            <span aria-hidden>↺</span> Versiones
+          </button>
           <Link className={o.panelLink} href="/admin">
             Panel
           </Link>
@@ -337,6 +355,9 @@ function Overlay() {
             <button type="button" className={o.btn} onClick={undo} disabled={!entries.length || !!busy}>
               ↶ Deshacer
             </button>
+            <button type="button" className={o.btn} onClick={() => setVersionsFor(mainDoc())} disabled={!!busy}>
+              ↺ Versiones
+            </button>
             <button type="button" className={o.btn} onClick={() => setItemFor({ el: document.body, path: "pages", itemType: "page", collection: "pages" })} disabled={!!busy}>
               ＋ Página nueva
             </button>
@@ -350,6 +371,23 @@ function Overlay() {
         </div>
       )}
 
+      <Sheet open={versionsFor !== undefined} onClose={() => setVersionsFor(undefined)} title="Versiones" wide>
+        {versionsFor !== undefined && (
+          <Versions
+            here={versionsFor}
+            onRestored={(r, label) => {
+              if (!r.ok) return void toast({ text: r.error, tone: "error", ms: 8000 });
+              if (r.deploys) {
+                noteCommit(r, label);
+                toast({ text: "Volviendo a esa versión. En unos minutos el sitio la muestra; te aviso.", tone: "ok", ms: 7000 });
+              } else {
+                toast({ text: "Listo. Actualizando la página…", tone: "ok" });
+                setTimeout(() => window.location.reload(), 1400);
+              }
+            }}
+          />
+        )}
+      </Sheet>
       <StatusSheet open={statusOpen} onClose={() => setStatusOpen(false)} sendings={sendings} drafts={drafts} here={pathname} />
       <ImageSheet
         open={!!imageFor}

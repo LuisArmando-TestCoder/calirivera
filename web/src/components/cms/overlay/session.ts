@@ -214,7 +214,7 @@ export class EditSession {
       e.stopPropagation();
       const path = img.getAttribute("data-cms-path") ?? "";
       const el = (img.tagName === "IMG" ? img : img.querySelector("img")) as HTMLImageElement | null;
-      this.h.pickImage(path, el ? { src: el.currentSrc || el.src, alt: el.alt } : null);
+      this.h.pickImage(path, el ? { src: originalSrc(img, el), alt: el.alt } : null);
       return;
     }
     if (t.closest("a[href]")) {
@@ -234,5 +234,20 @@ export class EditSession {
       e.preventDefault();
       target.click();
     }
+  }
+}
+
+/**
+ * La dirección guardada de una foto, no la que el navegador terminó mostrando: `currentSrc` es absoluta
+ * (https://dominio/…) y puede ser una copia achicada (-640.webp). Guardar eso ataría el contenido a un
+ * dominio y a una copia reducida.
+ */
+function originalSrc(host: HTMLElement, el: HTMLImageElement): string {
+  const raw = host.closest("[data-mem]")?.getAttribute("data-mem") || el.closest("[data-mem]")?.getAttribute("data-mem") || el.getAttribute("src") || el.currentSrc || el.src;
+  try {
+    const u = new URL(raw, location.href);
+    return u.origin === location.origin ? u.pathname + u.search : raw;
+  } catch {
+    return raw;
   }
 }

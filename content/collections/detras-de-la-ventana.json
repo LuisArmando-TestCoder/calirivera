@@ -108,8 +108,16 @@
   }
  ],
  "cover": {
-  "src": "https://calirivera.netlify.app/media/detras-de-la-ventana/amanecer-4k-1107.avif",
+  "src": "/media/detras-de-la-ventana/amanecer-4k-1107.jpg",
   "alt": "Detrás de la ventana",
+  "width": 1107,
+  "height": 1421,
+  "widths": [
+   640,
+   1107
+  ],
+  "placeholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdEfqsUBaHa17JpjuZQS3BPQAA/qN83/I27FRknJtrwvbYAjdbXMIhQ/3SOYM3EXFjrDAYVywO9WAsGfne4RibWz+O1BAkykfcAdRy88qaWLVgH41e7awAK2zPnobIm5ahCJALTnRa6hoMcpYyG6PC9sIM+m6Hkv8deH/vom/cvfjgEo3kYBp+a6HbZtX9/8iahAzVAGytdrHFWrKVOCK0hKWAAAA=",
+  "color": "rgb(8 8 24)",
   "focal": {
    "x": 0.5,
    "y": 0.5

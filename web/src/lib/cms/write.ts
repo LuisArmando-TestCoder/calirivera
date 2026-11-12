@@ -235,6 +235,81 @@ export async function revertAudit(actor: string, auditEntryId: string) {
   return { ok: true as const, auditId: aId };
 }
 
+/**
+ * Pone documentos como estaban en otra versión. `doc: null` = en esa versión no existía: va a la papelera
+ * (recuperable), nunca se borra del todo. Cada documento deja su entrada en el registro.
+ */
+export async function restoreDocs(actor: string, items: { collection: ContentCollection; id: string; doc: Record<string, unknown> | null }[], note: string) {
+  const store = getStore();
+  const ts = now();
+  const changed: string[] = [];
+  for (const { collection, id, doc } of items) {
+    if (!isContentCollection(collection)) continue;
+    const current = (await store.get(collection, id)) as AdminDoc | null;
+    let next: AdminDoc | null;
+    if (doc) {
+      const { trashed: _t, trashedAt: _ta, ...rest } = doc as AdminDoc & { trashedAt?: string };
+      void _t;
+      void _ta;
+      next = { ...rest, id, updatedAt: ts } as AdminDoc;
+    } else {
+      if (!current || current.trashed) continue;
+      next = { ...current, trashed: true, trashedAt: ts, prevStatus: current.status ?? "published", updatedAt: ts } as AdminDoc;
+    }
+    if (current && JSON.stringify({ ...current, updatedAt: "" }) === JSON.stringify({ ...next, updatedAt: "" })) continue;
+    await store.set(collection, id, next);
+    await audit({ actor, action: "revert", collection, docId: id, title: titleOf(collection, next), before: current, after: next, note });
+    changed.push(`${collection}/${id}`);
+  }
+  if (!changed.length) return { ok: false as const, error: "El sitio ya está así: no hay nada que cambiar." };
+  await bumpVersion();
+  for (const k of changed) {
+    const [c, id] = k.split("/") as [ContentCollection, string];
+    invalidate(c);
+    invalidate(c, id);
+  }
+  return { ok: true as const, changed };
+}
+
+const OWN = /^https?:\/\/(?:www\.)?(?:calirivera\.com|calirivera\.netlify\.app|localhost(?::\d+)?)(?=\/)/i;
+/** `src` de este mismo sitio → ruta relativa (recorre todo el documento). */
+export function localSrc(v: unknown): unknown {
+  if (Array.isArray(v)) return v.map(localSrc);
+  if (v && typeof v === "object") {
+    const o: Record<string, unknown> = {};
+    for (const [k, x] of Object.entries(v)) o[k] = k === "src" && typeof x === "string" ? x.replace(OWN, "") : localSrc(x);
+    return o;
+  }
+  return v;
+}
+
+const META = ["width", "height", "widths", "placeholder", "color", "lowRes"] as const;
+const baseSrc = (s: string) => s.replace(/\.(avif|webp)$/i, ".jpg");
+/** Medidas y copias de cada foto ya conocida, por su dirección. */
+function imageMeta(docs: unknown[]): Map<string, Record<string, unknown>> {
+  const m = new Map<string, Record<string, unknown>>();
+  const walk = (v: unknown) => {
+    if (Array.isArray(v)) return v.forEach(walk);
+    if (!v || typeof v !== "object") return;
+    const o = v as Record<string, unknown>;
+    if (typeof o.src === "string" && typeof o.width === "number") m.set(baseSrc(o.src), Object.fromEntries(META.filter((k) => k in o).map((k) => [k, o[k]])));
+    Object.values(o).forEach(walk);
+  };
+  docs.forEach(walk);
+  return m;
+}
+function keepMeta(v: unknown, known: Map<string, Record<string, unknown>>): unknown {
+  if (Array.isArray(v)) return v.map((x) => keepMeta(x, known));
+  if (!v || typeof v !== "object") return v;
+  const o = Object.fromEntries(Object.entries(v).map(([k, x]) => [k, keepMeta(x, known)]));
+  if (typeof o.src === "string" && typeof o.width !== "number") {
+    const meta = known.get(baseSrc(o.src));
+    // la copia .avif/.webp que mostraba el navegador vuelve a ser la foto original
+    if (meta) return { ...meta, ...o, src: baseSrc(o.src) === o.src || !known.has(o.src) ? baseSrc(o.src) : o.src };
+  }
+  return o;
+}
+
 // ---------- inline editing ----------
 
 export interface InlineResult {
@@ -260,6 +335,11 @@ export async function applyInline(actor: string, ops: InlineOp[]): Promise<Inlin
   } catch (e) {
     return { ok: false, error: `No se pudo aplicar el cambio: ${(e as Error).message}` };
   }
+
+  // las fotos del propio sitio se guardan como /media/…, nunca atadas a un dominio; y una foto que ya estaba
+  // (solo se le cambió la descripción o el encuadre) conserva sus medidas, copias y desenfoque de carga
+  const known = imageMeta([...before.values()]);
+  for (const [k, d] of result.docs) result.docs.set(k, keepMeta(localSrc(d), known) as typeof d);
 
   const ts = now();
   const created: Record<string, string> = {};

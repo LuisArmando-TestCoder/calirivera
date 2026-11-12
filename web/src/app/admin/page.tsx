@@ -130,7 +130,7 @@ async function Home() {
         )}
         <p style={{ marginTop: 12 }}>
           <Link className={s.btnSmallGhost} href="/admin/historial">
-            Ver todo el historial →
+            Ver todas las versiones →
           </Link>
         </p>
       </main>

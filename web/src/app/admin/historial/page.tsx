@@ -4,6 +4,7 @@ import { requireAdmin } from "@/lib/auth/server";
 import { listAudit } from "@/lib/cms/audit";
 import { COLLECTION_DEFS, isContentCollection } from "@/lib/cms/config";
 import { RevertButton } from "@/components/cms/admin/RowActions";
+import { AdminVersions } from "@/components/cms/versions/AdminVersions";
 import { ACTION_LABELS, AdminHeader, fmtDate, Loading, PageHead } from "../ui";
 import s from "@/components/cms/admin/admin.module.scss";
 
@@ -18,7 +19,10 @@ async function History({ searchParams }: PageProps<"/admin/historial">) {
     <>
       <AdminHeader />
       <main className={s.main}>
-        <PageHead title="Historial" lead="Cada cambio queda guardado. Podés deshacer cualquiera." crumbs={[{ href: "/admin", label: "Inicio" }]} />
+        <PageHead title="Versiones" lead="Todo lo que se publicó, con lo que cambió cada vez. Podés volver a cualquier versión." crumbs={[{ href: "/admin", label: "Inicio" }]} />
+        <AdminVersions />
+        <details className={s.card} style={{ marginTop: 32 }}>
+          <summary style={{ cursor: "pointer", padding: 12, fontWeight: 600 }}>Registro detallado del editor (entradas, subidas de fotos, cada guardado)</summary>
         {entries.length === 0 ? (
           <p className={s.empty}>Sin cambios todavía.</p>
         ) : (
@@ -55,6 +59,7 @@ async function History({ searchParams }: PageProps<"/admin/historial">) {
             <Link href={`?despues=${entries[entries.length - 1].id}`}>Más viejos →</Link>
           </nav>
         )}
+        </details>
       </main>
     </>
   );
