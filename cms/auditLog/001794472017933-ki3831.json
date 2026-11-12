@@ -1,0 +1,175 @@
+{
+ "actor": "arte@calirivera.com",
+ "action": "inline",
+ "collection": "collections",
+ "docId": "la-cofradia",
+ "title": "La Cofradía",
+ "before": {
+  "id": "la-cofradia",
+  "slug": "la-cofradia",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-11T18:00:00Z",
+  "title": "La Cofradía",
+  "artworkIds": [
+   "la-cofradia-el-ojo-del-cosmos",
+   "la-cofradia-plegaria-por-los-cristianos",
+   "la-cofradia-mariposa-de-la-libertad",
+   "la-cofradia-los-ausentes",
+   "la-cofradia-arcangel-miguel",
+   "la-cofradia-arcangel-rafael",
+   "la-cofradia-arcangel-gabriel",
+   "la-cofradia-caliz",
+   "la-cofradia-candela"
+  ],
+  "order": 6,
+  "period": "2017",
+  "body": [
+   {
+    "type": "paragraph",
+    "id": "cofradia-b1",
+    "text": "En 2017, después de representar a Costa Rica en la Trienal de Riga, de exponer «Sincretismo religioso. Un camino para la paz» en el Museo Central de Arte Textil de Łódź, Polonia, y de ocupar el Teatro Nacional entero junto al Coro y la Orquesta Sinfónica Nacional, Cali Rivera volvió la mirada al espacio más íntimo de su universo creativo: drenó las aguas del Sexto Sol y lo convirtió en un anfiteatro."
+   },
+   {
+    "type": "paragraph",
+    "id": "cofradia-b2",
+    "text": "Una rampa permitió acceder a su interior y, como una declaración de unidad, dieciséis símbolos de distintas tradiciones filosóficas y espirituales fueron integrados a sus muros. Lo que había sido una isla rodeada por más de veintisiete mil galones de agua se volvió una plaza abierta al encuentro."
+   },
+   {
+    "type": "heading",
+    "id": "cofradia-h1",
+    "level": 2,
+    "text": "El cosmos, la fe y la esperanza"
+   },
+   {
+    "type": "paragraph",
+    "id": "cofradia-b3",
+    "text": "El Ojo del Cosmos invita a contemplar el misterio; Plegaria por los Cristianos, con sus pequeñas capillas hechas de antiguos relicarios y latas de confites alemanes, piensa la fe desde lo humano; La Virgen de la Esperanza afirma la ternura y la posibilidad de renacer. Entre esas tres dimensiones se despliegan los arcángeles Miguel, Rafael y Gabriel, nacidos de una bolsa de figuras rotas e intervenidos con el principio del kintsugi; el Cáliz, hecho de una copa de diseñador y un antiguo bombillo; y Los Ausentes, cinco butacas del desaparecido Cine de Tres Ríos, una por continente."
+   },
+   {
+    "type": "quote",
+    "id": "cofradia-b4",
+    "text": "La belleza no nace de la perfección, sino de la reconciliación.",
+    "cite": "La Cofradía, catálogo 2026"
+   },
+   {
+    "type": "paragraph",
+    "id": "cofradia-b5",
+    "text": "Nadie podía imaginar entonces que, pocos meses después, el fuego consumiría la casa y gran parte de la obra construida durante décadas. Vista desde la distancia, La Cofradía permanece como el último gran canto de celebración antes de las cenizas y, a la vez, como la primera señal de que la belleza puede sobrevivir a cualquier pérdida."
+   },
+   {
+    "type": "links",
+    "id": "la-cofradia-1",
+    "items": [
+     {
+      "label": "Ver el catálogo de La Cofradía",
+      "href": "/files/la-cofradia-2026.pdf",
+      "note": "PDF · 44 págs.",
+      "kind": "pdf"
+     }
+    ]
+   }
+  ],
+  "catalogUrl": "/files/la-cofradia-2026.pdf",
+  "subtitle": "El cosmos, la fe y la esperanza",
+  "technique": "Arte objeto y ensamble: pedrería, pintura y resina",
+  "statement": "Más que una colección de obras, fue una celebración de la amistad, de la memoria y de la capacidad humana de otorgar nuevos significados a aquello que parecía perdido. Ángeles rescatados, porcelanas heridas, lámparas destruidas por el tiempo y pequeñas reliquias familiares encontraron una nueva existencia.",
+  "cover": {
+   "src": "/media/la-cofradia/el-ojo-del-cosmos-1182.jpg",
+   "widths": [
+    640,
+    1182
+   ],
+   "width": 1182,
+   "height": 1148,
+   "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoQABAAA4BaJagCdAYtVlVlQoSeuiQAAP7ykGLpvzZzOXx+IFw9dz4HOMHLNvbBg0uyu2I19Nf2jyroYEPx1jbAi1tyz8DH33uEzwdIIIlkrGDqk7B9ZPElUKfZOBXA9a9GYOAnIL8/VPyTkwUWgS26/hovAves3ztlpQ03zxJ453QXZAA=",
+   "color": "rgb(248 248 248)",
+   "alt": "El ojo del cosmos — La Cofradía, 2017"
+  }
+ },
+ "after": {
+  "id": "la-cofradia",
+  "slug": "la-cofradia",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-12T08:26:52.440Z",
+  "title": "La Cofradía",
+  "artworkIds": [
+   "la-cofradia-el-ojo-del-cosmos",
+   "la-cofradia-plegaria-por-los-cristianos",
+   "la-cofradia-mariposa-de-la-libertad",
+   "la-cofradia-los-ausentes",
+   "la-cofradia-arcangel-miguel",
+   "la-cofradia-arcangel-rafael",
+   "la-cofradia-arcangel-gabriel",
+   "la-cofradia-caliz",
+   "la-cofradia-candela"
+  ],
+  "order": 70,
+  "period": "2017",
+  "body": [
+   {
+    "type": "paragraph",
+    "id": "cofradia-b1",
+    "text": "En 2017, después de representar a Costa Rica en la Trienal de Riga, de exponer «Sincretismo religioso. Un camino para la paz» en el Museo Central de Arte Textil de Łódź, Polonia, y de ocupar el Teatro Nacional entero junto al Coro y la Orquesta Sinfónica Nacional, Cali Rivera volvió la mirada al espacio más íntimo de su universo creativo: drenó las aguas del Sexto Sol y lo convirtió en un anfiteatro."
+   },
+   {
+    "type": "paragraph",
+    "id": "cofradia-b2",
+    "text": "Una rampa permitió acceder a su interior y, como una declaración de unidad, dieciséis símbolos de distintas tradiciones filosóficas y espirituales fueron integrados a sus muros. Lo que había sido una isla rodeada por más de veintisiete mil galones de agua se volvió una plaza abierta al encuentro."
+   },
+   {
+    "type": "heading",
+    "id": "cofradia-h1",
+    "level": 2,
+    "text": "El cosmos, la fe y la esperanza"
+   },
+   {
+    "type": "paragraph",
+    "id": "cofradia-b3",
+    "text": "El Ojo del Cosmos invita a contemplar el misterio; Plegaria por los Cristianos, con sus pequeñas capillas hechas de antiguos relicarios y latas de confites alemanes, piensa la fe desde lo humano; La Virgen de la Esperanza afirma la ternura y la posibilidad de renacer. Entre esas tres dimensiones se despliegan los arcángeles Miguel, Rafael y Gabriel, nacidos de una bolsa de figuras rotas e intervenidos con el principio del kintsugi; el Cáliz, hecho de una copa de diseñador y un antiguo bombillo; y Los Ausentes, cinco butacas del desaparecido Cine de Tres Ríos, una por continente."
+   },
+   {
+    "type": "quote",
+    "id": "cofradia-b4",
+    "text": "La belleza no nace de la perfección, sino de la reconciliación.",
+    "cite": "La Cofradía, catálogo 2026"
+   },
+   {
+    "type": "paragraph",
+    "id": "cofradia-b5",
+    "text": "Nadie podía imaginar entonces que, pocos meses después, el fuego consumiría la casa y gran parte de la obra construida durante décadas. Vista desde la distancia, La Cofradía permanece como el último gran canto de celebración antes de las cenizas y, a la vez, como la primera señal de que la belleza puede sobrevivir a cualquier pérdida."
+   },
+   {
+    "type": "links",
+    "id": "la-cofradia-1",
+    "items": [
+     {
+      "label": "Ver el catálogo de La Cofradía",
+      "href": "/files/la-cofradia-2026.pdf",
+      "note": "PDF · 44 págs.",
+      "kind": "pdf"
+     }
+    ]
+   }
+  ],
+  "catalogUrl": "/files/la-cofradia-2026.pdf",
+  "subtitle": "El cosmos, la fe y la esperanza",
+  "technique": "Arte objeto y ensamble: pedrería, pintura y resina",
+  "statement": "Más que una colección de obras, fue una celebración de la amistad, de la memoria y de la capacidad humana de otorgar nuevos significados a aquello que parecía perdido. Ángeles rescatados, porcelanas heridas, lámparas destruidas por el tiempo y pequeñas reliquias familiares encontraron una nueva existencia.",
+  "cover": {
+   "src": "/media/la-cofradia/el-ojo-del-cosmos-1182.jpg",
+   "widths": [
+    640,
+    1182
+   ],
+   "width": 1182,
+   "height": 1148,
+   "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoQABAAA4BaJagCdAYtVlVlQoSeuiQAAP7ykGLpvzZzOXx+IFw9dz4HOMHLNvbBg0uyu2I19Nf2jyroYEPx1jbAi1tyz8DH33uEzwdIIIlkrGDqk7B9ZPElUKfZOBXA9a9GYOAnIL8/VPyTkwUWgS26/hovAves3ztlpQ03zxJ453QXZAA=",
+   "color": "rgb(248 248 248)",
+   "alt": "El ojo del cosmos — La Cofradía, 2017"
+  }
+ },
+ "at": "2026-11-12T08:26:57.933Z",
+ "id": "001794472017933-ki3831"
+}
