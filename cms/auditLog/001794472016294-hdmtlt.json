@@ -1,0 +1,178 @@
+{
+ "actor": "arte@calirivera.com",
+ "action": "inline",
+ "collection": "collections",
+ "docId": "plegaria",
+ "title": "Plegaria",
+ "before": {
+  "id": "plegaria",
+  "slug": "plegaria",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-11T18:00:00Z",
+  "title": "Plegaria",
+  "artworkIds": [
+   "plegaria-ave-maria",
+   "plegaria-cielos-liquidos",
+   "plegaria-frecuencia",
+   "plegaria-molto-vivace",
+   "plegaria-fe",
+   "plegaria-plegaria-de-las-aves",
+   "plegaria-trascendencia"
+  ],
+  "order": 4,
+  "period": "2001 · 2011",
+  "catalogUrl": "/files/plegaria_catalogo.pdf",
+  "subtitle": "El fuego como elemento",
+  "technique": "Acrílico; instalación con velas, banderas y objetos",
+  "statement": "Quise mediante mi nueva propuesta pictórica crear visualmente una plegaria por los nuevos tiempos. Pensé en guerras y soldados, en miles de velas que se encienden para llamar a la esperanza, y en la búsqueda de imágenes me topé con lo elemental: la fe.",
+  "body": [
+   {
+    "type": "heading",
+    "id": "plegaria-h1",
+    "level": 2,
+    "text": "2001 · El fuego como elemento"
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b1",
+    "text": "A manera de ritual, el 2 de noviembre de 2001 se inauguró en la Galería Nacional de Costa Rica «Plegaria, el fuego como elemento»: una obra no figurativa en acrílico, inspirada en la filosofía cristiana, acompañada por una instalación de cientos de velas benditas en la ceremonia del fuego de la tradición católica. El público no solo veía la exposición: la encendía, en señal de esperanza por los nuevos tiempos."
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b2",
+    "text": "Una variación musical del Ave María de Franz Schubert, interpretada por el artista, forma parte de la obra pictórica del mismo nombre; un dispositivo electrónico permitía vivirla con la vista y con el oído. Radio Nacional de Costa Rica transmitió esa versión dos veces al día desde mediados de 2005."
+   },
+   {
+    "type": "quote",
+    "id": "plegaria-b3",
+    "text": "Para quienes no han conocido todo mi trabajo, Plegaria es un salto abismal, pero en realidad es sólo un proceso lógico de mi búsqueda: de lo simbólico a la figuración, y cada vez más cerca de lo no figurativo, curiosamente con lo que inicié en mi primera exposición a principios de los noventa.",
+    "cite": "Cali Rivera, 2001"
+   },
+   {
+    "type": "heading",
+    "id": "plegaria-h2",
+    "level": 2,
+    "text": "2006 · Plegaria tica en Francia"
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b4",
+    "text": "Siguiendo la temática de las banderas de plegaria, tres banderines montados en textiles autóctonos costarricenses: el preámbulo de una serie dedicada a la bandera robada en el FIA, símbolo de la iniciativa de la Carta de la Tierra. Junto a la «plegaria tica» viajaron a una galería francesa un dispensador de combustible intervenido con pintura y tres bitácoras de papel reciclado con pruebas de color, llamadas «Poetry»."
+   },
+   {
+    "type": "heading",
+    "id": "plegaria-h3",
+    "level": 2,
+    "text": "2011 · Plegaria"
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b5",
+    "text": "Una instalación de más de cien piezas entre objetos, banderas y obras de pared, con un compromiso explícito con la madre tierra. Por primera vez se expusieron las banderas del Corpus Christi junto a la Cruz de San Pedro: estandartes desarrollados en 2009 frente al lago Atitlán, en Guatemala, en un trabajo social con una comunidad indígena para proteger ese manto acuífero."
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b6",
+    "text": "Ocho altares de luz, activados por los visitantes al encender una vela y elevar una oración por el planeta, formaron parte de la puesta en escena. La problemática del agua y la del petróleo fueron sus dos pilares conceptuales; la museografía fue de Hugo Pineda."
+   }
+  ],
+  "cover": {
+   "src": "/media/memoria/2001-plegaria-de-las-aves-589.jpg",
+   "alt": "Plegaria de las aves — Plegaria, 2001",
+   "width": 589,
+   "height": 783,
+   "widths": [
+    480,
+    589
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdAA39Ax1/Wg0qwAD7BC+corZAhQE3ykJxduKe2TZuyrzHjPk0U87lEiis4lZPXGYBTgUAWOnACLrrYAA2IjBi0bt6g+S7dXfo/SRda0wTDZ00X0jdle07oNIYfo+/sSkoU+vvciEojez/onAA",
+   "color": "rgb(120 152 232)",
+   "lowRes": true
+  }
+ },
+ "after": {
+  "id": "plegaria",
+  "slug": "plegaria",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-12T08:26:52.440Z",
+  "title": "Plegaria",
+  "artworkIds": [
+   "plegaria-ave-maria",
+   "plegaria-cielos-liquidos",
+   "plegaria-frecuencia",
+   "plegaria-molto-vivace",
+   "plegaria-fe",
+   "plegaria-plegaria-de-las-aves",
+   "plegaria-trascendencia"
+  ],
+  "order": 50,
+  "period": "2001 · 2011",
+  "catalogUrl": "/files/plegaria_catalogo.pdf",
+  "subtitle": "El fuego como elemento",
+  "technique": "Acrílico; instalación con velas, banderas y objetos",
+  "statement": "Quise mediante mi nueva propuesta pictórica crear visualmente una plegaria por los nuevos tiempos. Pensé en guerras y soldados, en miles de velas que se encienden para llamar a la esperanza, y en la búsqueda de imágenes me topé con lo elemental: la fe.",
+  "body": [
+   {
+    "type": "heading",
+    "id": "plegaria-h1",
+    "level": 2,
+    "text": "2001 · El fuego como elemento"
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b1",
+    "text": "A manera de ritual, el 2 de noviembre de 2001 se inauguró en la Galería Nacional de Costa Rica «Plegaria, el fuego como elemento»: una obra no figurativa en acrílico, inspirada en la filosofía cristiana, acompañada por una instalación de cientos de velas benditas en la ceremonia del fuego de la tradición católica. El público no solo veía la exposición: la encendía, en señal de esperanza por los nuevos tiempos."
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b2",
+    "text": "Una variación musical del Ave María de Franz Schubert, interpretada por el artista, forma parte de la obra pictórica del mismo nombre; un dispositivo electrónico permitía vivirla con la vista y con el oído. Radio Nacional de Costa Rica transmitió esa versión dos veces al día desde mediados de 2005."
+   },
+   {
+    "type": "quote",
+    "id": "plegaria-b3",
+    "text": "Para quienes no han conocido todo mi trabajo, Plegaria es un salto abismal, pero en realidad es sólo un proceso lógico de mi búsqueda: de lo simbólico a la figuración, y cada vez más cerca de lo no figurativo, curiosamente con lo que inicié en mi primera exposición a principios de los noventa.",
+    "cite": "Cali Rivera, 2001"
+   },
+   {
+    "type": "heading",
+    "id": "plegaria-h2",
+    "level": 2,
+    "text": "2006 · Plegaria tica en Francia"
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b4",
+    "text": "Siguiendo la temática de las banderas de plegaria, tres banderines montados en textiles autóctonos costarricenses: el preámbulo de una serie dedicada a la bandera robada en el FIA, símbolo de la iniciativa de la Carta de la Tierra. Junto a la «plegaria tica» viajaron a una galería francesa un dispensador de combustible intervenido con pintura y tres bitácoras de papel reciclado con pruebas de color, llamadas «Poetry»."
+   },
+   {
+    "type": "heading",
+    "id": "plegaria-h3",
+    "level": 2,
+    "text": "2011 · Plegaria"
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b5",
+    "text": "Una instalación de más de cien piezas entre objetos, banderas y obras de pared, con un compromiso explícito con la madre tierra. Por primera vez se expusieron las banderas del Corpus Christi junto a la Cruz de San Pedro: estandartes desarrollados en 2009 frente al lago Atitlán, en Guatemala, en un trabajo social con una comunidad indígena para proteger ese manto acuífero."
+   },
+   {
+    "type": "paragraph",
+    "id": "plegaria-b6",
+    "text": "Ocho altares de luz, activados por los visitantes al encender una vela y elevar una oración por el planeta, formaron parte de la puesta en escena. La problemática del agua y la del petróleo fueron sus dos pilares conceptuales; la museografía fue de Hugo Pineda."
+   }
+  ],
+  "cover": {
+   "src": "https://calirivera.netlify.app/media/memoria/2001-plegaria-de-las-aves-589.avif",
+   "alt": "Plegaria de las aves — Plegaria, 2001",
+   "focal": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "at": "2026-11-12T08:26:56.294Z",
+ "id": "001794472016294-hdmtlt"
+}
