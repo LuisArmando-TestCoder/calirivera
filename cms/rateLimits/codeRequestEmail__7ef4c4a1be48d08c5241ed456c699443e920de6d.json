@@ -1,0 +1,10 @@
+{
+ "count": 1,
+ "windowStart": 1794470301819,
+ "backoffUntil": 0,
+ "strikes": 0,
+ "lastStrikeAt": 0,
+ "policy": "codeRequestEmail",
+ "updatedAt": "2026-11-12T07:58:21.819Z",
+ "id": "codeRequestEmail__7ef4c4a1be48d08c5241ed456c699443e920de6d"
+}
