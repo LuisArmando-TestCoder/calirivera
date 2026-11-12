@@ -1,0 +1,173 @@
+{
+ "actor": "arte@calirivera.com",
+ "action": "inline",
+ "collection": "collections",
+ "docId": "alquimia-de-almas",
+ "title": "Alquimia de Almas",
+ "before": {
+  "id": "alquimia-de-almas",
+  "slug": "alquimia-de-almas",
+  "status": "published",
+  "createdAt": "2026-11-11T00:40:00Z",
+  "updatedAt": "2026-11-11T00:40:00Z",
+  "title": "Alquimia de Almas",
+  "artworkIds": [
+   "alquimia-de-almas-levitacion-en-rojo",
+   "alquimia-de-almas-gentrificacion",
+   "alquimia-de-almas-frontera-imaginaria",
+   "alquimia-de-almas-quietud-en-pausa",
+   "alquimia-de-almas-tribulacion",
+   "alquimia-de-almas-en-la-mira",
+   "alquimia-de-almas-corazon-levitante",
+   "alquimia-de-almas-siempre-hay-una-salida",
+   "alquimia-de-almas-ascender-cuantico",
+   "alquimia-de-almas-ascender-cuantico-2",
+   "alquimia-de-almas-amanecer-de-un-festival-precolombino",
+   "alquimia-de-almas-agua-tesoro-en-extincion",
+   "alquimia-de-almas-vision-del-alma",
+   "alquimia-de-almas-entrada-a-un-nuevo-mundo",
+   "alquimia-de-almas-melodia-marina",
+   "alquimia-de-almas-mirada-encarcelada",
+   "alquimia-de-almas-mirada-protectora",
+   "alquimia-de-almas-encrucijada",
+   "alquimia-de-almas-paisaje",
+   "alquimia-de-almas-mujer-con-arete-de-perla",
+   "alquimia-de-almas-recuerdo-de-un-amor-sincero",
+   "alquimia-de-almas-danza-del-pigmento",
+   "alquimia-de-almas-porton-sintoista",
+   "alquimia-de-almas-lo-sagrado",
+   "alquimia-de-almas-mujer-en-el-parque",
+   "alquimia-de-almas-en-el-jardin",
+   "alquimia-de-almas-jardin-y-fuente",
+   "alquimia-de-almas-el-burrito",
+   "alquimia-de-almas-el-arecho",
+   "alquimia-de-almas-la-paisa-ortega",
+   "alquimia-de-almas-torete"
+  ],
+  "order": 7,
+  "period": "2020–2023",
+  "technique": "mixta sobre tela",
+  "statement": "Capas de color plano y formas puras: la memoria inmóvil frente a la tempestad del tiempo.",
+  "body": [
+   {
+    "type": "paragraph",
+    "id": "alq-1",
+    "text": "Entre 2020 y 2023, Cali Rivera produce Alquimia de Almas: un viaje pictórico donde la geografía de cada obra está hecha de capas de color plano y formas puras."
+   },
+   {
+    "type": "paragraph",
+    "id": "alq-2",
+    "text": "La pintura parece caer y fluir sobre el lienzo; la gravedad y las fuerzas del entorno le dan formas puras, lúdicas y mágicas. La abstracción responde a la escuela abstracta costarricense de los años 90 que marcó su formación, ahora en una etapa más madura."
+   },
+   {
+    "type": "paragraph",
+    "id": "alq-3",
+    "text": "La exposición se presentó en el Taller del Artista en 2023, dentro de la celebración del aniversario del Centro Cultural, como un testimonio de transformación y resiliencia."
+   },
+   {
+    "type": "quote",
+    "id": "alq-q",
+    "text": "Una forma de transmitir la idea de la memoria inmóvil, sujeta al caos y a la tempestad del tiempo, pero absoluta en su esencia.",
+    "cite": "Albán Camacho Lobo, curador e investigador, septiembre de 2023"
+   }
+  ],
+  "cover": {
+   "src": "/media/alquimia-de-almas/levitacion-en-rojo-1322.jpg",
+   "width": 1322,
+   "height": 1347,
+   "widths": [
+    640,
+    1280,
+    1322
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJbACdAYvNjOMx55sIAD9xIZl7WMj7W3xjRYjpk4V6xG+rVr1GfqqrH7NQoD7/d/pLc0AsIvNHUJ2JzzwuY0Q1J+CGRyHOnNVWbJ9fOaWqHNxd26nOZ3mUc9c+TcB1j1PSkgA",
+   "color": "rgb(248 248 248)",
+   "alt": "Levitación en Rojo, Alquimia de Almas, 2023"
+  },
+  "catalogUrl": "/files/alquimia_de_almas.pdf"
+ },
+ "after": {
+  "id": "alquimia-de-almas",
+  "slug": "alquimia-de-almas",
+  "status": "published",
+  "createdAt": "2026-11-11T00:40:00Z",
+  "updatedAt": "2026-11-12T08:26:52.440Z",
+  "title": "Alquimia de Almas",
+  "artworkIds": [
+   "alquimia-de-almas-levitacion-en-rojo",
+   "alquimia-de-almas-gentrificacion",
+   "alquimia-de-almas-frontera-imaginaria",
+   "alquimia-de-almas-quietud-en-pausa",
+   "alquimia-de-almas-tribulacion",
+   "alquimia-de-almas-en-la-mira",
+   "alquimia-de-almas-corazon-levitante",
+   "alquimia-de-almas-siempre-hay-una-salida",
+   "alquimia-de-almas-ascender-cuantico",
+   "alquimia-de-almas-ascender-cuantico-2",
+   "alquimia-de-almas-amanecer-de-un-festival-precolombino",
+   "alquimia-de-almas-agua-tesoro-en-extincion",
+   "alquimia-de-almas-vision-del-alma",
+   "alquimia-de-almas-entrada-a-un-nuevo-mundo",
+   "alquimia-de-almas-melodia-marina",
+   "alquimia-de-almas-mirada-encarcelada",
+   "alquimia-de-almas-mirada-protectora",
+   "alquimia-de-almas-encrucijada",
+   "alquimia-de-almas-paisaje",
+   "alquimia-de-almas-mujer-con-arete-de-perla",
+   "alquimia-de-almas-recuerdo-de-un-amor-sincero",
+   "alquimia-de-almas-danza-del-pigmento",
+   "alquimia-de-almas-porton-sintoista",
+   "alquimia-de-almas-lo-sagrado",
+   "alquimia-de-almas-mujer-en-el-parque",
+   "alquimia-de-almas-en-el-jardin",
+   "alquimia-de-almas-jardin-y-fuente",
+   "alquimia-de-almas-el-burrito",
+   "alquimia-de-almas-el-arecho",
+   "alquimia-de-almas-la-paisa-ortega",
+   "alquimia-de-almas-torete"
+  ],
+  "order": 80,
+  "period": "2020–2023",
+  "technique": "mixta sobre tela",
+  "statement": "Capas de color plano y formas puras: la memoria inmóvil frente a la tempestad del tiempo.",
+  "body": [
+   {
+    "type": "paragraph",
+    "id": "alq-1",
+    "text": "Entre 2020 y 2023, Cali Rivera produce Alquimia de Almas: un viaje pictórico donde la geografía de cada obra está hecha de capas de color plano y formas puras."
+   },
+   {
+    "type": "paragraph",
+    "id": "alq-2",
+    "text": "La pintura parece caer y fluir sobre el lienzo; la gravedad y las fuerzas del entorno le dan formas puras, lúdicas y mágicas. La abstracción responde a la escuela abstracta costarricense de los años 90 que marcó su formación, ahora en una etapa más madura."
+   },
+   {
+    "type": "paragraph",
+    "id": "alq-3",
+    "text": "La exposición se presentó en el Taller del Artista en 2023, dentro de la celebración del aniversario del Centro Cultural, como un testimonio de transformación y resiliencia."
+   },
+   {
+    "type": "quote",
+    "id": "alq-q",
+    "text": "Una forma de transmitir la idea de la memoria inmóvil, sujeta al caos y a la tempestad del tiempo, pero absoluta en su esencia.",
+    "cite": "Albán Camacho Lobo, curador e investigador, septiembre de 2023"
+   }
+  ],
+  "cover": {
+   "src": "/media/alquimia-de-almas/levitacion-en-rojo-1322.jpg",
+   "width": 1322,
+   "height": 1347,
+   "widths": [
+    640,
+    1280,
+    1322
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJbACdAYvNjOMx55sIAD9xIZl7WMj7W3xjRYjpk4V6xG+rVr1GfqqrH7NQoD7/d/pLc0AsIvNHUJ2JzzwuY0Q1J+CGRyHOnNVWbJ9fOaWqHNxd26nOZ3mUc9c+TcB1j1PSkgA",
+   "color": "rgb(248 248 248)",
+   "alt": "Levitación en Rojo, Alquimia de Almas, 2023"
+  },
+  "catalogUrl": "/files/alquimia_de_almas.pdf"
+ },
+ "at": "2026-11-12T08:26:58.853Z",
+ "id": "001794472018853-1z4qvr"
+}
