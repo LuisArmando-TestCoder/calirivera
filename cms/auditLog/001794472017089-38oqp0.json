@@ -1,0 +1,137 @@
+{
+ "actor": "arte@calirivera.com",
+ "action": "inline",
+ "collection": "collections",
+ "docId": "exvotos",
+ "title": "Exvotos",
+ "before": {
+  "id": "exvotos",
+  "slug": "exvotos",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-10T23:54:17Z",
+  "title": "Exvotos",
+  "artworkIds": [
+   "exvotos-01",
+   "exvotos-02",
+   "exvotos-03",
+   "exvotos-04",
+   "exvotos-05",
+   "exvotos-06",
+   "exvotos-07",
+   "exvotos-08",
+   "exvotos-09",
+   "exvotos-10",
+   "exvotos-11",
+   "exvotos-12"
+  ],
+  "order": 5,
+  "period": "2012",
+  "subtitle": "Religiones del mundo",
+  "statement": "Los objetos hablan. Conservan las huellas del tiempo, la memoria de quienes los tocaron y las historias que permanecen ocultas entre sus formas. Exvotos surge de la búsqueda de esos elementos cotidianos que, tras ser encontrados y transformados, adquieren un nuevo significado. Lo que alguna vez fue ignorado o desechado renace como un símbolo capaz de despertar reflexión, emoción y contemplación.",
+  "body": [
+   {
+    "type": "paragraph",
+    "id": "exvotos-2",
+    "text": "Inspirada en la antigua tradición de las ofrendas votivas, esta serie traslada el concepto del exvoto al lenguaje del arte contemporáneo. Cada obra establece un diálogo entre pintura, ensamblaje y objetos recuperados, donde la materia deja de ser únicamente un material para convertirse en testimonio del tiempo, la gratitud, la espiritualidad y la condición humana."
+   },
+   {
+    "type": "paragraph",
+    "id": "exvotos-3",
+    "text": "Más que representar una idea, Exvotos invita a vivir una experiencia. Cada pieza propone mirar más allá de lo evidente y descubrir que incluso aquello que parece insignificante puede contener una profunda carga simbólica. En este universo, lo ordinario se transforma en extraordinario y cada objeto encuentra una nueva vida, convirtiéndose en una ofrenda silenciosa a la memoria, a la naturaleza y a la permanente capacidad del ser humano de encontrar belleza y significado donde otros solo ven el paso del tiempo."
+   },
+   {
+    "type": "links",
+    "id": "exvotos-4",
+    "items": [
+     {
+      "label": "Ver Exvotos",
+      "href": "/files/catalogo_exvotos.pdf",
+      "note": "PDF · 15 MB",
+      "kind": "pdf"
+     }
+    ]
+   }
+  ],
+  "cover": {
+   "src": "/media/exvotos/exvotos-marc-augue-1105.jpg",
+   "alt": "Exvotos",
+   "width": 1105,
+   "height": 1423,
+   "widths": [
+    640,
+    1105
+   ],
+   "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoADYJEKcnEFjnfY39wAAPaZJccw13njI6qPgS2mzBF9NXEDkLVBv/FKz1XW0AlFonXh2R7KlT+Dazu2aKC0wCa/t7H2ZmPL3+cDJ0HXIiyRhYISehuV1v+zHA55U2+AAAA=",
+   "color": "rgb(40 24 8)",
+   "aiAltered": true
+  },
+  "catalogUrl": "/files/catalogo_exvotos.pdf"
+ },
+ "after": {
+  "id": "exvotos",
+  "slug": "exvotos",
+  "status": "published",
+  "createdAt": "2026-11-10T23:54:17Z",
+  "updatedAt": "2026-11-12T08:26:52.440Z",
+  "title": "Exvotos",
+  "artworkIds": [
+   "exvotos-01",
+   "exvotos-02",
+   "exvotos-03",
+   "exvotos-04",
+   "exvotos-05",
+   "exvotos-06",
+   "exvotos-07",
+   "exvotos-08",
+   "exvotos-09",
+   "exvotos-10",
+   "exvotos-11",
+   "exvotos-12"
+  ],
+  "order": 60,
+  "period": "2012",
+  "subtitle": "Religiones del mundo",
+  "statement": "Los objetos hablan. Conservan las huellas del tiempo, la memoria de quienes los tocaron y las historias que permanecen ocultas entre sus formas. Exvotos surge de la búsqueda de esos elementos cotidianos que, tras ser encontrados y transformados, adquieren un nuevo significado. Lo que alguna vez fue ignorado o desechado renace como un símbolo capaz de despertar reflexión, emoción y contemplación.",
+  "body": [
+   {
+    "type": "paragraph",
+    "id": "exvotos-2",
+    "text": "Inspirada en la antigua tradición de las ofrendas votivas, esta serie traslada el concepto del exvoto al lenguaje del arte contemporáneo. Cada obra establece un diálogo entre pintura, ensamblaje y objetos recuperados, donde la materia deja de ser únicamente un material para convertirse en testimonio del tiempo, la gratitud, la espiritualidad y la condición humana."
+   },
+   {
+    "type": "paragraph",
+    "id": "exvotos-3",
+    "text": "Más que representar una idea, Exvotos invita a vivir una experiencia. Cada pieza propone mirar más allá de lo evidente y descubrir que incluso aquello que parece insignificante puede contener una profunda carga simbólica. En este universo, lo ordinario se transforma en extraordinario y cada objeto encuentra una nueva vida, convirtiéndose en una ofrenda silenciosa a la memoria, a la naturaleza y a la permanente capacidad del ser humano de encontrar belleza y significado donde otros solo ven el paso del tiempo."
+   },
+   {
+    "type": "links",
+    "id": "exvotos-4",
+    "items": [
+     {
+      "label": "Ver Exvotos",
+      "href": "/files/catalogo_exvotos.pdf",
+      "note": "PDF · 15 MB",
+      "kind": "pdf"
+     }
+    ]
+   }
+  ],
+  "cover": {
+   "src": "/media/exvotos/exvotos-marc-augue-1105.jpg",
+   "alt": "Exvotos",
+   "width": 1105,
+   "height": 1423,
+   "widths": [
+    640,
+    1105
+   ],
+   "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoADYJEKcnEFjnfY39wAAPaZJccw13njI6qPgS2mzBF9NXEDkLVBv/FKz1XW0AlFonXh2R7KlT+Dazu2aKC0wCa/t7H2ZmPL3+cDJ0HXIiyRhYISehuV1v+zHA55U2+AAAA=",
+   "color": "rgb(40 24 8)",
+   "aiAltered": true
+  },
+  "catalogUrl": "/files/catalogo_exvotos.pdf"
+ },
+ "at": "2026-11-12T08:26:57.089Z",
+ "id": "001794472017089-38oqp0"
+}
