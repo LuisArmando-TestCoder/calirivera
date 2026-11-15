@@ -3,12 +3,12 @@
  "slug": "inicio",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-12T08:26:52.440Z",
+ "updatedAt": "2026-11-15T01:54:41.621Z",
  "title": "Inicio",
  "description": "Cali Rivera, artista multidisciplinario costarricense. Colecciones, catálogos y el Taller del Artista.",
  "hero": {
   "title": "Cali Rivera",
-  "subtitle": "El arte es para ser libres",
+  "subtitle": "El arte es para ser libres...",
   "cta": {
    "label": "Conocer a Cali",
    "href": "/biografia"
