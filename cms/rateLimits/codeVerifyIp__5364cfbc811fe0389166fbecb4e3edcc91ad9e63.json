@@ -1,0 +1,10 @@
+{
+ "count": 1,
+ "windowStart": 1794707522462,
+ "backoffUntil": 0,
+ "strikes": 0,
+ "lastStrikeAt": 0,
+ "policy": "codeVerifyIp",
+ "updatedAt": "2026-11-15T01:52:02.462Z",
+ "id": "codeVerifyIp__5364cfbc811fe0389166fbecb4e3edcc91ad9e63"
+}
