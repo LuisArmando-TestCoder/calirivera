@@ -143,9 +143,13 @@ export async function saveDoc(
   if (existing) for (const f of def.fields) if (f.lockedAfterCreate && existing[f.name] !== undefined) locked[f.name] = existing[f.name];
 
   const ts = now();
+  // un objeto del formulario (p. ej. «hero») se mezcla con lo guardado: el formulario no conoce todas sus
+  // partes (botón, obras del escenario) y no debe borrarlas
+  const plain = (x: unknown): x is Record<string, unknown> => !!x && typeof x === "object" && !Array.isArray(x);
+  const merged = Object.fromEntries(Object.entries(value).map(([k, v]) => [k, plain(v) && plain(existing?.[k]) && !("src" in v) ? { ...(existing![k] as object), ...v } : v]));
   const next: AdminDoc = {
     ...(existing ?? {}),
-    ...value,
+    ...merged,
     ...locked,
     id: docId,
     slug: (locked.slug as string) ?? (existing?.slug as string) ?? (def.singleton ? docId : docId),

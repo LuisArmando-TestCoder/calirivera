@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import s from "./Banners.module.scss";
 
-export type StageSlide = { src: string; w: number; h: number; title: string; period?: string; href: string };
+export type StageSlide = { src: string; w: number; h: number; title: string; period?: string; href: string; fit?: "cover" | "contain" };
 
 /**
  * Escenario detrás de los estandartes: las exposiciones pasan quemándose al revés (WebGPU, ver burn.ts).

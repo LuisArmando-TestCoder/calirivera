@@ -39,7 +39,8 @@ import {
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type N = any;
 
-export type Slide = { src: string; w: number; h: number };
+/** `contain`: la obra entera sobre su propio fondo (piezas verticales o fotos chicas, que «cover» recortaría o estiraría). */
+export type Slide = { src: string; w: number; h: number; fit?: "cover" | "contain" };
 export type BurnHandle = { stop: () => void; backend: "webgpu" | "webgl2" };
 
 const HOLD = 6500; // ms quieta
@@ -90,6 +91,9 @@ export async function startHeroBurn(
   const uProg = uniform(0); // 0 = solo A, 1 = solo B
   const uAspA = uniform(1);
   const uAspB = uniform(1);
+  const uFitA = uniform(0); // 0 = cubre la pantalla, 1 = la obra entera
+  const uFitB = uniform(0);
+  const uShift = uniform(0); // en pantallas anchas la obra entera se corre a la derecha (a la izquierda están las banderas)
   const uScreen = uniform(1);
   const uZoomA = uniform(0); // 0..1, avance del Ken Burns de cada una
   const uZoomB = uniform(0);
@@ -119,7 +123,25 @@ export async function startHeroBurn(
     const c: N = p.add(haze).add(o).sub(0.5).mul(sc).mul(z).add(0.5).add(drift.mul(zoom));
     return c;
   };
-  const grade = (c: N) => {
+  // la obra entera: cabe en la pantalla con aire alrededor, corrida hacia la derecha en pantallas anchas
+  const contain = (asp: N, zoom: N, drift: N, o: N = vec2(0, 0)) => {
+    const r: N = uScreen.div(asp);
+    const sc: N = select(r.greaterThan(1), vec2(r, 1), vec2(1, float(1).div(r)));
+    const z: N = float(1).sub(zoom.mul(0.05)).mul(1.12);
+    return p.add(haze).add(o).sub(vec2(uShift.add(0.5), 0.5)).mul(sc).mul(z).add(0.5).add(drift.mul(zoom).mul(0.5));
+  };
+  // el fondo de la propia foto (promedio de sus esquinas): la obra entera flota en su mismo color
+  const edge = (tex: THREE.Texture): N =>
+    texture(tex, vec2(0.015, 0.015)).rgb.add(texture(tex, vec2(0.985, 0.015)).rgb).add(texture(tex, vec2(0.015, 0.985)).rgb).add(texture(tex, vec2(0.985, 0.985)).rgb).mul(0.25);
+  const edgeA: N = edge(texA);
+  const edgeB: N = edge(texB);
+  const sample = (tex: THREE.Texture, asp: N, zoom: N, drift: N, fit: N, bg: N, o: N = vec2(0, 0)) => {
+    const k: N = contain(asp, zoom, drift, o);
+    const c: N = mix(cover(asp, zoom, drift, o), k, fit);
+    const inside: N = smoothstep(0, 0.006, k.x).mul(smoothstep(1, 0.994, k.x)).mul(smoothstep(0, 0.006, k.y)).mul(smoothstep(1, 0.994, k.y));
+    return mix(texture(tex, clamp(c, 0.001, 0.999)).rgb, mix(bg, texture(tex, clamp(c, 0.001, 0.999)).rgb, inside), fit);
+  };
+  const grade = (c: N, fit: N = float(0)) => {
     // a escenario oscuro: compresión de luces, un poco de añil en las sombras, viñeta
     const lin: N = pow(c, vec3(1.3));
     const lum: N = dot(lin, vec3(0.299, 0.587, 0.114));
@@ -127,10 +149,11 @@ export async function startHeroBurn(
     const toned: N = mix(lin, vec3(lum), 0.15).div(lum.mul(1.4).add(1)).mul(0.34).add(vec3(0.006, 0.008, 0.024));
     const d: N = p.sub(0.5).mul(vec2(1.2, 1));
     const vig: N = smoothstep(0.95, 0.25, dot(d, d).mul(2.2));
-    return toned.mul(vig.mul(0.65).add(0.35));
+    // la obra entera (sobre su propio fondo oscuro) se muestra con más luz: es la protagonista, no un telón
+    return toned.mul(vig.mul(0.65).add(0.35)).mul(mix(float(1), float(1.45), fit));
   };
-  const A: N = grade(texture(texA, clamp(cover(uAspA, uZoomA, uDriftA), 0.001, 0.999)).rgb);
-  const B: N = grade(texture(texB, clamp(cover(uAspB, uZoomB, uDriftB), 0.001, 0.999)).rgb);
+  const A: N = grade(sample(texA, uAspA, uZoomA, uDriftA, uFitA, edgeA), uFitA);
+  const B: N = grade(sample(texB, uAspB, uZoomB, uDriftB, uFitB, edgeB), uFitB);
 
   // frente de brasas: sube de abajo hacia arriba con dos octavas de ruido
   const q: N = p.mul(vec2(uScreen, 1));
@@ -162,8 +185,8 @@ export async function startHeroBurn(
   // (sin el oscurecido de escena, para que el tono sea el de la obra), encendido a pleno.
   const rawAt = (o: N) =>
     mix(
-      texture(texA, clamp(cover(uAspA, uZoomA, uDriftA, o), 0.001, 0.999)).rgb,
-      texture(texB, clamp(cover(uAspB, uZoomB, uDriftB, o), 0.001, 0.999)).rgb,
+      sample(texA, uAspA, uZoomA, uDriftA, uFitA, edgeA, o),
+      sample(texB, uAspB, uZoomB, uDriftB, uFitB, edgeB, o),
       passed,
     );
   const smear: N = fv.mul(-0.024).div(uRes); // px → uv
@@ -196,6 +219,7 @@ export async function startHeroBurn(
     renderer.setSize(Math.max(1, r.width), Math.max(1, r.height), true);
     uRes.value.set(r.width, r.height);
     uScreen.value = r.width / Math.max(1, r.height);
+    uShift.value = uScreen.value > 1.25 ? Math.min(0.14, (uScreen.value - 1.25) * 0.2 + 0.06) : 0;
     fluid.resize(r.width, r.height);
   };
   resize();
@@ -225,11 +249,17 @@ export async function startHeroBurn(
     t.needsUpdate = true;
   };
   const aspect = (i: number) => slides[i % slides.length].w / Math.max(1, slides[i % slides.length].h);
+  // sin indicación: las piezas verticales y las fotos chicas van enteras (recortarlas o estirarlas las arruina)
+  const fitOf = (i: number) => {
+    const s = slides[i % slides.length];
+    return (s.fit ?? (s.w < s.h * 0.95 || s.w < 1200 ? "contain" : "cover")) === "contain" ? 1 : 0;
+  };
   const rndDrift = () => new THREE.Vector2((Math.random() - 0.5) * 0.04, (Math.random() - 0.5) * 0.03);
 
   let cur = 0;
   put(texA, await want(0));
   uAspA.value = aspect(0);
+  uFitA.value = fitOf(0);
   uDriftA.value.copy(rndDrift());
   void want(1);
 
@@ -288,6 +318,7 @@ export async function startHeroBurn(
             if (stopped) return;
             put(texB, bmp);
             uAspB.value = aspect(next);
+            uFitB.value = fitOf(next);
             uDriftB.value.copy(rndDrift());
             uZoomB.value = 0;
             uSeed.value = Math.random() * 50;
@@ -312,6 +343,7 @@ export async function startHeroBurn(
           if (stopped) return;
           put(texA, bmp);
           uAspA.value = uAspB.value;
+          uFitA.value = uFitB.value;
           uDriftA.value.copy(uDriftB.value);
           uZoomA.value = 0;
           uProg.value = 0;

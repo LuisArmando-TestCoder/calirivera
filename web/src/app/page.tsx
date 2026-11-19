@@ -40,7 +40,12 @@ export default async function Home() {
     const w = (widths ?? []).filter((x) => x <= 1600).sort((a, b) => b - a)[0];
     return w && /-\d+\.jpg$/.test(src) ? src.replace(/-\d+\.jpg$/, `-${w}.webp`) : src;
   };
-  const stage = collections
+  // Escenario del hero: las obras elegidas para el inicio (pages/inicio → hero.stage), en su orden. Si no hay,
+  // la portada de cada colección.
+  const chosen = page?.hero?.stage?.filter((x) => x.image?.src) ?? [];
+  const stage = chosen.length
+    ? chosen.map((x) => ({ src: x.image.src, w: x.image.width ?? 1200, h: x.image.height ?? 1200, title: x.title, period: x.period, href: x.href, fit: x.fit ?? ("contain" as const) }))
+    : collections
     .filter((c) => c.cover && (c.cover.width ?? 0) >= 900 && !c.cover.aiAltered)
     .map((c) => ({
       src: best(c.cover!.src, c.cover!.widths),

@@ -103,7 +103,14 @@ export interface Section {
 export interface Page extends Publishable {
   title: string;
   description?: string;
-  hero?: { title: string; subtitle?: string; image?: ImageAsset; cta?: { label: string; href: string } };
+  hero?: {
+    title: string;
+    subtitle?: string;
+    image?: ImageAsset;
+    cta?: { label: string; href: string };
+    /** Inicio: las obras que pasan detrás de los estandartes, en orden (la primera es la que se ve al entrar). */
+    stage?: { image: ImageAsset; title: string; period?: string; href: string; fit?: "cover" | "contain" }[];
+  };
   sections: Section[];
   /** Páginas creadas desde el editor: en qué grupo del menú aparecen ("fuera" o ausente = no aparece). */
   menu?: "obra" | "taller" | "fuera";

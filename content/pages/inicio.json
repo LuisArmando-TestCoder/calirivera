@@ -12,7 +12,85 @@
   "cta": {
    "label": "Conocer a Cali",
    "href": "/biografia"
-  }
+  },
+  "stage": [
+   {
+    "image": {
+     "src": "/media/inicio/obra-portada-900.webp",
+     "alt": "Arte objeto de Cali Rivera: querubín que sostiene un ramo de rosas sobre un jarrón de porcelana",
+     "width": 900,
+     "height": 1600
+    },
+    "title": "Arte objeto",
+    "href": "/colecciones"
+   },
+   {
+    "image": {
+     "src": "/media/inicio/geometria-del-silencio-1554.webp",
+     "alt": "Geometría del silencio: arte objeto circular de madera con péndulo",
+     "width": 1554,
+     "height": 1600
+    },
+    "title": "Geometría del silencio",
+    "period": "Arte objeto · 2025",
+    "href": "/catalogos-and-proyectos"
+   },
+   {
+    "image": {
+     "src": "/media/biografia/teatro-1086.webp",
+     "alt": "Canto a la Libertad en el Teatro Nacional de Costa Rica, con la Orquesta Sinfónica Nacional",
+     "width": 1086,
+     "height": 1448
+    },
+    "title": "Canto a la Libertad",
+    "period": "Teatro Nacional de Costa Rica · 2016",
+    "href": "/trayectoria-and-entrevistas"
+   },
+   {
+    "image": {
+     "src": "/media/inicio/sincretismo-religioso-374.webp",
+     "alt": "Sincretismo religioso: un camino para la Paz, estandarte textil",
+     "width": 374,
+     "height": 706
+    },
+    "title": "Sincretismo religioso: un camino para la Paz",
+    "period": "Polonia · 2015",
+    "href": "/trayectoria-and-entrevistas"
+   },
+   {
+    "image": {
+     "src": "/media/biografia/obra-mundial-1290.webp",
+     "alt": "Instalación textil de Cali Rivera",
+     "width": 1290,
+     "height": 1219
+    },
+    "title": "Primer Lugar Iberoamericano en Arte Textil",
+    "period": "Red Textil Iberoamericana · 2010",
+    "href": "/biografia"
+   },
+   {
+    "image": {
+     "src": "/media/inicio/todos-somos-uno-1060.webp",
+     "alt": "Todos somos uno: políptico de 16 mini cuadros en acrílico y polvo de oro",
+     "width": 1060,
+     "height": 1060
+    },
+    "title": "Todos somos uno",
+    "period": "Geometría del silencio · políptico",
+    "href": "/catalogos-and-proyectos"
+   },
+   {
+    "image": {
+     "src": "/media/inicio/beso-680.webp",
+     "alt": "Arte objeto de Cali Rivera: dos figuras que se besan",
+     "width": 680,
+     "height": 536
+    },
+    "title": "El beso",
+    "period": "Arte objeto",
+    "href": "/colecciones"
+   }
+  ]
  },
  "sections": [
   {
