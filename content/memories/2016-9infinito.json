@@ -3,7 +3,7 @@
  "slug": "2016-9infinito",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 121,
  "image": {
   "src": "/media/memoria/2016-9infinito-555.jpg",
@@ -22,8 +22,9 @@
  "source": "wayback",
  "aiAltered": false,
  "title": "9infinito",
- "year": 2016,
- "yearApprox": true,
+ "year": 2008,
+ "yearApprox": false,
  "seenAt": "2016-12-07",
- "sourceUrl": "https://web.archive.org/web/20161207020436id_/http://calirivera.com/images/stories/obras-galeria/alquimia/9infinito.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161207020436id_/http://calirivera.com/images/stories/obras-galeria/alquimia/9infinito.jpg",
+ "collectionId": "alquimia"
 }

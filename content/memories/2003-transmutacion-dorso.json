@@ -3,7 +3,7 @@
  "slug": "2003-transmutacion-dorso",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 79,
  "image": {
   "src": "/media/memoria/2003-transmutacion-dorso-802.jpg",
@@ -23,9 +23,10 @@
  "aiAltered": false,
  "title": "Transmutación (dorso)",
  "caption": "En «Obras»",
- "year": 2003,
- "yearApprox": true,
+ "year": 2010,
+ "yearApprox": false,
  "seenAt": "2016-11-21",
  "sourceUrl": "https://web.archive.org/web/20161121162711id_/http://calirivera.com/images/mi_trabajo/bandera_corpus.jpg",
- "sourcePage": "Obras"
+ "sourcePage": "Obras",
+ "collectionId": "banderas-de-corpus-christi"
 }

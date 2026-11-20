@@ -1,0 +1,28 @@
+{
+ "slug": "alquimia-horeb",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 9,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-horeb",
+ "title": "Horeb",
+ "images": [
+  {
+   "src": "/media/memoria/2016-horeb-380.jpg",
+   "alt": "Horeb — Alquimia, 2008",
+   "width": 380,
+   "height": 800,
+   "widths": [
+    380
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoQACIAPt1Yo02opSMiNUgBEBuJYwDCgywAuJhOdKPChNiI5B13YAD+gVDO9TP7lIeNGUl/EpAdkXlxWHtVxP+zD4biVRB415XK8lx+9EdfbrFAqgN5ikcgILRu56G0/rfBUTdc9KelYVXGOf2K7pkBVfer58icPOV2DsyCFAJywtgeVp9rVAAA",
+   "color": "rgb(120 104 72)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Pintura",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

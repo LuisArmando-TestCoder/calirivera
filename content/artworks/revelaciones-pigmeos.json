@@ -1,0 +1,27 @@
+{
+ "slug": "revelaciones-pigmeos",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 9,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-pigmeos",
+ "title": "Plegaria por África- el rezo a los Pigmeos",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/pigmeos-800.jpg",
+   "widths": [
+    640,
+    800
+   ],
+   "width": 800,
+   "height": 1149,
+   "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACQAwCdASoQABcAPu1kq04ppaQiMAgBMB2JZwAAVOUHnbnH/YoAAP7ifIrmQ0RxW+ySgqfIPUYFfW5miJd25aPXK7NQbzLCGifiBYsk1dJL9xNWNHSM51koh4kREyaxtzT0CcnyCB1GwjMHgvFud6/R7wFe5uZf3eo4ZFa+Tt44AA==",
+   "color": "rgb(170 167 164)",
+   "alt": "Plegaria por África- el rezo a los Pigmeos — Revelaciones, 2015"
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive)."
+}

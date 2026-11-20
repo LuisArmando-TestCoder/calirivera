@@ -1,0 +1,376 @@
+{
+ "id": "banderas-de-corpus-christi",
+ "slug": "banderas-de-corpus-christi",
+ "status": "published",
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "title": "Banderas de Corpus Christi",
+ "period": "2009–2010",
+ "order": 59.5,
+ "artworkIds": [],
+ "subtitle": "El año del aire, a orillas del lago Atitlán",
+ "technique": "Ensambles de textiles y güipiles intervenidos con pintura",
+ "statement": "Durante todo el año 2009, AÑO DEL AIRE según los Mayas, trabajé con pasión en el estudio de Guatemala, ubicado a orillas del lago Atitlán en la comunidad de San Pedro la Laguna, Sololá.",
+ "cover": {
+  "src": "/media/archivo/corpus4-480.jpg",
+  "alt": "Banderas de Corpus Christi, 2010",
+  "width": 480,
+  "height": 640,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgCdOUAAuKmQIZ4Vt/XC0AD+42t5kupBNSz0wtZaVV2wOz8TdIFTy7vsEZfGwmtOxCcsJ5xyxe+aSES9NpCBORAuoNBbGhopGXiu/HHbiC+KPz8bdaI1/Pi5DQrPcADuwiy/7bEidWl35MOfJ2G4d6I2/vx0+/gukAAA",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "catalogUrl": "/files/catalogo_banderas_corpus_christi.pdf",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "corpus-1",
+   "text": "Durante todo el año 2009, AÑO DEL AIRE según los Mayas, trabajé con pasión en el estudio de Guatemala, ubicado a orillas del lago Atitlán en la comunidad de San Pedro la Laguna, Sololá. Confeccionando las banderas de Corpus Cristhi colección desarrollada a raíz de una invitación que me hiciera Stephen Robert Johns artista y curador norteamericano, para exponer en un convívio entre Japón y Costa Rica, estas obras a base de ensambles de textiles y güipiles intervenidos con pintura fueron parte de una de las experiencias mas intensas de mi vida, de igual manera trabajé en obras de pared experimentando con diversos materiales."
+  },
+  {
+   "type": "gallery",
+   "id": "corpus-2",
+   "images": [
+    {
+     "src": "/media/archivo/corpus4-480.jpg",
+     "alt": "Banderas de Corpus Christi, 2010",
+     "width": 480,
+     "height": 640,
+     "widths": [
+      480
+     ],
+     "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgCdOUAAuKmQIZ4Vt/XC0AD+42t5kupBNSz0wtZaVV2wOz8TdIFTy7vsEZfGwmtOxCcsJ5xyxe+aSES9NpCBORAuoNBbGhopGXiu/HHbiC+KPz8bdaI1/Pi5DQrPcADuwiy/7bEidWl35MOfJ2G4d6I2/vx0+/gukAAA",
+     "color": "rgb(8 8 8)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2010-corpus-6d4e-300.jpg",
+     "alt": "Banderas de Corpus Christi, 2010",
+     "width": 300,
+     "height": 474,
+     "widths": [
+      300
+     ],
+     "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoQABoAPu1iqk2ppaQiMAgBMB2JQBfnBEFCGrZeLOxzeXJ3i2AA/vN+BNdSonh7TagRTRFceeKjQ5ZvN6wT2FW8kUF7d4q7bb2AOFcjzPZFdjNqcCQK0xPHoOS8PU2BkwIedpS/il1UZOM81lZZ7d/EIeSke1QKy5DTTljgRhBDou3YjaBfn681jwxQAA==",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmutacion-dorso-802.jpg",
+     "alt": "Bandera de Corpus Christi",
+     "width": 802,
+     "height": 960,
+     "widths": [
+      480,
+      802
+     ],
+     "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABMAPu1iqU2ppaQiMAgBMB2JQBOmUGVTCCkft1hcJSLLj+ewAP7uWJEKyjgz+WXfB+wSS5QjwZ83djk26EUaEXEzFUr7jOqvB9kVtUw5ygM3cheymtPhVj0F55PIqKNxtBIIiTQWuMyph39hcrffjev96ZNsSE8NDSvAjUASD49eSf1jazlzYTbfSsJgAAA=",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2010-bandera-del-corpus-christi-2010-300.jpg",
+     "alt": "Bandera de Corpus Christi, 2010",
+     "width": 300,
+     "height": 227,
+     "widths": [
+      300
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAwAA4BaJQBOiP/wLNv5L2TgAP71XgPY29gnrnVHcl5fEvn9ZBzamvQW7hPUcLZu2dbWSuFfy9cw5JHq33yeMt04lgU5Mer8J9ix+J4/ZLEx8HAAAA==",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2010-banderas-del-corpus-christi-en-terra-mall-300.jpg",
+     "alt": "Banderas de Corpus Christi en Terramall, 2012",
+     "width": 300,
+     "height": 225,
+     "widths": [
+      300
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAwAA4BaJQBdgBR0o9boAP7RI+6LDu1oYgAJjU2E4DdxVBSlk85io1V/BzIauv1ryyX2YZtu0POuhU850RB9qnx3bkgDPO7pBb1w/4imIRAAAAA=",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "corpus-3",
+   "level": 2,
+   "text": "La Cruz de San Pedro (2009)"
+  },
+  {
+   "type": "paragraph",
+   "id": "corpus-4",
+   "text": "Esta obra fué desarrollada en el 2009 en el taller de San Pedro La Laguna, con textiles autóctonos guatemaltecos, como parte del un proceso creativo que actualmente ha finalizado con la colección completa de las banderas de Corpus Cristhi 2009 y que serán expuestas en un museo de Japon. Luego de su inauguración oficial el Viernes Santo del 2009 en el Taller del Artista Guatemala, cantón Pacucha, de manera oficial en Guatemala se expuso en el campus universitario de la facultad de Arquitectura de la USAC Universidad de San Carlos “La Cruz de San Pedro” (obra símbolo de un movimiento por la protección del lago Atitlán). LA CRUZ DE SAN PEDRO actualmente está expuesta frente al lago Atitlan como símbolo de esperanza y reflección debido al ya evidente deterioro de este manto acuifero."
+  },
+  {
+   "type": "gallery",
+   "id": "corpus-5",
+   "images": [
+    {
+     "src": "/media/memoria/sf-cruz-1447.jpg",
+     "alt": "La Cruz de San Pedro",
+     "width": 1447,
+     "height": 1087,
+     "widths": [
+      480,
+      960,
+      1447
+     ],
+     "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQAAwAA4BaJbACdAYub2giXYKlqAD+9vqXezLKEI+U1MJQoiRj5P3oQFXhwf1GW/v1leMKQsTrVxMdtigzOI/CKv2Jt/EVLjcPJbSbU2pLt36TXDjqzhp9a0Lkf0dO+6zbaUIAAAA=",
+     "color": "rgb(8 8 8)",
+     "aiAltered": true
+    },
+    {
+     "src": "/media/memoria/2009-guate31a-jpg-640.jpg",
+     "alt": "La Cruz de San Pedro, Guatemala, 2009",
+     "width": 640,
+     "height": 480,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAwAA4BaJbAC7ADbjmKKOoAA/akQHEXaMTT+Nfw8AHMpdu01nFiNQBVXS7MZs2HA4vtDWxDC2sKI0GEa40fYrGdpTOkW3F4cB4KYxw0ncwAA",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-43b6-640.jpg",
+     "alt": "La Cruz de San Pedro, 2009",
+     "width": 640,
+     "height": 480,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQAAwAA4BaJbACdAD6FwwENAQAAP6sdVXwz4oenzQrITOxCZko6isSl5z1e+Z7IvqwibU7q4YV8iqkYLkxd9OHRzf0OHap+VWuOtdQA4kWxsX0NIOl2d2lKOJviKKeIAA=",
+     "color": "rgb(40 40 24)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-4954-640.jpg",
+     "alt": "La Cruz de San Pedro, 2009",
+     "width": 640,
+     "height": 480,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAwAA4BaJZgCdAD0RuZ/5gAA+p+x0pZfNr2wK4pIXXXwfLMiP0xzHD/qPAIzeCnMXqIokIswXh72dLnszRzyPP4Jb61QGCvhk840hwrtNA3VoT0HMAAA",
+     "color": "rgb(216 200 168)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-86c7-640.jpg",
+     "alt": "La Cruz de San Pedro, 2009",
+     "width": 640,
+     "height": 480,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoQAAwAA4BaJbACdAYu5ySIZI1LOtAAzi1TCtkt1YWSHHl6JlZFBk8eCC+c/My/qsXAgJxMR7UxeFhEH3f/b3+Dj3kkEedVqhel18qTGF69agLCIg529rwWeL2omPAA",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "corpus-6",
+   "level": 2,
+   "text": "Taller del Artista Guatemala: obras en proceso (2009)"
+  },
+  {
+   "type": "paragraph",
+   "id": "corpus-7",
+   "text": "En su mayoría se trata de textiles autóctonos guatemaltecos intervenidos con pintura y objetos y ensamblados con telas y encajes, se trata de una serie de banderas DE 7 y obras TODAS desarrolladas en el taller del artista Guatemala para un museo en Japón. También hay varias pinturas de la serie PAZ CON EL LAGO y algunos objetos. Este proceso creativo ha sido de los mas intensos en toda mi carrera debido al compromiso que he adquirido con el pueblo en el que vivo para fortalecer el movimiento en pro del lago Atitlan y por otra parte por el deterioro del Café Arte Costa Rica , que es quien subsidia mi proyecto y que debido a mala administración se ha visto seriamente afectado."
+  },
+  {
+   "type": "gallery",
+   "id": "corpus-8",
+   "images": [
+    {
+     "src": "/media/memoria/2009-cali-429.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 429,
+     "height": 640,
+     "widths": [
+      429
+     ],
+     "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JZgCdABtTlX9RKoz9MrgAAPeM43t9qeXUq0MVjcEk8PYspzrFXPusdOTa7MfGNRiJb7eoOSpQ3lhsWfFKGb3b0AWre1xDcgQwF77fIEHZNcLZYDmBZf0C2jcQ1Bdqsxx/BVtRMLTRNGzLPNqax/1mypcmopG3iJyARwZu4f2IvsGU2YVO00GsNVvmcaUUPBfsEegCwAA=",
+     "color": "rgb(184 168 104)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-caliarriba-640.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 640,
+     "height": 428,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoQAAsAA4BaJbACdLoAAwklTOD/FAAA/u9pGZJWIeXw/x0JDCgKNh8MSOh5e4NgjDbFxSjIXc02wHictEuztnl82e+Ywni2f/wY8H8Al813Scl/U3DNFgAA",
+     "color": "rgb(216 8 8)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-calibanderon-428.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 428,
+     "height": 640,
+     "widths": [
+      428
+     ],
+     "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JYgCdAYyKpm006j70mEPQAP5nEDZzF/A9HmpUpRjxeiaxDb1Wz6pfviqNpLNuOeLvZno8lxBp35F2xKw+W28vgkcAo+hNWoPk07liukExyxbwrEJfF/vIs5EMeD3UivQnJO22Cjsc0XtGPQSOc+oahVB2lv/1s7cS/cqFGfeoAA==",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-cristo-429.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 429,
+     "height": 640,
+     "widths": [
+      429
+     ],
+     "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMlksAwwTQgfxaoEtTHTAOjV2WkAAD+vcqeZYGwy0Wt2dcPVasTWuK5X9WF2TiKXp6QXFrevEXRrM2uQTttnOuAPG5XiubVmmLSzlYPOAsNZ65IeS4hLTzEEW6EpyL9YO1Ai70NWX15W37IO6LjdaRfFjPpzrvwqVwLvIsIN4Z8LanOt4fJbo/DXCA6Id0LsXgX8GXSKmnrW+AAAAA=",
+     "color": "rgb(216 152 8)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-cristo-eae5-428.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 428,
+     "height": 640,
+     "widths": [
+      428
+     ],
+     "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoAlwheVWJ837SuaPxpAAP4e5aj/BxMCtzzsLxI5ZTOTlo6RXaz6APxfl5sX9BBHGptPyoV7WjKQVNZ9ise5E2LRIy9Wx37ogk5gtB7B1+u524LqUvGWyirjeLbupOlqqa+pwHrbnLyKLjOJNcKjz4+0ifjw/nNj22reMzc7v4S5OvExDFf8rj6CTs3X3febVfgsStMToI+2W0pIQt8IcQAA",
+     "color": "rgb(168 152 104)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-desk-428.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 428,
+     "height": 640,
+     "widths": [
+      428
+     ],
+     "placeholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JbAC7FQAGeCZuGIlRrX9rzxwg9PYARpEAAP5PDmpVZn1QE1/H5O1yego8V/eBCVGzPRVIMPt422EXNAEFKQNCyNSsZvNXYXCnbz+Gd1P7UmRtSYUwUMvKrVn905I7+1Ct8hTRH7/3j+zBPGZzHSx7rXJ4cx+h9Tu11CWl8z/z8P+01S3p5LEUWzDACptG0k1WVjbjEo36VWHJ5C+0DFY/lqOFzI2wAAA=",
+     "color": "rgb(200 216 232)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-640.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 640,
+     "height": 480,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAwAA4BaJZACdADcZ3DWmI2AAP71R0R5QQH1v02MjnYnQZs926kdVLWDLNHljHkq7fVZNDaRHQG6XbiQnLOdYrr4l9Tn3hOX1/1ozlU4/AX+/4WCXigkIAA=",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-1a07-640.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 640,
+     "height": 427,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAsAA4BaJbACdAD0rdhllnQkAAD+wk1/Bfe07I9FpT3r3j4PUyNeVAPKwahQLY0Ad4ShfP5A7Rhhfjh0T1Uk5vi5MmrSPn+6pu/vyzR8+/t3gDDAAA==",
+     "color": "rgb(40 8 8)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-2b22-427.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 427,
+     "height": 640,
+     "widths": [
+      427
+     ],
+     "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMpHsAepmAn3x5zoUYtMAD+hp7WKrtV5qhQWb/b2i2dRfqFCA6dyvnk/uxMeLFDIbYHaD035VMSMAbpF0Ev+IetQtLmqG3r20zDXvsNYIhZrfbSvA5yoL7VWadnleXiHcful1STW/UCWiHIQva5DElSkgJHzZlHuy/FoDXOAEMpOKEK60yu4euiolmAAA==",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-36ca-640.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 640,
+     "height": 428,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAA4BaJbACsAEf08JZErAAAP60EFr6yVMVdWr7d9RKFpXmr3SxzG/KHXel4mPooBcf6pSN9GrgAH9Ypeowko/7Eg9Vw55VP5deoK7A0yxG9tA+HNdOg7yaAAAA",
+     "color": "rgb(184 184 184)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-52f0-640.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 640,
+     "height": 427,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAsAA4BaJQBdgBuel+jZyAD+7J3idoHsPz9MgmfVCN1dhRaXzvj+p9Bv8UHwhh2OJVnqikRQrUZvYvUwG/f23NPUUAzBUwAAAA==",
+     "color": "rgb(104 104 104)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-5dfa-640.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 640,
+     "height": 428,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAsAA4BaJQBOgB+UsAj3SCgAAP7qS1HmFThSYGyQcXz2kSRTDJP/gZKuti74IuEbb3O2HCDFS2EG/afaq9bpFxJA2HjyG8dadauie9IBa6oWpH5ogfOAAAA=",
+     "color": "rgb(40 24 24)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-eadd-640.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 640,
+     "height": 427,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAsAA4BaJYgCdAYua/fZ+ogQAAD2pKlmxq8NzFT+hFctlwz7d+u9WEFmS87RglgfDV33PnUaoZBogMQ77vOBObQTgX/y3KCz0s6EcVAtMUeJ1iphUJN3gAA=",
+     "color": "rgb(56 40 24)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2009-taller-fed8-480.jpg",
+     "alt": "Taller del Artista Guatemala, San Pedro La Laguna, 2009",
+     "width": 480,
+     "height": 640,
+     "widths": [
+      480
+     ],
+     "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACw7CPvxSUCLfZVlhgAAP55OQJaoZ3dTODIn5OAlZqeOllz6QmPAJyAH2tmx2Os38rXB7RuozrIc3wNK0lyB4VxvS/pSUiaqMqS1/va9tON6EuqbbuuD5WgpFlY/j0mrSIupJXKP7RZsaDqgAAA",
+     "color": "rgb(8 8 8)",
+     "lowRes": true
+    }
+   ]
+  }
+ ]
+}

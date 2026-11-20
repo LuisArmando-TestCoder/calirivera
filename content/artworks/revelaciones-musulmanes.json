@@ -1,0 +1,29 @@
+{
+ "slug": "revelaciones-musulmanes",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 3,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-musulmanes",
+ "title": "Plegaria por los países musulmanes",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/musulmanes-480.jpg",
+   "widths": [
+    480
+   ],
+   "width": 480,
+   "height": 720,
+   "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQABgAPu1iqk2ppaQiMAgBMB2JZACdAB7HirAK3p6rdL2gAP7zglvjVxhAEwgTbtSDUs5jmfhwhWIeBPCQecCAFEyn40ZqAlbD0RFVv6y83ypvQ1Hul5F13owyJcXiH65dJTmeXfPBPSJqIpDrM2Vnla8MGbmS4gAAAA==",
+   "color": "rgb(205 183 182)",
+   "alt": "Plegaria por los países musulmanes — Revelaciones, 2015",
+   "lowRes": true
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "2,02 m × 66 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos"
+}

@@ -1,0 +1,324 @@
+{
+ "id": "revelaciones",
+ "slug": "revelaciones",
+ "status": "published",
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "title": "Revelaciones",
+ "period": "2015",
+ "order": 64,
+ "artworkIds": [
+  "revelaciones-rohingyas",
+  "revelaciones-balticos",
+  "revelaciones-musulmanes",
+  "revelaciones-siria",
+  "revelaciones-israel",
+  "revelaciones-huicholes",
+  "revelaciones-butan",
+  "revelaciones-turquia",
+  "revelaciones-pigmeos",
+  "revelaciones-grecia",
+  "revelaciones-inmigrantes",
+  "revelaciones-genocidios"
+ ],
+ "subtitle": "Plegarias por los pueblos",
+ "technique": "Estandartes: ensambles de textiles intervenidos con pintura",
+ "statement": "El tiempo de la unificación ha llegado y un solo espíritu creador hay para nosotros - Humanos.",
+ "cover": {
+  "src": "/media/colecciones/revelaciones/rohingyas-480.jpg",
+  "widths": [
+   480
+  ],
+  "width": 480,
+  "height": 720,
+  "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwCdMoMYJn/3QACaky+5Ru/8eeQAAP7wNg/88qBo2vVHhvs2P9evwFgGIfxU8STfV69+g1Yz7l19mR3zthVsLQrDLT1YDNzpaPmKN/k4LADuoZOLkdfmNi/RKGjSntTvypUQFGDvNyWn0+yWwyKb1P+RyAXj/eJ/nJvKlcEhGAAA",
+  "color": "rgb(187 169 159)",
+  "alt": "Plegaria por los Rohingyas ( plegaria de los viajeros) — Revelaciones, 2015",
+  "lowRes": true
+ },
+ "catalogUrl": "/files/revelaciones_plegarias_por_los_pueblos.pdf",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "revelaciones-0",
+   "text": "Producción 2015 de Cali Rivera. Se presentó como Plegarias – Revelaciones en la galería Klaus Steinmetz Contemporary, Escazú, en julio de 2015, y en 2016 acompañó a la Orquesta Sinfónica Nacional en el Teatro Nacional de Costa Rica (Canto a la Libertad)."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-1",
+   "text": "Que el Dios de Abraham de Isaac e Ismael; la luz incandescente de la memoria del infinito, la fuerza suprema del universo, fuente iluminadora de monjes y chamanes, el Dios sin rostro creador del Cosmos, fuente del sonido y acción sin palabras, nos haga sentir dentro de nosotros el alma de la Tierra y nos revele la sabiduría que en todo existe. Que la verdad escrita en el alma del destino se manifieste en este tiempo que habitamos y se terminen así las religiones inventadas para crear conflictos que destruyen la naturaleza y dividen a los humanos, a los países, a los hermanos. Que el poder de la oración deje una estela de AMOR en el Mundo y nos convenza de que todos somos Uno."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-2",
+   "text": "El tiempo de la unificación ha llegado y un solo espíritu creador hay para nosotros - Humanos."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-3",
+   "level": 2,
+   "text": "1. Plegaria por los Rohingyas ( plegaria de los viajeros)"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-4",
+   "text": "Los Rohingyas son un pueblo musulmán perseguido por el miedo y olvidado por el mundo. Aunque por generaciones han habitado Birmania, se les niegan sus derechos y no se les reconoce la ciudadanía, han sido víctimas de persecución desmedida y odio afianzado por un gobierno central temeroso de la unidad. No pueden viajar o casarse sin permiso y no pueden poseer ningún pedazo de tierra. La persecución parece ser lo único a lo que tienen derecho. Los Rohingyas, indígenas de Arakan - actual Rackine- segundo estado más pobre de Birmania, son negados por todos. Son inmigrantes desechados, olvidados por el mundo. Las amargas memorias históricas los hacen ver como una despreciable amenaza frente a sus detractores: rivales fantasmas que los persiguen por la jungla y el mar. Que la Madre tierra los proteja, que acabe su dolor y vuelen lejos a un cielo de paz y libertad."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-5",
+   "level": 2,
+   "text": "2. Plegaria por los países Bálticos"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-6",
+   "text": "Estonia, Livonia, Letonia, Curlandia, Prusia o Prusia Oriental y Lituania."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-7",
+   "text": "Estos países que rodean el Mar Báltico en Europa, fueron esclavos por muchísimos años. Víctimas del dolor y el empoderamiento del nazismo, esta región del planeta -antiguamente llamada la Unión Soviética- está llena de esperanza y optimismo, pero perseguida por una historia escrita con sangre. Los fantasmas del dolor y la esclavitud han marcado su cielo. Suecia, Noruega, Rusia, Finlandia, Polonia, Alemania y Dinamarca forman parte de este grupo de naciones vecinas del Mar Báltico, aunque en pasajes de la historia, algunos de ellos se convirtieron en sus opresores. Una vez más, el deseo de poder y el egoísmo del ser humano dejó su huella. ¡Que todos los pueblos encuentren su centro, que los aires de paz y restauración constantes no mermen y que se llenen de amor todas estas tierras!"
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-8",
+   "level": 2,
+   "text": "3. Plegaria por los países musulmanes"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-9",
+   "text": "Cuarenta y seis naciones forman las tierras musulmanas. Se extienden por África, Asia y Europa. Aunque abismalmente distintas unas de otras en lo relativo a la riqueza, la historia o la composición étnica, todas están unidas por una religión común:"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-10",
+   "text": "EL ISLAM. El Islam es una ideología gestada desde el siglo VII por su profeta Mahoma. Algunos países pertenecieron por largo tiempo al imperio Turco y en la Primera Guerra, Mundial algunos fueron anexados a los imperios coloniales europeos. Sin embargo, la mayor parte de estos países se independizaron después de la Segunda Guerra Mundial. Estos nuevos países musulmanes no han logrado generalizar la justicia ni la igualdad de derechos, existen grandes diferencias entre unos y otros. El petróleo y riquezas que algunos -como Arabia Saudí, Kuwait y Brunei- poseen, son absolutamente contrastantes con otros países que se encuentran entre los más pobres del mundo -como Afganistán y Sudán-, cuyo crecimiento demográfico no les favorece. Estos y otros motivos los ha envuelto en múltiples conflictos en las últimas décadas, que alcanzan dimensiones planetarias."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-11",
+   "text": "Los territorios que han ocupado Palestina e Israel, no sabemos cuál será su destino mañana. Esta tierra está empapada de sangre inocente. Un idílico Dios mal entendido por las distintas doctrinas, los mantiene en un constante odio entre hermanos y la intervención de pueblos lejanos a ellos incrementa el conflicto poniendo en riesgo la estabilidad de todo el planeta. Todo a causa de deidades inventadas, trazadas bajo los lineamientos del egoísmo. ¡Que se manifieste la luz divina y le de discernimiento a cada hombre y mujer de estas naciones: hermanas todas!."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-12",
+   "level": 2,
+   "text": "4. Plegaria por Siria"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-13",
+   "text": "Una de las más devastadoras guerras del siglo XXI da inicio en Siria en el año 2011. Movidos un poco por otros conflictos que se habían dado desde el 2010 en regiones de algunos países árabes, grupos de ciudadanos se levantan contra el estado en una serie de protestas. La rebelión exige respeto por los derechos humanos y acusan al gobierno de ser corrupto, sanguinario y violento. El estado por su parte les responde sin piedad y nace así un conflicto de carácter universal donde se asoman grandes potencias como Rusia, China y Estados Unidos. La guerra civil en Siria al 2014 ya había dejado más de 200 mil muertos de los cuales más de 63 mil eran civiles. Los refugiados siguen sumándose a la alarmante suma de 3.000 000. En medio del conflicto, el gobierno Sirio ha presentado crisis diplomáticas con Turquía, Israel Y Líbano: estamos frente al caos absoluto y la incapacidad de dialogar reina en ambos bandos del conflicto. Diversas organizaciones los acusan de haber cometido graves violaciones a los derechos humanos y crímenes de guerra."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-14",
+   "text": "¡Que la transmutación universal no se haga esperar y desaparezca el odio! ¡Que las asperezas desaparezcan! ¡Que la piedad reine y la Diosa Madre los amamante a todos!"
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-15",
+   "level": 2,
+   "text": "5. Plegaria por la tierra de Israel"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-16",
+   "text": "Desde 1917 se entreteje la encrucijada de este pueblo bendito, en busca de un hogar nacional judío. La declaración Bafour publicada el 2 de noviembre de ese año en el Reino Unido, ya apuntaba a ofrecer un nicho a un pueblo ancestralmente perseguido. Disturbios incitados se asoman a lo largo del tiempo. La tierra de Israel es la misma tierra palestina. El dolor y el miedo han provocado nefastos éxodos entre estos pueblos que nos dejan a todos como la peor especie del planeta. La muy bombardeada franja de Gaza también es Tierra Santa pero parece que por esos lares no existe el respeto y el derecho a una vida digna. La religión no parece ayudar en nada. Este es un rezo para todos, palestinos, Israelíes y árabes. Es una súplica profunda por la llamada tierra santa y por todas las culturas que a lo largo de la historia han habitado en ella."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-17",
+   "level": 2,
+   "text": "6. Plegaria por los Huicholes de la Sierra Mexicana"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-18",
+   "text": "Son los hijos de la Sierra Madre Occidental -de los estados de Nayarit y Jalisco- que permanecen puros desde tiempos de la conquista y pese a la imposición de la sociedad mestiza moderna."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-19",
+   "text": "Su sentido de comunidad, su devoción a la tierra y su sencillez, contrasta con sus maravillosas obras de arte multicolor. Su misticismo nace del azul iridiscente del mar, bañado de la luz inmensa de la madre luna. Pocos son los grupos étnicos en México que conservan tan profundamente sus creencias, cultos y tradiciones como los Huicholes."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-20",
+   "text": "Guerreros de lo sobrenatural. Un pueblo de artistas que se ha mantenido indemne de influencia externa a lo largo de los siglos. Guardianes del peyote. Creadores de un arte de símbolos maravillosos hechos con chaquiras multicolores y estambre. A ellos el crecimiento de la sociedad moderna les ha arrebatado sus sagradas tierras. La imposición cultural, las políticas de crecimiento y la minería atentan contra sus derechos."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-21",
+   "text": "¡Que ésta plegaria vuele lejos con alas de mariposa azul! ¡Que su cultura y manera ancestral de vida se respeten y se mantenga íntegra su humanidad! ¡Que sus mantos acuíferos no se vean afectados con la minería! y ¡que los espíritus ancestrales salgan en defensa de la casa de sus dioses!"
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-22",
+   "level": 2,
+   "text": "7. Plegaria por el reino de Bután"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-23",
+   "text": "Ubicado en la cordillera del Himalaya -entre India y China- se encuentra un país de ensueño. El país más feliz del mundo: menos de un millón de habitantes en poco más de 34 mil kilómetros cuadrados. Este país mide la calidad de vida de su gente por su felicidad. Esto se conoce como Felicidad Nacional Bruta, en lugar del Producto Interno Bruto (PIB), y establece así un equilibrio entre lo espiritual y lo material. Definitivamente un ejemplo a seguir por todas las naciones del planeta."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-24",
+   "text": "El Budismo y el Hinduismo son sus dos pilares espirituales más importantes. Desafortunadamente con el pasar de los años su estabilidad se va viendo amenazada por la pobreza, el desempleo y la deuda externa. Hoy elevo una plegaria por este santuario natural, lleno de monjes e incansables rezos! pido al gran espíritu que los fantasmas del dinero y la modernización no quiebren sus alas y que la felicidad siga siendo su estandarte, para que su luz contagie al mundo en este renacimiento que estamos cruzando."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-25",
+   "level": 2,
+   "text": "8. Plegaria por las mujeres de Turquía"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-26",
+   "text": "Ante los ojos vigilantes del mundo entero, Turquía es un país más. Islámico por decisión propia, su arcaico sistema patriarcal a cubierto con un velo de duda y misterio a sus víctimas heroínas. El miedo y la desigualdad son extremos y causa mucho dolor. La violencia familiar, sus pretendidos ajusticiamientos (asesinatos por honor), suicidios inducidos y la discriminación son parte del día a día. El cansancio empieza a ser evidente. Pese a las nuevas políticas jurídicas y a su acercamiento a la comunidad europea, nacer hombre o mujer marca una abismal diferencia en la vida de los habitantes de este antiguo imperio. “Ángeles de cristal con sus alas rotas hilvanadas de metal” así podríamos describir a sus mujeres. Este rezo clama que se elimine la brecha entre lo que ordena la ley y lo que dicta la costumbre. ¡Que la igualdad sea ya una realidad! ¡Que los aires de cambio se lleven los oscuros velos y que sus derechos sean enmendados!, ¡que la misericordia divina cubra sus tierras y ablande el corazón de sus hombres y que un nuevo orden venga para darles libertad!"
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-27",
+   "level": 2,
+   "text": "9. Plegaria por África- el rezo a los Pigmeos"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-28",
+   "text": "Del centro de África, de la región del Congo, cazadores y recolectores viven en las selvas ecuatoriales africanas, grupos humanos caracterizados por baja estatura. Hablo de los pigmeos, ellos a lo largo de la Historia han sido explotados, exhibidos como atracción de circo, desvirtuados."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-29",
+   "text": "Sin derechos ni ciudadanía, estos esclavos del dolor han sido golpeados y usados desde siempre por sus propios vecinos ancestrales. Pese a más de 70 mil años de historia estos pequeños cantores son irrespetados por muchos pueblos. Ellos protegen su vida con complejísimos cantos que parecen ser un grito de auxilio a la inmensidad, sus mantras a base de alas de mariposa son la elaborada expresión de un pueblo ancestral."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-30",
+   "text": "Que se eleven sus cantos al cielo y que mil mariposas vuelen con un mensaje de esperanza, que el espíritu creador de la selva Jengi los proteja y los llene de amor."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-31",
+   "level": 2,
+   "text": "10. Plegaria por Grecia"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-32",
+   "text": "La cuna de la filosofía se mece en la incertidumbre, se convierte en casa de niños ausentes. Cada vez más humanos se alejan de sus costas en busca de asilo, la pobreza coquetea en la ausencia de los dioses del olimpo."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-33",
+   "text": "Después de los últimos cinco años, la crisis griega se acerca a un momento de definiciones que tendrán profundas consecuencias para todas las veintiocho naciones que forman la Unión Europea."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-34",
+   "text": "Uno solo de sus mausoleos, una sola de sus obras arquitectónicas, podría pagar su millonaria deuda externa, su legado a la humanidad parece haber sido borrado de la mente de todos. Las políticas de sus hermanos de la Unión Europea parecen advertir que lo que realmente importa es el euro (la moneda común). La austeridad no podría ser más grande en este pueblo, aun así no se rinde y procura su restablecimiento, saliéndose de una engañosa fraternidad que solamente lo ha empobrecido."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-35",
+   "text": "Que el azul profundo de su Mar Egeo vibre en armonía con el cosmos, que el equilibrio vuelva, que la libertad le sea dada a todas sus tierras, que sus islas sean más prosperas y que acabe este sufrimiento. Libre Y Eterna Grecia."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-36",
+   "level": 2,
+   "text": "11. Plegaria por los inmigrantes"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-37",
+   "text": "El conflicto entre israelíes y palestinos parece ser interminable, cientos de miles de personas naufragan en busca de su libertad. Cruzan el Mediterráneo procedente principalmente de Siria y Turquía."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-38",
+   "text": "En pleno 2015 el estado Islámico ha expulsado un envío masivo de inmigrantes que poco a poco llegan a distintas costas de Europa en busca de un respiro de reconciliación. Las reacciones sorprenden al mundo, mientras Alemania parecía abrir sus fronteras, otros levantaban barricadas y muros para evitar a sus hermanos."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-39",
+   "text": "El Éxodo continúa y las olas siguen arrastrando víctimas inocentes, la desesperanza y el miedo invaden Europa y el egoísmo levanta multitudes furiosas por la llegada de los inocentes."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-40",
+   "text": "La suerte está echada nadie quiere verse obligado a asumir el dolor ajeno, corazones endurecidos, unos por el dolor, otros por el miedo y por el egoísmo que nos caracteriza a los seres de esta tierra."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-41",
+   "text": "El tiempo de la unificación ha llegado, del cambio inminente. Ha empezado el fin, llegó el momento de la verdad."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-42",
+   "text": "Que aprenda la humanidad la lección y que todos abran sus corazones a la libertad. Que la guerra no sea en vano, que la reina madre los proteja. Que Yemanjá se manifieste y de abrigo maternal a todos los que hoy sufren el abandono de sus dioses, que de su corazón cruzado por una espada surja la esperanza en este nuevo tiempo de dolor infinito. Paz a los hombres de este planeta, descanso y sanidad a los inmigrantes de estos tiempos."
+  },
+  {
+   "type": "heading",
+   "id": "revelaciones-43",
+   "level": 2,
+   "text": "12. Plegaria por los genocidios"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-44",
+   "text": "Los genocidios suceden por todo el mundo y todo el tiempo, a la vista indiferente de una humanidad cansada."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-45",
+   "text": "Pese a 30 mil años de coexistencia, los irracionales deseos de exterminación prevalecen. Decenas de holocaustos han ocurrido. Ya entrados en el siglo XXI siguen tiñendo de sangre la triste historia de la humanidad."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-46",
+   "text": "Hoy no podríamos estar más lejos de la realidad cuando se habla de Paz."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-47",
+   "text": "Esta es una pincelada del auto flagelo al que nos hemos expuesto los ciudadanos del planeta:"
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-48",
+   "text": "El holocausto Palestino ( 1920 – hasta hoy) , el genocidio Kurdo,( 1988) el canibalismo en Uganda,( 1971) la masacre de Ruanda,( 1962-1994) el infierno de Camboya con Pol Pot a la cabeza, la guerra de Vietnam ,(1964-1975) , la masacre francesa en Argelia ( 1956-1962) , la destrucción de Dresden,( 1945 ) la Primera Guerra Mundial con sus más de 15 millones de víctimas,( 1914-1918)."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-49",
+   "text": "La Segunda Guerra Mundial con sus 70 millones de muertos (1935- 1945,) el holocausto de los Judíos (1933-1945). Las purgas y las hambrunas de Stanlin El terror del Congo causado por Leopoldo II, (1835-1909). Los estragos del Imperio Británico (1799-1834) , la conquista de América por los Europeos, ( 1812) y sus más de 120 millones de indígenas exterminados, la caída de la dinastía Ming,( 1368-1644) las guerra de religión en Francia( 1562-1598) ,la masacre de los Mongoles, siglo XIII. Las Cruzadas (1096-1444) - Estos son solo algunos de los crímenes más nefastos del planeta , sin olvidar el Genocidio en Guatemala y Chile."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-50",
+   "text": "Cierro este año 2015 con un estandarte de Paz, de cese al odio, de unión entre los pueblos. Con un brillante luto que agradece y perdona, que vibra intenso desde el Cusco hasta la India. Que ruega al Espíritu Creador el perdón por todas las almas empobrecidas por el odio, el egoísmo y el miedo."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-51",
+   "text": "Que la humanidad aprenda que todos somos UNO y que el Amor es el camino para vivir en sociedad: un deseo ancestral del que aún no somos conscientes."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-52",
+   "text": "Que se levante una voz pero en silencio, que rece por todos los humanos. Que la misericordia sea con nosotros, que se escuche fuerte un canto a la libertad desde los Bálticos y cubra toda la humanidad, que todas las voces sean una en un solo rezo, en un solo clamor. Que este lamento llegue al corazón de nuestra Madre Tierra. Que se nos conceda el perdón, y la Libertad."
+  },
+  {
+   "type": "paragraph",
+   "id": "revelaciones-53",
+   "text": "Que los cantos antiguos de los monjes budistas se multipliquen y que la Paz reine en el corazón de todas las personas de este planeta."
+  }
+ ]
+}

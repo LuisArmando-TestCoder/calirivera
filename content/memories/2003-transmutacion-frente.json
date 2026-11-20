@@ -3,7 +3,7 @@
  "slug": "2003-transmutacion-frente",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 111,
  "image": {
   "src": "/media/memoria/2003-transmutacion-frente-618.jpg",
@@ -23,9 +23,10 @@
  "aiAltered": false,
  "title": "Transmutación (frente)",
  "caption": "En «Obras»",
- "year": 2003,
- "yearApprox": true,
+ "year": 2014,
+ "yearApprox": false,
  "seenAt": "2019-08-20",
  "sourceUrl": "https://web.archive.org/web/20190820211731id_/http://calirivera.com/images/sincretismo/transmutacion_frente.jpg",
- "sourcePage": "Obras"
+ "sourcePage": "Obras",
+ "collectionId": "sincretismo-religioso"
 }

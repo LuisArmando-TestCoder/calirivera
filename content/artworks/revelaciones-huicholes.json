@@ -1,0 +1,29 @@
+{
+ "slug": "revelaciones-huicholes",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 6,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-huicholes",
+ "title": "Plegaria por los Huicholes de la Sierra Mexicana",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/huicholes-480.jpg",
+   "widths": [
+    480
+   ],
+   "width": 480,
+   "height": 720,
+   "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAwCdASoQABgAPu1kqk2ppaQiMAgBMB2JYwAAXvVGzpYGT9AAAP7x3df4eW3ZnWKKjIY17Us86NizkHAFLJfJqlnlbrlgwSAEVy4dcZx+fiLHCcHbB/cr9zth/2QCl6VTAf4UAT4FAAAA",
+   "color": "rgb(191 193 193)",
+   "alt": "Plegaria por los Huicholes de la Sierra Mexicana — Revelaciones, 2015",
+   "lowRes": true
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "2,07 m × 65 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos"
+}

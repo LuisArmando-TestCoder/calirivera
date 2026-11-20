@@ -1,0 +1,64 @@
+{
+ "id": "casa-museo-ave-fenix",
+ "slug": "casa-museo-ave-fenix",
+ "status": "published",
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "kind": "project",
+ "title": "Casa Museo Ave Fénix",
+ "year": "2018–2020",
+ "summary": "La reconstrucción de la casa museo después del incendio de 2017.",
+ "cover": {
+  "src": "/media/memoria/2025-obra-954.jpg",
+  "alt": "Casa Museo Ave Fénix: la reconstrucción",
+  "width": 954,
+  "height": 954,
+  "widths": [
+   480,
+   954
+  ],
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoQABAAA4BaJZAC7AdwLeRxU5GFweQAAP73PhEvkxp33h8ea+Fzvw0KqFP4xu9bj3uSPJRchW5xjKswdfzk6D1iNXEuTqjt1LhjdeHS5uLzMzdmVbZ0OVBZqxFbeD+wVjn48tA+XlNaMUXYBqb195wnYnGUN8fAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ },
+ "order": 3,
+ "body": [
+  {
+   "type": "image",
+   "id": "fenix-0",
+   "image": {
+    "src": "/media/memoria/2025-obra-954.jpg",
+    "alt": "Casa Museo Ave Fénix: la reconstrucción",
+    "width": 954,
+    "height": 954,
+    "widths": [
+     480,
+     954
+    ],
+    "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoQABAAA4BaJZAC7AdwLeRxU5GFweQAAP73PhEvkxp33h8ea+Fzvw0KqFP4xu9bj3uSPJRchW5xjKswdfzk6D1iNXEuTqjt1LhjdeHS5uLzMzdmVbZ0OVBZqxFbeD+wVjn48tA+XlNaMUXYBqb195wnYnGUN8fAAAA=",
+    "color": "rgb(248 248 248)",
+    "lowRes": true
+   }
+  },
+  {
+   "type": "paragraph",
+   "id": "fenix-1",
+   "text": "El 8 de noviembre del 2017 mientras celebrábamos el Festival Internacional de Clarinetes en la tercera planta del edificio donde tenía el restaurante un incendio provocado por una bomba casera que fue tirada al techo de tejas de mi hogar destruyó el 100 % de mi casa llevándose consigo además el 80 % de mi obra y todos mis más Preciados muebles y colecciones completas de marquetería, cristales y más , a partir de enero del 2018 de la mano de mi amiga la arquitecta Melissa Arce y su socia Andrea inicie con este proyecto de reconstrucción y poco a poco fue tomando forma."
+  },
+  {
+   "type": "paragraph",
+   "id": "fenix-2",
+   "text": "Durante ese tiempo no dejé de hacer gestión exposiciones y colaboraciones con distintos grupos de artistas hasta en nuestra propiedad totalmente en ruinas ."
+  },
+  {
+   "type": "paragraph",
+   "id": "fenix-3",
+   "text": "Mi visión de la vida cambió para siempre y el desapego marcó mi alma de manera muy intensa."
+  },
+  {
+   "type": "paragraph",
+   "id": "fenix-4",
+   "text": "En esta serie de fotografías se ve la actualidad y también el antes de este trabajo de los últimos 3 años (hacer click aquí)."
+  }
+ ]
+}

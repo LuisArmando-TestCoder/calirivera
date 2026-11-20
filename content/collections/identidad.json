@@ -1,0 +1,82 @@
+{
+ "id": "identidad",
+ "slug": "identidad",
+ "status": "published",
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "title": "Identidad",
+ "period": "2000–2005",
+ "order": 55,
+ "artworkIds": [
+  "identidad-identidad-917f",
+  "identidad-identidad",
+  "identidad-geografia",
+  "identidad-han-derramado-sangre",
+  "identidad-infinito-espacio",
+  "identidad-irak-dios-america",
+  "identidad-naturalezaq-no-olvide",
+  "identidad-nuestro-mundo-hoy",
+  "identidad-obra-11f8",
+  "identidad-padre-nuestro",
+  "identidad-plegaria-por-el-tibet",
+  "identidad-que-pasara",
+  "identidad-tierra-de-paz",
+  "identidad-viva-la-sele",
+  "identidad-identidad-mundo"
+ ],
+ "subtitle": "Serie Identidad",
+ "technique": "Técnica mixta sobre tela · resina",
+ "statement": "Proyecto artístico «Serie Identidad», desarrollado entre 2000 y 2005 en técnica mixta sobre tela y resina.",
+ "cover": {
+  "src": "/media/memoria/2001-irak-dios-america-400.jpg",
+  "alt": "Irak, Dios, América — Identidad",
+  "width": 400,
+  "height": 640,
+  "widths": [
+   400
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdMoR4IXAA0MjKqlQOGjqRzQAA/jL8Qh50BHBJPcJXi/avp8DeWfC9oei0YEqNohIBbG6Id0e3iuEkjHkTrazcR1DGpAyX2MbjbJ8Uad2qCubBZQNmgHB2ObL9YWUU/niFXa9+BS6qmNZMNMxyoVIdcVEaAAA=",
+  "color": "rgb(120 56 56)",
+  "lowRes": true
+ },
+ "catalogUrl": "/files/identidad-1-091rtdf8ceodkkzv.pdf",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "identidad-1",
+   "text": "La exposición individual Identidad, de pintura e instalación, se presentó en el Taller del Artista en septiembre de 2005, en la celebración de sus 18 años de carrera."
+  },
+  {
+   "type": "gallery",
+   "id": "identidad-2",
+   "images": [
+    {
+     "src": "/media/memoria/2001-poliptico-completo-587.jpg",
+     "alt": "Identidad: políptico completo",
+     "width": 587,
+     "height": 213,
+     "widths": [
+      480,
+      587
+     ],
+     "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAAYAA4BaJYgCdH8AGAJEM77YIAD+vZEvaeeOseJ27lYWKPJF8gvlqt/8ocU5DRcXCcWFFALKxwgdTFIpcEG39s8jZvpHAUGgAA==",
+     "color": "rgb(8 8 56)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2001-vista-espacio-instalado-600.jpg",
+     "alt": "Identidad: vista del espacio instalado",
+     "width": 600,
+     "height": 399,
+     "widths": [
+      480,
+      600
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAoAA4BaJQBOgMXhu47AOND4AP7Af4ibfqEjXJKwAY1ngdCS8VPj7c3e32p9R3zYTWfywzJ/yFToevD5ralEpc8Vh8SNLP3SX2srigWrxt9NUIAAAA==",
+     "color": "rgb(56 40 40)",
+     "lowRes": true
+    }
+   ]
+  }
+ ]
+}

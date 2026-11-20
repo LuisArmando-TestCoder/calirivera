@@ -3,7 +3,7 @@
  "slug": "2001-irak-dios-america",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 226,
  "image": {
   "src": "/media/memoria/2001-irak-dios-america-400.jpg",
@@ -25,5 +25,6 @@
  "year": 2001,
  "seenAt": "2016-12-06",
  "sourceUrl": "https://web.archive.org/web/20161206134927id_/http://calirivera.com/images/obras-galeria/identidad_2001/irak_dios_america.jpg",
- "sourcePage": "Identidad"
+ "sourcePage": "Identidad",
+ "collectionId": "identidad"
 }

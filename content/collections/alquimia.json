@@ -1,0 +1,77 @@
+{
+ "id": "alquimia",
+ "slug": "alquimia",
+ "status": "published",
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "title": "Alquimia",
+ "period": "2008",
+ "order": 59,
+ "artworkIds": [
+  "alquimia-ascender-i",
+  "alquimia-ascender-ii",
+  "alquimia-con-el-corazon-en-la-mano",
+  "alquimia-flor-de-vida",
+  "alquimia-mericaba",
+  "alquimia-transmutacion-azul",
+  "alquimia-cumulos-cirros-y-estratos",
+  "alquimia-infinito",
+  "alquimia-horeb",
+  "alquimia-shakra",
+  "alquimia-epifanio",
+  "alquimia-pendiente",
+  "alquimia-renacimiento"
+ ],
+ "subtitle": "Pintura y arte objeto",
+ "technique": "Pintura · arte objeto",
+ "statement": "Alquimia es la producción 2008 de Cali Rivera. Alquimia es la habilidad para convertir e intercambiar una materia por otra mediante el uso de la conciencia o conocimiento humano.",
+ "cover": {
+  "src": "/media/memoria/2016-mano-800.jpg",
+  "alt": "Con el corazón en la mano — Alquimia, 2008",
+  "width": 800,
+  "height": 807,
+  "widths": [
+   480,
+   800
+  ],
+  "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJQBOgB6P+KcOqZ8AAP6tPxE7EkMfcS5T1wozn9gi4PGXix3NXs5/fm0IqVIiELc7RCxMCSH/ZPvwZKrzxVV7a9XrHvP9l0w3GJu/FbdknG2ey8PiJHoMt/sb3joAAAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ },
+ "catalogUrl": "/files/catalogo_alquimia_2008.pdf",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "alquimia-1",
+   "text": "Aunque algunos alquimistas eran efectivamente farsantes, mentirosos y charlatanes, la mayoría eran investigadores inteligentes y bien intencionados, e incluso distinguidos científicos, como Isaac Newton y Robert Boyle."
+  },
+  {
+   "type": "paragraph",
+   "id": "alquimia-2",
+   "text": "La alquimia fue practicada en Mesopotamia, el Antiguo Egipto, Persia, la India y China, en la Antigua Grecia y el Imperio romano, en el Imperio islámico y después en Europa hasta el siglo XIX, en una compleja red de escuelas y sistemas filosóficos que abarca al menos 2500 años."
+  },
+  {
+   "type": "paragraph",
+   "id": "alquimia-3",
+   "text": "La exposición individual se presentó en la Galería Kandinsky, San Pedro, Costa Rica, en junio de 2008."
+  },
+  {
+   "type": "gallery",
+   "id": "alquimia-4",
+   "images": [
+    {
+     "src": "/media/memoria/2013-alquimia-taller-400.jpg",
+     "alt": "Alquimia en el Taller del Artista",
+     "width": 400,
+     "height": 607,
+     "widths": [
+      400
+     ],
+     "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYgCdAB9rAIdWAWk3sLTxKgAA/k3LKwsuJ8pSAFRY0fDsMJppB0iWcifAzHxmogCY8TGdQpvgoturcxuVMIouDt4qMMHFhvGgTpUsyVn/tNXlWtTsMfChPQx72o/ZTG6ve+ufvmSd+SIWr4v6Hd/K5FoYL/DS8wByXK7kwOlPmM57D+8zdrGQ0fS7X+/uYCjXQOn/3qbR/HaAAAA=",
+     "color": "rgb(24 24 24)",
+     "lowRes": true
+    }
+   ]
+  }
+ ]
+}

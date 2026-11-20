@@ -3,10 +3,36 @@
  "slug": "el-agua-es-oro",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "kind": "catalog",
  "title": "El agua es oro",
- "body": [],
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "oro-1",
+   "text": "En el año 2020 mi obra gráfica El agua es oro (2013) participó en la Trienal Internacional de Gráfica de Polonia\" de Unamos Culturas “El Paraiso a la Vuelta de la Esquina”, en la Galeria Bałucka."
+  },
+  {
+   "type": "paragraph",
+   "id": "oro-2",
+   "text": "Este grabado en Técnica de taco perdido , fue desarrollado en un taller que en el 2003 Fabio Herrera y su compañero el también artista Mario Maffioli me dieron en uno de sus estudios."
+  },
+  {
+   "type": "paragraph",
+   "id": "oro-3",
+   "text": "Diez años después algunas copias me fueron entregadas y el trabajo fue intervenido con esmalte de porcelana y pintura de oro desarrollando esta pieza reflexiva de la importancia de Agua en el planeta ."
+  },
+  {
+   "type": "paragraph",
+   "id": "oro-4",
+   "text": "Una prueba de autor llegó a manos de la colección de Unamos Culturas y los curadores de las Galerías de la ciudad decidieron incluir la obra en esta trienal que estuvo expuesta hasta inicios del 2021 ."
+  },
+  {
+   "type": "paragraph",
+   "id": "oro-5",
+   "text": "Estás otras obras del año 2020 de la serie del mismo nombre de la gráfica, salieron como inspiración de esta exposición en Polonia- “Serie el Agua es Oro “ 2020- y fue expuesta la colección en la Casa Museo Ave Fénix."
+  }
+ ],
  "order": 9,
  "fileUrl": "/files/el-agua-es-oro-mac.pdf",
  "summary": "PDF · 4 MB",

@@ -3,7 +3,7 @@
  "slug": "2005-identidad-mundo",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 58,
  "image": {
   "src": "/media/memoria/2005-identidad-mundo-841.jpg",
@@ -25,5 +25,6 @@
  "year": 2005,
  "yearApprox": true,
  "seenAt": "2013-12-20",
- "sourceUrl": "https://web.archive.org/web/20131220055013id_/http://calirivera.com/images/tienda/identidad_mundo.jpg"
+ "sourceUrl": "https://web.archive.org/web/20131220055013id_/http://calirivera.com/images/tienda/identidad_mundo.jpg",
+ "collectionId": "identidad"
 }

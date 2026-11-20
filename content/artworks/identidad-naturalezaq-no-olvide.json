@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-naturalezaq-no-olvide",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 7,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-naturalezaq-no-olvide",
+ "title": "Naturaleza, no olvide",
+ "images": [
+  {
+   "src": "/media/memoria/2001-naturalezaq-no-olvide-598.jpg",
+   "alt": "Naturaleza, no olvide — Identidad",
+   "width": 598,
+   "height": 389,
+   "widths": [
+    480,
+    598
+   ],
+   "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAoAA4BaJaACdADaudu6gAD+vmwYd5P4gqXPYkG/3ajRlGOh+PJByFYNCrUqwoJ2aTj4/HgoMH8AAAA=",
+   "color": "rgb(88 104 88)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}

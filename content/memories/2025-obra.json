@@ -3,7 +3,7 @@
  "slug": "2025-obra",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 75,
  "image": {
   "src": "/media/memoria/2025-obra-954.jpg",
@@ -21,8 +21,8 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "year": 2025,
- "yearApprox": true,
+ "year": 2018,
+ "yearApprox": false,
  "seenAt": "2025-07-27",
  "sourceUrl": "https://web.archive.org/web/20250727005241id_/http://calirivera.com/images/fenix_3237889066560891632_n.jpg"
 }

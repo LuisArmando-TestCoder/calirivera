@@ -1,0 +1,29 @@
+{
+ "slug": "revelaciones-rohingyas",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 1,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-rohingyas",
+ "title": "Plegaria por los Rohingyas ( plegaria de los viajeros)",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/rohingyas-480.jpg",
+   "widths": [
+    480
+   ],
+   "width": 480,
+   "height": 720,
+   "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwCdMoMYJn/3QACaky+5Ru/8eeQAAP7wNg/88qBo2vVHhvs2P9evwFgGIfxU8STfV69+g1Yz7l19mR3zthVsLQrDLT1YDNzpaPmKN/k4LADuoZOLkdfmNi/RKGjSntTvypUQFGDvNyWn0+yWwyKb1P+RyAXj/eJ/nJvKlcEhGAAA",
+   "color": "rgb(187 169 159)",
+   "alt": "Plegaria por los Rohingyas ( plegaria de los viajeros) — Revelaciones, 2015",
+   "lowRes": true
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "1,80 m × 67 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos"
+}

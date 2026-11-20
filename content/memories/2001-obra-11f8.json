@@ -3,7 +3,7 @@
  "slug": "2001-obra-11f8",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 202,
  "image": {
   "src": "/media/memoria/2001-obra-11f8-600.jpg",
@@ -23,5 +23,6 @@
  "aiAltered": false,
  "year": 2001,
  "seenAt": "2016-12-07",
- "sourceUrl": "https://web.archive.org/web/20161207141752id_/http://calirivera.com/images/obras-galeria/identidad_2001/1950_tierra_tibetana.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161207141752id_/http://calirivera.com/images/obras-galeria/identidad_2001/1950_tierra_tibetana.jpg",
+ "collectionId": "identidad"
 }

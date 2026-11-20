@@ -1,0 +1,28 @@
+{
+ "slug": "identidad-viva-la-sele",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 14,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-viva-la-sele",
+ "title": "Viva la Sele",
+ "images": [
+  {
+   "src": "/media/memoria/2001-viva-la-sele-400.jpg",
+   "alt": "Viva la Sele — Identidad",
+   "width": 400,
+   "height": 522,
+   "widths": [
+    400
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1oqk6ppiQiMAgBMB2JagCdAF8xpQlF1EF6xWAA/tUVIhlr7E+MQj1VrVmYFk3HotfGF90EKME5MvGKoNw/ovqh1lg6CzwlyuF8NxlXja8Z+/4jfEWsjo1/87H246XC7gEhmtu4vFAAAA==",
+   "color": "rgb(40 40 72)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}

@@ -3,7 +3,7 @@
  "slug": "2010-bandera-del-corpus-christi-2010",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 371,
  "image": {
   "src": "/media/memoria/2010-bandera-del-corpus-christi-2010-300.jpg",
@@ -25,5 +25,6 @@
  "year": 2010,
  "seenAt": "2019-01-07",
  "sourceUrl": "https://web.archive.org/web/20190107142117id_/http://calirivera.com/images/mi_trabajo/p_bandera_corpus.jpg",
- "sourcePage": "~calirive"
+ "sourcePage": "~calirive",
+ "collectionId": "banderas-de-corpus-christi"
 }

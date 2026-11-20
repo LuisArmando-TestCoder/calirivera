@@ -1,0 +1,27 @@
+{
+ "slug": "revelaciones-grecia",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 10,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-grecia",
+ "title": "Plegaria por Grecia",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/grecia-800.jpg",
+   "widths": [
+    640,
+    800
+   ],
+   "width": 800,
+   "height": 1149,
+   "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JYwAD5UIGvyIrujskwqUgAP7ifHlcIJ+6KyGhyxzb9mBtBCvBqdunptew2sDwApFne9RHZVa2SQ+LGzvl2+rqi8QASH30g/rcX2yCUeUJscbNXf0uZVQHILnsrl21CtJ3vh/v7n5Rh4Gi23H7sbiY9VizZoAA",
+   "color": "rgb(185 182 172)",
+   "alt": "Plegaria por Grecia — Revelaciones, 2015"
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive)."
+}

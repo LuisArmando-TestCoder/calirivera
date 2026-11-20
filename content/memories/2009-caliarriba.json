@@ -3,7 +3,7 @@
  "slug": "2009-caliarriba",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 183,
  "image": {
   "src": "/media/memoria/2009-caliarriba-640.jpg",
@@ -24,5 +24,6 @@
  "year": 2009,
  "yearApprox": true,
  "seenAt": "2016-12-08",
- "sourceUrl": "https://web.archive.org/web/20161208024003id_/http://calirivera.com/images/obras-galeria/vistas_guate/caliarriba1.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161208024003id_/http://calirivera.com/images/obras-galeria/vistas_guate/caliarriba1.jpg",
+ "collectionId": "banderas-de-corpus-christi"
 }

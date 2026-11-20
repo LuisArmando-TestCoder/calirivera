@@ -1,0 +1,29 @@
+{
+ "slug": "revelaciones-butan",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 7,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-butan",
+ "title": "Plegaria por el reino de Bután",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/butan-480.jpg",
+   "widths": [
+    480
+   ],
+   "width": 480,
+   "height": 720,
+   "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoQABgAPu1kq04ppaQiMAgBMB2JQBOmUGMACYKSoV4FQjZ0OwAA/vOByvveKQvUhfqm7cpfPgnrBX3hFoToJPeHmQRw6RqZo51KepJZ/l6JqQZEjygEhpbs2rfdjRjfYGnHPr51LVQdLbFLw4TeprpmHtMogPEU8Zl2ZIAA",
+   "color": "rgb(203 188 182)",
+   "alt": "Plegaria por el reino de Bután — Revelaciones, 2015",
+   "lowRes": true
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "2,07 m × 64 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos"
+}

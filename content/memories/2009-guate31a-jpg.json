@@ -3,7 +3,7 @@
  "slug": "2009-guate31a-jpg",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 151,
  "image": {
   "src": "/media/memoria/2009-guate31a-jpg-640.jpg",
@@ -27,5 +27,6 @@
  "yearApprox": true,
  "seenAt": "2016-12-08",
  "sourceUrl": "https://web.archive.org/web/20161208024042id_/http://calirivera.com/images/obras-galeria/cruz/guate31a.jpg",
- "sourcePage": "Obras recientes"
+ "sourcePage": "Obras recientes",
+ "collectionId": "banderas-de-corpus-christi"
 }

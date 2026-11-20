@@ -1,0 +1,28 @@
+{
+ "slug": "identidad-identidad-917f",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 1,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-identidad-917f",
+ "title": "Identidad I",
+ "images": [
+  {
+   "src": "/media/memoria/2001-identidad-917f-400.jpg",
+   "alt": "Identidad I — Identidad",
+   "width": 400,
+   "height": 517,
+   "widths": [
+    400
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwACIFVdDC+VjvBJ8wAM1LTGFSgoICi3PPnQ5zWHEYuJ8OUUrItJ3T642WUbarlVmPJK7TY7g3W7zETPZ21SrC6CGivi0aaJAeoP5YUQ3SIqPU9p4dsEdLS0AAAA==",
+   "color": "rgb(40 136 168)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}

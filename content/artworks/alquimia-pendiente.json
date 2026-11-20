@@ -1,0 +1,42 @@
+{
+ "slug": "alquimia-pendiente",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 12,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-pendiente",
+ "title": "Pendiente",
+ "images": [
+  {
+   "src": "/media/memoria/2019-pendiente-601.jpg",
+   "alt": "Pendiente — Alquimia, 2008",
+   "width": 601,
+   "height": 800,
+   "widths": [
+    480,
+    601
+   ],
+   "placeholder": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JaQAAW+nyFYAA/vKYRkYBZ2s493+OfRrbJYrQhSEAAA==",
+   "color": "rgb(8 8 8)",
+   "lowRes": true
+  },
+  {
+   "src": "/media/memoria/2019-pendiente-alquimia-595.jpg",
+   "alt": "Pendiente (detalle) — Alquimia, 2008",
+   "width": 595,
+   "height": 797,
+   "widths": [
+    480,
+    595
+   ],
+   "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwACn4tH+Wq+t0Ou2QAPjloWLscVDdS/nVH6yfGLxs/6GPLY8Njqx8eAJY5Oy1XvP9ZsqA2fV39NwKyBZNG96rEJJD0E5BEXLf5QDkwk4qAu4jVXq6wIp/AHeNPQeihsgppBE+LkfFH8j1BMtgLPkbDgAAAA==",
+   "color": "rgb(248 216 120)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Arte objeto",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

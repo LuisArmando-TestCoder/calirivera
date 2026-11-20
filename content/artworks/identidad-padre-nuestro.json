@@ -1,0 +1,28 @@
+{
+ "slug": "identidad-padre-nuestro",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 10,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-padre-nuestro",
+ "title": "Padre nuestro",
+ "images": [
+  {
+   "src": "/media/memoria/2001-padre-nuestro-400.jpg",
+   "alt": "Padre nuestro — Identidad",
+   "width": 400,
+   "height": 654,
+   "widths": [
+    400
+   ],
+   "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBACdASoQABoAPu1krU6ppaSiMAgBMB2JZgCdMoAlvhfhUuGW6o7rdU3/8VKAAP7oz8FF1ubQXm6k4nF+AcVu+mUUq4rAFFEpC+7Ag5TMiratKBNm+l/CiiN1E33yKzp+gySCfmWvtn/L9da6pk+rxuApX/c4uZLFwpuNhvVgg8C+PN2VvnRqwx3iqWRKL93hjK3dJHHqnawrGNH0+Z0/MpJEwp8/ZislvEYEgAA=",
+   "color": "rgb(24 56 72)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}

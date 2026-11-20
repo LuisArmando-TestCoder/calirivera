@@ -1,0 +1,29 @@
+{
+ "slug": "alquimia-con-el-corazon-en-la-mano",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 3,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-con-el-corazon-en-la-mano",
+ "title": "Con el corazón en la mano",
+ "images": [
+  {
+   "src": "/media/memoria/2016-mano-800.jpg",
+   "alt": "Con el corazón en la mano — Alquimia, 2008",
+   "width": 800,
+   "height": 807,
+   "widths": [
+    480,
+    800
+   ],
+   "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJQBOgB6P+KcOqZ8AAP6tPxE7EkMfcS5T1wozn9gi4PGXix3NXs5/fm0IqVIiELc7RCxMCSH/ZPvwZKrzxVV7a9XrHvP9l0w3GJu/FbdknG2ey8PiJHoMt/sb3joAAAA=",
+   "color": "rgb(8 8 8)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Pintura",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

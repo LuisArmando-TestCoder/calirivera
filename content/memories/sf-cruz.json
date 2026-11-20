@@ -3,7 +3,7 @@
  "slug": "sf-cruz",
  "status": "draft",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 35,
  "image": {
   "src": "/media/memoria/sf-cruz-1447.jpg",
@@ -23,5 +23,8 @@
  "source": "sitio-actual",
  "aiAltered": true,
  "title": "Cruz",
- "sourceUrl": "https://calirivera.com/biografia/cruz-QHEzudwnpfog8IR0.png"
+ "sourceUrl": "https://calirivera.com/biografia/cruz-QHEzudwnpfog8IR0.png",
+ "collectionId": "banderas-de-corpus-christi",
+ "year": 2009,
+ "yearApprox": false
 }

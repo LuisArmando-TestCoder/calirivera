@@ -1,0 +1,27 @@
+{
+ "slug": "revelaciones-inmigrantes",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 11,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-inmigrantes",
+ "title": "Plegaria por los inmigrantes",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/inmigrantes-800.jpg",
+   "widths": [
+    640,
+    800
+   ],
+   "width": 800,
+   "height": 1149,
+   "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JYgCdAYye5EuRyIkKef75JAD+4lfDDzkl1XvRiIl76hPqGCoT7CaJ3/GIbIzxMJwYhzl8rdT7j8XRT0Ha7Xsl0aWhfoDiGSDJfl9R/bl4J707q6Qz//ek32jzmBKwLN/vWl6wZT93dQb409gPVjK+N815MvupYk/bY0sRBM2JTkAA",
+   "color": "rgb(191 180 171)",
+   "alt": "Plegaria por los inmigrantes — Revelaciones, 2015"
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive)."
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "alquimia-flor-de-vida",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 4,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-flor-de-vida",
+ "title": "Flor de vida",
+ "images": [
+  {
+   "src": "/media/memoria/2016-vida-700.jpg",
+   "alt": "Flor de vida — Alquimia, 2008",
+   "width": 700,
+   "height": 702,
+   "widths": [
+    480,
+    700
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJZACdAEPArVdJlT4AP7qNggRdAnqcKabI106pmMwt1NXBfFth3dMeMHTSieSSZstJKu7wmj5MzH9QDFWTGPYBMKaf+0GRXVKPBhpjoZGyB2AAAA=",
+   "color": "rgb(8 8 8)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Pintura",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

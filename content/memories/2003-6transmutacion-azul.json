@@ -3,7 +3,7 @@
  "slug": "2003-6transmutacion-azul",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 88,
  "image": {
   "src": "/media/memoria/2003-6transmutacion-azul-792.jpg",
@@ -22,8 +22,9 @@
  "source": "wayback",
  "aiAltered": false,
  "title": "6transmutacion azul",
- "year": 2003,
- "yearApprox": true,
+ "year": 2008,
+ "yearApprox": false,
  "seenAt": "2016-12-06",
- "sourceUrl": "https://web.archive.org/web/20161206210725id_/http://calirivera.com/images/stories/obras-galeria/alquimia/6transmutacion-azul.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161206210725id_/http://calirivera.com/images/stories/obras-galeria/alquimia/6transmutacion-azul.jpg",
+ "collectionId": "alquimia"
 }

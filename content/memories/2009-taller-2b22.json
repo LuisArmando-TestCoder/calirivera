@@ -3,7 +3,7 @@
  "slug": "2009-taller-2b22",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 203,
  "image": {
   "src": "/media/memoria/2009-taller-2b22-427.jpg",
@@ -23,5 +23,6 @@
  "year": 2009,
  "yearApprox": true,
  "seenAt": "2016-12-08",
- "sourceUrl": "https://web.archive.org/web/20161208043258id_/http://calirivera.com/images/obras-galeria/vistas_guate/_mg_6467.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161208043258id_/http://calirivera.com/images/obras-galeria/vistas_guate/_mg_6467.jpg",
+ "collectionId": "banderas-de-corpus-christi"
 }

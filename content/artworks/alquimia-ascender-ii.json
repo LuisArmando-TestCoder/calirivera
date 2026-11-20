@@ -1,0 +1,29 @@
+{
+ "slug": "alquimia-ascender-ii",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 2,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-ascender-ii",
+ "title": "Ascender II",
+ "images": [
+  {
+   "src": "/media/memoria/2016-2ascender-700.jpg",
+   "alt": "Ascender II — Alquimia, 2008",
+   "width": 700,
+   "height": 719,
+   "widths": [
+    480,
+    700
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQABAAA4BaJYwCdH8AFx++w5vpx6gA/vMD3ti4PufsKTKTpKhmOCiqNKi49ACrPiWxXZwoFl5j3FBojYWSVaZUX84mRzXJgXhUmqx2H+ZllDkQcDPL72yGFxfsWmAAAAA=",
+   "color": "rgb(8 8 8)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Pintura",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

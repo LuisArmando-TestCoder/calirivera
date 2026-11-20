@@ -1,0 +1,29 @@
+{
+ "slug": "revelaciones-israel",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 5,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-israel",
+ "title": "Plegaria por la tierra de Israel",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/israel-480.jpg",
+   "widths": [
+    480
+   ],
+   "width": 480,
+   "height": 720,
+   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoQABgAPu1kq04ppaQiMAgBMB2JZwAD5IIe8nvUP3wK2cJ24AD+8d+u/PSiR+Rxx/Ch5xVAkMxq1TvHU2NiQGGrS9bZXHRhZnpuvpQA+Ig2PPlUqlGqtG9STd8fCdXOQSN3Keckd3eQL3E2juAAAA==",
+   "color": "rgb(216 212 208)",
+   "alt": "Plegaria por la tierra de Israel — Revelaciones, 2015",
+   "lowRes": true
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "1,82 m × 67 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos y flores naturales"
+}

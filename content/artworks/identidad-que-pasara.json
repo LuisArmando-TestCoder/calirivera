@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-que-pasara",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 12,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-que-pasara",
+ "title": "¿Qué pasará?",
+ "images": [
+  {
+   "src": "/media/memoria/2001-que-pasara-500.jpg",
+   "alt": "¿Qué pasará? — Identidad",
+   "width": 500,
+   "height": 363,
+   "widths": [
+    480,
+    500
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoQAAwAA4BaJaAC7AYwd2zKeNChjrsEAAD+moc8g7jPpIkAFbcdANeAjwxMi/fYubmxWfvLZenlay+ALKEqWwYfN9fj91dBJrpg9jEAwh5QOYL44mnq89xzaHetPRonUgAAAA==",
+   "color": "rgb(8 8 8)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}

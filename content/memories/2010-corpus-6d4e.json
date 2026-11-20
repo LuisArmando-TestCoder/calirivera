@@ -3,7 +3,7 @@
  "slug": "2010-corpus-6d4e",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 294,
  "image": {
   "src": "/media/memoria/2010-corpus-6d4e-300.jpg",
@@ -24,5 +24,6 @@
  "year": 2010,
  "yearApprox": true,
  "seenAt": "2013-12-20",
- "sourceUrl": "https://web.archive.org/web/20131220090220id_/http://calirivera.com/images/stories/obras/corpus.jpg"
+ "sourceUrl": "https://web.archive.org/web/20131220090220id_/http://calirivera.com/images/stories/obras/corpus.jpg",
+ "collectionId": "banderas-de-corpus-christi"
 }

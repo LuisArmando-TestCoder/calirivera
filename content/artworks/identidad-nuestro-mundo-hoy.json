@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-nuestro-mundo-hoy",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 8,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-nuestro-mundo-hoy",
+ "title": "Nuestro mundo hoy",
+ "images": [
+  {
+   "src": "/media/memoria/2001-nuestro-mundo-hoy-577.jpg",
+   "alt": "Nuestro mundo hoy — Identidad",
+   "width": 577,
+   "height": 400,
+   "widths": [
+    480,
+    577
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAQCdASoQAAsAA4BaJbACdACAfRigAP7kSln23mFG5z1A3i/1atLbMPHWAIgT79u3r3nL8tvcI62Bc0DFL0192aoe/c7GgCNAc2FRxF79bm/lng+NeaXx4VN2YUNqt8j7f8yh/OnlVacJir45QUz8Gg4YAA==",
+   "color": "rgb(24 24 24)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}

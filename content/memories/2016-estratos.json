@@ -3,7 +3,7 @@
  "slug": "2016-estratos",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 99,
  "image": {
   "src": "/media/memoria/2016-estratos-557.jpg",
@@ -22,8 +22,9 @@
  "source": "wayback",
  "aiAltered": false,
  "title": "Estratos",
- "year": 2016,
- "yearApprox": true,
+ "year": 2008,
+ "yearApprox": false,
  "seenAt": "2016-12-06",
- "sourceUrl": "https://web.archive.org/web/20161206134008id_/http://calirivera.com/images/stories/obras-galeria/alquimia/8detalle-cumulos-cirrosy-estratos.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161206134008id_/http://calirivera.com/images/stories/obras-galeria/alquimia/8detalle-cumulos-cirrosy-estratos.jpg",
+ "collectionId": "alquimia"
 }

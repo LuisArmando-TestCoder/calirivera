@@ -3,7 +3,7 @@
  "slug": "prayer-flags",
  "status": "published",
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "title": "Prayer Flags",
  "period": "2003",
  "order": 54,
@@ -44,6 +44,41 @@
    "type": "paragraph",
    "id": "prayer-flags-2",
    "text": "Cada bandera fue fotografiada en un paisaje distinto de Costa Rica. La novena fue robada durante el Festival Internacional de las Artes de 2006; de ese hecho nacieron Plegaria tica en Francia y El agua como elemento."
+  },
+  {
+   "type": "heading",
+   "id": "prayer-flags-reverso",
+   "level": 2,
+   "text": "El reverso de las banderas"
+  },
+  {
+   "type": "paragraph",
+   "id": "prayer-flags-reverso-0",
+   "text": "Cuatro de las banderas llevan un texto en el reverso."
+  },
+  {
+   "type": "quote",
+   "id": "prayer-flags-reverso-4",
+   "text": "Monjes, agricultores, nómadas y comerciantes son todos unificados en su fe por el sistema budista, religión que ha transformado la vida en el Tibet, ya que de ser un grupo de nómadas guerreros, pasó a ser una civilizacón dedicada a las metas espirituales y artísticas, con un profundo respeto hacia la paz y armonía. Hasta 1959 el Tíbet contaba con más de 6250 monasterios, algunos de estos con capacidad de albergar más de 7.000 lamas a la vez. Los monasterios también desarrollaron y preservaron la cultura tibetana. Los más grandes poetas, artistas, escultores y músicos del Tíbet fueron en su mayoría monjes. Su labor principal era la de realizar labores rituales y guiar a la población a través del difícil sendero del desarrollo espiritual. También algunos de estos cooperaban en el gobierno tibetano conjuntamente con laicos y nobles. Desde 1950, los chinos han gobernado y controlado la vida de los tibetanos quienes sólo desean gobernar su propio país y recuperar de la extinción a su amenazada cultura. Sin embargo, China no pretende salir. Más de un millón doscientos mil tibetanos han muerto desde la ocupación del ejército rojo. Más de 6000 monasterios fueron destruídos durante el período de la revolución cultural china, conjuntamente con su herencia artística, fundida o vendida al extranjero. El tíbet es indudablemente una de las herencias culturales y patrimonios vivos más importantes de la humanidad. De todas las naciones depende el preservar este santuario natural y espiritual para las generaciones venideras.",
+   "cite": "Bandera 4 · fuente: tibet.iteso.mx"
+  },
+  {
+   "type": "quote",
+   "id": "prayer-flags-reverso-6",
+   "text": "Los patrones dominantes de producción y consumo están causando devastación ambiental, agotamiento de recursos y una extinción masiva de especies. Las comunidades están siendo destruidas. Los beneficios del desarrollo no se comparten equitativamente y la brecha entre ricos y pobres se está ensanchando. La injusticia, la pobreza, la ignorancia y los conflictos violentos se manifiestan por doquier y son la causa de grandes sufrimientos. Un aumento sin precedentes de la población humana ha sobrecargado los sistemas ecológicos y sociales. Los fundamentos de la seguridad global están siendo amenazados. Estas tendencias son peligrosas pero no inevitables",
+   "cite": "Bandera 6 · Carta de la Tierra (The Earth Charter Initiative)"
+  },
+  {
+   "type": "quote",
+   "id": "prayer-flags-reverso-7",
+   "text": "La elección es nuestra: formar una sociedad global para cuidar la tierra y cuidarnos unos a otros, o arriesgarnos a la destrucción de nosotros mismos y de la diversidad de la vida. Se necesitan cambios fundamentales en nuestros valores, instituciones y formas de vida. Debemos darnos cuenta de que, una vez satisfechas las necesidades básicas, el desarrollo humano se refiere primordialmente a ser más, no a tener más. Poseemos el conocimiento y la tecnología necesarios para proveer a todos y para reducir nuestros impactos sobre el medio ambiente. El surgimiento de una sociedad civil global, está creando nuevas oportunidades para construir un mundo democrático y humanitario. Nuestros retos ambientales, económicos, políticos, sociales y espirituales, están interrelacionados y juntos podemos proponer y concretar soluciones comprensivas.",
+   "cite": "Bandera 7 · Carta de la Tierra (The Earth Charter Initiative)"
+  },
+  {
+   "type": "quote",
+   "id": "prayer-flags-reverso-9",
+   "text": "... la mía es una invitación a redercubrir la profundidad de la dimensión espiritual y religiosa que ha caracterizado el arte en todos los tiempos, en sus más nobles formas expresivas. En este sentido os dirijo una llamada a vosotros, artistas de la palabra escrita y oral, del teatro y de la música, de las artes plásticas y de las más modernas tecnologías de la comunicación. Hago un llamado especial a los artistas cristianos. Quiero recordar a cada uno de vosotros que la alianza establecida desde siempre entre el Evangelio y el arte, más allá de las exigencias funcionales, implica la invitación a adentrarse con intuición crativa en el misterio del Dios encarnado y al mismo tiempo, en el misterio del hombre. Todo ser humano es, en cierto sentido, un desconocido para sí mismo\".",
+   "cite": "Bandera 9 · Carta del Santo Padre Juan Pablo II a los artistas, Vaticano, 4 de abril de 1999"
   }
  ]
 }

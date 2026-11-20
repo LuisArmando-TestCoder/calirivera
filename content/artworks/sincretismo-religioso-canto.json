@@ -1,0 +1,42 @@
+{
+ "slug": "sincretismo-religioso-canto",
+ "status": "published",
+ "collectionId": "sincretismo-religioso",
+ "aiAltered": false,
+ "order": 2,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "sincretismo-religioso-canto",
+ "title": "Canto",
+ "images": [
+  {
+   "src": "/media/memoria/2014-canto-frente-618.jpg",
+   "alt": "Canto (frente) — Sincretismo religioso, 2014",
+   "width": 618,
+   "height": 800,
+   "widths": [
+    480,
+    618
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1iqU2ppaQiMAgBMB2JZwAD5SoLv2VJJBniDQAA/vHemlVCMiPgl/mVuOrqr2ItMuck5a+kJEFhnl4jGdtaHnGpRquRzPRVQPZzm6aetcEp7f9ZCtVli1kodpzWBUW9C0VwKoI30pgAAA==",
+   "color": "rgb(248 248 248)",
+   "lowRes": true
+  },
+  {
+   "src": "/media/memoria/2014-canto-dorso-618.jpg",
+   "alt": "Canto (dorso) — Sincretismo religioso, 2014",
+   "width": 618,
+   "height": 800,
+   "widths": [
+    480,
+    618
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JaAAAXgT/d5V0e+vGzAAA/vBKKRQfeJiWQdc76LG8rGTCrSBJOh0zgzXcWxTOD0MuORoqvV3EGK5qkABN36HkxwjQLmPDX3v4s9+4sRxFMSghH2wD82KUAgxgAA==",
+   "color": "rgb(248 248 248)",
+   "lowRes": true
+  }
+ ],
+ "year": 2014,
+ "technique": "Estandarte: ensamble de textiles",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo."
+}

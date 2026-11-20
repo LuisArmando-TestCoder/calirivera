@@ -1,0 +1,41 @@
+{
+ "slug": "alquimia-renacimiento",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 13,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-renacimiento",
+ "title": "Renacimiento",
+ "images": [
+  {
+   "src": "/media/memoria/2019-renacimiento-521.jpg",
+   "alt": "Renacimiento — Alquimia, 2008",
+   "width": 521,
+   "height": 700,
+   "widths": [
+    480,
+    521
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwIswA324D18wk/ysBjyAA/tST11OlVBAsXNEWg+SXFZEhh/32Kz0qlAKnLwVp5Q4mwBDV2pwtyEB1uvfQd4zGpZ9ABgdyfSqIxdvgOejHOsNLHNfkdxhzSx0Uc8VqtWeC58eawr6+HZ9bIvEcyrulbh4rmzIMZ4MoAA==",
+   "color": "rgb(248 248 248)",
+   "lowRes": true
+  },
+  {
+   "src": "/media/memoria/2019-renacimiento-1953-261.jpg",
+   "alt": "Renacimiento (detalle) — Alquimia, 2008",
+   "width": 261,
+   "height": 500,
+   "widths": [
+    261
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBACdASoQAB8APu1iqU2ppaQiMAgBMB2JZACdIA/I89SR0wHxMk3XgAD+/jCz+8rM+z0cdHx2Pu3rp9fbDQVcuTUrw8193zvTKft28Fvf+ozUQ0c8iy/kVsn0SmaHIoncpT5vGauVE4Km7L8Mmz95g5aX8p/7UrzU1jMMkQV9jaDgy9qyRLY8AXu/4NW4TzpLRRGNRURfE/O5RrgAAA==",
+   "color": "rgb(248 248 248)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Arte objeto",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

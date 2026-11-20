@@ -1,0 +1,29 @@
+{
+ "slug": "alquimia-ascender-i",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 1,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-ascender-i",
+ "title": "Ascender I",
+ "images": [
+  {
+   "src": "/media/memoria/2016-1ascender-700.jpg",
+   "alt": "Ascender I — Alquimia, 2008",
+   "width": 700,
+   "height": 708,
+   "widths": [
+    480,
+    700
+   ],
+   "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoQABAAA4BaJZACdH8AgsiODkuvbrAA/vbYX09CS62TlvVgkiapU+8SrTxrDMw9XQn8xer4NwWY77QmVrDCl/tW4tElFqoV0H6qxyvzPRif29x4+Z1MnfCbxqGbZDnZWETYOp7HSfPbhgR24zBCAjBQQZQYFOSdy4AAAA==",
+   "color": "rgb(8 8 8)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Pintura",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

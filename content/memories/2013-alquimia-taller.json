@@ -3,7 +3,7 @@
  "slug": "2013-alquimia-taller",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 233,
  "image": {
   "src": "/media/memoria/2013-alquimia-taller-400.jpg",
@@ -20,8 +20,9 @@
  "kind": "taller",
  "source": "wayback",
  "aiAltered": false,
- "year": 2013,
- "yearApprox": true,
+ "year": 2008,
+ "yearApprox": false,
  "seenAt": "2013-12-20",
- "sourceUrl": "https://web.archive.org/web/20131220090731id_/http://calirivera.com/images/stories/obras-galeria/alquimia-taller.jpg"
+ "sourceUrl": "https://web.archive.org/web/20131220090731id_/http://calirivera.com/images/stories/obras-galeria/alquimia-taller.jpg",
+ "collectionId": "alquimia"
 }

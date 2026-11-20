@@ -1,0 +1,29 @@
+{
+ "slug": "alquimia-infinito",
+ "status": "published",
+ "collectionId": "alquimia",
+ "aiAltered": false,
+ "order": 8,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "alquimia-infinito",
+ "title": "Infinito",
+ "images": [
+  {
+   "src": "/media/memoria/2016-9infinito-555.jpg",
+   "alt": "Infinito — Alquimia, 2008",
+   "width": 555,
+   "height": 800,
+   "widths": [
+    480,
+    555
+   ],
+   "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JZgCdMoBOAbV4876FIa7+0TCdqxciAAD+qnpwqj9E5gK98QN83XBBEOrLJQKR13e4+d06H1IOw1qNKU1vZfOXVLBAJpzyrt2fuA8QY2sUyHud7DXu7zwMOmrjZBs8DCJZI27h9xqqEUaf4hjdJNYbLuvdPeafUJcoqFkcxnNKUMqCt8g3aAyPTOVrX8iQASKZhhYBABPIY3AA",
+   "color": "rgb(40 24 24)",
+   "lowRes": true
+  }
+ ],
+ "year": 2008,
+ "technique": "Pintura",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+}

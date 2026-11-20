@@ -1,0 +1,29 @@
+{
+ "slug": "revelaciones-siria",
+ "status": "published",
+ "collectionId": "revelaciones",
+ "aiAltered": false,
+ "order": 4,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "revelaciones-siria",
+ "title": "Plegaria por Siria",
+ "images": [
+  {
+   "src": "/media/colecciones/revelaciones/siria-480.jpg",
+   "widths": [
+    480
+   ],
+   "width": 480,
+   "height": 720,
+   "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoQABgAPu1kqk4ppaQiMAgBMB2JZwC/OCLvLSJpy1xzOAAA/vOByvu0PpkT0lsqIoGwdRM/Yja3OmqFUO/CfRX5AR4PZESzu331ZPXR1HFu03GSsWnIVKodobMYxbw72wAEjHv9KcHqN+tDXbiamlisS/bcZONJkYnrQAAA",
+   "color": "rgb(204 196 194)",
+   "alt": "Plegaria por Siria — Revelaciones, 2015",
+   "lowRes": true
+  }
+ ],
+ "year": 2015,
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "2,15 m × 65 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos"
+}

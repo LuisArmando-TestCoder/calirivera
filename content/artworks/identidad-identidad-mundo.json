@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-identidad-mundo",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 15,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-identidad-mundo",
+ "title": "Identidad mundo",
+ "images": [
+  {
+   "src": "/media/memoria/2005-identidad-mundo-841.jpg",
+   "alt": "Identidad mundo — Identidad",
+   "width": 841,
+   "height": 960,
+   "widths": [
+    480,
+    841
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JQBOmUI7gBTqttLTD4rvvwwAA/bYYv51yVfZKsvQBlv+JvmbeDCOhA600ORtGJ/8P62qnRpFhxYv0jxAdUWYAREBIEkzrH9iwMzR3nyJarLnQKySDgAAA",
+   "color": "rgb(136 120 56)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}

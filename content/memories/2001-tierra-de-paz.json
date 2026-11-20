@@ -3,7 +3,7 @@
  "slug": "2001-tierra-de-paz",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
  "order": 252,
  "image": {
   "src": "/media/memoria/2001-tierra-de-paz-530.jpg",
@@ -24,5 +24,6 @@
  "title": "Tierra de paz",
  "year": 2001,
  "seenAt": "2016-12-07",
- "sourceUrl": "https://web.archive.org/web/20161207141811id_/http://calirivera.com/images/obras-galeria/identidad_2001/tierra_de_paz.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161207141811id_/http://calirivera.com/images/obras-galeria/identidad_2001/tierra_de_paz.jpg",
+ "collectionId": "identidad"
 }

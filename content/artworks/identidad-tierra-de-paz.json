@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-tierra-de-paz",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 13,
+ "createdAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:00:00Z",
+ "id": "identidad-tierra-de-paz",
+ "title": "Tierra de paz",
+ "images": [
+  {
+   "src": "/media/memoria/2001-tierra-de-paz-530.jpg",
+   "alt": "Tierra de paz — Identidad",
+   "width": 530,
+   "height": 400,
+   "widths": [
+    480,
+    530
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAwAA4BaJbACdAYulqyLoiRzHsAA9pFw/3b5HTgv+w8ZpBKQ1FrLH7goKICb5nOo6tyDgEq3pZ3iYzydyd5pQJyrraKoPeSxFgjrLNWOZTWMsBQrpDXOCqt4gWB4AAA=",
+   "color": "rgb(168 168 88)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+}
