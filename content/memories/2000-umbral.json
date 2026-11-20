@@ -3,7 +3,7 @@
  "slug": "2000-umbral",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 303,
  "image": {
   "src": "/media/memoria/2000-umbral-291.jpg",
@@ -23,5 +23,6 @@
  "title": "Umbral",
  "year": 2000,
  "seenAt": "2016-12-06",
- "sourceUrl": "https://web.archive.org/web/20161206210739id_/http://calirivera.com/images/obras-galeria/ave_fenix_2000/umbral.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161206210739id_/http://calirivera.com/images/obras-galeria/ave_fenix_2000/umbral.jpg",
+ "collectionId": "ave-fenix"
 }

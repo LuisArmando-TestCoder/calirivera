@@ -1,0 +1,29 @@
+{
+ "slug": "ave-fenix-tastaga",
+ "status": "published",
+ "collectionId": "ave-fenix",
+ "aiAltered": false,
+ "order": 1,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "ave-fenix-tastaga",
+ "title": "Tastaga, la mujer testigo",
+ "images": [
+  {
+   "src": "/media/memoria/2000-tastaga-291.jpg",
+   "alt": "Tastaga, la mujer testigo — Ave Fénix, 2000",
+   "width": 291,
+   "height": 453,
+   "widths": [
+    291
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASoQABkAPu1kqk2ppaQiMAgBMB2JbAC7MoADg7KqJz3+f+0E6AAA/ljjoHAWjpnOuf2sNv7Tnl9aeKRUQD2eNuqYRvHmPczvHpDgNzTU3jrNabvZEbEc4jMy0hY6UAAA",
+   "color": "rgb(184 200 200)",
+   "lowRes": true
+  }
+ ],
+ "year": 2000,
+ "technique": "Técnica mixta: acrílico y estuco",
+ "dimensions": "151 × 97 cm",
+ "notes": "Texto y fotos del sitio calirivera.com (2026)."
+}

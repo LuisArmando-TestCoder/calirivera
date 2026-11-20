@@ -1,0 +1,29 @@
+{
+ "slug": "prayer-flags-bandera-4",
+ "status": "published",
+ "collectionId": "prayer-flags",
+ "aiAltered": false,
+ "order": 4,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "prayer-flags-bandera-4",
+ "title": "Bandera 4",
+ "images": [
+  {
+   "src": "/media/memoria/2003-bandera16-480.jpg",
+   "alt": "Bandera 4 — Prayer Flags, 2003. Parque Central de Cartago",
+   "width": 480,
+   "height": 593,
+   "widths": [
+    480
+   ],
+   "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoQABQAPu1iqU2ppaQiMAgBMB2JYwDE2CFSjnkiOOMmLYSspwAA/vN08rM9X15puu4jTj5AAwUiG5KD61X5GT38p8nexZduKC+5XFbNi7a8zssF/YuHBdKBDX+CpnkSn9oP3JdSixG6YkMTBtJ7L0r5mq47gAAA",
+   "color": "rgb(248 248 248)",
+   "lowRes": true
+  }
+ ],
+ "year": 2003,
+ "technique": "Mixta sobre textil industrial: pintura, gel, 600 bordados con semillas rojas y resina",
+ "dimensions": "6 × 1,4 m",
+ "notes": "Fotografiada en: Parque Central de Cartago."
+}

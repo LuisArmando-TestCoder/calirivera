@@ -3,7 +3,7 @@
  "slug": "trayectoria-and-entrevistas",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-11T19:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "title": "Trayectoria & Entrevistas",
  "description": "Exposiciones, currículum y entrevistas sobre la obra de Cali Rivera.",
  "sections": [
@@ -308,6 +308,13 @@
        "kind": "external"
       }
      ]
+    },
+    {
+     "type": "video",
+     "id": "tray-video-entrevista",
+     "url": "https://www.youtube.com/watch?v=Z9gIVTIjuzw",
+     "title": "Entrevista a Cali Rivera en el Taller del Artista",
+     "poster": "https://i.ytimg.com/vi/Z9gIVTIjuzw/hqdefault.jpg"
     }
    ]
   }

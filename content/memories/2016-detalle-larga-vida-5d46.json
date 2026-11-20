@@ -3,7 +3,7 @@
  "slug": "2016-detalle-larga-vida-5d46",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 158,
  "image": {
   "src": "/media/memoria/2016-detalle-larga-vida-5d46-640.jpg",
@@ -22,8 +22,9 @@
  "source": "wayback",
  "aiAltered": false,
  "title": "Larga vida (detalle)",
- "year": 2016,
- "yearApprox": true,
+ "year": 2006,
+ "yearApprox": false,
  "seenAt": "2016-12-06",
- "sourceUrl": "https://web.archive.org/web/20161206134910id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/detalle_larga_vida3.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161206134910id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/detalle_larga_vida3.jpg",
+ "collectionId": "el-agua-como-elemento"
 }

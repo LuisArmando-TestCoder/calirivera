@@ -3,7 +3,7 @@
  "slug": "2000-ave-fenix",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 301,
  "image": {
   "src": "/media/memoria/2000-ave-fenix-291.jpg",
@@ -24,5 +24,6 @@
  "year": 2000,
  "yearApprox": true,
  "seenAt": "2013-12-20",
- "sourceUrl": "https://web.archive.org/web/20131220091004id_/http://calirivera.com/images/stories/obras/ave/ave_fenix.jpg"
+ "sourceUrl": "https://web.archive.org/web/20131220091004id_/http://calirivera.com/images/stories/obras/ave/ave_fenix.jpg",
+ "collectionId": "ave-fenix"
 }

@@ -3,7 +3,7 @@
  "slug": "2004-ff",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 240,
  "image": {
   "src": "/media/memoria/2004-ff-400.jpg",
@@ -26,5 +26,6 @@
  "yearApprox": true,
  "seenAt": "2016-12-06",
  "sourceUrl": "https://web.archive.org/web/20161206134826id_/http://calirivera.com/images/stories/exposiciones/globalizacion/invitacion_simposio.jpg",
- "sourcePage": "Globalizacion"
+ "sourcePage": "Globalizacion",
+ "collectionId": "globalizacion"
 }

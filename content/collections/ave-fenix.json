@@ -1,0 +1,43 @@
+{
+ "id": "ave-fenix",
+ "slug": "ave-fenix",
+ "status": "published",
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "title": "Ave Fénix",
+ "period": "2000",
+ "order": 32,
+ "artworkIds": [
+  "ave-fenix-tastaga",
+  "ave-fenix-ave-fenix",
+  "ave-fenix-umbral",
+  "ave-fenix-la-puerta"
+ ],
+ "subtitle": "Serie de transición",
+ "technique": "Técnica mixta: acrílico y estuco · 151 × 97 cm",
+ "statement": "Ave Fénix es una serie de transición: el artista «limpia su paleta» y da paso al acrílico como técnica de sus siguientes series.",
+ "cover": {
+  "src": "/media/memoria/2000-ave-fenix-291.jpg",
+  "alt": "Ave Fénix — Ave Fénix, 2000",
+  "width": 291,
+  "height": 453,
+  "widths": [
+   291
+  ],
+  "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAwCdASoQABkAPu1iqU2ppaQiMAgBMB2JQBWAP9WSZAg852yUkcpQAP6vxSiND4cuDBYUKbaJWbBo4vfpIM7WoN+Ko6Bj3cEADT8IxwVRDxN9cceHdB0fP14z6weIvngp0KpMQBQiPyroilspwyj05kALIAAA",
+  "color": "rgb(200 200 200)",
+  "lowRes": true
+ },
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "ave-fenix-1",
+   "text": "La serie consta de cuatro obras: Tastaga, la mujer testigo; Ave Fénix; Umbral y La Puerta."
+  },
+  {
+   "type": "paragraph",
+   "id": "ave-fenix-2",
+   "text": "Fue expuesta por primera vez en la muestra colectiva Zoológico Abierto, realizada en el Taller del Artista en mayo del año 2000."
+  }
+ ]
+}

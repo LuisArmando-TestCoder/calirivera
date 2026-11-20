@@ -3,7 +3,7 @@
  "slug": "plegaria",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-12T08:26:52.440Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "title": "Plegaria",
  "artworkIds": [
   "plegaria-ave-maria",
@@ -12,7 +12,8 @@
   "plegaria-molto-vivace",
   "plegaria-fe",
   "plegaria-plegaria-de-las-aves",
-  "plegaria-trascendencia"
+  "plegaria-trascendencia",
+  "plegaria-irazu"
  ],
  "order": 50,
  "period": "2001 · 2011",
@@ -38,10 +39,22 @@
    "text": "Una variación musical del Ave María de Franz Schubert, interpretada por el artista, forma parte de la obra pictórica del mismo nombre; un dispositivo electrónico permitía vivirla con la vista y con el oído. Radio Nacional de Costa Rica transmitió esa versión dos veces al día desde mediados de 2005."
   },
   {
+   "type": "paragraph",
+   "id": "plegaria-ritual",
+   "text": "Cali la recuerda como un ritual. Afuera de la galería, una tela roja de doscientos metros subía las gradas como una alfombra y guiaba hasta la sala. En el pasillo, una mujer desnuda, ungida con los colores de los chakras, representaba a la Madre Tierra flagelada por la guerra. A los lados, doce muebles de madera sostenían las velitas que el público era invitado a encender. Las primeras cruces se encendieron con una candela bendita que el escritor Alfonso Chase le había regalado una Navidad."
+  },
+  {
    "type": "quote",
    "id": "plegaria-b3",
    "text": "Para quienes no han conocido todo mi trabajo, Plegaria es un salto abismal, pero en realidad es sólo un proceso lógico de mi búsqueda: de lo simbólico a la figuración, y cada vez más cerca de lo no figurativo, curiosamente con lo que inicié en mi primera exposición a principios de los noventa.",
    "cite": "Cali Rivera, 2001"
+  },
+  {
+   "type": "video",
+   "id": "plegaria-ave-maria-video",
+   "url": "https://www.youtube.com/watch?v=qPBwAiHPCwA",
+   "title": "Ave María, interpretada por Cali Rivera",
+   "poster": "https://i.ytimg.com/vi/qPBwAiHPCwA/hqdefault.jpg"
   },
   {
    "type": "heading",

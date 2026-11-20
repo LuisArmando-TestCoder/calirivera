@@ -1,0 +1,53 @@
+{
+ "slug": "el-agua-como-elemento-larga-vida",
+ "status": "published",
+ "collectionId": "el-agua-como-elemento",
+ "aiAltered": false,
+ "order": 7,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "el-agua-como-elemento-larga-vida",
+ "title": "Larga vida",
+ "images": [
+  {
+   "src": "/media/memoria/2016-detalle-larga-vida-480.jpg",
+   "alt": "Larga vida (detalle) — El agua como elemento",
+   "width": 480,
+   "height": 640,
+   "widths": [
+    480
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoR3JoM4ABU9AJCjFeFq9gAA9Ws+cWnbjj267f6JxiD1nyQV503fHA+HtamB3ST2qSzBtVpT8aQISaT+qFjHi1CvWhMfAE5h21J6lmdoRzn0nT3329T2vf6tWeAAAA==",
+   "color": "rgb(104 104 104)",
+   "lowRes": true
+  },
+  {
+   "src": "/media/memoria/2016-detalle-larga-vida-27af-640.jpg",
+   "alt": "Larga vida (detalle) — El agua como elemento",
+   "width": 640,
+   "height": 480,
+   "widths": [
+    480,
+    640
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAwAA4BaJbACdH8AGBn5mfnoQAD+zGmIOtJTup4+XyuYhK6TiZXUTK6sboBvKBPPlhd5aeu1Emi9ZU/NLEL1VFo7il6LEJq2aHy2ppe6x9hEXDFNDjRIB3/OYGBCIAA=",
+   "color": "rgb(24 40 88)",
+   "lowRes": true
+  },
+  {
+   "src": "/media/memoria/2016-detalle-larga-vida-5d46-640.jpg",
+   "alt": "Larga vida (detalle) — El agua como elemento",
+   "width": 640,
+   "height": 480,
+   "widths": [
+    480,
+    640
+   ],
+   "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAwAA4BaJbACdLoAAioyQEwAAPvbcpyVTf2HP7Zdgc04d+DpGzOZGQomOuwib/Kmhq1rZSF2dHX76vx7saySefcwG3AAAAA=",
+   "color": "rgb(200 72 8)",
+   "lowRes": true
+  }
+ ],
+ "year": 2006,
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Solo se conservan fotos de detalle. Ficha técnica pendiente."
+}

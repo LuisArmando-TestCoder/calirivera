@@ -1,0 +1,29 @@
+{
+ "slug": "prayer-flags-bandera-8",
+ "status": "published",
+ "collectionId": "prayer-flags",
+ "aiAltered": false,
+ "order": 8,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "prayer-flags-bandera-8",
+ "title": "Bandera 8",
+ "images": [
+  {
+   "src": "/media/memoria/2003-bandera20-480.jpg",
+   "alt": "Bandera 8 — Prayer Flags, 2003. Paisaje costarricense",
+   "width": 480,
+   "height": 652,
+   "widths": [
+    480
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdAB9q974o74dvu7KaQLWAAP4fPytN6RgNOpyOdO3T0bjW6CtvF/wPLV4THToQfi7p53Qlh+W9oNIqmkrOSM6ghQn49UfcZdZpNyZbONlWu9UzKNr3yyu0Ax8wvO8Stk6h6YnNjRECXOap9gGIg9GOQT/EIUdY5BUhPwY8AAAA",
+   "color": "rgb(72 104 152)",
+   "lowRes": true
+  }
+ ],
+ "year": 2003,
+ "technique": "Mixta sobre telas, collage",
+ "dimensions": "6 × 1,55 m",
+ "notes": "Fotografiada en: Paisaje costarricense."
+}

@@ -1,0 +1,185 @@
+{
+ "id": "el-agua-como-elemento",
+ "slug": "el-agua-como-elemento",
+ "status": "published",
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "title": "El agua como elemento",
+ "period": "2006–2007",
+ "order": 57,
+ "artworkIds": [
+  "el-agua-como-elemento-duelo",
+  "el-agua-como-elemento-continentes-en-duelo",
+  "el-agua-como-elemento-hurto",
+  "el-agua-como-elemento-del-corazon",
+  "el-agua-como-elemento-azul-de-murano",
+  "el-agua-como-elemento-mantos-acuiferos",
+  "el-agua-como-elemento-larga-vida"
+ ],
+ "subtitle": "Cierre del proyecto de los Elementos",
+ "statement": "A finales de marzo de 2006, a raíz de un desafortunado acontecimiento (el robo de una bandera de la colección Prayer Flags en el FIA), inicié la propuesta final del discurso de los elementos, que comenzó con la tierra como elemento en 1995 y fue inaugurada en el 2000.",
+ "cover": {
+  "src": "/media/memoria/2016-duelo-433.jpg",
+  "alt": "Duelo — El agua como elemento",
+  "width": 433,
+  "height": 640,
+  "widths": [
+   433
+  ],
+  "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoR3AkgBbtssaaO8O+Es311gAPv+4nxXasOSZnwU7pVxVZYUKyxjzmDK/Z8p8UvOYWpQddA+9O7QtXLe/hG4Bt5797EUgBw747GFHlg5MSVtOBZCM9tocHMxOLCAFHPgOo6dyiGANXZx+P9u9X4bvGY6kOzvvcRRIpyfqbFZvFenClLldAY8waH8Ek+qRTi51JDxH4whnYAAAA==",
+  "color": "rgb(24 24 24)",
+  "lowRes": true
+ },
+ "catalogUrl": "/files/catalogo_alquimia_2008.pdf",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "agua-1",
+   "text": "La exposición individual se presentó en el Taller del Artista en noviembre de 2007, como cierre del proyecto de los Elementos: la tierra (Detrás de la ventana, 2000), el fuego (Plegaria, 2001), el aire (Prayer Flags, 2003) y el agua."
+  },
+  {
+   "type": "heading",
+   "id": "agua-2",
+   "level": 2,
+   "text": "La inauguración, en video"
+  },
+  {
+   "type": "paragraph",
+   "id": "agua-3",
+   "text": "Con motivo de la inauguración del Anfiteatro del Taller del Artista, Cali Rivera hizo un recorrido por su trabajo artístico y presentó la serie El agua como elemento, con un espectáculo de danza y personajes en torno a los elementos. Estos cuatro videos son el registro de aquella noche."
+  },
+  {
+   "type": "video",
+   "id": "agua-4",
+   "url": "https://www.youtube.com/watch?v=6B8HOYSHUCY",
+   "title": "Propuesta de los Elementos (parte 1 de 4)",
+   "poster": "https://i.ytimg.com/vi/6B8HOYSHUCY/hqdefault.jpg"
+  },
+  {
+   "type": "video",
+   "id": "agua-5",
+   "url": "https://www.youtube.com/watch?v=4uAsKc4YLss",
+   "title": "Propuesta de los Elementos (parte 2 de 4)",
+   "poster": "https://i.ytimg.com/vi/4uAsKc4YLss/hqdefault.jpg"
+  },
+  {
+   "type": "video",
+   "id": "agua-6",
+   "url": "https://www.youtube.com/watch?v=j_7lxrGg1wE",
+   "title": "Propuesta de los Elementos (parte 3 de 4)",
+   "poster": "https://i.ytimg.com/vi/j_7lxrGg1wE/hqdefault.jpg"
+  },
+  {
+   "type": "video",
+   "id": "agua-7",
+   "url": "https://www.youtube.com/watch?v=PUKSb-r1KJw",
+   "title": "Propuesta de los Elementos (parte 4 de 4): los nombres de quienes participaron",
+   "poster": "https://i.ytimg.com/vi/PUKSb-r1KJw/hqdefault.jpg"
+  },
+  {
+   "type": "gallery",
+   "id": "agua-8",
+   "images": [
+    {
+     "src": "/media/memoria/2006-img-0675-jpg-400.jpg",
+     "alt": "El agua como elemento: registro de la exposición",
+     "width": 400,
+     "height": 267,
+     "widths": [
+      400
+     ],
+     "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsAA4BaJZQC7ACeuHtw1GAA78eEgJ19O7YV53Fmj8xnFSriiQUMazDQ5AsUn8I95wAA",
+     "color": "rgb(184 168 152)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2006-img-8430-jpg-400.jpg",
+     "alt": "El agua como elemento: registro de la exposición",
+     "width": 400,
+     "height": 267,
+     "widths": [
+      400
+     ],
+     "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoQAAsAA4BaJbACdAEQ/iayrku26AD+9qok4ma9TzJQNW+7YbY0HrZjwLt4ZOEfxZ5acPaKZCxfwcVJukUuqgOMNbjuII9x+wn8LgAA",
+     "color": "rgb(24 8 8)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-efad-640.jpg",
+     "alt": "El agua como elemento: registro de la exposición",
+     "width": 640,
+     "height": 480,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAwAA4BaJbACdAEO/6J9rQAA/Zz/uPfxiFsrdlcSZQHJB7xw+CVc8+VTKixcD92bu5Ac8nqj1Khv59EAAA==",
+     "color": "rgb(168 152 56)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-abee-402.jpg",
+     "alt": "El agua como elemento: registro de la exposición",
+     "width": 402,
+     "height": 640,
+     "widths": [
+      402
+     ],
+     "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQBACdASoQABoAPu1iqU2ppaQiMAgBMB2JZAC2yBjdZnMvBJv//tthUAD+s0RMZ79QajmOYDULfDXROMTesVWdlX3UQvmB1heMo9riRazn8IkMB874v+F+/Yxy7i0urzH5TSCZ/feR0eExSxeOyeAAAAA=",
+     "color": "rgb(184 184 184)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/colecciones/el-agua-como-elemento/registro-05-640.jpg",
+     "widths": [
+      640
+     ],
+     "width": 640,
+     "height": 480,
+     "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoQAAwAA4BaJYmDrRgAogAA/vH178NfuE8z9QybIy1Hjpbr2EScV8lgj2WQgAAA",
+     "color": "rgb(42 26 16)",
+     "alt": "El agua como elemento: registro de la exposición",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-a764-640.jpg",
+     "alt": "El agua como elemento: registro de la exposición",
+     "width": 640,
+     "height": 471,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoQAAwAA4BaJbACdH8AGMDRv7QhatkAAP7qMUcotA7dVbZJ8qRlMPeLL1y1Sn/0sB9RSafdsrxoSyupWB9o5C5ny37Pb1Eehbmj+tdIMVHFASG3CcPPZURR2/oktvIcbhlpgPSeCOdJtauWZYAAAA==",
+     "color": "rgb(40 56 104)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-64a8-640.jpg",
+     "alt": "El agua como elemento: registro de la exposición",
+     "width": 640,
+     "height": 480,
+     "widths": [
+      480,
+      640
+     ],
+     "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAwAA4BaJbACdAEDfaJ4Z3AAAP7BvhZZrGgq66FcBr+pzqUsftGO4XUG1CPj2y0SBdmF4axXd0Iquo8g7jMC82APDopLTkbIAA==",
+     "color": "rgb(120 104 120)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2016-obra-9026-480.jpg",
+     "alt": "El agua como elemento: registro de la exposición",
+     "width": 480,
+     "height": 640,
+     "widths": [
+      480
+     ],
+     "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdACG8FQD09FB7EwFAAP7RmDDeCZ+MnIxfvZR0CLwQl+XOiLWFFV6i9HrYpH3pzOi7mMPDcpecc+w6ex8vBOhI1CqD3SnFyucsa/zn3aHrVcyFLdkDvzunij1AWN+5l5qR/VHCBopH09YDBh198GeMCtd82H8AAA==",
+     "color": "rgb(8 8 8)",
+     "lowRes": true
+    }
+   ]
+  }
+ ]
+}

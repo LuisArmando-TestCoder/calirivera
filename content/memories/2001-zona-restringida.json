@@ -3,7 +3,7 @@
  "slug": "2001-zona-restringida",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 168,
  "image": {
   "src": "/media/memoria/2001-zona-restringida-500.jpg",
@@ -22,7 +22,9 @@
  "source": "wayback",
  "aiAltered": false,
  "title": "Zona restringida",
- "year": 2001,
+ "year": 2003,
  "seenAt": "2016-12-07",
- "sourceUrl": "https://web.archive.org/web/20161207161631id_/http://calirivera.com/images/obras-galeria/identidad_2001/zona_restringida.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161207161631id_/http://calirivera.com/images/obras-galeria/identidad_2001/zona_restringida.jpg",
+ "collectionId": "transmutacion",
+ "yearApprox": false
 }

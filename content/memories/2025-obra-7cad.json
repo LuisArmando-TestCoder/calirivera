@@ -3,7 +3,7 @@
  "slug": "2025-obra-7cad",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 333,
  "image": {
   "src": "/media/memoria/2025-obra-7cad-266.jpg",
@@ -20,8 +20,9 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "year": 2025,
- "yearApprox": true,
+ "year": 2001,
+ "yearApprox": false,
  "seenAt": "2025-07-27",
- "sourceUrl": "https://web.archive.org/web/20250727021546id_/http://calirivera.com/cache/preview/c37909c48109f28d98d3cfab2db80936.jpg"
+ "sourceUrl": "https://web.archive.org/web/20250727021546id_/http://calirivera.com/cache/preview/c37909c48109f28d98d3cfab2db80936.jpg",
+ "collectionId": "plegaria"
 }

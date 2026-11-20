@@ -3,7 +3,7 @@
  "slug": "2016-continentes-en-duelo",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 224,
  "image": {
   "src": "/media/memoria/2016-continentes-en-duelo-406.jpg",
@@ -21,8 +21,9 @@
  "source": "wayback",
  "aiAltered": false,
  "title": "Continentes en duelo",
- "year": 2016,
- "yearApprox": true,
+ "year": 2006,
+ "yearApprox": false,
  "seenAt": "2016-12-06",
- "sourceUrl": "https://web.archive.org/web/20161206080609id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/continentes_en_duelo.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161206080609id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/continentes_en_duelo.jpg",
+ "collectionId": "el-agua-como-elemento"
 }

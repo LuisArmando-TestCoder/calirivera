@@ -3,7 +3,7 @@
  "slug": "2003-transmu",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 93,
  "image": {
   "src": "/media/memoria/2003-transmu-493.jpg",
@@ -23,5 +23,6 @@
  "title": "Transmutación",
  "year": 2003,
  "seenAt": "2016-12-06",
- "sourceUrl": "https://web.archive.org/web/20161206210605id_/http://calirivera.com/images/obras-galeria/transmutacion_2003/transmu6.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161206210605id_/http://calirivera.com/images/obras-galeria/transmutacion_2003/transmu6.jpg",
+ "collectionId": "transmutacion"
 }

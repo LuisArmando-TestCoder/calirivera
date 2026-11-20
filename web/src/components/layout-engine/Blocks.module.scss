@@ -72,6 +72,9 @@ div:has(> .p) + div:has(> .p) { margin-top: 0.35em; }
   overflow: hidden;
   iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 }
+// el video con su nombre debajo (la videoteca tiene muchos: hay que saber cuál es cuál)
+.videoFig { margin: 0; display: grid; gap: var(--space-xs); }
+.videoCap { @include label; color: inherit; opacity: 0.8; text-wrap: balance; }
 .videoBtn {
   position: absolute; inset: 0; display: grid; place-items: center; padding: 0;
   img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.85; filter: saturate(0.8);

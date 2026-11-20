@@ -1,0 +1,40 @@
+{
+ "slug": "el-agua-como-elemento-del-corazon",
+ "status": "published",
+ "collectionId": "el-agua-como-elemento",
+ "aiAltered": false,
+ "order": 4,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "el-agua-como-elemento-del-corazon",
+ "title": "Del corazón",
+ "images": [
+  {
+   "src": "/media/memoria/2016-del-corazon-250.jpg",
+   "alt": "Del corazón — El agua como elemento",
+   "width": 250,
+   "height": 640,
+   "widths": [
+    250
+   ],
+   "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASoQACkAPu1eqE2ppKOiNVgIATAdiWwAnTLVP/hWb1xBW77QUZfzaiOPft0jAAD+6jhHetlHpNlFvTlWN7DiZrn/vj1lH5Qy9rNl+J74cEDsAtSFc2Ffv1BHToeGPL7S4qgPMjGZ9EgfNS9OlRENkrOpIPxhPt8KJ9h5OK+rbjaqjbK6jWh6AFJn2v4IK/uHSl6UbsYpZDMppF+rncWM+XGtZousZptjBp9sL3TZUmLWd07OJsAfysrXggYaDGX5w2P+T0598wAAAA==",
+   "color": "rgb(104 56 40)",
+   "lowRes": true
+  },
+  {
+   "src": "/media/memoria/2016-detalle-del-corazon-640.jpg",
+   "alt": "Del corazón (detalle) — El agua como elemento",
+   "width": 640,
+   "height": 480,
+   "widths": [
+    480,
+    640
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAwAA4BaJbACdAEXddPv334AAP6Yr1LGib4dosvPWbbs+VnwvrJpY/eZLffAm96Ati7XgQ/x9lLaYtX0hU5vu6sxuz6d+lkSc7sIqfybst8AAAA=",
+   "color": "rgb(200 56 56)",
+   "lowRes": true
+  }
+ ],
+ "year": 2006,
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas)."
+}

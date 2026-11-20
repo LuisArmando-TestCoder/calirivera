@@ -1,0 +1,29 @@
+{
+ "slug": "prayer-flags-bandera-7",
+ "status": "published",
+ "collectionId": "prayer-flags",
+ "aiAltered": false,
+ "order": 7,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "prayer-flags-bandera-7",
+ "title": "Bandera 7",
+ "images": [
+  {
+   "src": "/media/memoria/2003-bandera12-480.jpg",
+   "alt": "Bandera 7 — Prayer Flags, 2003. Cementerio de San Rafael de Cartago",
+   "width": 480,
+   "height": 684,
+   "widths": [
+    480
+   ],
+   "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JYwCsACIPU8eVsk5MGpySQAD+04YiTNOzTP104SD/SJqVXe421zkJ4Apibe/GAAw+BYkNTgAFN1ct6VHgtZqMD+JCjfiMyvZKJh98pieVvwCsvE4h6+6Euq637b1pOYGw4PvRgAA=",
+   "color": "rgb(184 200 200)",
+   "lowRes": true
+  }
+ ],
+ "year": 2003,
+ "technique": "Mixta sobre textil industrial: impresión de cuerpos con pintura, bordados en lentejuelas rojas y resina",
+ "dimensions": "6 × 1,4 m",
+ "notes": "Fotografiada en: Cementerio de San Rafael de Cartago."
+}

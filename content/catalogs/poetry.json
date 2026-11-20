@@ -3,7 +3,7 @@
  "slug": "poetry",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "kind": "project",
  "title": "Poetry",
  "year": "2001",
@@ -18,7 +18,73 @@
    "type": "paragraph",
    "id": "poetry-3",
    "text": "LOS SENTIDOS COMO FORMA PRIMARIA DE PERCIBIR LA REALIDAD"
+  },
+  {
+   "type": "gallery",
+   "id": "poetry-galeria",
+   "images": [
+    {
+     "src": "/media/memoria/2001-poetry-2881-449.jpg",
+     "alt": "Poetry, instalación de Cali Rivera, 2001",
+     "width": 449,
+     "height": 222,
+     "widths": [
+      449
+     ],
+     "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAgAA4BaJZQC7AEUa+H8ckAA/sElcB0XZyCgkN57MK6HtQRm6IOh9U2C4lH108VbDal23Ud+zB3qcVWsL5RJRafgqcY72+MAAA==",
+     "color": "rgb(24 24 40)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2001-poetry-f43d-450.jpg",
+     "alt": "Poetry, instalación de Cali Rivera, 2001",
+     "width": 450,
+     "height": 311,
+     "widths": [
+      450
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAsAA4BaJbACdDBMAUZGYqbxgAD+RZTkPrxz+axcNzO8PHNljk+orB64r14jLZEud2kfyM6aI5bNcmWYijfJwRPqqx4sR6J4N8IxnKYP+535ghuVhPwTJzfcQ5AAAAA=",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2001-poetry-391.jpg",
+     "alt": "Poetry, instalación de Cali Rivera, 2001",
+     "width": 391,
+     "height": 438,
+     "widths": [
+      391
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoQABIAPu1iqU2ppaOiMAgBMB2JaACsOUAAqbGZj71ByQAA/sj8ryFceTxRdoT6o51Bh2GupOK+wOMplDSGVWn9pXYvYhDaM2kq3uzxtXDlZXXoAAyRcM7rVKwVCheMBxxEwAAA",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2001-poetry-f47e-450.jpg",
+     "alt": "Poetry, instalación de Cali Rivera, 2001",
+     "width": 450,
+     "height": 288,
+     "widths": [
+      450
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoQAAoAA4BaJbACdADGQPfvwADL/bwIlXCSQK2jNXNfEN5dpLsL3gJgPByx4gY/aZ+Zcd9Nq/TYyvOrwhmflndaOA77OwGx8M/7IeLQ9AMca09uRt3uxXlFpXTcQAAA",
+     "color": "rgb(232 72 56)",
+     "lowRes": true
+    }
+   ]
   }
  ],
- "order": 100
+ "order": 100,
+ "cover": {
+  "src": "/media/memoria/2001-poetry-f43d-450.jpg",
+  "alt": "Poetry, instalación de Cali Rivera, 2001",
+  "width": 450,
+  "height": 311,
+  "widths": [
+   450
+  ],
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAsAA4BaJbACdDBMAUZGYqbxgAD+RZTkPrxz+axcNzO8PHNljk+orB64r14jLZEud2kfyM6aI5bNcmWYijfJwRPqqx4sR6J4N8IxnKYP+535ghuVhPwTJzfcQ5AAAAA=",
+  "color": "rgb(248 248 248)",
+  "lowRes": true
+ }
 }

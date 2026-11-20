@@ -3,7 +3,7 @@
  "slug": "2025-obra-7ba2",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 312,
  "image": {
   "src": "/media/memoria/2025-obra-7ba2-400.jpg",
@@ -20,8 +20,9 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "year": 2025,
- "yearApprox": true,
+ "year": 2006,
+ "yearApprox": false,
  "seenAt": "2025-07-27",
- "sourceUrl": "https://web.archive.org/web/20250727021957id_/http://calirivera.com/cache/preview/52e6df19cdf36ba9451829813b3e582f.jpg"
+ "sourceUrl": "https://web.archive.org/web/20250727021957id_/http://calirivera.com/cache/preview/52e6df19cdf36ba9451829813b3e582f.jpg",
+ "collectionId": "el-agua-como-elemento"
 }

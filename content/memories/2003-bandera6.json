@@ -3,7 +3,7 @@
  "slug": "2003-bandera6",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 174,
  "image": {
   "src": "/media/memoria/2003-bandera6-480.jpg",
@@ -26,5 +26,6 @@
  "yearApprox": true,
  "seenAt": "2011-01-01",
  "sourceUrl": "https://web.archive.org/web/20110101053933id_/http://calirivera.com/prayer_flags/images/bandera6_01.gif",
- "sourcePage": "Bandera 3"
+ "sourcePage": "Bandera 3",
+ "collectionId": "prayer-flags"
 }

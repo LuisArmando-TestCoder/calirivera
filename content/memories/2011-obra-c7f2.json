@@ -3,7 +3,7 @@
  "slug": "2011-obra-c7f2",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 218,
  "image": {
   "src": "/media/memoria/2011-obra-c7f2-427.jpg",
@@ -20,9 +20,9 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "year": 2011,
- "yearApprox": true,
+ "year": 2006,
+ "yearApprox": false,
  "seenAt": "2016-12-06",
- "collectionId": "plegaria",
+ "collectionId": "plegaria-tica-en-francia",
  "sourceUrl": "https://web.archive.org/web/20161206210348id_/http://calirivera.com/images/stories/obras-galeria/plegaria/14a.jpg"
 }

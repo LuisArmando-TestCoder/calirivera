@@ -30,9 +30,26 @@ export function LiteVideo({ url, title, poster }: { url: string; title?: string;
         <iframe src={`https://player.vimeo.com/video/${vimeo}?dnt=1`} title={title ?? "Video"} loading="lazy" allow="fullscreen; picture-in-picture" allowFullScreen />
       </div>
     );
+  // Facebook no da miniatura sin su API: el reproductor se carga recién cuando el video se acerca a la pantalla
+  if (/^https:\/\/(www\.|m\.|web\.)?facebook\.com\/|^https:\/\/fb\.watch\//.test(url))
+    return (
+      <figure className={s.videoFig}>
+        <div className={s.video}>
+          <iframe
+            src={`https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(url)}&show_text=false`}
+            title={title ?? "Video"}
+            loading="lazy"
+            allow="encrypted-media; picture-in-picture; web-share"
+            allowFullScreen
+          />
+        </div>
+        {title && <figcaption className={s.videoCap}>{title}</figcaption>}
+      </figure>
+    );
   if (!id) return <a href={url}>{title ?? "Ver video"}</a>;
   const thumb = poster ?? `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
   return (
+    <figure className={s.videoFig}>
     <div className={s.video} ref={box}>
       {on ? (
         <iframe
@@ -51,5 +68,7 @@ export function LiteVideo({ url, title, poster }: { url: string; title?: string;
         </button>
       )}
     </div>
+    {title && <figcaption className={s.videoCap}>{title}</figcaption>}
+    </figure>
   );
 }

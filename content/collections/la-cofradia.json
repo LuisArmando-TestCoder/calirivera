@@ -3,7 +3,7 @@
  "slug": "la-cofradia",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-12T08:26:52.440Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "title": "La Cofradía",
  "artworkIds": [
   "la-cofradia-el-ojo-del-cosmos",
@@ -14,7 +14,8 @@
   "la-cofradia-arcangel-rafael",
   "la-cofradia-arcangel-gabriel",
   "la-cofradia-caliz",
-  "la-cofradia-candela"
+  "la-cofradia-candela",
+  "la-cofradia-el-triunfo-del-tiempo"
  ],
  "order": 70,
  "period": "2017",

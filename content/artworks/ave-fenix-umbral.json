@@ -1,0 +1,29 @@
+{
+ "slug": "ave-fenix-umbral",
+ "status": "published",
+ "collectionId": "ave-fenix",
+ "aiAltered": false,
+ "order": 3,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "ave-fenix-umbral",
+ "title": "Umbral",
+ "images": [
+  {
+   "src": "/media/memoria/2000-umbral-291.jpg",
+   "alt": "Umbral — Ave Fénix, 2000",
+   "width": 291,
+   "height": 453,
+   "widths": [
+    291
+   ],
+   "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABkAPu1orU6ppiSiMAgBMB2JbAC7AGjrsTHQFQbZW/2AAP7zdV9aY8mwjvfHbZPPSP621MTzWO9Njh/qLMROIkQ0b8buCNpQQuqTBluxc/9ZMvxKV4H5YimJczNsH8XrzqmK5kq+TyTwAAA=",
+   "color": "rgb(216 200 184)",
+   "lowRes": true
+  }
+ ],
+ "year": 2000,
+ "technique": "Técnica mixta: acrílico y estuco",
+ "dimensions": "151 × 97 cm",
+ "notes": "Texto y fotos del sitio calirivera.com (2026)."
+}

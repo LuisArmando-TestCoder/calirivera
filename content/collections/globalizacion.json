@@ -1,0 +1,87 @@
+{
+ "id": "globalizacion",
+ "slug": "globalizacion",
+ "status": "published",
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "title": "Globalización",
+ "period": "2004",
+ "order": 56,
+ "artworkIds": [],
+ "subtitle": "XXIV Simposio de Tortugas Marinas",
+ "technique": "Alfombras típicas costarricenses, textiles y objetos, intervenidos con pintura",
+ "statement": "Cinco banderas confeccionadas con alfombras típicas costarricenses, textiles y objetos, e intervenidas con pintura.",
+ "cover": {
+  "src": "/media/colecciones/globalizacion/globalizacion-4-400.jpg",
+  "widths": [
+   400
+  ],
+  "width": 400,
+  "height": 266,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAsAA4BaJQBOgMXS2xPZhGhcmAD+0P8DyaMidp9oMEMBJfFrw9jiHzWND4M641fenP3DLorcbdtMzHnKyRNQQDpKkyjrBcqxukdr9RFusrihGWbZeJvdsAA=",
+  "color": "rgb(106 91 86)",
+  "alt": "Globalización: banderas instaladas, 2004",
+  "lowRes": true
+ },
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "globalizacion-1",
+   "text": "Instalación de cinco banderas para celebrar el XXIV Simposio de Tortugas Marinas (Sea Turtle Symposium XXIV), realizado en Costa Rica en 2004."
+  },
+  {
+   "type": "gallery",
+   "id": "globalizacion-2",
+   "images": [
+    {
+     "src": "/media/memoria/2004-invitacion-taller-400.jpg",
+     "alt": "Invitación a Globalización en el Taller del Artista, 2004",
+     "width": 400,
+     "height": 553,
+     "widths": [
+      400
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoQABYAPu1iqk2ppaQiMAgBMB2JaQAASrb+GqVnXAZx4AD+8DoBxcoTebnW/yZ/ygrwLzz6l6MLaF52mzSh3g4G/DGYaLZBIXXo8ZyjzPPzqvI1wgQAAA==",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2004-internacional-sea-turtle-400.jpg",
+     "alt": "Afiche del XXIV International Sea Turtle Symposium",
+     "width": 400,
+     "height": 810,
+     "widths": [
+      400
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoQACAAPu1orU2ppqSiMAgBMB2JZwABHuoDExyAJhLgAP76yE/A3TUxypN+vc3d63ttdHfd0dgM/NBgF5fvTEoMuviPersMNL0Z8+KqhBUBghZ2yV8+OL8t8QoF86NLAAA=",
+     "color": "rgb(232 232 216)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2004-ff-400.jpg",
+     "alt": "Invitación al XXIV Simposio de Tortugas Marinas",
+     "width": 400,
+     "height": 582,
+     "widths": [
+      400
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JZwDE2CNOX18Iw8+DhPAA/u1boPGFOBuv6zmibLaaK6a2TdQTU2A4HKZz3bOeED8lCOZaHatfpW0uGw4e5T3s4sAAAA==",
+     "color": "rgb(232 232 232)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/colecciones/globalizacion/globalizacion-4-400.jpg",
+     "widths": [
+      400
+     ],
+     "width": 400,
+     "height": 266,
+     "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAsAA4BaJQBOgMXS2xPZhGhcmAD+0P8DyaMidp9oMEMBJfFrw9jiHzWND4M641fenP3DLorcbdtMzHnKyRNQQDpKkyjrBcqxukdr9RFusrihGWbZeJvdsAA=",
+     "color": "rgb(106 91 86)",
+     "alt": "Globalización: banderas instaladas, 2004",
+     "lowRes": true
+    }
+   ]
+  }
+ ]
+}

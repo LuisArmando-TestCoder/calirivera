@@ -74,7 +74,7 @@ export function cleanBlock(v: unknown, path: string, errors: Errors): Block | nu
     case "video": {
       // solo enlaces a reproductores que se pueden incrustar (el sitio no aloja archivos de video)
       const url = str(o.url);
-      if (!/^https:\/\/((www\.|m\.)?youtube\.com\/|youtu\.be\/|(www\.|player\.)?vimeo\.com\/)/.test(url)) errors[`${path}.url`] = "Pegá el enlace de YouTube o Vimeo (empieza con https://)";
+      if (!/^https:\/\/((www\.|m\.)?youtube\.com\/|youtu\.be\/|(www\.|player\.)?vimeo\.com\/|(www\.|m\.|web\.)?facebook\.com\/|fb\.watch\/)/.test(url)) errors[`${path}.url`] = "Pegá el enlace de YouTube, Vimeo o Facebook (empieza con https://)";
       return { type, id, url: url.slice(0, 300), ...(str(o.title) ? { title: str(o.title).slice(0, 160) } : {}) } as unknown as Block;
     }
     case "image": {

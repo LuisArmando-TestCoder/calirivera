@@ -1,0 +1,30 @@
+{
+ "slug": "prayer-flags-bandera-9",
+ "status": "published",
+ "collectionId": "prayer-flags",
+ "aiAltered": false,
+ "order": 9,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "prayer-flags-bandera-9",
+ "title": "Bandera 9",
+ "images": [
+  {
+   "src": "/media/memoria/2003-bandera14-480.jpg",
+   "alt": "Bandera 9 — Prayer Flags, 2003. Parque de la Basílica de Nuestra Señora de los Ángeles, Cartago",
+   "width": 480,
+   "height": 589,
+   "widths": [
+    480
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JYwC7ACPpINm4VEw368cwAP7f+L++7qHl58GGcjB0e0y2+uH0EhD95DrfPUDQ8vdb1w/UKHO8tXwXDHeYQOwGkyfkfMJZebSXrqz4dndvGU3bqGyhwAAA",
+   "color": "rgb(232 232 232)",
+   "lowRes": true
+  }
+ ],
+ "year": 2003,
+ "technique": "Mixta sobre textil industrial: pintura, gel, objetos y resina",
+ "dimensions": "6 × 1,4 m",
+ "notes": "Fotografiada en: Parque de la Basílica de Nuestra Señora de los Ángeles, Cartago. Esta bandera fue robada durante el Festival Internacional de las Artes (FIA) de 2006.",
+ "availability": "lost"
+}

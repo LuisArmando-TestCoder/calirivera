@@ -3,7 +3,7 @@
  "slug": "2011-boletin",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 170,
  "image": {
   "src": "/media/memoria/2011-boletin-460.jpg",
@@ -20,9 +20,9 @@
  "kind": "documento",
  "source": "wayback",
  "aiAltered": false,
- "year": 2011,
- "yearApprox": true,
+ "year": 2006,
+ "yearApprox": false,
  "seenAt": "2013-12-20",
- "collectionId": "plegaria",
+ "collectionId": "plegaria-tica-en-francia",
  "sourceUrl": "https://web.archive.org/web/20131220095708id_/http://calirivera.com/images/stories/obras/plegaria_francia/boletin.jpg"
 }

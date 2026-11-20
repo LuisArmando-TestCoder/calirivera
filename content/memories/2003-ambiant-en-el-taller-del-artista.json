@@ -3,7 +3,7 @@
  "slug": "2003-ambiant-en-el-taller-del-artista",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 344,
  "image": {
   "src": "/media/memoria/2003-ambiant-en-el-taller-del-artista-360.jpg",
@@ -26,5 +26,6 @@
  "yearApprox": true,
  "seenAt": "2021-09-26",
  "sourceUrl": "https://web.archive.org/web/20210926145700id_/http://calirivera.com/images/stories/exposiciones/transmutacion/ambiant2.jpg",
- "sourcePage": "Transmutaci%ef%bf%bd%ef%bf%bdn.html?task=view&id=59"
+ "sourcePage": "Transmutaci%ef%bf%bd%ef%bf%bdn.html?task=view&id=59",
+ "collectionId": "transmutacion"
 }

@@ -1,0 +1,27 @@
+{
+ "slug": "el-agua-como-elemento-azul-de-murano",
+ "status": "published",
+ "collectionId": "el-agua-como-elemento",
+ "aiAltered": false,
+ "order": 5,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "el-agua-como-elemento-azul-de-murano",
+ "title": "Azul de Murano",
+ "images": [
+  {
+   "src": "/media/memoria/2016-azul-de-murano-426.jpg",
+   "alt": "Azul de Murano — El agua como elemento",
+   "width": 426,
+   "height": 640,
+   "widths": [
+    426
+   ],
+   "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdACBTCtmeX3YwLi2EXAAA/f5fFnGGX6YqwGSmrEdL2TuWPw5hPMhpATZaxfrLq7YggPlqTjwKBV/SagTflXsIZPpYnZbVvlWzk5fkeetnUEtef8AA",
+   "color": "rgb(168 184 184)",
+   "lowRes": true
+  }
+ ],
+ "year": 2006,
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas)."
+}

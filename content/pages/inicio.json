@@ -3,7 +3,7 @@
  "slug": "inicio",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-15T01:54:41.621Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "title": "Inicio",
  "description": "Cali Rivera, artista multidisciplinario costarricense. Colecciones, catálogos y el Taller del Artista.",
  "hero": {
@@ -17,12 +17,13 @@
    {
     "image": {
      "src": "/media/inicio/obra-portada-900.webp",
-     "alt": "Arte objeto de Cali Rivera: querubín que sostiene un ramo de rosas sobre un jarrón de porcelana",
+     "alt": "El triunfo del tiempo (2017), arte objeto de Cali Rivera: figura alada que sostiene un ramo de rosas sobre una lámpara de porcelana",
      "width": 900,
      "height": 1600
     },
-    "title": "Arte objeto",
-    "href": "/colecciones"
+    "title": "El triunfo del tiempo",
+    "href": "/obra/la-cofradia-el-triunfo-del-tiempo",
+    "period": "La Cofradía · 2017"
    },
    {
     "image": {

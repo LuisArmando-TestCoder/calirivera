@@ -1,0 +1,29 @@
+{
+ "id": "la-cofradia-el-triunfo-del-tiempo",
+ "slug": "la-cofradia-el-triunfo-del-tiempo",
+ "status": "published",
+ "title": "El triunfo del tiempo",
+ "collectionId": "la-cofradia",
+ "images": [
+  {
+   "src": "/media/la-cofradia/el-triunfo-del-tiempo-900.jpg",
+   "widths": [
+    640,
+    900
+   ],
+   "width": 900,
+   "height": 1600,
+   "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoQABwAPu1mqk4ppaOiMAgBMB2JYwCdABjrPLZjVO+XCgAA/vMlOahDP2/nXRwLQZR7C+1lYj2Ls5YTwZy4g1TrwWKrf/eiZ+WiIkO0iyrzihMRLhzgAD/Hg6DqhhEZnb8Y3Z4wQHxttuXkMdY3B+9LzwV1kVoUmQgSuAAA",
+   "color": "rgb(38 26 15)",
+   "alt": "El triunfo del tiempo — La Cofradía, 2017: figura alada que sostiene un ramo de rosas sobre una lámpara de porcelana"
+  }
+ ],
+ "aiAltered": false,
+ "order": 10,
+ "year": 2017,
+ "technique": "Arte objeto",
+ "availability": "private-collection",
+ "notes": "Construida a partir de los fragmentos de una antigua lámpara de porcelana que acompañó la infancia del artista, regalo de su madre, destruida en un accidente. Sobre la porcelana herida emerge una figura alada que sostiene un ramo de rosas. Actualmente en colección privada. Ficha del catálogo La Cofradía (2026).",
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z"
+}

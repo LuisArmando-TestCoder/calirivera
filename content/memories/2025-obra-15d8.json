@@ -3,7 +3,7 @@
  "slug": "2025-obra-15d8",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 330,
  "image": {
   "src": "/media/memoria/2025-obra-15d8-400.jpg",
@@ -20,8 +20,9 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "year": 2025,
- "yearApprox": true,
+ "year": 2006,
+ "yearApprox": false,
  "seenAt": "2025-07-27",
- "sourceUrl": "https://web.archive.org/web/20250727011017id_/http://calirivera.com/cache/preview/41ba062c6fdca8049b58f8490ac0edf9.jpg"
+ "sourceUrl": "https://web.archive.org/web/20250727011017id_/http://calirivera.com/cache/preview/41ba062c6fdca8049b58f8490ac0edf9.jpg",
+ "collectionId": "plegaria-tica-en-francia"
 }

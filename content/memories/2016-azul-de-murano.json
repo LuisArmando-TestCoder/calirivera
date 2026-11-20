@@ -3,7 +3,7 @@
  "slug": "2016-azul-de-murano",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 212,
  "image": {
   "src": "/media/memoria/2016-azul-de-murano-426.jpg",
@@ -21,8 +21,9 @@
  "source": "wayback",
  "aiAltered": false,
  "title": "Azul de Murano",
- "year": 2016,
- "yearApprox": true,
+ "year": 2006,
+ "yearApprox": false,
  "seenAt": "2016-12-07",
- "sourceUrl": "https://web.archive.org/web/20161207015932id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/azul_de_murano.jpg"
+ "sourceUrl": "https://web.archive.org/web/20161207015932id_/http://calirivera.com/images/stories/obras-galeria/obras_agua/azul_de_murano.jpg",
+ "collectionId": "el-agua-como-elemento"
 }

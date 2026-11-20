@@ -1,0 +1,27 @@
+{
+ "slug": "el-agua-como-elemento-mantos-acuiferos",
+ "status": "published",
+ "collectionId": "el-agua-como-elemento",
+ "aiAltered": false,
+ "order": 6,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "el-agua-como-elemento-mantos-acuiferos",
+ "title": "Mantos acuíferos",
+ "images": [
+  {
+   "src": "/media/colecciones/el-agua-como-elemento/mantos-acuiferos-640.jpg",
+   "widths": [
+    640
+   ],
+   "width": 640,
+   "height": 485,
+   "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAwAA4BaJbACdADiF7/Y9YAA+SOsLa+A3Z7K3ehV33mHr2V/AdtRXolURj9tUViqzYOOSxP13X9BRBxpHEWF+2lj5dvjfKXdzPH5gsxcMAAA",
+   "color": "rgb(152 130 131)",
+   "alt": "Mantos acuíferos — El agua como elemento",
+   "lowRes": true
+  }
+ ],
+ "year": 2006,
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas)."
+}

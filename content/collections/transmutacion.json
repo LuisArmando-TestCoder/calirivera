@@ -1,0 +1,321 @@
+{
+ "id": "transmutacion",
+ "slug": "transmutacion",
+ "status": "published",
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "title": "Transmutación",
+ "period": "2003",
+ "order": 52,
+ "artworkIds": [],
+ "subtitle": "Un «ambiance» de Cali Rivera · octubre de 2003",
+ "technique": "Instalación de 260 m² con muebles de época, resinas, pintura y objetos",
+ "statement": "De un proceso de investigación iniciado hace ya varios años nace una lectura del acontecer mundial y sus consecuencias en el ser humano, mediante imágenes creadas a través de las resinas, la pintura, los objetos y otros elementos contemporáneos.",
+ "cover": {
+  "src": "/media/memoria/2003-transmutacion-360.jpg",
+  "alt": "Transmutación, instalación de Cali Rivera, 2003",
+  "width": 360,
+  "height": 279,
+  "widths": [
+   360
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJYgCdADRWmwk8ydOAAD+acUPJwdyBP49kJ8zfiBO0c6n9madAShhrXVbnsuMA3th1M2ZjdBwjXY7rhRLfwMrX1xRn2CKlCCuS7yUAAA=",
+  "color": "rgb(216 184 152)",
+  "lowRes": true
+ },
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "transmutacion-1",
+   "text": "Intervención arquitectónica del espacio para inaugurar el Café Arte Costa Rica: una instalación de 260 m² con muebles de época y obra de investigación."
+  },
+  {
+   "type": "paragraph",
+   "id": "transmutacion-2",
+   "text": "La problemática del petróleo y las soluciones que ofrecen las grandes potencias ponen nuevamente en entredicho nuestra condición de seres pensantes, pues pareciera que la devastadora experiencia de la guerra sigue siendo el resultado. La avaricia de los grandes y la falta de una conciencia colectiva hacia la tolerancia nos hacen aparecer, frente al vasto universo evolutivo, como una especie de bárbaros y primitivos."
+  },
+  {
+   "type": "paragraph",
+   "id": "transmutacion-3",
+   "text": "En esta puesta del Taller se invitó a la diseñadora de joyas Julieta Odio y, por primera vez, a un chef: Jorge Eduardo Chacón, quien realizó la apertura del Café Arte Costa Rica con el respaldo del restaurante Hama Sushi."
+  },
+  {
+   "type": "paragraph",
+   "id": "transmutacion-4",
+   "text": "Acondicionado con sillas coloniales costarricenses originales, butacas art déco y arte moderno, el Taller del Artista nuevamente se refresca. Así nació Transmutación."
+  },
+  {
+   "type": "quote",
+   "id": "transmutacion-5",
+   "text": "Haciendo un recorrido desde sus telas abstractas hasta sus innovadoras piezas de resina epóxica, encontramos una experiencia plena de gozo por la vida, deseo de comunicación y gran armonía con su tiempo y realidad; su estética se constituye de una gran sensibilidad permeable a los estímulos que el arte en todas sus disciplinas le ofrece. Pasión y coraje de un solo golpe detonan la llama de la creación y el artista vive el regocijo que el arte nos brinda.",
+   "cite": "Mario Maffioli, artista"
+  },
+  {
+   "type": "gallery",
+   "id": "transmutacion-6",
+   "images": [
+    {
+     "src": "/media/memoria/2001-zona-restringida-500.jpg",
+     "alt": "Zona restringida — Transmutación, 2003",
+     "width": 500,
+     "height": 571,
+     "widths": [
+      480,
+      500
+     ],
+     "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoQABIAPu1iqU2ppaOiMAgBMB2JZgCdB2gAR4+mmx/14To4q+byOAD+2n+sH2eDpPz6haISfU+k/KGu9ZfXSxNhStDCHZHCQIkyQc3NUieNvbILVzi/szeBrjnpUyUT6T9NNOkhJth0GRXqKLJqRE+I3m/oRNZYouk4bzu21CAAAA==",
+     "color": "rgb(24 8 24)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-2078-556.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 556,
+     "height": 400,
+     "widths": [
+      480,
+      556
+     ],
+     "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoQAAwAA4BaJbACdAD8e+Cu7yAA/uTvPDkTNCDHmwylUS1c4BV3X9HXhSaXteM1uHyBU6B2oz2b72sCET/pLGzj1JEb7i8NE8iScIZwYyQmmoIg0IQOwGkPB43PB/kANlxL16JBQeKBOhUaMUAAAA==",
+     "color": "rgb(152 40 40)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-ambiant-en-el-taller-del-artista-360.jpg",
+     "alt": "Ambiant en el Taller del Artista — Transmutación, 2003",
+     "width": 360,
+     "height": 270,
+     "widths": [
+      360
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAwAA4BaJZQAD45Q49feBVbLgAD+81/3Mpscu/bKIGSB0fxcxkMdpNvB3ZidrA9UneVnOw2wYtfG2fdWGAkE2IOHYisf7C0O/A4ay3Bi7GOt47NWMxKkDeMZGYJzeld8gAAA",
+     "color": "rgb(8 8 8)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmutacion-360.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 360,
+     "height": 279,
+     "widths": [
+      360
+     ],
+     "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJYgCdADRWmwk8ydOAAD+acUPJwdyBP49kJ8zfiBO0c6n9madAShhrXVbnsuMA3th1M2ZjdBwjXY7rhRLfwMrX1xRn2CKlCCuS7yUAAA=",
+     "color": "rgb(216 184 152)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/colecciones/transmutacion/transmutacion-05-805.jpg",
+     "widths": [
+      640,
+      805
+     ],
+     "width": 805,
+     "height": 600,
+     "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQAAwAA4BaJaACdAYtzQPRAk4AAP3rSc+7nFKk6GeKeOf4kRm0f+09DcfRj0x4iOCv1c55jXbQ19WchaJiDeVgvuhh+Y2afT8aPliQiEtUZMzXVWqsPb1evP0dnJCEIAA=",
+     "color": "rgb(184 158 166)",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003"
+    },
+    {
+     "src": "/media/memoria/2025-obra-7d1e-297.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 297,
+     "height": 400,
+     "widths": [
+      297
+     ],
+     "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdGaaEDyLy6EVOniE3oY99OkAA/nLt+AdNasaw1uA22ihr4wZ0JlJQJeq70Z4dKAjivK5ATaKzOvF4RduWaGoLpnHxYJoEdGdRYkpOYuE593mszZlnDOJccM3Y5NDvG9t/A4iPmULzRkI0YhMMIko58wft/TBUjXc6jC4HOZv3cDLgsnT4wO9/v29nAoqn5/9sldeX80+r8FvDt2wnpI/x9NRhw94bb36hk7gEf93X2U8k3Jl4/Odm5XJWkRdnVihGnskAAA==",
+     "color": "rgb(248 248 248)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-2dee-296.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 296,
+     "height": 480,
+     "widths": [
+      296
+     ],
+     "placeholder": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAAAQBgCdASoQABoAPu1iqk2ppaQiMAgBMB2JbACdMoR3IsBxUm6NeoArsEAIKEGPOIrmqEw1EzSnOAAA+OSP+5Os/IgUl5jWMxSfVZUggUDJooQZY1FYNO/Lt2GX1RZcinQHmfk5Tmlk47RCgEXrkGPavqroDTOJxNdSOErWbLK8kAcJKOW+hEk7NhvK68z9fsK3+U3PL70xAB+khl/U1aY4TpQMDB3OAFfyAFmnrnRZH31QdLgD0G6Tvt/h3+PqvVLYg4j43/CeyWebHb8L8UTyWMNHeqLRzADhOMverKvsIgK0AM2xOZTk+2pFwZv8Uc0u+Unufqq4fvgj3CspkFg4//HJ5AAA",
+     "color": "rgb(200 72 40)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2025-obra-34ff-260.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 260,
+     "height": 400,
+     "widths": [
+      260
+     ],
+     "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACwBACdASoQABkAPu1iqU2ppaOiMAgBMB2JbACdAYvq5faMhlSKPRVrP4Om6QFQAP29HW+NOOJ8sEVhvDxFktsU1rjoKdy8DaTS0JM/eP8DuK8iK0Cx2UfiQ1dxeb78nOUgaANccAD3J0N7g3f5b5EJuw7a2PgGoWH/hn0XQOKYiH/Zfjzce+NEqO28ZTOUmM8bRG1usy5aD7cn5VAfdjihV7IQKMDCyJ6/Erp/Qy/VJo6Cf5HCG/51kXN38eAA",
+     "color": "rgb(72 40 104)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-6630-600.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 600,
+     "height": 471,
+     "widths": [
+      480,
+      600
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAwAA4BaJbACdADRCq+CdFHAAP60Af9nEfZtsZcJGkelF1Mgv7KogePzKemq/bNRuvuhob9wxTi6nvwQJlkmn98j/SelfHDB3VWbRt0eGH+ijeu2e75LuCWZU996+LVS+JVF3tV3wAAA",
+     "color": "rgb(248 232 216)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-90eb-702.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 702,
+     "height": 314,
+     "widths": [
+      480,
+      702
+     ],
+     "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAQCdASoQAAcAA4BaJbAAAbh5qwAA4h6LeIYcL9p7fh6y+LLjCxBm6qR+29ld5aStznQ53DrgYNLSPELCZ/9Sw1vbJh1bGbpg4AAA",
+     "color": "rgb(216 152 184)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-e13d-500.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 500,
+     "height": 530,
+     "widths": [
+      480,
+      500
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JaACdMoADZRvBMUh6YlsAAP4/hJf9GRuvNc30ndn3w1wyCxr3qcqVBHdmnAwXEUZdu3bcndWzzYd+mu6Jfub170vjfqBPicBXw/tuMiWQg6Yfu7xNwAAA",
+     "color": "rgb(152 152 120)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-0ad0-610.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 610,
+     "height": 198,
+     "widths": [
+      480,
+      610
+     ],
+     "placeholder": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAUAA4BaJaACdAfwBloN9wAA/Kx3yV0LbW7grOB56wr4vQMu0e2Cn28AF18OrbcmS2UCeaAAAA==",
+     "color": "rgb(232 200 168)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-0d61-500.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 500,
+     "height": 489,
+     "widths": [
+      480,
+      500
+     ],
+     "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoQABAAA4BaJZgCsDiABysWB2yyp9AgAP7d7bKQwQtSrrzkwhr67VxwcjBU7YWYAG5cyBhM/L2YJyi1kPh5ObpimKYbDJnLnQmIgcjkogcYjwjjILLdDHIk/AP9VzQvu8JFg3EPD5TNhuc4tyeHoZEaa8AAAA==",
+     "color": "rgb(56 56 136)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-7d3a-397.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 397,
+     "height": 508,
+     "widths": [
+      397
+     ],
+     "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBQCdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwIsx9gOQAATc2Yk9rIZU5njowAPI1Y9S+5NTeHD7VxshqUR8mNo9WMCz/XEJrJJewmThVB0kvvPxn5518Mtx9FT1JOUu+hJKY2CA2qZSfbSGRadLQfy+23aHHNZmJMi7ATLp1/iS8vyDVTx0R0cy6t6Cb7vA6tRN1YnWFTbMKdkFekU3B1ZtP7UEqDLkxuwT2fqEIgAA=",
+     "color": "rgb(184 40 24)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2025-obra-4f3b-321.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 321,
+     "height": 400,
+     "widths": [
+      321
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCw7BrXfeILJyegAP6vxWeNzpDuMaqHYsx+gzvcqUiKknxw67ekSyJHEuGuFqy5cnxhE8rwjhUWxuwsDNs8xMC/FBuAIxTskARm65AAAA==",
+     "color": "rgb(184 184 168)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-97fd-600.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 600,
+     "height": 439,
+     "widths": [
+      480,
+      600
+     ],
+     "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQAAwAA4BaJbACdLoAAoMgGGFnyAD5dQqcoWHbp9xiZNG0vzZcBOyVhqXDR/ZC1tTN2jmyS3TIrvQ3abnKjvxwRc0ZH1Mm33N++m87prTH0SpiX7ZaSXkgRss+9teTe68aVsOhe0iA3ltgBZ/avmYAAAA=",
+     "color": "rgb(232 200 152)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-493.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 493,
+     "height": 1149,
+     "widths": [
+      480,
+      493
+     ],
+     "placeholder": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAADQBgCdASoQACYAPt1Yo02opSMiNUgBEBuJbACdMuN5eGQby0+AjAHKAfAEopxRQdLfU5QOjGD9o+IQoZ+2tEAA/uts0DeReU28JEhkAy2PEP92OMWNu+YhabS04qHlNAvjuaUJ7ujOPN7RwHtq6Ucvd0d5vdFwsd+YRnjfr6kCVRvqXS+NI7hRaRP4wFjuOfmvcoGs4NGxjx+7mo3R5aiW9iMxhHo+kF5yiDMEynnRZyvwNXHfw1cvD67cPvegDNV4zPQFs02QUweg5RZjP4L5QKlhNjbrfkfHKVOZhJOcNO8bZvw6IgyJmE43+jY1+FBB9cXcA2H7BTsAjNsv/rPoNL6lx4dLgIGCmRaHVLmy7ukueIlXKg7u0RrtEWCv0HTYz3wbcovSuPqqmFnTIgAA",
+     "color": "rgb(248 248 248)"
+    },
+    {
+     "src": "/media/memoria/2025-obra-70e6-256.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 256,
+     "height": 400,
+     "widths": [
+      256
+     ],
+     "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAwCdASoQABkAPu1iqk2ppaQiMAgBMB2JYgCxDExC4XsYa74ssYAA/mQgAOhGnXbZB6ZZXqvCMYCnXZOILL4XnWsEUX1BRCm/K6FiWfu7D8ION9cSM8OuCAgwoQjXIXWhJsbiCXXr6RN/mP4qDfm5jHydaEI8ONxYc5CYA9VP3TwPM1cCgUuQB176L2e4fGHhAgAA",
+     "color": "rgb(216 184 136)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2001-han-derramado-297.jpg",
+     "alt": "Han derramado sangre — Transmutación, 2003",
+     "width": 297,
+     "height": 488,
+     "widths": [
+      297
+     ],
+     "placeholder": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdBaglABEL+zMGbsDiFgmZ8OzgAP2N/PlaGukjqUpa0Xnq7qIFoZVKTjkG8oko2dPerUczFtHPkD5CSoQ4b3sS2R9Xd7ksUeAAkSpuIQXxdo60k0orfuNYA8UfbDn885oF4hv0VOeyfeiocRAxtjKRgOa5ydw6Hu5uODlrrPILICS64Z7tgjTQArnodlLnR7nsTE9mb/k2cVXnpUmv7U+m8Z2SGHAAAA==",
+     "color": "rgb(72 88 168)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-a211-300.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 300,
+     "height": 463,
+     "widths": [
+      300
+     ],
+     "placeholder": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAACQBQCdASoQABkAPu1iqU2ppaOiMAgBMB2JbACdMoR3JoM4AVIHt+OL3VjgujbOIQ4Vb6+elAD8/XmZa6+4FQAXem14zmEFQyczHMaIG7SrfuDe/glSRfNVzRM0Abvs7srpKS7DJW89cuIcuG42TxEoU/DnhJIdcesGlqACCKQsuSmIB/E3J8lEd7vh3OAR/clDyGOZCwKfeopJqk4HRFUBQZ3yQqTOLHAAFo/I4pZB381MRRza3BunOvuYvYeh1YrIDbo4sowd3+lL4JO914EXPl26LC1oHP/g1pRwAAA=",
+     "color": "rgb(200 56 56)",
+     "lowRes": true
+    },
+    {
+     "src": "/media/memoria/2003-transmu-82e6-600.jpg",
+     "alt": "Transmutación, instalación de Cali Rivera, 2003",
+     "width": 600,
+     "height": 454,
+     "widths": [
+      480,
+      600
+     ],
+     "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAwAA4BaJbACdAELYa0/1PoAAP7x4+1BM0BwdT/eGFDHozwdqSSX0v7Y+uJmS3Fw6qM8GdC8Kmh3VbetlRTNNeTSERZfNAOg285GKY53QnOH+vBkwSDSrj9sbY8bKHVM7XFU72IVWgAA",
+     "color": "rgb(248 232 184)",
+     "lowRes": true
+    }
+   ]
+  }
+ ]
+}

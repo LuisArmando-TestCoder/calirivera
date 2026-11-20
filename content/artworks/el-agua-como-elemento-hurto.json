@@ -1,0 +1,40 @@
+{
+ "slug": "el-agua-como-elemento-hurto",
+ "status": "published",
+ "collectionId": "el-agua-como-elemento",
+ "aiAltered": false,
+ "order": 3,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "el-agua-como-elemento-hurto",
+ "title": "Hurto",
+ "images": [
+  {
+   "src": "/media/memoria/2016-hurto-442.jpg",
+   "alt": "Hurto — El agua como elemento",
+   "width": 442,
+   "height": 640,
+   "widths": [
+    442
+   ],
+   "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoAlsxWcYq9G2SzX5FwAAP6+h+0jt7EWPfWT1i5/a7LZGVZWfmNAOAkAHioM4PWONUj+NqO5ugcD8fRMz9ozFCOj4ftKxOymtRUFWkM/Y93O1ah07PdgXa6q0JGYu8ucOV/b9XW7Qx6KzRWDdtzHcShyRvVLTHyQvN2uguDN+8nt0x28Udtyu8/sOJ2HtNhurSIpaPEOP2v3x/1lycwOQAAA",
+   "color": "rgb(24 24 24)",
+   "lowRes": true
+  },
+  {
+   "src": "/media/memoria/2016-detalle-hurto-640.jpg",
+   "alt": "Hurto (detalle) — El agua como elemento",
+   "width": 640,
+   "height": 480,
+   "widths": [
+    480,
+    640
+   ],
+   "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAwAA4BaJbACdAELRDKT3pnAAP7hc4dxQ9Dh8oMh3eT+jtL4f2FBYv0MCqIgORbI6OrgJGRjwV6WJGS0YN/4udhyPqnNPB6LvOw05M/0PTrixk/8yhwZbbBAAA==",
+   "color": "rgb(216 200 56)",
+   "lowRes": true
+  }
+ ],
+ "year": 2006,
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas)."
+}

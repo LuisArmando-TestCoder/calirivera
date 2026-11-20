@@ -1,6 +1,6 @@
 import path from "node:path";
 import type { NextConfig } from "next";
-import { LEGACY_COLLECTION_SLUGS } from "./src/lib/routes";
+import { LEGACY_2026, LEGACY_COLLECTION_SLUGS } from "./src/lib/routes";
 
 const nextConfig: NextConfig = {
   cacheComponents: true,
@@ -28,6 +28,7 @@ const nextConfig: NextConfig = {
         destination: `/colecciones/${slug}`,
         permanent: true,
       })),
+      ...Object.entries(LEGACY_2026).map(([source, destination]) => ({ source, destination, permanent: true })),
       // Las notas de prensa vivían bajo Trayectoria; ahora «Puntos de vista» es su propia sección.
       { source: "/trayectoria-and-entrevistas/:slug", destination: "/puntos-de-vista/:slug", permanent: true },
     ];

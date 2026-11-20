@@ -1,0 +1,49 @@
+{
+ "id": "prayer-flags",
+ "slug": "prayer-flags",
+ "status": "published",
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "title": "Prayer Flags",
+ "period": "2003",
+ "order": 54,
+ "artworkIds": [
+  "prayer-flags-bandera-1",
+  "prayer-flags-bandera-2",
+  "prayer-flags-bandera-3",
+  "prayer-flags-bandera-4",
+  "prayer-flags-bandera-5",
+  "prayer-flags-bandera-6",
+  "prayer-flags-bandera-7",
+  "prayer-flags-bandera-8",
+  "prayer-flags-bandera-9"
+ ],
+ "subtitle": "El aire como elemento",
+ "technique": "Nueve banderas de seis metros · técnica mixta sobre textil",
+ "statement": "Primera exposición itinerante para parques y plazas de Costa Rica: nueve banderas de seis metros de longitud, instaladas sobre estructuras metálicas de nueve metros.",
+ "cover": {
+  "src": "/media/memoria/2003-bandera4-480.jpg",
+  "alt": "Bandera 1 — Prayer Flags, 2003. Finca Mirasol, Higuito del Guarco, Cartago",
+  "width": 480,
+  "height": 624,
+  "widths": [
+   480
+  ],
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdMoACYFiwZAx2TFRiAAD8xNbwKh/IHo0wtEnT2wivYmKb9NTZ3zAA+3ZX30Kaa6Dc9ujlh3wLqpep0D9y6+6Bw+lRyKHnOFF/uq5UKy2Ki6z7YEgyHvjY8YbGbaxdv16VCvUfp8J8UCfEAAAA",
+  "color": "rgb(120 168 216)",
+  "lowRes": true
+ },
+ "catalogUrl": "/files/prayer_flags.pdf",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "prayer-flags-1",
+   "text": "Presentadas por la Galería Nacional en marzo de 2003, las banderas recorrieron el Parque México, la Plaza Roosevelt y el Parque de la Paz. Son los estandartes alegóricos de la Carta de la Tierra, una obra vinculada al movimiento mundial pro cultura tibetana."
+  },
+  {
+   "type": "paragraph",
+   "id": "prayer-flags-2",
+   "text": "Cada bandera fue fotografiada en un paisaje distinto de Costa Rica. La novena fue robada durante el Festival Internacional de las Artes de 2006; de ese hecho nacieron Plegaria tica en Francia y El agua como elemento."
+  }
+ ]
+}

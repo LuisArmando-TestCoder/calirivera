@@ -3,7 +3,7 @@
  "slug": "2025-obra-34ff",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "order": 337,
  "image": {
   "src": "/media/memoria/2025-obra-34ff-260.jpg",
@@ -20,8 +20,9 @@
  "kind": "obra",
  "source": "wayback",
  "aiAltered": false,
- "year": 2025,
- "yearApprox": true,
+ "year": 2003,
+ "yearApprox": false,
  "seenAt": "2025-07-27",
- "sourceUrl": "https://web.archive.org/web/20250727003835id_/http://calirivera.com/cache/preview/e06685306c91ed12be600940cdb8e110.jpg"
+ "sourceUrl": "https://web.archive.org/web/20250727003835id_/http://calirivera.com/cache/preview/e06685306c91ed12be600940cdb8e110.jpg",
+ "collectionId": "transmutacion"
 }

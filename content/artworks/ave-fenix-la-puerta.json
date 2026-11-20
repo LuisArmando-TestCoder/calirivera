@@ -1,0 +1,30 @@
+{
+ "slug": "ave-fenix-la-puerta",
+ "status": "published",
+ "collectionId": "ave-fenix",
+ "aiAltered": false,
+ "order": 4,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "ave-fenix-la-puerta",
+ "title": "La Puerta",
+ "images": [
+  {
+   "src": "/media/memoria/2000-la-puerta-586.jpg",
+   "alt": "La Puerta — Ave Fénix, 2000",
+   "width": 586,
+   "height": 880,
+   "widths": [
+    480,
+    586
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQBOmUABWfGIeX1onU1MSAAD+WeTMJLJTb8niqFSjWkJ8q7rgYoyKO67aYF4xFkRynMQYUpZfCIsRAAA=",
+   "color": "rgb(184 200 232)",
+   "lowRes": true
+  }
+ ],
+ "year": 2000,
+ "technique": "Técnica mixta: acrílico y estuco",
+ "dimensions": "151 × 97 cm",
+ "notes": "Texto y fotos del sitio calirivera.com (2026)."
+}

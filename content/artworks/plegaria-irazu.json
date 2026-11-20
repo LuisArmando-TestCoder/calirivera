@@ -1,0 +1,28 @@
+{
+ "id": "plegaria-irazu",
+ "slug": "plegaria-irazu",
+ "status": "published",
+ "title": "Irazú",
+ "collectionId": "plegaria",
+ "images": [
+  {
+   "src": "/media/colecciones/plegaria/irazu-589.jpg",
+   "widths": [
+    589
+   ],
+   "width": 589,
+   "height": 884,
+   "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoAlvRVhK6qMDeSy1WBE6KQIAPry3OPuOUt+spVXF/nFSaBxWZZ4YjsMY/FPdsVBK4SWDbilQnSgmqeY2j+Qew2jDCPYcrpS4PM2Jx35+PjvozZkJhxTU8t/ULc3H9WtMF+ezgc+yZcmAd3/Xzjp7lwwZ3PqE65trSxSKm+FhI/xx1a9gIRQR1CxAAA=",
+   "color": "rgb(118 118 137)",
+   "alt": "Irazú — Plegaria, 2001",
+   "lowRes": true
+  }
+ ],
+ "aiAltered": false,
+ "order": 8,
+ "year": 2001,
+ "technique": "Acrílico",
+ "notes": "De «Plegaria, el fuego como elemento», Galería Nacional de Costa Rica, 2001. Texto y fotos del sitio calirivera.com (2026). Medidas pendientes.",
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "ave-fenix-ave-fenix",
+ "status": "published",
+ "collectionId": "ave-fenix",
+ "aiAltered": false,
+ "order": 2,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "ave-fenix-ave-fenix",
+ "title": "Ave Fénix",
+ "images": [
+  {
+   "src": "/media/memoria/2000-ave-fenix-291.jpg",
+   "alt": "Ave Fénix — Ave Fénix, 2000",
+   "width": 291,
+   "height": 453,
+   "widths": [
+    291
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAwCdASoQABkAPu1iqU2ppaQiMAgBMB2JQBWAP9WSZAg852yUkcpQAP6vxSiND4cuDBYUKbaJWbBo4vfpIM7WoN+Ko6Bj3cEADT8IxwVRDxN9cceHdB0fP14z6weIvngp0KpMQBQiPyroilspwyj05kALIAAA",
+   "color": "rgb(200 200 200)",
+   "lowRes": true
+  }
+ ],
+ "year": 2000,
+ "technique": "Técnica mixta: acrílico y estuco",
+ "dimensions": "151 × 97 cm",
+ "notes": "Texto y fotos del sitio calirivera.com (2026)."
+}

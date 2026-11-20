@@ -1,0 +1,29 @@
+{
+ "slug": "prayer-flags-bandera-1",
+ "status": "published",
+ "collectionId": "prayer-flags",
+ "aiAltered": false,
+ "order": 1,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "prayer-flags-bandera-1",
+ "title": "Bandera 1",
+ "images": [
+  {
+   "src": "/media/memoria/2003-bandera4-480.jpg",
+   "alt": "Bandera 1 — Prayer Flags, 2003. Finca Mirasol, Higuito del Guarco, Cartago",
+   "width": 480,
+   "height": 624,
+   "widths": [
+    480
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdMoACYFiwZAx2TFRiAAD8xNbwKh/IHo0wtEnT2wivYmKb9NTZ3zAA+3ZX30Kaa6Dc9ujlh3wLqpep0D9y6+6Bw+lRyKHnOFF/uq5UKy2Ki6z7YEgyHvjY8YbGbaxdv16VCvUfp8J8UCfEAAAA",
+   "color": "rgb(120 168 216)",
+   "lowRes": true
+  }
+ ],
+ "year": 2003,
+ "technique": "Mixta sobre alfombra trenzada a mano, intervenida con pintura, gel, objetos y resina",
+ "dimensions": "6 × 1,3 m",
+ "notes": "Fotografiada en: Finca Mirasol, Higuito del Guarco, Cartago."
+}

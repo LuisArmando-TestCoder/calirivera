@@ -3,7 +3,7 @@
  "slug": "taller-del-artista",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
  "title": "Taller del Artista",
  "description": "Desde el año 2000, un espacio en Tres Ríos donde el arte, la gastronomía y la historia se encuentran.",
  "hero": {
@@ -114,27 +114,100 @@
     },
     {
      "type": "video",
+     "id": "taller-fb-1",
+     "url": "https://www.facebook.com/tallerdelartistacr/videos/960541046715351/",
+     "title": "Hay lugares que no se visitan… se sienten (2026)"
+    },
+    {
+     "type": "video",
      "id": "taller-8",
      "url": "https://www.youtube.com/watch?v=cVzMeR0X4Tk",
-     "poster": "https://i.ytimg.com/vi/cVzMeR0X4Tk/hqdefault.jpg"
+     "poster": "https://i.ytimg.com/vi/cVzMeR0X4Tk/hqdefault.jpg",
+     "title": "Taller del Artista, Tres Ríos, Costa Rica (Davidsbeenhere)"
     },
     {
      "type": "video",
      "id": "taller-9",
      "url": "https://www.youtube.com/watch?v=NtVLZw40tLk",
-     "poster": "https://i.ytimg.com/vi/NtVLZw40tLk/hqdefault.jpg"
+     "poster": "https://i.ytimg.com/vi/NtVLZw40tLk/hqdefault.jpg",
+     "title": "Ecuación: Cali Rivera, 2012 (De todo un poco TV)"
     },
     {
      "type": "video",
      "id": "taller-10",
      "url": "https://www.youtube.com/watch?v=1YvCZqRK5Gw&t=1s",
-     "poster": "https://i.ytimg.com/vi/1YvCZqRK5Gw/hqdefault.jpg"
+     "poster": "https://i.ytimg.com/vi/1YvCZqRK5Gw/hqdefault.jpg",
+     "title": "Percance: «Rompe la rutina», en el Taller del Artista"
     },
     {
      "type": "video",
      "id": "taller-11",
      "url": "https://www.youtube.com/watch?v=pweKLVPB_tI",
-     "poster": "https://i.ytimg.com/vi/pweKLVPB_tI/hqdefault.jpg"
+     "poster": "https://i.ytimg.com/vi/pweKLVPB_tI/hqdefault.jpg",
+     "title": "Evento en el Taller del Artista"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-ZjNCqOu1EH0",
+     "url": "https://www.youtube.com/watch?v=ZjNCqOu1EH0",
+     "title": "Julio Borbón",
+     "poster": "https://i.ytimg.com/vi/ZjNCqOu1EH0/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-Ty7l0ROC1oM",
+     "url": "https://www.youtube.com/watch?v=Ty7l0ROC1oM",
+     "title": "Rescatarte: más de 30 artistas por la limpieza del río Virilla",
+     "poster": "https://i.ytimg.com/vi/Ty7l0ROC1oM/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-qPBwAiHPCwA",
+     "url": "https://www.youtube.com/watch?v=qPBwAiHPCwA",
+     "title": "Ave María, interpretada por Cali Rivera: su trayectoria en Guatemala y Costa Rica, 2008–2010",
+     "poster": "https://i.ytimg.com/vi/qPBwAiHPCwA/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-Z9gIVTIjuzw",
+     "url": "https://www.youtube.com/watch?v=Z9gIVTIjuzw",
+     "title": "Entrevista a Cali Rivera en el Taller del Artista",
+     "poster": "https://i.ytimg.com/vi/Z9gIVTIjuzw/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-Dmzp57etvX0",
+     "url": "https://www.youtube.com/watch?v=Dmzp57etvX0",
+     "title": "Comercial de Derechos de Autor (2001)",
+     "poster": "https://i.ytimg.com/vi/Dmzp57etvX0/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-6B8HOYSHUCY",
+     "url": "https://www.youtube.com/watch?v=6B8HOYSHUCY",
+     "title": "Propuesta de los Elementos, parte 1 de 4 (2007)",
+     "poster": "https://i.ytimg.com/vi/6B8HOYSHUCY/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-4uAsKc4YLss",
+     "url": "https://www.youtube.com/watch?v=4uAsKc4YLss",
+     "title": "Propuesta de los Elementos, parte 2 de 4 (2007)",
+     "poster": "https://i.ytimg.com/vi/4uAsKc4YLss/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-j_7lxrGg1wE",
+     "url": "https://www.youtube.com/watch?v=j_7lxrGg1wE",
+     "title": "Propuesta de los Elementos, parte 3 de 4 (2007)",
+     "poster": "https://i.ytimg.com/vi/j_7lxrGg1wE/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-yt-PUKSb-r1KJw",
+     "url": "https://www.youtube.com/watch?v=PUKSb-r1KJw",
+     "title": "Propuesta de los Elementos, parte 4 de 4 (2007)",
+     "poster": "https://i.ytimg.com/vi/PUKSb-r1KJw/hqdefault.jpg"
     }
    ]
   }

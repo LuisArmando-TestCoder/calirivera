@@ -1,0 +1,29 @@
+{
+ "slug": "prayer-flags-bandera-5",
+ "status": "published",
+ "collectionId": "prayer-flags",
+ "aiAltered": false,
+ "order": 5,
+ "createdAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T02:30:00Z",
+ "id": "prayer-flags-bandera-5",
+ "title": "Bandera 5",
+ "images": [
+  {
+   "src": "/media/memoria/2003-bandera18-480.jpg",
+   "alt": "Bandera 5 — Prayer Flags, 2003. Paisaje costarricense",
+   "width": 480,
+   "height": 699,
+   "widths": [
+    480
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABcAPu1yrU+pp6QiMAgBMB2JbACdL11pQAX76vwukQTWINkAAP76P1P+XjcG3Y7hzLNUG8StFV9pbGmev1DvvxJXE6FAiwKzE2HKych4/dGP3C62AOr6RKPbz2cy68Uo42z7qMJMHgWrwDtQsQFWNd6MgTeCYdF2GASWyH9rvheOdmglrBZDNsmxhQeg4AA=",
+   "color": "rgb(216 232 232)",
+   "lowRes": true
+  }
+ ],
+ "year": 2003,
+ "technique": "Mixta sobre tela: pintura, gel, lentejuelas rojas y resina",
+ "dimensions": "6 × 1,4 m",
+ "notes": "Fotografiada en: Paisaje costarricense."
+}
