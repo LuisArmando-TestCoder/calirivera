@@ -3,7 +3,7 @@
  "slug": "un-recorrido-por-la-vida-de-cali-rivera",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-20T02:58:07Z",
  "title": "Un recorrido por la vida de Cali Rivera",
  "excerpt": "Desde que tengo uso de razón las formas y el color han sido mi interés más recurrente, era un niño muy inquieto y a la edad de 4 años tuve una amiga imaginaria a quien llamaba “mamá Virgen “ con ella jugaba largas horas en una bodega abando…",
  "body": [
@@ -104,9 +104,15 @@
    "text": "( el catálogo de este trabajo está en mi página de internet"
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-869",
-   "text": "http://www.calirivera.com/"
+   "items": [
+    {
+     "label": "Catálogos y proyectos",
+     "href": "/catalogos-and-proyectos",
+     "kind": "internal"
+    }
+   ]
   },
   {
    "type": "paragraph",
@@ -114,9 +120,15 @@
    "text": "bajo el nombre de Elementos- El manifiesto de Irazú )"
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-871",
-   "text": "http://www.calirivera.com/elementos2.pdf"
+   "items": [
+    {
+     "label": "Catálogo «Elementos»",
+     "href": "/files/elementos2.pdf",
+     "kind": "pdf"
+    }
+   ]
   },
   {
    "type": "paragraph",
@@ -144,9 +156,15 @@
    "text": "( en la página de internet están los catálogos que documentan este periodo de trabajo en Guatemala"
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-877",
-   "text": "http://www.calirivera.com/catalogo_banderas_corpus_christi.pdf"
+   "items": [
+    {
+     "label": "Catálogo «Banderas de Corpus Christi»",
+     "href": "/files/catalogo_banderas_corpus_christi.pdf",
+     "kind": "pdf"
+    }
+   ]
   },
   {
    "type": "paragraph",
@@ -154,9 +172,15 @@
    "text": "y la exposición del 2011 Plegaria - en el Museo de Cartago )"
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-879",
-   "text": "http://www.calirivera.com/plegaria_catalogo.pdf"
+   "items": [
+    {
+     "label": "Catálogo «Plegaria»",
+     "href": "/files/plegaria_catalogo.pdf",
+     "kind": "pdf"
+    }
+   ]
   },
   {
    "type": "paragraph",
@@ -204,9 +228,15 @@
    "text": "Creo que de esta experiencia en la antigua Rusia guardo una de las más hermosas experiencias de mi carrera no solo por estar exponiendo paralelamente en dos Museos importantes de Europa, sino por que al llegar a la inauguración de la exposición de la Trienal en Riga, estaba mi obra impresa en gigantografía recibiendo al público, eso fue muy emocionante y satisfactorio para mí."
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-889",
-   "text": "http://www.calirivera.com/index.php/catalogo-sincretismo.html"
+   "items": [
+    {
+     "label": "Catálogo «Sincretismo religioso»",
+     "href": "/catalogos-and-proyectos/sincretismo-religioso",
+     "kind": "internal"
+    }
+   ]
   },
   {
    "type": "paragraph",
@@ -214,9 +244,15 @@
    "text": "El año 2016 como parte del IV Concierto de Temporada de la Orquesta Sinfónica Nacional de Costa Rica, expuse en el escenario y lobby del Teatro Nacional la colección revelaciones, una exposición histórica junto a la Orquesta Sinfónica y el Coro Sinfónico Nacional del cual fui miembro por más de 5 años, este fue un acontecimiento para mí muy emotivo pues fue la primera vez en 120 años desde la apertura del Teatro Nacional en que un artista plástico, expuso de manera individual una colección dentro de este importante edificio ícono de la cultura."
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-891",
-   "text": "https://issuu.com/luisinfoluis/docs/revelaciones_plegarias_por_los_pueb"
+   "items": [
+    {
+     "label": "Catálogo «Revelaciones: plegarias por los pueblos»",
+     "href": "/files/revelaciones_plegarias_por_los_pueblos.pdf",
+     "kind": "pdf"
+    }
+   ]
   },
   {
    "type": "paragraph",
@@ -264,9 +300,15 @@
    "text": "( en mi página de internet"
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-901",
-   "text": "http://calirivera.com/"
+   "items": [
+    {
+     "label": "Catálogos y proyectos",
+     "href": "/catalogos-and-proyectos",
+     "kind": "internal"
+    }
+   ]
   },
   {
    "type": "paragraph",

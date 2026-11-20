@@ -3,7 +3,7 @@
  "slug": "taller-del-artista",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Taller del Artista",
  "description": "Desde el año 2000, un espacio en Tres Ríos donde el arte, la gastronomía y la historia se encuentran.",
  "hero": {
@@ -65,6 +65,25 @@
       "color": "rgb(8 8 8)",
       "aiAltered": true
      }
+    },
+    {
+     "type": "links",
+     "id": "wb-archivo",
+     "items": [
+      {
+       "label": "El menú del Café Arte, edición anterior",
+       "href": "https://web.archive.org/web/20180702040655/http://www.youblisher.com/p/1890412-Taller-del-Artista-Menu-Cafe-Arte-Costa-Rica",
+       "kind": "external",
+       "note": "Internet Archive"
+      },
+      {
+       "label": "El primer sitio web: «El arte para ser libre» (2007)",
+       "href": "https://web.archive.org/web/20071122143246/http://www.version1.calirivera.com/",
+       "kind": "external",
+       "note": "Internet Archive"
+      }
+     ],
+     "title": "Del archivo"
     }
    ]
   },
@@ -229,6 +248,24 @@
      "url": "https://www.youtube.com/watch?v=sUzFpByq5PY",
      "title": "Cali Rivera (video de archivo)",
      "poster": "https://i.ytimg.com/vi/sUzFpByq5PY/hqdefault.jpg"
+    },
+    {
+     "type": "video",
+     "id": "taller-vimeo-2355017",
+     "url": "https://vimeo.com/2355017",
+     "title": "Estandarte del amor (video de Mario Gamboa)"
+    },
+    {
+     "type": "video",
+     "id": "taller-vimeo-2694240",
+     "url": "https://vimeo.com/2694240",
+     "title": "Homenaje al poeta César Vallejo (video de Mario Gamboa)"
+    },
+    {
+     "type": "video",
+     "id": "taller-vimeo-2712625",
+     "url": "https://vimeo.com/2712625",
+     "title": "Todos somos uno (video de Mario Gamboa)"
     }
    ]
   }

@@ -3,7 +3,7 @@
  "slug": "agenda-cultural-mayo-2018",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-20T02:58:07Z",
  "title": "Agenda Cultural mayo 2018",
  "excerpt": "El mes de mayo 2018 celebramos el comienzo de una nueva etapa - el Ave Fénix se va vislumbrando y para celebrar: abrimos nuestros viernes de artistas invitados con la extraordinaria voz de Nana Echeverría una de nuestras artistas favoritas,…",
  "body": [
@@ -89,9 +89,16 @@
    "text": "Info en este link:"
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-789",
-   "text": "http://www.yoguiandoencasa.com/index.php/eventos/76-clases-de-yoga.html"
+   "items": [
+    {
+     "label": "Clases de yoga: Yoguiando en Casa",
+     "href": "https://web.archive.org/web/20210513153616/http://yoguiandoencasa.com/index.php/eventos/76-clases-de-yoga.html",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ]
   }
  ],
  "publishedAt": "2018-05-01T12:00:00Z",

@@ -3,7 +3,7 @@
  "slug": "invitacion-a-patrocinar-mi-obra-trienal-de-arte-textil-de-riga",
  "status": "published",
  "createdAt": "2026-11-20T03:40:00Z",
- "updatedAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Invitación a patrocinar mi obra: Trienal de Arte Textil de Riga",
  "excerpt": "Estimados amigos, ésta es una buena oportunidad para adquirir una obra edición limitada de mi autoría y así colaborar con la impresión del texto del catálogo de mi mas reciente obra que nos representará en Letonia en la Trienal de Arte Text…",
  "body": [
@@ -40,6 +40,11 @@
     {
      "label": "Página original, archivada en Internet Archive",
      "href": "https://web.archive.org/web/20251015123619/http://calirivera.com/index.php/historico",
+     "kind": "external"
+    },
+    {
+     "label": "Red Textil Iberoamericana",
+     "href": "https://www.redtextilia.org/",
      "kind": "external"
     }
    ]

@@ -3,7 +3,7 @@
  "slug": "casa-museo-ave-fenix",
  "status": "published",
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "kind": "project",
  "title": "Casa Museo Ave Fénix",
  "year": "2018–2020",
@@ -59,6 +59,18 @@
    "type": "paragraph",
    "id": "fenix-4",
    "text": "En esta serie de fotografías se ve la actualidad y también el antes de este trabajo de los últimos 3 años (hacer click aquí)."
+  },
+  {
+   "type": "links",
+   "id": "wb-facebook",
+   "items": [
+    {
+     "label": "Fotografías de la Casa Museo en Facebook",
+     "href": "https://www.facebook.com/cali.rivera.10/posts/5146708068679132",
+     "kind": "external"
+    }
+   ],
+   "title": "Más imágenes"
   }
  ]
 }

@@ -3,7 +3,7 @@
  "slug": "agenda-cultural-marzo-2019",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-20T02:58:07Z",
  "title": "Agenda Cultural Marzo 2019",
  "excerpt": "Nuestra plataforma cumple 19 años de estar formalmente abierta al público desde acá jóvenes y experimentados artistas han visto sus carreras evolucionar. Abrimos nuestra casa museo una vez más y hacemos la apertura oficial de nuestro espaci…",
  "body": [
@@ -113,9 +113,16 @@
    "text": "Info en este link:"
   },
   {
-   "type": "paragraph",
+   "type": "links",
    "id": "post-829",
-   "text": "http://www.yoguiandoencasa.com/index.php/eventos/76-clases-de-yoga.html"
+   "items": [
+    {
+     "label": "Clases de yoga: Yoguiando en Casa",
+     "href": "https://web.archive.org/web/20210513153616/http://yoguiandoencasa.com/index.php/eventos/76-clases-de-yoga.html",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ]
   }
  ],
  "publishedAt": "2019-03-01T12:00:00Z",

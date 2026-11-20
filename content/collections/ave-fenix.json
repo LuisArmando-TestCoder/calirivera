@@ -3,7 +3,7 @@
  "slug": "ave-fenix",
  "status": "published",
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Ave Fénix",
  "period": "2000",
  "order": 32,
@@ -38,6 +38,19 @@
    "type": "paragraph",
    "id": "ave-fenix-2",
    "text": "Fue expuesta por primera vez en la muestra colectiva Zoológico Abierto, realizada en el Taller del Artista en mayo del año 2000."
+  },
+  {
+   "type": "links",
+   "id": "wb-galeria-2006",
+   "items": [
+    {
+     "label": "La serie en la galería de 2006",
+     "href": "https://web.archive.org/web/20130827142441/http://galeria.calirivera.com/thumbnails.php?album=7",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ],
+   "title": "Del sitio anterior"
   }
  ]
 }

@@ -3,7 +3,7 @@
  "slug": "exvotos",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Exvotos",
  "artworkIds": [
   "exvotos-01",
@@ -170,6 +170,18 @@
    "type": "paragraph",
    "id": "wb-exvotos-2012-25",
    "text": "A través de esta propuesta me enlisto una vez más como parte de un ejército sin armas, al que pertenecen un grupo de guerreros que creen en un mundo de paz, ángeles sin alas que vuelan por un cielo de esperanza creyendo en la magia que solo el arte produce y que sin armamento ayuda a la reflexión que Dios nos manda como seres de su universo, los artistas."
+  },
+  {
+   "type": "links",
+   "id": "wb-facebook",
+   "items": [
+    {
+     "label": "Álbum de Exvotos en Facebook",
+     "href": "https://www.facebook.com/media/set/?set=a.567587979924520.150359.100000199696497&type=3",
+     "kind": "external"
+    }
+   ],
+   "title": "Más imágenes"
   }
  ],
  "cover": {

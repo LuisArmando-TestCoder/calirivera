@@ -3,7 +3,7 @@
  "slug": "con-una-obra-que-tiene-como-base-el-huipil-tejidos-indigenas-guatemalt",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Con una obra que tiene como base el huipil (tejidos indígenas guatemaltecos) el artista costarricense Cali Rivera se adjudicó el primer premio del I Encuentro de la Red Textil Iberoamericana, que se celebra en Costa Rica del 6 de setiembre al 12 de octubre.",
  "excerpt": "Durante todo el año 2009, AÑO DEL AIRE según los MAYAS, trabaje sin Parar en el estudio del lago, confeccionando las banderas de Corpus Cristhi colección desarrollada a raíz de una invitación que me hicieran para exponer en un convivio entr…",
  "body": [
@@ -127,6 +127,19 @@
    "type": "paragraph",
    "id": "post-993",
    "text": "Final"
+  },
+  {
+   "type": "links",
+   "id": "wb-enlaces",
+   "items": [
+    {
+     "label": "La nota en La Nación (7 de setiembre de 2010)",
+     "href": "https://web.archive.org/web/20111108022505/http://www.nacion.com/2010-09-07/AldeaGlobal/UltimaHora/AldeaGlobal2513867.aspx",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ],
+   "title": "Fuente"
   }
  ],
  "publishedAt": "2010-09-01T12:00:00Z",

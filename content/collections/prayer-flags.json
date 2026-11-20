@@ -3,7 +3,7 @@
  "slug": "prayer-flags",
  "status": "published",
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Prayer Flags",
  "period": "2003",
  "order": 54,
@@ -97,6 +97,24 @@
    "id": "wb-bandera-2-reverso",
    "text": "\"La humanidad es parte de un vasto universo evolutivo. La Tierra, nuestro hogar, está viva con un comunidad singular de vida. Las fuerzas de la naturaleza promueven a que la existencia sea una aventura exigente e incierta, pero la Tierra ha brindado las condiciones esenciales para la evolución de la vida. La capacidad de recuperación de la comunidad de vida y el bienestar de la humanidad dependen de la preservación de una biosfera saludable, con todos sus sistemas ecológicos, una rica variedad de plantas y animales, tierras fértiles, aguas puras y aire limpio.El medio ambiente global, con sus recursos finitos, es una preocupación común para todos los pueblos. La protección de la vitalidad, la diversidad y la belleza de la Tierra es un deber sagrado\".",
    "cite": "Bandera 2 · texto del reverso"
+  },
+  {
+   "type": "links",
+   "id": "wb-galeria-2006",
+   "items": [
+    {
+     "label": "La serie en la galería de 2006",
+     "href": "https://web.archive.org/web/20130827140958/http://galeria.calirivera.com/thumbnails.php?album=11",
+     "kind": "external",
+     "note": "Internet Archive"
+    },
+    {
+     "label": "La Carta de la Tierra",
+     "href": "https://earthcharter.org/",
+     "kind": "external"
+    }
+   ],
+   "title": "Del sitio anterior"
   }
  ]
 }

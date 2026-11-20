@@ -3,7 +3,7 @@
  "slug": "alfonso-chase-elementos-2009",
  "status": "published",
  "createdAt": "2026-11-11T18:30:00Z",
- "updatedAt": "2026-11-11T18:30:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Sobre el libro «Elementos»",
  "outlet": "La Prensa Libre",
  "publishedAt": "2009-03-05T12:00:00Z",
@@ -59,6 +59,19 @@
    "type": "paragraph",
    "id": "alfonso-chase-elementos-2009-10",
    "text": "Todo lo anterior unido a la calidad de su propuesta pictórica, sus ideas, los resultados de su inventiva. Porque Cali Rivera no tienen edad, en ese privilegio de inventarse a sí mismo como persona, como creador, como personaje de su propia necesidad de ser en su pintura y que nunca es la misma, aunque sigue la línea directa de ser solo eso: “Elementos”."
+  },
+  {
+   "type": "links",
+   "id": "wb-enlaces",
+   "items": [
+    {
+     "label": "La columna en La Prensa Libre (5 de marzo de 2009)",
+     "href": "https://web.archive.org/web/20091008144021/http://www.prensalibre.co.cr/2009/marzo/05/abanico07.php",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ],
+   "title": "Fuente"
   }
  ],
  "sourceUrl": "https://web.archive.org/web/20161206133943/http://calirivera.com/index.php/cali-rivera-74/puntos-de-vista/109-alfonso-chase-sobre-el-libro-qelementosq.html",

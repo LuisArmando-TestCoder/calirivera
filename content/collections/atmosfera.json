@@ -3,7 +3,7 @@
  "slug": "atmosfera",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-12T08:26:52.440Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Atmósfera",
  "artworkIds": [
   "atmosfera-vivian",
@@ -37,6 +37,19 @@
    "id": "atmosfera-b3",
    "text": "Su diversidad y amplia visión de la vida, la expresión sentimental del auto encuentro y el deseo innato de comunicarlo, lo han llevado por el dibujo, técnicas mixtas, murales; prefiriendo el pastel, entregándonos una obra de trazo firme con veladuras de suave atmósfera…",
    "cite": "Isaac Barra, Anuarium de Arte y Cultura, edición 1994"
+  },
+  {
+   "type": "links",
+   "id": "wb-galeria-2006",
+   "items": [
+    {
+     "label": "La serie en la galería de 2006",
+     "href": "https://web.archive.org/web/20130827141006/http://galeria.calirivera.com/thumbnails.php?album=4",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ],
+   "title": "Del sitio anterior"
   }
  ],
  "cover": {

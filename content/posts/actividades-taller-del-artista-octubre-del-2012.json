@@ -3,7 +3,7 @@
  "slug": "actividades-taller-del-artista-octubre-del-2012",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Actividades Taller del Artista, Octubre del 2012",
  "excerpt": "Este mes cumplimos de 10 años de haber ampliado nuestro proyecto el Taller del Artista con la incorporación de nuestro espacio concepto el Café Arte Costa Rica; una mágica instalación creada por su director Cali Rivera con la intención de s…",
  "body": [
@@ -187,6 +187,18 @@
    "type": "paragraph",
    "id": "post-34",
    "text": "SÁBADO 27 MÚSICA EN VIVO Fabián Arroyo Piano y Voz"
+  },
+  {
+   "type": "links",
+   "id": "wb-enlaces",
+   "items": [
+    {
+     "label": "El evento en Facebook",
+     "href": "https://www.facebook.com/events/511247172237394/",
+     "kind": "external"
+    }
+   ],
+   "title": "Enlaces"
   }
  ],
  "publishedAt": "2012-09-01T12:00:00Z",

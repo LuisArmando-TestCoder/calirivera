@@ -3,7 +3,7 @@
  "slug": "identidad",
  "status": "published",
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Identidad",
  "period": "2000–2005",
  "order": 55,
@@ -77,6 +77,19 @@
      "lowRes": true
     }
    ]
+  },
+  {
+   "type": "links",
+   "id": "wb-galeria-2006",
+   "items": [
+    {
+     "label": "La serie en la galería de 2006",
+     "href": "https://web.archive.org/web/20130827141002/http://galeria.calirivera.com/thumbnails.php?album=12",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ],
+   "title": "Del sitio anterior"
   }
  ]
 }

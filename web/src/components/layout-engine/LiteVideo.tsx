@@ -29,9 +29,12 @@ export function LiteVideo({ url, title, poster }: { url: string; title?: string;
   const vimeo = url.match(/vimeo\.com\/(?:video\/)?(\d+)/)?.[1];
   if (vimeo)
     return (
-      <div className={s.video}>
-        <iframe src={`https://player.vimeo.com/video/${vimeo}?dnt=1`} title={title ?? "Video"} loading="lazy" allow="fullscreen; picture-in-picture" allowFullScreen />
-      </div>
+      <figure className={s.videoFig}>
+        <div className={s.video}>
+          <iframe src={`https://player.vimeo.com/video/${vimeo}?dnt=1`} title={title ?? "Video"} loading="lazy" allow="fullscreen; picture-in-picture" allowFullScreen />
+        </div>
+        {title && <figcaption className={s.videoCap}>{title}</figcaption>}
+      </figure>
     );
   // Facebook no da miniatura sin su API: el reproductor se carga recién cuando el video se acerca a la pantalla
   if (/^https:\/\/(www\.|m\.|web\.)?facebook\.com\/|^https:\/\/fb\.watch\//.test(url))

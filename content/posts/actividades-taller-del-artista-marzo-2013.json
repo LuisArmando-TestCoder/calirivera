@@ -3,7 +3,7 @@
  "slug": "actividades-taller-del-artista-marzo-2013",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Actividades Taller del Artista, Marzo 2013",
  "excerpt": "El Taller del Artista Nació en 1998 pero no fue hasta el año 2000 que abrió sus puertas oficialmente; un sueño del artista Cali Rivera hecho realidad, ventana abierta al arte en todas sus disciplinas que desde entonces ha funcionado como ce…",
  "body": [
@@ -137,6 +137,18 @@
    "type": "paragraph",
    "id": "post-297",
    "text": "Sábado 30 – Tercera Planta Stand Up Comedy – 9:00 pm"
+  },
+  {
+   "type": "links",
+   "id": "wb-enlaces",
+   "items": [
+    {
+     "label": "ALASAX, festival de saxofón",
+     "href": "https://www.alasax.org/",
+     "kind": "external"
+    }
+   ],
+   "title": "Enlaces"
   }
  ],
  "publishedAt": "2013-03-01T12:00:00Z",

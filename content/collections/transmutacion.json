@@ -3,7 +3,7 @@
  "slug": "transmutacion",
  "status": "published",
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Transmutación",
  "period": "2003",
  "order": 52,
@@ -316,6 +316,19 @@
      "lowRes": true
     }
    ]
+  },
+  {
+   "type": "links",
+   "id": "wb-galeria-2006",
+   "items": [
+    {
+     "label": "La serie en la galería de 2006",
+     "href": "https://web.archive.org/web/20130827140951/http://galeria.calirivera.com/thumbnails.php?album=10",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ],
+   "title": "Del sitio anterior"
   }
  ]
 }

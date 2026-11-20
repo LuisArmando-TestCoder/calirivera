@@ -3,7 +3,7 @@
  "slug": "musas-del-cantaro",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-19T12:00:00Z",
  "title": "Musas del Cántaro",
  "artworkIds": [
   "musas-del-cantaro-01",
@@ -55,6 +55,19 @@
    "type": "paragraph",
    "id": "wb-musas-del-cantaro-19-4",
    "text": "Exposición individual técnica mixta café mundo San José Costa Rica Octubre de 1996."
+  },
+  {
+   "type": "links",
+   "id": "wb-galeria-2006",
+   "items": [
+    {
+     "label": "La serie en la galería de 2006",
+     "href": "https://web.archive.org/web/20130827142431/http://galeria.calirivera.com/thumbnails.php?album=5",
+     "kind": "external",
+     "note": "Internet Archive"
+    }
+   ],
+   "title": "Del sitio anterior"
   }
  ],
  "cover": {
