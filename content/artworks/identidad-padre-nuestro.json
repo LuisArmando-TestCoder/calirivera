@@ -5,13 +5,13 @@
  "aiAltered": false,
  "order": 10,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-20T03:20:00Z",
  "id": "identidad-padre-nuestro",
- "title": "Padre nuestro",
+ "title": "Padre nuestro que estás en los cielos",
  "images": [
   {
    "src": "/media/memoria/2001-padre-nuestro-400.jpg",
-   "alt": "Padre nuestro — Identidad",
+   "alt": "Padre nuestro que estás en los cielos — Identidad",
    "width": 400,
    "height": 654,
    "widths": [
@@ -24,5 +24,5 @@
  ],
  "year": "2000–2005",
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Título según la galería del sitio de 2006 (Internet Archive). Medidas pendientes."
 }
