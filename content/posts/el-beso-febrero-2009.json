@@ -3,14 +3,32 @@
  "slug": "el-beso-febrero-2009",
  "status": "published",
  "createdAt": "2026-11-20T03:40:00Z",
- "updatedAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-20T03:29:35Z",
  "title": "El beso - Febrero 2009",
- "excerpt": "Tamara Avalos -una joven ceramista recién egresada de la UCR- fue una de las invitadas. Ella presentó una serie de voluptuosas mujeres parte de su proyecto de graduación. Fue así como El Taller del Artista adquirió dos de sus obras para la …",
+ "excerpt": "Tamara Ávalos -una joven ceramista recién egresada de la UCR- fue una de las invitadas. Ella presentó una serie de voluptuosas mujeres parte de su proyecto de graduación. Fue así como El Taller del Artista adquirió dos de sus obras para la …",
  "body": [
+  {
+   "type": "image",
+   "id": "el-beso-obra",
+   "image": {
+    "src": "/media/memoria/sf-beso-680.jpg",
+    "alt": "El beso (2008), obra de Cali Rivera: dos figuras femeninas de cerámica que se besan, restauradas e intervenidas con porcelana, encaje, pintura, polvo de oro y resina. Las piezas originales son de la ceramista Tamara Ávalos",
+    "width": 680,
+    "height": 536,
+    "widths": [
+     480,
+     680
+    ],
+    "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoQAA0AA4BaJZgCdAYvXq/sHz/f5rYA/viT74FRjsI/aAizUi+l4Bj++4cIqUJFzNIrDtLxRNlW/GNgO+MZuBubfCTNNPs5HBfpB/dCr6G4DSZSod20Xl3jsAA=",
+    "color": "rgb(8 8 8)",
+    "lowRes": true
+   },
+   "caption": "«El beso», Cali Rivera, 2008. Cerámica intervenida con porcelana, encaje, pintura, polvo de oro y resina."
+  },
   {
    "type": "paragraph",
    "id": "el-beso-febrero-2009-1",
-   "text": "Tamara Avalos -una joven ceramista recién egresada de la UCR- fue una de las invitadas. Ella presentó una serie de voluptuosas mujeres parte de su proyecto de graduación. Fue así como El Taller del Artista adquirió dos de sus obras para la colección del lugar. Pasaron los años y las piezas se convirtieron en constantes invitadas dentro del Taller del Artista."
+   "text": "Tamara Ávalos -una joven ceramista recién egresada de la UCR- fue una de las invitadas. Ella presentó una serie de voluptuosas mujeres parte de su proyecto de graduación. Fue así como El Taller del Artista adquirió dos de sus obras para la colección del lugar. Pasaron los años y las piezas se convirtieron en constantes invitadas dentro del Taller del Artista."
   },
   {
    "type": "paragraph",
@@ -63,6 +81,21 @@
    "text": "Lisa Lan Chun (Republica Popular China) YAN-CHIN, TECLADO Y PERCUSION MENOR."
   },
   {
+   "type": "heading",
+   "id": "el-beso-hoy-t",
+   "text": "La obra hoy"
+  },
+  {
+   "type": "paragraph",
+   "id": "el-beso-hoy-1",
+   "text": "«El beso» es obra de Cali Rivera, de 2008. Nació después de que un accidente destruyera las dos cerámicas originales de Tamara Ávalos: con la autorización de la artista, Cali las restauró e intervino con porcelana, encaje, pintura, polvo de oro y resina, y desde entonces están juntas como una obra nueva."
+  },
+  {
+   "type": "paragraph",
+   "id": "el-beso-hoy-2",
+   "text": "El 8 de marzo de 2023, Día Internacional de la Mujer, la obra pasó a la colección particular de Carlos Oller."
+  },
+  {
    "type": "links",
    "id": "el-beso-febrero-2009-fuente",
    "title": "Fuente",
@@ -79,5 +112,18 @@
  "tags": [
   "exposición"
  ],
- "sourceUrl": "https://web.archive.org/web/20260115055937/https://www.calirivera.com/index.php/cali-rivera-74/exposiciones/102-el-beso-febrero-2009"
+ "sourceUrl": "https://web.archive.org/web/20260115055937/https://www.calirivera.com/index.php/cali-rivera-74/exposiciones/102-el-beso-febrero-2009",
+ "cover": {
+  "src": "/media/memoria/sf-beso-680.jpg",
+  "alt": "El beso (2008), obra de Cali Rivera: dos figuras femeninas de cerámica que se besan, restauradas e intervenidas con porcelana, encaje, pintura, polvo de oro y resina. Las piezas originales son de la ceramista Tamara Ávalos",
+  "width": 680,
+  "height": 536,
+  "widths": [
+   480,
+   680
+  ],
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoQAA0AA4BaJZgCdAYvXq/sHz/f5rYA/viT74FRjsI/aAizUi+l4Bj++4cIqUJFzNIrDtLxRNlW/GNgO+MZuBubfCTNNPs5HBfpB/dCr6G4DSZSod20Xl3jsAA=",
+  "color": "rgb(8 8 8)",
+  "lowRes": true
+ }
 }

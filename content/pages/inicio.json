@@ -3,7 +3,7 @@
  "slug": "inicio",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-20T03:29:35Z",
  "title": "Inicio",
  "description": "Cali Rivera, artista multidisciplinario costarricense. Colecciones, catálogos y el Taller del Artista.",
  "hero": {
@@ -83,12 +83,12 @@
    {
     "image": {
      "src": "/media/inicio/beso-680.webp",
-     "alt": "El beso: dos cerámicas de Tamara Avalos colocadas frente a frente, como si se besaran. Exposición El beso, Taller del Artista, febrero de 2009",
+     "alt": "El beso (2008), obra de Cali Rivera: dos figuras femeninas de cerámica que se besan, restauradas e intervenidas con porcelana, encaje, pintura, polvo de oro y resina. Las piezas originales son de la ceramista Tamara Ávalos",
      "width": 680,
      "height": 536
     },
     "title": "El beso",
-    "period": "Cerámicas de Tamara Avalos · Taller del Artista, 2009",
+    "period": "Cerámica intervenida · 2008",
     "href": "/bitacora/el-beso-febrero-2009"
    }
   ]

@@ -3,11 +3,11 @@
  "slug": "sf-beso",
  "status": "published",
  "createdAt": "2026-11-11T09:11:48Z",
- "updatedAt": "2026-11-11T09:11:48Z",
+ "updatedAt": "2026-11-20T03:29:35Z",
  "order": 131,
  "image": {
   "src": "/media/memoria/sf-beso-680.jpg",
-  "alt": "Beso",
+  "alt": "El beso (2008), obra de Cali Rivera: dos figuras femeninas de cerámica que se besan, restauradas e intervenidas con porcelana, encaje, pintura, polvo de oro y resina. Las piezas originales son de la ceramista Tamara Ávalos",
   "width": 680,
   "height": 536,
   "widths": [
@@ -21,6 +21,8 @@
  "kind": "obra",
  "source": "sitio-actual",
  "aiAltered": false,
- "title": "Beso",
- "sourceUrl": "https://calirivera.com/home/beso-II4wdOCaLll6pSMP.PNG"
+ "title": "El beso",
+ "sourceUrl": "https://calirivera.com/home/beso-II4wdOCaLll6pSMP.PNG",
+ "year": 2008,
+ "caption": "Obra de Cali Rivera a partir de dos cerámicas quebradas de Tamara Ávalos. Colección particular de Carlos Oller desde 2023."
 }
