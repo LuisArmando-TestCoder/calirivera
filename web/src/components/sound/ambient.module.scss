@@ -1,0 +1,104 @@
+@use "../../styles/tokens" as *;
+
+// El disco de la música de fondo: abajo a la izquierda, siempre al alcance del pulgar.
+.ambient {
+  position: fixed;
+  z-index: 60;
+  left: max(14px, env(safe-area-inset-left));
+  bottom: calc(14px + env(safe-area-inset-bottom));
+  display: flex;
+  align-items: center;
+  --p: 0;
+  --b0: 0.18; --b1: 0.3; --b2: 0.22; --b3: 0.34; --b4: 0.16;
+  pointer-events: none;
+  > * { pointer-events: auto; }
+  @media print { display: none; }
+}
+.disc {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  color: var(--c-hilo);
+  background: color-mix(in oklch, var(--c-anil) 88%, transparent);
+  backdrop-filter: blur(10px) saturate(1.3);
+  box-shadow: 0 8px 26px -8px oklch(0% 0 0 / 0.55), 0 0 0 1px oklch(100% 0 0 / 0.14);
+  @include motion { transition: transform 0.45s var(--ease-out), background 0.4s; }
+  &:hover { transform: scale(1.07); }
+  &:active { transform: scale(0.95); }
+  &:focus-visible { outline: 2px solid var(--c-ocre); outline-offset: 3px; }
+  [data-on] & { background: var(--c-anil); }
+}
+// el anillo: una pista tenue y, encima, el avance de la pieza en ocre
+.ring {
+  position: absolute;
+  inset: 2px;
+  transform: rotate(-90deg);
+  fill: none;
+  circle { stroke: oklch(100% 0 0 / 0.16); stroke-width: 1.5; }
+  circle + circle {
+    stroke: var(--c-ocre);
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-dasharray: 1;
+    stroke-dashoffset: calc(1 - var(--p));
+    opacity: 0;
+    @include motion { transition: opacity 0.6s; }
+    [data-on] & { opacity: 1; }
+  }
+}
+// las barras: quietas forman una onda dormida; sonando, cada una sigue una banda del sonido real
+.bars {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  height: 22px;
+  i {
+    display: block;
+    width: 2.5px;
+    height: 100%;
+    border-radius: 2px;
+    background: currentColor;
+    transform-origin: center;
+    transform: scaleY(0.2);
+    @include motion { transition: transform 0.5s var(--ease-out), background 0.4s; }
+  }
+  i:nth-child(1) { transform: scaleY(0.2); } i:nth-child(2) { transform: scaleY(0.42); } i:nth-child(3) { transform: scaleY(0.28); }
+  i:nth-child(4) { transform: scaleY(0.5); } i:nth-child(5) { transform: scaleY(0.2); }
+  [data-on] & i { background: var(--c-ocre); transition-duration: 0.09s; }
+  [data-on] & i:nth-child(1) { transform: scaleY(var(--b0)); } [data-on] & i:nth-child(2) { transform: scaleY(var(--b1)); }
+  [data-on] & i:nth-child(3) { transform: scaleY(var(--b2)); } [data-on] & i:nth-child(4) { transform: scaleY(var(--b3)); }
+  [data-on] & i:nth-child(5) { transform: scaleY(var(--b4)); }
+}
+// el nombre de la pieza: se despliega al acercarse (o con el teclado), y un momento al empezar a sonar
+.label {
+  margin: 0 0 0 -26px;
+  padding: 9px 18px 9px 36px;
+  display: grid;
+  line-height: 1.15;
+  white-space: nowrap;
+  color: var(--c-hilo);
+  background: color-mix(in oklch, var(--c-anil) 92%, transparent);
+  backdrop-filter: blur(10px);
+  border-radius: 0 999px 999px 0;
+  box-shadow: 0 8px 26px -10px oklch(0% 0 0 / 0.5);
+  z-index: -1;
+  opacity: 0;
+  clip-path: inset(0 100% 0 0 round 0 999px 999px 0);
+  pointer-events: none;
+  @include motion { transition: clip-path 0.6s var(--ease-out), opacity 0.35s; }
+  [data-open] & { opacity: 1; clip-path: inset(0 0 0 0 round 0 999px 999px 0); }
+  [data-on]:not([data-open]) & { animation: peek 4.2s var(--ease-out) 0.2s both; @media (prefers-reduced-motion: reduce) { animation: none; } }
+}
+@keyframes peek {
+  0%, 100% { opacity: 0; clip-path: inset(0 100% 0 0 round 0 999px 999px 0); }
+  14%, 80% { opacity: 1; clip-path: inset(0 0 0 0 round 0 999px 999px 0); }
+}
+.state { @include label; font-size: 0.62rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--c-ocre); }
+.title { @include display(60, 640); font-size: 0.98rem; }
+.by { @include text; font-style: italic; font-size: 0.78rem; opacity: 0.75; }

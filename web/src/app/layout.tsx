@@ -13,6 +13,7 @@ import { HeadingFit } from "@/components/fx/HeadingFit";
 import { TitlePlay } from "@/components/fx/TitlePlay";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { siteGraph } from "@/lib/seo";
+import { Ambient } from "@/components/sound/Ambient";
 import { SoundRoot } from "@/components/sound/SoundRoot";
 import { CmsBoot } from "@/components/cms/overlay/CmsBoot";
 import { display, read, text, title } from "./fonts";
@@ -58,6 +59,7 @@ export default async function RootLayout({ children }: LayoutProps<"/">) {
           <ScrollReset />
           <PdfReaderRoot />
           <SoundRoot />
+          <Ambient />
           <HeadingFit />
           <TitlePlay />
           <SignatureMoments />

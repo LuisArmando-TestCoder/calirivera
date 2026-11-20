@@ -11,6 +11,8 @@ export function LiteVideo({ url, title, poster }: { url: string; title?: string;
   // la página anterior escondida, con el reproductor vivo) o se oculta la pestaña, vuelve a ser una miniatura.
   useEffect(() => {
     if (!on) return;
+    // la música de fondo cede el paso mientras el video está abierto
+    window.dispatchEvent(new CustomEvent("cr:video", { detail: true }));
     const el = box.current;
     const off = () => setOn(false);
     const io = new IntersectionObserver(([e]) => !e.isIntersecting && off(), { threshold: 0 });
@@ -20,6 +22,7 @@ export function LiteVideo({ url, title, poster }: { url: string; title?: string;
     return () => {
       io.disconnect();
       document.removeEventListener("visibilitychange", onVis);
+      window.dispatchEvent(new CustomEvent("cr:video", { detail: false }));
       off(); // la página se escondió o se desmontó
     };
   }, [on]);

@@ -3,7 +3,7 @@
  "slug": "suenos-en-azul",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-12T08:26:52.440Z",
+ "updatedAt": "2026-11-20T03:40:00Z",
  "title": "Sueños en Azul",
  "artworkIds": [
   "suenos-en-azul-01",
@@ -440,6 +440,31 @@
    "type": "paragraph",
    "id": "suenos-en-azul-84",
    "text": "\"Las obras que dieron origen al universo artístico de Cali Rivera, reunidas en una colección donde el azul es lenguaje y emoción.\""
+  },
+  {
+   "type": "paragraph",
+   "id": "wb-suenos-en-azul-1996-1",
+   "text": "Una serie de surrealismos producto de mis primeros trabajos en óleo bajo la tutoría del maestro Röström, ejercicios de surrealismo mágico en su mayoría, plasmados desde una perspectiva muy personal y con temáticas de un fuerte contenido evocando distintos sentimientos importantes para mi."
+  },
+  {
+   "type": "paragraph",
+   "id": "wb-suenos-en-azul-1996-2",
+   "text": "Una serie de cuadros de diferentes dimensiones en técnica de óleo ; no hay una secuencia exacta entre ellos, podría decirse que cada uno tiene una identidad propia, siempre dentro de un ejercicio de surrealismo mágico en su gran mayoría, plasmados desde una perspectiva muy personal y con un mensaje fuerte e intenso, podría visualizarse en alguno de los casos como polémico."
+  },
+  {
+   "type": "paragraph",
+   "id": "wb-suenos-en-azul-1996-3",
+   "text": "Las pinturas fueron concebidas entre 1993 y 1996, algunos se encuentran en colecciones privadas y otros son propiedad del autor. Sueños en Azul es una muestra interesante que introduce a un cosmos onírico, mágico, de los sentimientos del autor."
+  },
+  {
+   "type": "paragraph",
+   "id": "wb-suenos-en-azul-1996-4",
+   "text": "El tema sobre la mesa de entonces,los 500 años del descubrimiento me dio la pauta para montar lo que fuera el primer performance del museo el cual giró alrededor de una América decapitada"
+  },
+  {
+   "type": "paragraph",
+   "id": "wb-suenos-en-azul-1996-5",
+   "text": "Teatro: los modelos Lawrence Arias , Ana Lucrecia Sandí y Katherine Ballestero R."
   }
  ],
  "cover": {

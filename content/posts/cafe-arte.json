@@ -1,0 +1,74 @@
+{
+ "id": "cafe-arte",
+ "slug": "cafe-arte",
+ "status": "draft",
+ "createdAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-20T03:40:00Z",
+ "title": "Café-Arte",
+ "excerpt": "No creo que exista otro lugar igual en San José. No se puede copiar ni reproducir, no es un montaje y si lo intentaran, fracasarían en manos de lo falso.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-1",
+   "text": "No creo que exista otro lugar igual en San José. No se puede copiar ni reproducir, no es un montaje y si lo intentaran, fracasarían en manos de lo falso."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-2",
+   "text": "Su decoración es extraordinariamente acogedora y a la vez ecléctica, responsables de este efecto son las banderillas tibetanas que cuelgan del techo del balcón y cruzan por encima de las cabezas de los comensales, también aportan a dar esta sensación los diferentes espacios arreglados y compuestos para varios propósitos y estilos de encuentro, ya sea una tertulia en sillas auténticas de tiempos coloniales costarricenses o sobre cojines en el suelo, al estilo oriental."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-3",
+   "text": "El mobiliario es parte del escenario, los artículos y objetos que inundan el espacio terminan de dar el toque final, incluyendo unas inmensas banderas que representan los continentes y que fueron creadas por el propietario de este mágico lugar."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-4",
+   "text": "Cali Rivera, el artista que decidió abrir otra ventana para el placer, en este caso gastronómico, convirtió su taller, El Taller del Artista, en un lugar abierto al público, una ventana, como lo representa el logo del sitio, por la cual es válido asomarse y entrar por ella, es pues \"una puerta ventana\"."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-5",
+   "text": "Por eso Cali, la gente que lo ayuda y su sitio irradian, en primer lugar, respeto hacia las personas que ingresan en este mundo. Desde el mago profesional vestido de salonero, el bartender fascinado por la teología, hasta la barista profesional, que prepara el bello menú de cafés especiales que llevan nombres de artistas nacionales y universales, rindiéndoles tributo y reconocimiento."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-6",
+   "text": "Ninguno de ellos persigue el tan buscado 10% de propina... este llega."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-7",
+   "text": "Cali sorprende al descubrir su ecléctica personalidad, representante de Costa Rica en el festival OTI en 1989, tenor, canta desde los 7 años de edad, hoy pinta y expone sus obras en su sitio, que en realidad es una \"instalación\" permanente en la cual interactúan pintores, músicos como \"Éditus\" y artistas de la cocina como el chef de origen alemán que con su equipo ejecuta las obras culinarias con efectividad."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-8",
+   "text": "Le invitamos a dar un vistazo a nuestros platos, preparados por nuestro chef residente, el alemán Peter Mobus."
+  },
+  {
+   "type": "paragraph",
+   "id": "cafe-arte-9",
+   "text": "Haga click aquí para ver el menú en formato.pdf (peso de archivo:2.2mb)"
+  },
+  {
+   "type": "links",
+   "id": "cafe-arte-fuente",
+   "title": "Fuente",
+   "items": [
+    {
+     "label": "Página original, archivada en Internet Archive",
+     "href": "https://web.archive.org/web/20251015112403/http://calirivera.com/index.php/taller-del-artista/cafe-arte",
+     "kind": "external"
+    }
+   ]
+  }
+ ],
+ "publishedAt": "2025-01-01T12:00:00Z",
+ "tags": [
+  "café arte",
+  "fecha-aproximada"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20251015112403/http://calirivera.com/index.php/taller-del-artista/cafe-arte"
+}

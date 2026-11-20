@@ -1,0 +1,69 @@
+{
+ "id": "taller-del-artista-restaurante-arte-cultura-costa-rica",
+ "slug": "taller-del-artista-restaurante-arte-cultura-costa-rica",
+ "status": "draft",
+ "createdAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-20T03:40:00Z",
+ "title": "Taller del Artista- Restaurante, Arte, Cultura Costa Rica",
+ "excerpt": "Ya se puede apreciar la obra escultorica \"Naciente del Agua\" del jóven artista costarricense David Villalobos, un llamado a proteger nuestro valioso líquido vital: el agua.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-1",
+   "text": "Ya se puede apreciar la obra escultorica \"Naciente del Agua\" del jóven artista costarricense David Villalobos, un llamado a proteger nuestro valioso líquido vital: el agua."
+  },
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-2",
+   "text": "Nuestro artista residente Cali Rivera fue invitado a exponer en la Universidad de San"
+  },
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-3",
+   "text": "Carlos de Guatemala, y además prepara una nueva expo que llevará este fin de año a Japón."
+  },
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-4",
+   "text": "Lorem ipsum dolor sit amet consectetuer Sed dui ipsum Nulla tincidunt. Pulvinar congue convallis Aenean. Eleifend ligula ridiculus wisi est Ut fames sem Vivamus diam nunc. Urna nec lacus ipsum Pellentesque ut dolor quis In ac odio. Condimentum Phasellus eleifend libero pulvinar risus montes malesuada hendrerit non neque."
+  },
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-5",
+   "text": "Lorem ipsum dolor sit amet consectetuer Sed dui ipsum Nulla tincidunt. Pulvinar congue convallis Aenean in at Phasellus. Eleifend ligula ridiculus wisi est Ut fames sem Vivamus diam nunc. Urna nec lacus ipsum Pellentesque ut dolor quis In ac odio. Condimentum Phasellus eleifend libero pulvinar risus montes malesuada hendrerit non neque."
+  },
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-6",
+   "text": "Dis odio quis ante sit lorem Nunc eros tristique justo Sed. Lorem orci consequat. Tempor fames vitae ut condimentum"
+  },
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-7",
+   "text": "Vestibulum habitant In Vestibulum Vivamus elit consequat ut eros facilisi amet. Quisque quis magna facilisi at Curabitur quis"
+  },
+  {
+   "type": "paragraph",
+   "id": "taller-del-artista-resta-8",
+   "text": "Nam ut tempus lorem mauris Curabitur quam venenatis Aenean. Vestibulum Et augue a nunc Lorem Phasellus Phasellus"
+  },
+  {
+   "type": "links",
+   "id": "taller-del-artista-resta-fuente",
+   "title": "Fuente",
+   "items": [
+    {
+     "label": "Página original, archivada en Internet Archive",
+     "href": "https://web.archive.org/web/20090901110625/http://www.tallerdelartista.com:80/index.php?option=com_frontpage&Itemid=1",
+     "kind": "external"
+    }
+   ]
+  }
+ ],
+ "publishedAt": "2009-01-01T12:00:00Z",
+ "tags": [
+  "archivo",
+  "fecha-aproximada"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20090901110625/http://www.tallerdelartista.com:80/index.php?option=com_frontpage&Itemid=1"
+}

@@ -1,0 +1,49 @@
+{
+ "id": "artistas-invitad-s",
+ "slug": "artistas-invitad-s",
+ "status": "draft",
+ "createdAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-20T03:40:00Z",
+ "title": "Artistas Invitad@s",
+ "excerpt": "Editus es un trío, integrado por Ricardo Ramírez-violín, Edín Solís-guitarra, Carlos \"Tapado\" Vargas-percusión. Se trata de una fusión entre jazz moderno y tradicional, música \"new age\" y clásica, sonidos auténticos latinoamericanos, efecto…",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "artistas-invitad-s-1",
+   "text": "Editus es un trío, integrado por Ricardo Ramírez-violín, Edín Solís-guitarra, Carlos \"Tapado\" Vargas-percusión. Se trata de una fusión entre jazz moderno y tradicional, música \"new age\" y clásica, sonidos auténticos latinoamericanos, efectos técnicos e investigación académica en una sola expresión artística. Han ganado junto a Rubén Blades premios Grammy en el año 2000 y 2003."
+  },
+  {
+   "type": "paragraph",
+   "id": "artistas-invitad-s-2",
+   "text": "Cada vez que estos artistas se unen en el Taller del Artista la magia del entorno se funde con el sonido, dando como resultado una velada simplemente inolvidable."
+  },
+  {
+   "type": "paragraph",
+   "id": "artistas-invitad-s-3",
+   "text": "Triova, trío dedicado al género trova, Gladis \"Chini\", ex-integrante del grupo Clarooscuro es la percusionita."
+  },
+  {
+   "type": "paragraph",
+   "id": "artistas-invitad-s-4",
+   "text": "Santos Gassiebayle, Sitar, charango y guitarra, música clásica de la India, noches místicas con música clásica de la India."
+  },
+  {
+   "type": "links",
+   "id": "artistas-invitad-s-fuente",
+   "title": "Fuente",
+   "items": [
+    {
+     "label": "Página original, archivada en Internet Archive",
+     "href": "https://web.archive.org/web/20260115050126/https://www.calirivera.com/index.php/taller-del-artista?view=article&id=31:artistas-invitads&catid=17",
+     "kind": "external"
+    }
+   ]
+  }
+ ],
+ "publishedAt": "2026-01-01T12:00:00Z",
+ "tags": [
+  "taller",
+  "fecha-aproximada"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260115050126/https://www.calirivera.com/index.php/taller-del-artista?view=article&id=31:artistas-invitads&catid=17"
+}

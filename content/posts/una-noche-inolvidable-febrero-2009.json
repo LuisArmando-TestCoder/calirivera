@@ -1,0 +1,38 @@
+{
+ "id": "una-noche-inolvidable-febrero-2009",
+ "slug": "una-noche-inolvidable-febrero-2009",
+ "status": "published",
+ "createdAt": "2026-11-20T03:40:00Z",
+ "updatedAt": "2026-11-20T03:40:00Z",
+ "title": "Una noche inolvidable-Febrero 2009",
+ "excerpt": "El resultado de la unión de los esfuerzos de muchos artistas (músicos, bailarines, titireteros, vestuaristas) queda plasmado en estas primeras imágenes.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "una-noche-inolvidable-fe-1",
+   "text": "El resultado de la unión de los esfuerzos de muchos artistas (músicos, bailarines, titireteros, vestuaristas) queda plasmado en estas primeras imágenes."
+  },
+  {
+   "type": "paragraph",
+   "id": "una-noche-inolvidable-fe-2",
+   "text": "En tres semanas tendremos un video especial con los entretelones de la propuesta de Cali. En proximos días contaremos con una amplia galería de imágenes. El video al final de las imágenes pertenece a \"SED\" uno de los temas que el Ensamble Arbol de Pie, tocó."
+  },
+  {
+   "type": "links",
+   "id": "una-noche-inolvidable-fe-fuente",
+   "title": "Fuente",
+   "items": [
+    {
+     "label": "Página original, archivada en Internet Archive",
+     "href": "https://web.archive.org/web/20260423032454/http://calirivera.com/index.php/cali-rivera-74/exposiciones/107-una-noche-inolvidable-febrero-2009",
+     "kind": "external"
+    }
+   ]
+  }
+ ],
+ "publishedAt": "2009-02-01T12:00:00Z",
+ "tags": [
+  "exposición"
+ ],
+ "sourceUrl": "https://web.archive.org/web/20260423032454/http://calirivera.com/index.php/cali-rivera-74/exposiciones/107-una-noche-inolvidable-febrero-2009"
+}
