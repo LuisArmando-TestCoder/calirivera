@@ -6,6 +6,9 @@ html {
   color: var(--c-fg);
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
+  // Monitores grandes: pasados los 1920 px todo crece con la pantalla (tipografía, espacios y columna central
+  // están en rem), hasta una vez y media. Parte del tamaño que eligió la persona en su navegador (100 %).
+  font-size: clamp(100%, calc(100% + (100vw - 1920px) * 0.00625), 150%);
 
 }
 html.lenis, html.lenis body { height: auto; }

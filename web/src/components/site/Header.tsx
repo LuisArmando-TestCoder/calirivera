@@ -145,6 +145,7 @@ export function Header({
   useEffect(() => {
     if (!open) return;
     document.documentElement.style.overflow = "hidden";
+    document.documentElement.dataset.menu = "open"; // lo que flota sobre la página (la música) se aparta
     const first = panel.current?.querySelector<HTMLElement>("a");
     first?.focus();
     const onKey = (e: KeyboardEvent) => {
@@ -157,7 +158,11 @@ export function Header({
       }
     };
     addEventListener("keydown", onKey);
-    return () => { document.documentElement.style.overflow = ""; removeEventListener("keydown", onKey); };
+    return () => {
+      document.documentElement.style.overflow = "";
+      delete document.documentElement.dataset.menu;
+      removeEventListener("keydown", onKey);
+    };
   }, [open]);
 
   return (

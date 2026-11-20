@@ -18,7 +18,7 @@
 .rod {
   grid-column: 1 / -1;
   height: 3px;
-  margin-inline: calc(var(--gutter) * 0.6);
+  margin-inline: max(calc(var(--pad) * 0.6), calc(var(--gutter) - 1.2rem));
   margin-top: var(--space-m);
   background: var(--c-anil);
   border-radius: 2px;

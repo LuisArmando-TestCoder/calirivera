@@ -4,7 +4,7 @@
 
 // El hilo: una línea que se cose a medida que se lee (scroll-driven, compositor)
 .thread {
-  position: fixed; z-index: 3; top: 0; bottom: 0; left: calc(var(--gutter) * 0.45);
+  position: fixed; z-index: 3; top: 0; bottom: 0; left: max(calc(var(--pad) * 0.45), calc(var(--gutter) - 1.65rem));
   width: 2px; background: var(--c-azul); transform-origin: top; transform: scaleY(1);
   pointer-events: none;
   @include below($bp-s) { display: none; }
@@ -22,7 +22,7 @@
   gap: var(--space-l);
 }
 .name { margin: 0; display: grid; line-height: 0.8; }
-.n1, .n2 { display: block; @include display(50, 900); font-size: clamp(5rem, 26vw, 24rem); letter-spacing: -0.02em; }
+.n1, .n2 { display: block; @include display(50, 900); font-size: min(clamp(5rem, 26vw, 24rem), var(--title-cap)); letter-spacing: -0.02em; }
 .n2 { justify-self: end; font-stretch: 112%; font-weight: 300; color: var(--c-azul); margin-top: -0.06em;
   @include motion { animation: stretch 1600ms var(--ease-out) 200ms both; } }
 @keyframes stretch { from { font-stretch: 50%; opacity: 0; } }
@@ -34,7 +34,7 @@
   position: absolute;
   top: var(--space-xl);
   right: var(--gutter);
-  font-size: clamp(3rem, 12vw, 10rem);
+  font-size: min(clamp(3rem, 12vw, 10rem), var(--title-cap));
   line-height: 1;
   color: color-mix(in oklch, var(--c-azul) 22%, transparent);
   z-index: 2;

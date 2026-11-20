@@ -3,6 +3,7 @@
 .banner {
   --notch: 2.2rem;
   display: block;
+  container-type: inline-size; // el título se mide con el ancho del estandarte, no con el de la pantalla
   text-decoration: none;
   transform-origin: 50% 0;
   margin-top: calc(var(--drop) * var(--space-xl));
@@ -14,8 +15,9 @@
 }
 .cloth {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: var(--space-s);
-  padding: var(--space-s) var(--space-s) calc(var(--notch) + var(--space-m));
+  padding: var(--space-s) clamp(0.6rem, 7cqi, var(--space-s)) calc(var(--notch) + var(--space-m));
   clip-path: polygon(0 0, 100% 0, 100% 100%, 50% calc(100% - var(--notch)), 0 100%);
   background-image: repeating-linear-gradient(90deg, oklch(100% 0 0 / 0.05) 0 1px, transparent 1px 5px);
 }
@@ -28,5 +30,7 @@
   img { @include motion { transition: transform 1.2s var(--ease-out); } }
 }
 .banner:hover .media img { transform: scale(1.05); }
-.title { @include display(56, 800); font-size: var(--step-3); line-height: 0.9; text-wrap: balance; }
+// «Transmutación», «Globalización»: una palabra larga entra entera en el estandarte más angosto (dos por fila en
+// un teléfono de 320 px); si aun así no entra, se parte con guion antes que salirse.
+.title { @include display(56, 800); font-size: clamp(0.95rem, 13.5cqi, var(--step-3)); line-height: 0.9; text-wrap: balance; overflow-wrap: break-word; hyphens: auto; }
 .period { @include label; opacity: 0.8; }

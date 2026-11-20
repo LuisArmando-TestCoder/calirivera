@@ -1,6 +1,8 @@
 @use "../../styles/tokens" as *;
 
-// El disco de la música de fondo: abajo a la izquierda, siempre al alcance del pulgar.
+// El disco de la música de fondo: abajo a la izquierda. En el teléfono (y en ventanas bajas) va abajo a la
+// derecha, donde los renglones terminan y no tapa el comienzo de lo que se lee; se guarda al bajar, junto con
+// la cabecera, y vuelve con ella al subir. Con el menú abierto no aparece.
 .ambient {
   position: fixed;
   z-index: 60;
@@ -13,6 +15,15 @@
   pointer-events: none;
   > * { pointer-events: auto; }
   @media print { display: none; }
+  @include motion { transition: translate 0.5s var(--ease-out), opacity 0.35s, visibility 0s; }
+  :global(html[data-menu]) & { opacity: 0; visibility: hidden; transition-delay: 0s, 0s, 0.35s; }
+  @media (max-width: 47.99em), (max-height: 30em) {
+    left: auto;
+    right: max(12px, env(safe-area-inset-right));
+    bottom: calc(12px + env(safe-area-inset-bottom));
+    flex-direction: row-reverse;
+    :global(html[data-header="hidden"]) &:not(:focus-within) { translate: 0 calc(100% + 28px); opacity: 0; visibility: hidden; transition-delay: 0s, 0s, 0.5s; }
+  }
 }
 .disc {
   position: relative;
@@ -33,6 +44,7 @@
   &:active { transform: scale(0.95); }
   &:focus-visible { outline: 2px solid var(--c-ocre); outline-offset: 3px; }
   [data-on] & { background: var(--c-anil); }
+  @media (max-width: 47.99em), (max-height: 30em) { width: 46px; height: 46px; }
 }
 // el anillo: una pista tenue y, encima, el avance de la pieza en ocre
 .ring {
@@ -99,6 +111,22 @@
   0%, 100% { opacity: 0; clip-path: inset(0 100% 0 0 round 0 999px 999px 0); }
   14%, 80% { opacity: 1; clip-path: inset(0 0 0 0 round 0 999px 999px 0); }
 }
-.state { @include label; font-size: 0.62rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--c-ocre); }
+// a la derecha, el nombre se despliega hacia la izquierda
+@media (max-width: 47.99em), (max-height: 30em) {
+  .label {
+    margin: 0 -24px 0 0;
+    padding: 8px 34px 8px 16px;
+    border-radius: 999px 0 0 999px;
+    max-width: calc(100vw - 70px);
+    clip-path: inset(0 0 0 100% round 999px 0 0 999px);
+    [data-open] & { clip-path: inset(0 0 0 0 round 999px 0 0 999px); }
+    [data-on]:not([data-open]) & { animation-name: peek-left; }
+  }
+}
+@keyframes peek-left {
+  0%, 100% { opacity: 0; clip-path: inset(0 0 0 100% round 999px 0 0 999px); }
+  14%, 80% { opacity: 1; clip-path: inset(0 0 0 0 round 999px 0 0 999px); }
+}
+.state { @include label; font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--c-ocre); }
 .title { @include display(60, 640); font-size: 0.98rem; }
 .by { @include text; font-style: italic; font-size: 0.78rem; opacity: 0.75; }

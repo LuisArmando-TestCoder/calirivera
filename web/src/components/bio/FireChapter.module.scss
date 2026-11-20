@@ -47,7 +47,7 @@
   }
   :global(.js) .date {
     position: absolute; top: calc(var(--header-h) + var(--space-m)); left: var(--gutter);
-    font-size: clamp(5rem, 24vw, 22rem);
+    font-size: min(clamp(5rem, 24vw, 22rem), var(--title-cap));
     color: color-mix(in oklch, var(--c-hilo), var(--c-brasa) calc(min(1, var(--progress) * 4) * 100%));
     opacity: clamp(0, calc(1.6 - var(--progress) * 3), 1);
     transform: translateY(calc(var(--progress) * -30vh));

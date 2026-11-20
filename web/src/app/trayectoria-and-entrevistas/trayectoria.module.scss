@@ -6,7 +6,7 @@
   padding-bottom: var(--space-xl);
   display: grid; gap: var(--space-s);
 }
-.title { @include display(56, 860); font-size: clamp(3.4rem, 15vw, 15rem); line-height: 0.8; letter-spacing: -0.03em; }
+.title { @include display(56, 860); font-size: min(clamp(3.4rem, 15vw, 15rem), var(--title-cap)); line-height: 0.8; letter-spacing: -0.03em; }
 .span { display: flex; align-items: center; gap: var(--space-s); @include display(110, 300); font-size: var(--step-3); color: var(--c-azul); }
 .dash { flex: 1; height: 2px; background: currentColor; max-width: 30vw;
   @include motion { animation: grow 1.4s var(--ease-out) 300ms both; transform-origin: left; } }
@@ -33,6 +33,6 @@
   &:hover .pvGo, &:focus-visible .pvGo { transform: translateX(0.25em); color: var(--c-accent); }
 }
 .pvKicker { grid-area: kicker; @include label; color: var(--c-muted); }
-.pvTitle { grid-area: title; @include display(70, 820); font-size: clamp(2.6rem, 9vw, 8rem); line-height: 0.88; letter-spacing: -0.02em; }
-.pvGo { grid-area: go; @include display(70, 400); font-size: clamp(2.6rem, 9vw, 8rem); line-height: 0.88; @include motion { transition: transform 0.4s var(--ease-out), color 0.3s; } }
+.pvTitle { grid-area: title; @include display(70, 820); font-size: min(clamp(2.6rem, 9vw, 8rem), var(--title-cap)); line-height: 0.88; letter-spacing: -0.02em; }
+.pvGo { grid-area: go; @include display(70, 400); font-size: min(clamp(2.6rem, 9vw, 8rem), var(--title-cap)); line-height: 0.88; @include motion { transition: transform 0.4s var(--ease-out), color 0.3s; } }
 .sideBlock { display: grid; gap: var(--space-s); }

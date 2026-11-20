@@ -35,7 +35,7 @@
   display: grid; gap: var(--space-m); align-content: end;
   @include above($bp-m) { padding: var(--space-2xl) var(--gutter) var(--space-2xl) var(--space-xl); }
 }
-.collection { @include label; text-decoration: none; color: var(--c-azul); &:hover { text-decoration: underline; } }
+.collection { @include label; @include tap; text-decoration: none; color: var(--c-azul); justify-self: start; &:hover { text-decoration: underline; } }
 .title { @include display(62, 800); font-size: clamp(2.6rem, 1.2rem + 3.6vw, 5rem); line-height: 0.9; hyphens: auto; overflow-wrap: break-word; }
 .sheet { display: grid; border-top: 1px solid var(--c-linea); margin: 0; }
 .row { display: grid; grid-template-columns: 7rem 1fr; gap: var(--space-s); padding-block: var(--space-xs); border-bottom: 1px solid var(--c-linea);

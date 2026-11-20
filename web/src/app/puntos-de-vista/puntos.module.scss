@@ -16,7 +16,7 @@
 }
 .title {
   @include display(56, 860);
-  font-size: clamp(3.2rem, 13vw, 13rem);
+  font-size: min(clamp(3.2rem, 13vw, 13rem), var(--title-cap));
   line-height: 0.82;
   letter-spacing: -0.03em;
   text-wrap: balance;

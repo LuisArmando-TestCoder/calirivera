@@ -8,7 +8,7 @@
   padding-top: calc(var(--header-h) + var(--space-m));
   padding-bottom: var(--space-3xl);
 }
-.crumbs { @include wrap; @include label; color: var(--c-muted); margin-bottom: var(--space-m); a { color: var(--c-fg); } }
+.crumbs { @include wrap; @include label; color: var(--c-muted); margin-bottom: var(--space-m); a { color: var(--c-fg); @include tap; } }
 .layout {
   @include wrap;
   display: grid;
@@ -28,7 +28,7 @@
   @include label;
   dt { color: var(--c-muted); }
   dd { margin: 0; }
-  a { color: inherit; }
+  a { color: inherit; @include tap; }
 }
 .link { @include label; color: var(--c-fg); }
 .pager {

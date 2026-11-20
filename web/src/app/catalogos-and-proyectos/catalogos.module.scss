@@ -6,7 +6,7 @@
   display: grid; gap: var(--space-l);
   @include above($bp-m) { grid-template-columns: 1.3fr 1fr; align-items: end; }
 }
-.title { @include display(60, 860); font-size: clamp(3rem, 10vw, 9.5rem); line-height: 0.84; }
+.title { @include display(60, 860); font-size: min(clamp(3rem, 10vw, 9.5rem), var(--title-cap)); line-height: 0.84; }
 .lead { font-size: var(--step-1); line-height: 1.4; max-width: 30ch; }
 .h2 { @include display(64, 780); font-size: var(--step-4); line-height: 0.95; margin-bottom: var(--space-l); }
 

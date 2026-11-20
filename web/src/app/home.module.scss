@@ -42,19 +42,19 @@
 .tallerImg { position: absolute; inset: -8% 0; }
 .tallerText {
   padding: var(--space-2xl) var(--gutter);
-  display: grid; gap: var(--space-m); align-content: center;
+  display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-m); align-content: center;
   @include above($bp-m) { padding-inline: var(--space-2xl) var(--gutter); }
 }
 .tallerLead { font-size: var(--step-1); line-height: 1.35; max-width: 32ch; }
 .programs { list-style: none; padding: 0; border-top: 1px solid var(--c-linea); }
 .program {
-  display: grid; grid-template-columns: 7.5rem 1fr; gap: var(--space-s); align-items: baseline;
+  display: grid; grid-template-columns: minmax(3.8rem, 7.5rem) minmax(0, 1fr); gap: var(--space-s); align-items: baseline;
   padding-block: var(--space-s); border-bottom: 1px solid var(--c-linea); text-decoration: none;
   @include motion { transition: color var(--dur-micro); }
   &:hover { color: var(--c-ocre); }
 }
 .programDay { @include label; color: var(--c-muted); }
-.programName { @include display(76, 700); font-size: var(--step-2); line-height: 1; }
+.programName { @include display(76, 700); font-size: var(--step-2); line-height: 1; overflow-wrap: break-word; hyphens: auto; }
 
 // Bitácora
 .log { @include wrap; padding-block: var(--space-3xl); }

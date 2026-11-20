@@ -225,6 +225,14 @@
 
 // botón de sonido: a la derecha, pegado al de menú
 .sound { margin-left: auto; display: inline-flex; }
+.mark { min-width: 0; }
+@media (max-width: 21.99em) {
+  .bar { gap: var(--space-2xs); }
+  .markSig { width: 2.3rem; }
+  // el botón conserva su nombre para el lector de pantalla (aria-label); a la vista queda el ícono
+  .toggleLabel { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  .toggle { min-width: 44px; justify-content: center; }
+}
 
 // la firma junto al nombre: se escribe al cargar
 .mark { display: inline-flex; align-items: center; gap: 0.55rem; }

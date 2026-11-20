@@ -100,7 +100,7 @@
 // el lema, de borde a borde: cada renglón se ajusta solo al ancho (HeadingFit, data-fit)
 .wordmark {
   margin: var(--space-xl) 0 0;
-  padding-inline: calc(var(--gutter) * 0.5);
+  padding-inline: calc(var(--pad) * 0.5);
   @include display(100, 860);
   line-height: 0.84;
   color: var(--c-ocre);

@@ -47,12 +47,12 @@ div:has(> .p) + div:has(> .p) { margin-top: 0.35em; }
   > * { break-inside: avoid; margin-bottom: var(--space-s); }
 }
 
-.links { display: grid; gap: var(--space-s); }
+.links { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-s); }
 .linksTitle { @include display(80, 640); font-size: var(--step-2); }
 .linkList { display: grid; border-top: 1px solid var(--c-linea); }
 .link {
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: baseline;
   gap: var(--space-s);
   padding-block: var(--space-xs);
@@ -63,7 +63,7 @@ div:has(> .p) + div:has(> .p) { margin-top: 0.35em; }
   &:hover, &:focus-visible { padding-inline-start: var(--space-xs); background: color-mix(in oklch, var(--c-fg) 5%, transparent); }
 }
 .linkLabel { font-size: var(--step-0); }
-.linkNote { @include label; color: var(--c-muted); white-space: nowrap; }
+.linkNote { @include label; color: var(--c-muted); white-space: nowrap; @media (max-width: 21.99em) { white-space: normal; text-align: right; max-width: 9rem; } }
 
 .video {
   position: relative;

@@ -47,7 +47,7 @@ export default async function PuntosDeVista() {
             <dl className={s.stats}>
               <div><dt>Notas</dt><dd>{notes.length}</dd></div>
               <div><dt>Medios</dt><dd>{outlets}</dd></div>
-              <div><dt>Años</dt><dd>{years.at(-1)}–{years[0].slice(2)}</dd></div>
+              <div><dt>Años</dt><dd>{years.at(-1)}–{years[0]}</dd></div>
             </dl>
           )}
         </div>

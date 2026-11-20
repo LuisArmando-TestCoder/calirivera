@@ -6,12 +6,14 @@
 .heroImg { position: absolute; inset: -8% 0; }
 .heroText { position: relative; z-index: 1; padding: var(--space-3xl) var(--gutter) var(--space-2xl); display: grid; gap: var(--space-s); }
 .since { @include label; color: var(--c-ocre); }
-.title { @include display(150, 880); font-size: clamp(3rem, 11vw, 12rem); line-height: 0.82; letter-spacing: -0.02em; }
+@media (max-height: 30em) and (orientation: landscape) { .heroText { padding-top: calc(var(--header-h) + var(--space-s)); padding-bottom: var(--space-m); } }
+.title { @include display(150, 880); font-size: min(clamp(3rem, 11vw, 12rem), var(--title-cap)); line-height: 0.82; letter-spacing: -0.02em; }
 .sub { font-size: var(--step-1); max-width: 34ch; line-height: 1.35; }
 
 .layout {
   display: grid;
-  @include above($bp-l) { grid-template-columns: 22rem minmax(0, 1fr); }
+  // pantalla más ancha que la columna central: la tarjeta y el relato se quedan dentro de ella
+  @include above($bp-l) { grid-template-columns: 22rem minmax(0, 1fr); padding-inline: calc(var(--gutter) - var(--pad)); }
 }
 .card {
   @include tone(clay);
@@ -28,7 +30,7 @@
 .primary, .secondary { @include label; font-size: var(--step-0); text-decoration: none; padding: 0.85rem 1rem; text-align: center; min-height: 48px; }
 .primary { background: var(--c-anil); color: var(--c-hilo); &:hover { background: var(--c-azul); } }
 .secondary { border: 2px solid var(--c-anil); &:hover { background: var(--c-anil); color: var(--c-hilo); } }
-.story { min-width: 0; }
+.story { min-width: 0; @include above($bp-l) { --gutter: var(--pad); } }
 
 .programs { @include wrap; padding-block: var(--space-3xl); }
 .h2 { @include display(64, 800); font-size: var(--step-5); line-height: 0.9; margin-bottom: var(--space-l); }
