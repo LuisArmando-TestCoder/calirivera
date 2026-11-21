@@ -3,7 +3,7 @@
  "slug": "trayectoria-and-entrevistas",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-21T23:36:13Z",
  "title": "Trayectoria & Entrevistas",
  "description": "Exposiciones, currículum y entrevistas sobre la obra de Cali Rivera.",
  "sections": [
@@ -22,162 +22,54 @@
      "id": "tray-4",
      "items": [
       {
-       "year": "2022",
-       "title": "El agua es Oro",
-       "detail": "Exposición individual y reinauguración oficial de la Galería del Taller del Artista. Costa Rica."
+       "year": "1996",
+       "title": "Sueños en Azul",
+       "detail": "Exposición individual de pintura al óleo. Centro Costarricense de la Ciencia y la Cultura, sede del Museo de los Niños, Costa Rica. Octubre."
       },
       {
-       "year": "2022",
-       "title": "Sincretismos en la pintura de Costa Rica",
-       "detail": "Exposición colectiva. Museo de Arte Costarricense / Galería ECA, Escuela Casa del Artista. Costa Rica."
+       "year": "2000",
+       "title": "La tierra como elemento."
       },
       {
-       "year": "2021",
-       "title": "Colores y texturas del Bicentenario",
-       "detail": "Exposición colectiva itinerante. Galería Talentum. Costa Rica."
+       "year": "2000",
+       "title": "Detrás de la Ventana",
+       "detail": "Exposición individual de pintura al óleo e inauguración de su estudio como espacio alternativo: Taller del Artista. 7 de marzo."
       },
       {
-       "year": "2020",
-       "title": "Mascarillas Solidarias",
-       "detail": "Exposición colectiva. Museo Municipal de Cartago. Costa Rica."
+       "year": "2001",
+       "title": "El fuego como elemento."
       },
       {
-       "year": "2020",
-       "title": "El Paraíso a la Vuelta de la Esquina",
-       "detail": "Trienal Internacional de Gráfica de Polonia de Unamos Culturas. Galería Bałucka, Polonia."
+       "year": "2001",
+       "title": "Plegaria",
+       "detail": "Exposición individual de acrílicos, videoinstalación y performance. Galería Nacional / Museo de los Niños, Costa Rica. 2 de noviembre."
       },
       {
-       "year": "2019",
-       "title": "Casa Museo Ave Fénix",
-       "detail": "Inauguración e intervención arquitectónica del espacio."
+       "year": "2002",
+       "title": "Expo de Abril",
+       "detail": "Exposición individual de resinas e instalaciones. VIII Festival Internacional de las Artes, San José, Costa Rica. Abril."
       },
       {
-       "year": "2017",
-       "title": "La Cofradía",
-       "detail": "Exposición individual e inauguración de Sexto Sol como anfiteatro."
+       "year": "2002",
+       "title": "Detrás de la Ventana Centro Cultural e Histórico José Figueres Ferrer, San Ramón de Alajuela, Costa Rica. Junio. Selección de obras de la colección presentada con motivo del V Aniversario de la institución."
       },
       {
-       "year": "2016",
-       "title": "Canto a la Libertad Teatro Nacional de Costa Rica. Mayo de 2016.",
-       "detail": "Participación por invitación de la Orquesta Sinfónica Nacional para el IV Concierto de Temporada."
+       "year": "2003",
+       "title": "El aire como elemento Estandartes alegóricos de la Carta de la Tierra.",
+       "detail": "Obra vinculada al movimiento mundial pro cultura tibetana."
       },
       {
-       "year": "2015",
-       "title": "Plegarias – REVELACIONES",
-       "detail": "Exposición individual. Galería Klaus Steinmetz Contemporary, Escazú, Costa Rica. Julio."
+       "year": "2003",
+       "title": "Primera exposición itinerante para parques y plazas de Costa Rica: nueve banderas de seis metros de longitud instaladas sobre estructuras metálicas de nueve metros, presentadas en Parque México, Plaza Roosevelt y Parque de la Paz."
       },
       {
-       "year": "2015",
-       "title": "Sincretismo Religioso: un camino para la Paz",
-       "detail": "Exposición individual. Museo Central de Arte Textil, Łódź, Polonia. Abril–junio."
-      },
-      {
-       "year": "2015",
-       "title": "Trienal de Riga",
-       "detail": "Participación en la Trienal Internacional de Arte Textil. Museo Nacional de Arte Textil, Riga, Letonia. Abril–junio."
-      },
-      {
-       "year": "2014",
-       "title": "CUD – MILAGRO Museo Central de Arte Textil, Łódź, Polonia."
-      },
-      {
-       "year": "2014",
-       "title": "CUD – MILAGRO Galería Nacional de Costa Rica."
-      },
-      {
-       "year": "2013",
-       "title": "Abstracción Movimiento Internacionalista Galería Andrómeda Contemporáneo. Costa Rica."
-      },
-      {
-       "year": "2012",
-       "title": "Banderas del Corpus Christi y la Cruz de San Pedro",
-       "detail": "Exposición. Terramall, Costa Rica. Abril."
-      },
-      {
-       "year": "2012",
-       "title": "EXVOTOS",
-       "detail": "Exposición. Taller del Artista, Tres Ríos, Costa Rica."
-      },
-      {
-       "year": "2011",
-       "title": "PLEGARIA por el planeta",
-       "detail": "Instalación retrospectiva. Museo Municipal de Cartago, Costa Rica. Marzo–junio."
-      },
-      {
-       "year": "2010",
-       "title": "ZENTICA Salón del Cuño: convivio entre Japón y Costa Rica. MADC, Costa Rica. Septiembre."
-      },
-      {
-       "year": "2010",
-       "title": "Red Textil Internacional Museo Municipal de Cartago y Centro Cultural Costarricense Norteamericano. Costa Rica. Septiembre. Ganador del Primer Lugar Iberoamericano en Arte Textil."
-      },
-      {
-       "year": "2010",
-       "title": "Banderas de Corpus Christi y PAZ con el Lago",
-       "detail": "Exposición individual realizada con motivo del X Aniversario de Taller del Artista. Costa Rica. Marzo."
-      },
-      {
-       "year": "2009",
-       "title": "La Cruz de San Pedro",
-       "detail": "Exposición individual e instalaciones. Universidad de San Carlos de Guatemala (USAC), Facultad de Arquitectura. Septiembre."
-      },
-      {
-       "year": "2009",
-       "title": "Un llamado a la humanidad para preservar la vida del Lago Atitlán, Patrimonio Natural de Guatemala."
-      },
-      {
-       "year": "2009",
-       "title": "El Beso – Es el tiempo del Abrazo",
-       "detail": "Exposición individual con artistas invitados. Taller del Artista, Tres Ríos, Costa Rica. Febrero."
-      },
-      {
-       "year": "2008",
-       "title": "ALQUIMIA",
-       "detail": "Exposición individual. Galería Kandinsky, San Pedro, Costa Rica. Junio."
-      },
-      {
-       "year": "2007",
-       "title": "El agua como elemento",
-       "detail": "Exposición individual y cierre del proyecto de los Elementos. Taller del Artista, Costa Rica. Noviembre."
-      },
-      {
-       "year": "2006",
-       "title": "Proyecto Aquarius: Sinfonía de los Mil",
-       "detail": "Madonna de los blancos cuerpos (2003) proyectada durante la Sinfonía n.º 8 de Mahler, dirigida por Isaac Karabtchevsky. Playa de Copacabana, Río de Janeiro, Brasil. 26 de agosto."
-      },
-      {
-       "year": "2006",
-       "title": "BITÁCORA",
-       "detail": "Exposición colectiva. Association Culturelle Rousselande, Les Rousses, Jura, Francia. Julio–agosto."
-      },
-      {
-       "year": "2006",
-       "title": "Banderas de Oración",
-       "detail": "Exposición individual. Boulevard de las Artes, X Festival Internacional de las Artes (FIA), San José, Costa Rica. Marzo."
-      },
-      {
-       "year": "2005",
-       "title": "Después de 60 Lunas",
-       "detail": "Exposición colectiva. Galería San José, Okayama, Japón. Octubre."
-      },
-      {
-       "year": "2005",
-       "title": "IDENTIDAD",
-       "detail": "Exposición individual de pintura e instalación. Taller del Artista, Costa Rica. Septiembre. Celebración de 18 años de carrera artística."
+       "year": "2003",
+       "title": "Prayer Flags",
+       "detail": "Exposición individual e instalación presentada por la Galería Nacional. Marzo."
       },
       {
        "year": "2004",
-       "title": "Festival Fusión Artes Visuales 2004 Casa de los Tres Mundos, Granada, Nicaragua. 17 de noviembre–17 de diciembre."
-      },
-      {
-       "year": "2004",
-       "title": "ARTESSS COSTA RIC'ART",
-       "detail": "Exposición colectiva. París, Francia. Agosto."
-      },
-      {
-       "year": "2004",
-       "title": "COSTA RIC'ART",
-       "detail": "Exposición colectiva. Besançon, Francia. Julio."
+       "title": "Globalización consistió en una instalación de cinco banderas, una en representación de cada continente."
       },
       {
        "year": "2004",
@@ -186,53 +78,161 @@
       },
       {
        "year": "2004",
-       "title": "Globalización consistió en una instalación de cinco banderas, una en representación de cada continente."
+       "title": "COSTA RIC'ART",
+       "detail": "Exposición colectiva. Besançon, Francia. Julio."
       },
       {
-       "year": "2003",
-       "title": "Prayer Flags",
-       "detail": "Exposición individual e instalación presentada por la Galería Nacional. Marzo."
+       "year": "2004",
+       "title": "ARTESSS COSTA RIC'ART",
+       "detail": "Exposición colectiva. París, Francia. Agosto."
       },
       {
-       "year": "2003",
-       "title": "Primera exposición itinerante para parques y plazas de Costa Rica: nueve banderas de seis metros de longitud instaladas sobre estructuras metálicas de nueve metros, presentadas en Parque México, Plaza Roosevelt y Parque de la Paz."
+       "year": "2004",
+       "title": "Festival Fusión Artes Visuales 2004 Casa de los Tres Mundos, Granada, Nicaragua. 17 de noviembre–17 de diciembre."
       },
       {
-       "year": "2003",
-       "title": "El aire como elemento Estandartes alegóricos de la Carta de la Tierra.",
-       "detail": "Obra vinculada al movimiento mundial pro cultura tibetana."
+       "year": "2005",
+       "title": "IDENTIDAD",
+       "detail": "Exposición individual de pintura e instalación. Taller del Artista, Costa Rica. Septiembre. Celebración de 18 años de carrera artística."
       },
       {
-       "year": "2002",
-       "title": "Detrás de la Ventana Centro Cultural e Histórico José Figueres Ferrer, San Ramón de Alajuela, Costa Rica. Junio. Selección de obras de la colección presentada con motivo del V Aniversario de la institución."
+       "year": "2005",
+       "title": "Después de 60 Lunas",
+       "detail": "Exposición colectiva. Galería San José, Okayama, Japón. Octubre."
       },
       {
-       "year": "2002",
-       "title": "Expo de Abril",
-       "detail": "Exposición individual de resinas e instalaciones. VIII Festival Internacional de las Artes, San José, Costa Rica. Abril."
+       "year": "2006",
+       "title": "Banderas de Oración",
+       "detail": "Exposición individual. Boulevard de las Artes, X Festival Internacional de las Artes (FIA), San José, Costa Rica. Marzo."
       },
       {
-       "year": "2001",
-       "title": "Plegaria",
-       "detail": "Exposición individual de acrílicos, videoinstalación y performance. Galería Nacional / Museo de los Niños, Costa Rica. 2 de noviembre."
+       "year": "2006",
+       "title": "BITÁCORA",
+       "detail": "Exposición colectiva. Association Culturelle Rousselande, Les Rousses, Jura, Francia. Julio–agosto."
       },
       {
-       "year": "2001",
-       "title": "El fuego como elemento."
+       "year": "2006",
+       "title": "Proyecto Aquarius: Sinfonía de los Mil",
+       "detail": "Madonna de los blancos cuerpos (2003) proyectada durante la Sinfonía n.º 8 de Mahler, dirigida por Isaac Karabtchevsky. Playa de Copacabana, Río de Janeiro, Brasil. 26 de agosto."
       },
       {
-       "year": "2000",
-       "title": "Detrás de la Ventana",
-       "detail": "Exposición individual de pintura al óleo e inauguración de su estudio como espacio alternativo: Taller del Artista. 7 de marzo."
+       "year": "2007",
+       "title": "El agua como elemento",
+       "detail": "Exposición individual y cierre del proyecto de los Elementos. Taller del Artista, Costa Rica. Noviembre."
       },
       {
-       "year": "2000",
-       "title": "La tierra como elemento."
+       "year": "2008",
+       "title": "ALQUIMIA",
+       "detail": "Exposición individual. Galería Kandinsky, San Pedro, Costa Rica. Junio."
       },
       {
-       "year": "1996",
-       "title": "Sueños en Azul",
-       "detail": "Exposición individual de pintura al óleo. Centro Costarricense de la Ciencia y la Cultura, sede del Museo de los Niños, Costa Rica. Octubre."
+       "year": "2009",
+       "title": "El Beso – Es el tiempo del Abrazo",
+       "detail": "Exposición individual con artistas invitados. Taller del Artista, Tres Ríos, Costa Rica. Febrero."
+      },
+      {
+       "year": "2009",
+       "title": "Un llamado a la humanidad para preservar la vida del Lago Atitlán, Patrimonio Natural de Guatemala."
+      },
+      {
+       "year": "2009",
+       "title": "La Cruz de San Pedro",
+       "detail": "Exposición individual e instalaciones. Universidad de San Carlos de Guatemala (USAC), Facultad de Arquitectura. Septiembre."
+      },
+      {
+       "year": "2010",
+       "title": "Banderas de Corpus Christi y PAZ con el Lago",
+       "detail": "Exposición individual realizada con motivo del X Aniversario de Taller del Artista. Costa Rica. Marzo."
+      },
+      {
+       "year": "2010",
+       "title": "Red Textil Internacional Museo Municipal de Cartago y Centro Cultural Costarricense Norteamericano. Costa Rica. Septiembre. Ganador del Primer Lugar Iberoamericano en Arte Textil."
+      },
+      {
+       "year": "2010",
+       "title": "ZENTICA Salón del Cuño: convivio entre Japón y Costa Rica. MADC, Costa Rica. Septiembre."
+      },
+      {
+       "year": "2011",
+       "title": "PLEGARIA por el planeta",
+       "detail": "Instalación retrospectiva. Museo Municipal de Cartago, Costa Rica. Marzo–junio."
+      },
+      {
+       "year": "2012",
+       "title": "EXVOTOS",
+       "detail": "Exposición. Taller del Artista, Tres Ríos, Costa Rica."
+      },
+      {
+       "year": "2012",
+       "title": "Banderas del Corpus Christi y la Cruz de San Pedro",
+       "detail": "Exposición. Terramall, Costa Rica. Abril."
+      },
+      {
+       "year": "2013",
+       "title": "Abstracción Movimiento Internacionalista Galería Andrómeda Contemporáneo. Costa Rica."
+      },
+      {
+       "year": "2014",
+       "title": "CUD – MILAGRO Galería Nacional de Costa Rica."
+      },
+      {
+       "year": "2014",
+       "title": "CUD – MILAGRO Museo Central de Arte Textil, Łódź, Polonia."
+      },
+      {
+       "year": "2015",
+       "title": "Trienal de Riga",
+       "detail": "Participación en la Trienal Internacional de Arte Textil. Museo Nacional de Arte Textil, Riga, Letonia. Abril–junio."
+      },
+      {
+       "year": "2015",
+       "title": "Sincretismo Religioso: un camino para la Paz",
+       "detail": "Exposición individual. Museo Central de Arte Textil, Łódź, Polonia. Abril–junio."
+      },
+      {
+       "year": "2015",
+       "title": "Plegarias – REVELACIONES",
+       "detail": "Exposición individual. Galería Klaus Steinmetz Contemporary, Escazú, Costa Rica. Julio."
+      },
+      {
+       "year": "2016",
+       "title": "Canto a la Libertad Teatro Nacional de Costa Rica. Mayo de 2016.",
+       "detail": "Participación por invitación de la Orquesta Sinfónica Nacional para el IV Concierto de Temporada."
+      },
+      {
+       "year": "2017",
+       "title": "La Cofradía",
+       "detail": "Exposición individual e inauguración de Sexto Sol como anfiteatro."
+      },
+      {
+       "year": "2019",
+       "title": "Casa Museo Ave Fénix",
+       "detail": "Inauguración e intervención arquitectónica del espacio."
+      },
+      {
+       "year": "2020",
+       "title": "El Paraíso a la Vuelta de la Esquina",
+       "detail": "Trienal Internacional de Gráfica de Polonia de Unamos Culturas. Galería Bałucka, Polonia."
+      },
+      {
+       "year": "2020",
+       "title": "Mascarillas Solidarias",
+       "detail": "Exposición colectiva. Museo Municipal de Cartago. Costa Rica."
+      },
+      {
+       "year": "2021",
+       "title": "Colores y texturas del Bicentenario",
+       "detail": "Exposición colectiva itinerante. Galería Talentum. Costa Rica."
+      },
+      {
+       "year": "2022",
+       "title": "Sincretismos en la pintura de Costa Rica",
+       "detail": "Exposición colectiva. Museo de Arte Costarricense / Galería ECA, Escuela Casa del Artista. Costa Rica."
+      },
+      {
+       "year": "2022",
+       "title": "El agua es Oro",
+       "detail": "Exposición individual y reinauguración oficial de la Galería del Taller del Artista. Costa Rica."
       }
      ]
     }

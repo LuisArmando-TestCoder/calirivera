@@ -28,15 +28,17 @@ export default async function Trayectoria() {
   const side = ["curriculum", "entrevistas"].map(sec).filter(Boolean) as NonNullable<ReturnType<typeof sec>>[];
   const timelineBlock = expo?.s.blocks.findIndex((b) => b.type === "timeline") ?? -1;
   const years = expo && timelineBlock >= 0 && expo.s.blocks[timelineBlock].type === "timeline"
-    ? (expo.s.blocks[timelineBlock] as { items: { year: string }[] }).items.map((x) => x.year) : [];
+    ? (expo.s.blocks[timelineBlock] as { items: { year: string }[] }).items.flatMap((x) => x.year.match(/\d{4}/g) ?? []).map(Number) : [];
+  // el tramo «de … a …» no depende del orden en que estén las exposiciones
+  const [from, to] = [Math.min(...years), Math.max(...years)];
   return (
     <>
       <header className={s.hero}>
         <NarrationSlot beat="09" />
         <h1 className={s.title}>Trayectoria</h1>
         {years.length > 0 && (
-          <p className={s.span} aria-label={`De ${years[years.length - 1]} a ${years[0]}`}>
-            <span>{years[years.length - 1]}</span><span aria-hidden className={s.dash} /><span>{years[0]}</span>
+          <p className={s.span} aria-label={`De ${from} a ${to}`}>
+            <span>{from}</span><span aria-hidden className={s.dash} /><span>{to}</span>
           </p>
         )}
       </header>
