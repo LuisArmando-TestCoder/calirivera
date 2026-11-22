@@ -5,21 +5,20 @@
  "aiAltered": false,
  "order": 3,
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "prayer-flags-bandera-3",
  "title": "Bandera 3",
  "images": [
   {
-   "src": "/media/memoria/2003-bandera6-480.jpg",
-   "alt": "Bandera 3 — Prayer Flags, 2003. El Alto del Carmen, Dulce Nombre de Tres Ríos, Cartago",
-   "width": 480,
-   "height": 585,
+   "src": "/media/colecciones/prayer-flags/bandera-3-652.jpg",
+   "alt": "Bandera 3 — Prayer Flags, 2003",
+   "width": 652,
+   "height": 872,
    "widths": [
-    480
+    652
    ],
-   "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZgCdACPzxjHp+yOU4wAA/uGgFwDbJZoH2Ld9U3IFbEw1+sXf8qemvrsbhSdsdi6LXfvcJ0GYysb4ciEOEVqM0FTuYcF5wUKM0OOXDTw8h/LtKi+c5MaHhFAbK2/wXe4gFAAA",
-   "color": "rgb(200 216 232)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdLwABx1tavhlTXyfQsIAA/uGSALcKWYkwQL+fzoxzs8fYdfWLuhx0aylMiwmHxPLaOuF4yMAvE68XVdATF59YZHbX6law5T6yZXrA6l3y7m+UrmfCY+Q0LL96LBLJe1YR/MM6iXBwAAA=",
+   "color": "rgb(130 158 170)"
   }
  ],
  "year": 2003,

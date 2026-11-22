@@ -5,38 +5,35 @@
  "aiAltered": false,
  "order": 5,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "sincretismo-religioso-sincretismo",
- "title": "Sincretismo",
+ "title": "Sincretismo religioso, un camino para la paz",
  "images": [
   {
-   "src": "/media/memoria/2014-sincretismo-frente-618.jpg",
-   "alt": "Sincretismo (frente) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/sincretismo-frente-438.jpg",
+   "alt": "Sincretismo religioso, un camino para la paz (frente) — Sincretismo religioso, 2014",
+   "width": 438,
+   "height": 893,
    "widths": [
-    480,
-    618
+    438
    ],
-   "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JQBfJBFKQPJY3IBGP3gAA/vN+twhA7OVoPEF4+iqKAbxKZC2sMEJ+qV1YCDmw7LK4MTwIt9+t+Roe2PAF/t5slbQDVAaINXqsSOBWAAA=",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAQBQCdASoQACEAPuVipk2pJaOiNVgIASAciWgAsQyKeoOf/UsKNHfnmwXLhdJ5XCUAAP7uOCJQzoqe819L6COsP6S3xVS3ug1On7k4FHuXDmrtzIX20iOMrjgw88nTuJcx3BJ/Lg3HNJtLIHxRz5k19SKwMT1AvVY8wlJDSdoe6mwljbWxG4CyA2SHV06FTTOKSjRbIX327VLHT46AuEvpudds8mNXDRb2plaWFppnLaLEFycbt6xlNmxgAA==",
+   "color": "rgb(182 162 153)"
   },
   {
-   "src": "/media/memoria/2014-sincretismo-dorso-618.jpg",
-   "alt": "Sincretismo (dorso) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/sincretismo-dorso-408.jpg",
+   "alt": "Sincretismo religioso, un camino para la paz (dorso) — Sincretismo religioso, 2014",
+   "width": 408,
+   "height": 879,
    "widths": [
-    480,
-    618
+    408
    ],
-   "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JZQDG9CIZW4o7bsS9AAD+84EHz5A21CeSR5k+ASX25/zatA61uic8vHGvfi9n51nfMtDvy0677aSy6OvjAAAA",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAADQBACdASoQACIAPt1apE2opSOiNUgBEBuJZhFAA0Cqrc/gKnGH7Kf4b3Sl9AqNAAD+2HDOTnoHGitmW2hG2dZ6aysYpFF21VtGx+r5mWtyOt+rYKISJTw1SZEZPFsvRUE0cB4cJtQ7emIuwD0k6c8YfGJ7bHC5X05h2aPGkW/gEe9up7f9OAK4Ew3icyHfy9C1PkbtFoK1PK5slX4VPaoFgt9dqqIAAJOK+Bpwdds0CIoqCvu0/IG+F/nE+TAAcP99yBFTptja7GzffWcYkbwAAAA=",
+   "color": "rgb(168 148 142)"
   }
  ],
  "year": 2014,
- "technique": "Estandarte: ensamble de textiles",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo."
+ "technique": "Mixta sobre tela; estandarte de textiles ensamblados",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo.",
+ "dimensions": "1,10 × 3,49 m"
 }

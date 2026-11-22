@@ -5,24 +5,24 @@
  "aiAltered": false,
  "order": 6,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "identidad-irak-dios-america",
- "title": "Irak, Dios, América",
+ "title": "¡Irak! Dios perdone a América",
  "images": [
   {
-   "src": "/media/memoria/2001-irak-dios-america-400.jpg",
-   "alt": "Irak, Dios, América — Identidad",
-   "width": 400,
-   "height": 640,
+   "src": "/media/colecciones/identidad/irak-dios-perdone-a-america-690.jpg",
+   "alt": "¡Irak! Dios perdone a América — Identidad, 2005",
+   "width": 690,
+   "height": 920,
    "widths": [
-    400
+    690
    ],
-   "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdMoR4IXAA0MjKqlQOGjqRzQAA/jL8Qh50BHBJPcJXi/avp8DeWfC9oei0YEqNohIBbG6Id0e3iuEkjHkTrazcR1DGpAyX2MbjbJ8Uad2qCubBZQNmgHB2ObL9YWUU/niFXa9+BS6qmNZMNMxyoVIdcVEaAAA=",
-   "color": "rgb(120 56 56)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdL1yVhi4/s6hl4uDmPt2mxwAA+g/RbrkP6W+EP4VnIerHJQ7svCw3RcY22MMY1sZs6wBOI6RrmbjzXC7gV7bWM3QNq+6sOkVtqJNtlE/IM3K0G9qADBjlUqOquJ+M8w8QnAheCSsBSGCaPM/DyAzoI1aPjYhkGjiXoAA=",
+   "color": "rgb(157 69 66)"
   }
  ],
- "year": "2000–2005",
+ "year": 2005,
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes.",
+ "dimensions": "46 × 60 cm"
 }

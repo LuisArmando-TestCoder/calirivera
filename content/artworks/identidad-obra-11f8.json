@@ -5,25 +5,25 @@
  "aiAltered": false,
  "order": 9,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "identidad-obra-11f8",
- "title": "1950, tierra tibetana",
+ "title": "1950, Tierra Tibetana",
  "images": [
   {
-   "src": "/media/memoria/2001-obra-11f8-600.jpg",
-   "alt": "1950, tierra tibetana — Identidad",
-   "width": 600,
-   "height": 456,
+   "src": "/media/colecciones/identidad/1950-tierra-tibetana-911.jpg",
+   "alt": "1950, Tierra Tibetana — Identidad, 2003–2004",
+   "width": 911,
+   "height": 691,
    "widths": [
-    480,
-    600
+    640,
+    911
    ],
-   "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAgCdASoQAAwAA4BaJbACdH8G6AFPcYGKDs70zOToAAD+53b24nP/6kEXSMIDr2PbiJ/FrtCAeESgD1pjuNPSZ1Uh3hUjJ8bLa66XDcraSH+SP+vWW75d9J8R+bAJKAHZWD6mryACZRYFCz6X1TBPQfmlyDRwpOIS7n+PrUcO/u/gAAA=",
-   "color": "rgb(248 248 200)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoQAAwAA4BaJbACdAYrnq2AY8N5wYrAAP6rqyFecF36Y6YLSlH8Etmda/kHOMMKSJXPej/Un/ryUlvygE1/H8Gq0t9wrcDj0nt+0aOKzGGU8RFb2SHf7lSrqmZLo973K9xjlbnxJFViynFnAJ5HQYepibGV2ajjMCxFuAAA",
+   "color": "rgb(173 147 133)"
   }
  ],
- "year": "2000–2005",
+ "year": "2003–2004",
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes. Medidas del libro Elementos; el catálogo Identidad 2000–2005 da 2 × 1,5 m.",
+ "dimensions": "154 × 115 cm"
 }

@@ -5,7 +5,7 @@
  "aiAltered": false,
  "order": 1,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "identidad-identidad-917f",
  "title": "Identidad I",
  "images": [
@@ -22,7 +22,8 @@
    "lowRes": true
   }
  ],
- "year": "2000–2005",
+ "year": 2003,
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes.",
+ "dimensions": "68 × 52 cm"
 }

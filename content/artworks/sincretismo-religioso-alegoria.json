@@ -5,38 +5,35 @@
  "aiAltered": false,
  "order": 1,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "sincretismo-religioso-alegoria",
- "title": "Alegoría",
+ "title": "Alegoría del amor entre los pueblos",
  "images": [
   {
-   "src": "/media/memoria/2014-alegoria-frente-618.jpg",
-   "alt": "Alegoría (frente) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/alegoria-frente-574.jpg",
+   "alt": "Alegoría del amor entre los pueblos (frente) — Sincretismo religioso, 2014",
+   "width": 574,
+   "height": 946,
    "widths": [
-    480,
-    618
+    574
    ],
-   "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JQBWEGQBV4PQOMJ6/+OqAAP7zgDoWPN82e9RSW5mvKooFwqCvYR8sgknIjWhIo8LajfA/2XRhycx9Yqnj0XVC054eorc8ouFPXm2AeeRmSwxDGpKGD7o2AAA=",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACwBACdASoQABoAPu1iqU2ppaQiMAgBMB2JZgCdMoRwJoADQwlEBU6m3qlm6CHgAP7t7UJOa1Psj5wAW0Hdv16ThLY8LJgptoew/UAxPlAQdlEyjWIHNPlCM0/k7R9TTdQ6UnNgTr2Onb1+XXrqzmE4LsaPG1oceVWR5gj2QS0Pn89qEiZwQ7vt+a9kmoQA/3DNIED4VfkAgVoYG2IC5o6qgIxPXhvGfDQ/AAAA",
+   "color": "rgb(191 162 143)"
   },
   {
-   "src": "/media/memoria/2014-alegoria-dorso-618.jpg",
-   "alt": "Alegoría (dorso) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/alegoria-dorso-534.jpg",
+   "alt": "Alegoría del amor entre los pueblos (dorso) — Sincretismo religioso, 2014",
+   "width": 534,
+   "height": 945,
    "widths": [
-    480,
-    618
+    534
    ],
-   "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoQABUAPu1kqk4ppaQiMAgBMB2JYwC7AB4Y6RcpheihYAD+84J36kdj8OSCoJVw1SJ9BnaH46YatCwC3LXvYffogin9R/6UEM4p7PKWSAKvVm596vYQAA==",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBQCdASoQABwAPu1kqU2ppaOiMAgBMB2JYgCdMoR3IsAj3meJt/fOS5vIKuwUVRhSQAD+66rtf9Cf/C7wElG+LI0m0Zm5DWlkVpIZgFPYI0Ea892jkKueZrahRIXCCaQCfa3ac+lHdcYbwjaTzWUwguorItmm+lhC/0BQUpcrfWSjxwNGIzqJCDoLflj00lnvzpGuX7iqOG8hA/AeuA6HSVN+ghQAAAA=",
+   "color": "rgb(207 185 166)"
   }
  ],
  "year": 2014,
- "technique": "Estandarte: ensamble de textiles",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo."
+ "technique": "Mixta sobre tela; estandarte de textiles ensamblados",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo.",
+ "dimensions": "3,37 × 1,23 m"
 }

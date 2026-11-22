@@ -5,21 +5,32 @@
  "aiAltered": false,
  "order": 7,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "revelaciones-butan",
  "title": "Plegaria por el reino de Bután",
  "images": [
   {
-   "src": "/media/colecciones/revelaciones/butan-480.jpg",
+   "src": "/media/colecciones/revelaciones/butan-frente-575.jpg",
+   "alt": "Plegaria por el reino de Bután (frente) — Revelaciones, 2015",
+   "width": 575,
+   "height": 1326,
    "widths": [
-    480
+    575
    ],
-   "width": 480,
-   "height": 720,
-   "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoQABgAPu1kq04ppaQiMAgBMB2JQBOmUGMACYKSoV4FQjZ0OwAA/vOByvveKQvUhfqm7cpfPgnrBX3hFoToJPeHmQRw6RqZo51KepJZ/l6JqQZEjygEhpbs2rfdjRjfYGnHPr51LVQdLbFLw4TeprpmHtMogPEU8Zl2ZIAA",
-   "color": "rgb(203 188 182)",
-   "alt": "Plegaria por el reino de Bután — Revelaciones, 2015",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABQBQCdASoQACUAPulipk2pJaOiNVgIASAdCWIAnSEAif4CjAxftbjCNo2Cu9hwX0HSrgAA/uJ2WKaKfauC2n/Pkwb5fGrUUFeLpTULgg6YmApOhSX9v/Nnl9EJyX7qIjSJcuOUhhRpqCVn/P+zMLrQK+0JBAVOwSBBxAunblLtrJDxxG61ohri2AzwSO22zb6h8saZi17GSqKH1/xB8fZ9b0peb15Qb5y30RAk0XXx5z2LF6uAAA==",
+   "color": "rgb(168 143 131)"
+  },
+  {
+   "src": "/media/colecciones/revelaciones/butan-reverso-888.jpg",
+   "alt": "Plegaria por el reino de Bután (reverso) — Revelaciones, 2015",
+   "width": 888,
+   "height": 2000,
+   "widths": [
+    640,
+    888
+   ],
+   "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoQACQAPu1srlCppiQiqqgBMB2JYgCdMoMivYwAN0EATP85SWu5jaAA/my1ateV4wSBoZbRyHPtlaxh5OoK4EbZ4Z+qST76rKxld9RfLsTiskY9resGj3tIfkimrureYX7dg7r5r5OeJ3BVjQFVeMfA5xsZ+blfcY5yT9kbydSZYXiIT+G8p4sv3qZN7mFK7Rl4GNmQcb+rP8y+cfcs14uIKXVA9klJI+WszpnaM6SKpErb8wtT60gA",
+   "color": "rgb(178 154 137)"
   }
  ],
  "year": 2015,

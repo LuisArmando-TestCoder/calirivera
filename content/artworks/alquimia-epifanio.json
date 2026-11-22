@@ -5,13 +5,13 @@
  "aiAltered": false,
  "order": 11,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "alquimia-epifanio",
- "title": "Epifanio",
+ "title": "Epifanios",
  "images": [
   {
    "src": "/media/memoria/2019-epifanio-800.jpg",
-   "alt": "Epifanio — Alquimia, 2008",
+   "alt": "Epifanios — Alquimia, 2008",
    "width": 800,
    "height": 637,
    "widths": [
@@ -24,7 +24,7 @@
   },
   {
    "src": "/media/memoria/2019-epifanios-6ead-500.jpg",
-   "alt": "Epifanio (detalle) — Alquimia, 2008",
+   "alt": "Epifanios (detalle) — Alquimia, 2008",
    "width": 500,
    "height": 417,
    "widths": [
@@ -37,7 +37,7 @@
   },
   {
    "src": "/media/memoria/2019-epifanios-677.jpg",
-   "alt": "Epifanio (detalle) — Alquimia, 2008",
+   "alt": "Epifanios (detalle) — Alquimia, 2008",
    "width": 677,
    "height": 900,
    "widths": [
@@ -50,6 +50,6 @@
   }
  ],
  "year": 2008,
- "technique": "Arte objeto",
+ "technique": "Arte objeto, instalación. Técnica de investigación: hormas de madera porcelanizadas, cuarzos, cristal de Murano, polvo de oro y resina",
  "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
 }

@@ -5,23 +5,25 @@
  "aiAltered": false,
  "order": 6,
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "el-agua-como-elemento-mantos-acuiferos",
  "title": "Mantos acuíferos",
  "images": [
   {
-   "src": "/media/colecciones/el-agua-como-elemento/mantos-acuiferos-640.jpg",
+   "src": "/media/colecciones/el-agua-como-elemento/mantos-acuiferos-910.jpg",
+   "alt": "Mantos acuíferos — El agua como elemento, 2006–2007",
+   "width": 910,
+   "height": 690,
    "widths": [
-    640
+    640,
+    910
    ],
-   "width": 640,
-   "height": 485,
-   "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAwAA4BaJbACdADiF7/Y9YAA+SOsLa+A3Z7K3ehV33mHr2V/AdtRXolURj9tUViqzYOOSxP13X9BRBxpHEWF+2lj5dvjfKXdzPH5gsxcMAAA",
-   "color": "rgb(152 130 131)",
-   "alt": "Mantos acuíferos — El agua como elemento",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAwAA4BaJbACdADibSkrLTmEAPkjrC2vgN2eyt3pQBw8az4wkKKvl4F4COU0b2Ky0MYbqmowBxDS1/5ZyVS4f2zzHMM31NDpzVzFWpEdIAAA",
+   "color": "rgb(152 130 131)"
   }
  ],
- "year": 2006,
- "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas)."
+ "year": "2006–2007",
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas).",
+ "technique": "Técnica mixta sobre tela",
+ "dimensions": "200 × 150 cm"
 }

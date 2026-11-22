@@ -5,21 +5,32 @@
  "aiAltered": false,
  "order": 4,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "revelaciones-siria",
  "title": "Plegaria por Siria",
  "images": [
   {
-   "src": "/media/colecciones/revelaciones/siria-480.jpg",
+   "src": "/media/colecciones/revelaciones/siria-frente-575.jpg",
+   "alt": "Plegaria por Siria (frente) — Revelaciones, 2015",
+   "width": 575,
+   "height": 1335,
    "widths": [
-    480
+    575
    ],
-   "width": 480,
-   "height": 720,
-   "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoQABgAPu1kqk4ppaQiMAgBMB2JZwC/OCLvLSJpy1xzOAAA/vOByvu0PpkT0lsqIoGwdRM/Yja3OmqFUO/CfRX5AR4PZESzu331ZPXR1HFu03GSsWnIVKodobMYxbw72wAEjHv9KcHqN+tDXbiamlisS/bcZONJkYnrQAAA",
-   "color": "rgb(204 196 194)",
-   "alt": "Plegaria por Siria — Revelaciones, 2015",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoQACUAPt1epU2opaOiNUgBEBuJYwC+SCypggE6+UIdmAl9ZE6gAP7ieKLaHrCK89sAbjHAoQiD9ZTiBkFXDDVshQ8ucRmE2r1qGL7PUgIqNJQEfGVA/Qhigi87W4jGQe02uyl2xs/jrF4hb/6EJWZ9iVN4gx6paUXu/L8eP9UkCd7kcvM3r1wXvqN/fhdjYzUvOeiU+AA=",
+   "color": "rgb(162 149 145)"
+  },
+  {
+   "src": "/media/colecciones/revelaciones/siria-reverso-870.jpg",
+   "alt": "Plegaria por Siria (reverso) — Revelaciones, 2015",
+   "width": 870,
+   "height": 2000,
+   "widths": [
+    640,
+    870
+   ],
+   "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAwBQCdASoQACUAPu1aqU2ppKOiNVgIATAdiWMAuzKECrq8gSiB1mffBaUZG2HS3zdQAAD+yif2kEYGJU29jX1BNXx+vitpm/djREtQ+0JazLLHZAKDNpOwGNGg1pFTXdb+IeIPaSKl5Y4s6CqNz+6bIQwJaD2hejRz0Yg+LBwOKzsfXItSJ+TC3y7HM8CGBZ5arHcn01vnkeZSPF/CBDTRX5v8fyVBiMjIb6Qs5GM3BR3XGGgAAA==",
+   "color": "rgb(160 147 143)"
   }
  ],
  "year": 2015,

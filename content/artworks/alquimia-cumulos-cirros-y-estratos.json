@@ -5,7 +5,7 @@
  "aiAltered": false,
  "order": 7,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "alquimia-cumulos-cirros-y-estratos",
  "title": "Cúmulos, cirros y estratos",
  "images": [
@@ -36,6 +36,7 @@
   }
  ],
  "year": 2008,
- "technique": "Pintura",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+ "technique": "Técnica de investigación",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas).",
+ "dimensions": "38 × 80 cm"
 }

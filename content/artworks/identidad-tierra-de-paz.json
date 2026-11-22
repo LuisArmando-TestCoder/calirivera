@@ -5,25 +5,25 @@
  "aiAltered": false,
  "order": 13,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "identidad-tierra-de-paz",
  "title": "Tierra de paz",
  "images": [
   {
-   "src": "/media/memoria/2001-tierra-de-paz-530.jpg",
-   "alt": "Tierra de paz — Identidad",
-   "width": 530,
-   "height": 400,
+   "src": "/media/colecciones/identidad/tierra-de-paz-1200.jpg",
+   "alt": "Tierra de paz — Identidad, 2002",
+   "width": 1200,
+   "height": 768,
    "widths": [
-    480,
-    530
+    640,
+    1200
    ],
-   "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAwAA4BaJbACdAYulqyLoiRzHsAA9pFw/3b5HTgv+w8ZpBKQ1FrLH7goKICb5nOo6tyDgEq3pZ3iYzydyd5pQJyrraKoPeSxFgjrLNWOZTWMsBQrpDXOCqt4gWB4AAA=",
-   "color": "rgb(168 168 88)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAoAA4BaJbACdAEDEvo6x8sAAP3rs1TOn2PGTvy4CahPj7Lx2VDaXeFxPlURGySBZ0LUdfaigtX7BWSBWX6vTYEPwB6M2BnXOM/ietlyyLUw2QVE1yAA",
+   "color": "rgb(160 180 115)"
   }
  ],
- "year": "2000–2005",
+ "year": 2002,
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes.",
+ "dimensions": "110 × 120 cm"
 }

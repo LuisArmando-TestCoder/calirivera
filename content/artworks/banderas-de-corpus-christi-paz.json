@@ -1,0 +1,28 @@
+{
+ "slug": "banderas-de-corpus-christi-paz",
+ "status": "published",
+ "collectionId": "banderas-de-corpus-christi",
+ "aiAltered": false,
+ "order": 4,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "banderas-de-corpus-christi-paz",
+ "title": "Paz",
+ "images": [
+  {
+   "src": "/media/colecciones/banderas-de-corpus-christi/paz-316.jpg",
+   "alt": "Paz — Banderas de Corpus Christi, 2009",
+   "width": 316,
+   "height": 853,
+   "widths": [
+    316
+   ],
+   "placeholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAAAwBgCdASoQACsAPu1mqk6ppaOiKqwBMB2JaACnTY1IA+QJnVz7fdGjfAOOKqNsaJ8b04meE07L5agAAP76Yk/rese4TZMbuL+VlrAl5nETkYO595j/c+lHHKb55VQ5zf/y/D4fh+LdCfnJjOnsQOi17w5nKImiTKQZA0KeCRha3E5eclb2kP+9h/NQsSi6gAWG4/v9RshkYY4BUsZT+irBbfqf+ZvsSd50Q2VYGAfAYnzTcJMYp1LPu2VZ69kpb+t30AgbXAA=",
+   "color": "rgb(86 49 30)"
+  }
+ ],
+ "year": 2009,
+ "technique": "Ensamble de textiles intervenido con pintura y objetos",
+ "dimensions": "85 × 177 cm",
+ "notes": "Taller de San Pedro La Laguna, Sololá, Guatemala. Confección: Rosario Hi González. La foto muestra el frente (arriba) y el reverso (abajo)."
+}

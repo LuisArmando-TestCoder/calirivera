@@ -5,21 +5,33 @@
  "aiAltered": false,
  "order": 1,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "revelaciones-rohingyas",
  "title": "Plegaria por los Rohingyas ( plegaria de los viajeros)",
  "images": [
   {
-   "src": "/media/colecciones/revelaciones/rohingyas-480.jpg",
+   "src": "/media/colecciones/revelaciones/rohingyas-frente-947.jpg",
+   "alt": "Plegaria por los Rohingyas ( plegaria de los viajeros) (frente) — Revelaciones, 2015",
+   "width": 947,
+   "height": 2000,
    "widths": [
-    480
+    640,
+    947
    ],
-   "width": 480,
-   "height": 720,
-   "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwCdMoMYJn/3QACaky+5Ru/8eeQAAP7wNg/88qBo2vVHhvs2P9evwFgGIfxU8STfV69+g1Yz7l19mR3zthVsLQrDLT1YDNzpaPmKN/k4LADuoZOLkdfmNi/RKGjSntTvypUQFGDvNyWn0+yWwyKb1P+RyAXj/eJ/nJvKlcEhGAAA",
-   "color": "rgb(187 169 159)",
-   "alt": "Plegaria por los Rohingyas ( plegaria de los viajeros) — Revelaciones, 2015",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAABQBQCdASoQACIAPuVipk2pJaOiNVgIASAciWUAnTKDMLrAP1UJNB/E6A9LTLoMMNh71lgA/OTWJQK+mw6CdxDmDmrDygELdqqI89dfuTZECOYqLPjuHjiBV0bFhAxFK/Gwgyt7BgtqNyliM2vDUNO5U40MGceu2/Dsrr5HzJMpWb0chhVLUIU+D6UXkiwwW0+hFc16rvJzrfhDKSf/0mRCY6Y4/vUfhubboeo62+ztTBV6lRjPrJrh1ithdr0ay1Z6HRX5NgAAAA==",
+   "color": "rgb(149 129 115)"
+  },
+  {
+   "src": "/media/colecciones/revelaciones/rohingyas-reverso-947.jpg",
+   "alt": "Plegaria por los Rohingyas ( plegaria de los viajeros) (reverso) — Revelaciones, 2015",
+   "width": 947,
+   "height": 2000,
+   "widths": [
+    640,
+    947
+   ],
+   "placeholder": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASoQACIAPu1eqE2ppSQiNVgIATAdiWIAuyARegOf/AUW9MwiL+XXFU5HQZ3W+MIAAP4KycDfC48rOu12R1a1dwW1Ezq1Q3TaFMnwl54pgZpfj1LohKSQ75xe0YGt/pTKDDpbPGqTmVcoO4qL/Dmhnv7FC4GsUUNFlLc1tg7wmJTCNTqI7FPcD3+kTaoad7Jrg5xb8PlbzaeMIu+s962Nxr5Nlqz54odKH+We1t2UgN0Q84V2CorvuXNnmePjxfuOoqjcUH0AAAA=",
+   "color": "rgb(142 110 105)"
   }
  ],
  "year": 2015,

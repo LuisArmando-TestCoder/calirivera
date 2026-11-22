@@ -5,23 +5,24 @@
  "aiAltered": false,
  "order": 1,
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "el-agua-como-elemento-duelo",
  "title": "Duelo",
  "images": [
   {
-   "src": "/media/memoria/2016-duelo-433.jpg",
-   "alt": "Duelo — El agua como elemento",
-   "width": 433,
-   "height": 640,
+   "src": "/media/colecciones/el-agua-como-elemento/duelo-657.jpg",
+   "alt": "Duelo — El agua como elemento, 2006",
+   "width": 657,
+   "height": 941,
    "widths": [
-    433
+    657
    ],
-   "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoR3AkgBbtssaaO8O+Es311gAPv+4nxXasOSZnwU7pVxVZYUKyxjzmDK/Z8p8UvOYWpQddA+9O7QtXLe/hG4Bt5797EUgBw747GFHlg5MSVtOBZCM9tocHMxOLCAFHPgOo6dyiGANXZx+P9u9X4bvGY6kOzvvcRRIpyfqbFZvFenClLldAY8waH8Ek+qRTi51JDxH4whnYAAAA==",
-   "color": "rgb(24 24 24)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JbACdMoAlxRf7cQnRSTsjW3er8kAA+6PzTE+wvicmYRD9UNVamSONalzNJuucEmiQ/GCKgq9AFBHd1jZU0OU0DvdC7HNjAvazCXTM0KSWQ7dANoFvoLrdJjSZy0yq3u4XUFehUSCQdw6nqCHyqQSoeSo0YiI1zBJur5BGhDxng3QkzDAPOvmcm4o7F0RRfmgvdvdhwB/otMAA",
+   "color": "rgb(155 131 78)"
   }
  ],
  "year": 2006,
- "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas)."
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas).",
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "95,5 × 66,5 cm"
 }

@@ -28,6 +28,8 @@ export const LEGACY_COLLECTION_SLUGS = [
 
 /** Direcciones del sitio de 2026 en Hostinger (con el año pegado) → su lugar acá. */
 export const LEGACY_2026: Record<string, string> = {
+  // obra que estaba repetida: era la de Exvotos
+  "/obra/identidad-identidad-mundo": "/obra/exvotos-03",
   "/obras": "/colecciones",
   "/atmosfera-1993": "/colecciones/atmosfera",
   "/musas-del-cantaro-1995": "/colecciones/musas-del-cantaro",

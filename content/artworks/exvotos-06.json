@@ -3,13 +3,13 @@
  "slug": "exvotos-06",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
- "title": "Sin título",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "title": "Unificación (Sijismo)",
  "collectionId": "exvotos",
  "images": [
   {
    "src": "/media/exvotos/exvotos-mirar-1189.jpg",
-   "alt": "Obra — Exvotos, 2012",
+   "alt": "Unificación (Sijismo) — Exvotos, 2013",
    "width": 1189,
    "height": 1323,
    "widths": [
@@ -22,6 +22,7 @@
  ],
  "aiAltered": false,
  "order": 6,
- "year": "2012",
- "notes": "Ficha técnica pendiente (título, medidas)."
+ "year": 2013,
+ "technique": "Técnica mixta sobre tela",
+ "dimensions": "70 × 65 cm"
 }

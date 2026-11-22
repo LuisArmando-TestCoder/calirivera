@@ -5,25 +5,25 @@
  "aiAltered": false,
  "order": 5,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "identidad-infinito-espacio",
  "title": "Infinito espacio",
  "images": [
   {
-   "src": "/media/memoria/2001-infinito-espacio-565.jpg",
-   "alt": "Infinito espacio — Identidad",
-   "width": 565,
-   "height": 400,
+   "src": "/media/colecciones/identidad/infinito-espacio-943.jpg",
+   "alt": "Infinito espacio — Identidad, 2003",
+   "width": 943,
+   "height": 669,
    "widths": [
-    480,
-    565
+    640,
+    943
    ],
-   "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsAA4BaJYgCdAEPArcedFoAAP64H7Cx4UxbvUEF+n6WeIlEnonHWSH6uRI3wpAkhOIlDNcSrrMAAAA=",
-   "color": "rgb(168 200 152)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAsAA4BaJYgCdAEPAsr8e/loAP5sk/RlWraycF8ZmaGCf6Eeu+ZroINL9p9/7aLpF1JW4TzODj0cDR6UdORkAAA=",
+   "color": "rgb(146 173 145)"
   }
  ],
- "year": "2000–2005",
+ "year": 2003,
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes.",
+ "dimensions": "94 × 64 cm"
 }

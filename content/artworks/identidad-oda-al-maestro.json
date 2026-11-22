@@ -1,0 +1,28 @@
+{
+ "slug": "identidad-oda-al-maestro",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 21,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "identidad-oda-al-maestro",
+ "title": "Oda al Maestro",
+ "images": [
+  {
+   "src": "/media/colecciones/identidad/oda-al-maestro-334.jpg",
+   "alt": "Oda al Maestro — Identidad, 2000–2003",
+   "width": 334,
+   "height": 416,
+   "widths": [
+    334
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZgCdMoADTV/RN9WapTXsAPzZBeQWWbKC+F0H4BEFgUPujtEJaGYyjyW1AvDEuBJux7+h69HPyj1FgGvhraEN95onqmWbOSTFD0m/r/ziad03N4Dfsmow56sPMxJCMfgAAA==",
+   "color": "rgb(158 142 110)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2003",
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "63 × 51 cm"
+}

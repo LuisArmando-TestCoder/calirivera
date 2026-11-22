@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-emanuel-i",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 23,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "identidad-emanuel-i",
+ "title": "Emanuel I. 9 estrellas peregrinas en un mundo sin nombre",
+ "images": [
+  {
+   "src": "/media/colecciones/identidad/emanuel-i-716.jpg",
+   "alt": "Emanuel I. 9 estrellas peregrinas en un mundo sin nombre — Identidad, 2000–2005",
+   "width": 716,
+   "height": 480,
+   "widths": [
+    640,
+    716
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAsAA4BaJZACdIExGBGyX8yAAP7X+Z66azOqPEFUBg74JVptiyO9kHapezWcFvtMK63aWq/OxlmPZoHSxDDFeA0vNDvspL9Ql0VDUuwj9GExAwAAAA==",
+   "color": "rgb(174 190 163)"
+  }
+ ],
+ "year": "2000–2005",
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "92 × 63 cm",
+ "notes": "El catálogo no da el año; se anota el período de la exposición."
+}

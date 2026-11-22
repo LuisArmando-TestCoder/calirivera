@@ -5,25 +5,37 @@
  "aiAltered": false,
  "order": 3,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "sincretismo-religioso-flor",
- "title": "Flor",
+ "title": "Flor de la Vida",
  "images": [
   {
-   "src": "/media/memoria/2014-flor-frente-618.jpg",
-   "alt": "Flor (frente) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/flor-frente-795.jpg",
+   "alt": "Flor de la Vida (frente) — Sincretismo religioso, 2014",
+   "width": 795,
+   "height": 927,
    "widths": [
-    480,
-    618
+    640,
+    795
    ],
-   "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JZwAAW4Yqc8kZ4sAA/vH9WBmH9KNYbtmWqfPoCU6tmbxlPbV24+vwHqBBujgovOxQQE7tZUEs0ED/0I+EzAxDN5nqtTXa5NjnNYJOwlwsfDiPgAA=",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAwCdASoQABMAPu1iqU2ppaQiMAgBMB2JQAAH2hTKo02szuk4gAD+6y0+1gNatfG9aUsNNvvdlfDR7lFYwXM3sc6ly0qRqzT8Pe2lQzvaYUmZTML9ZkzrYO9ggm9r7+3b9DVKXV25S4ylTfQujdCDnXZAAA==",
+   "color": "rgb(176 167 166)"
+  },
+  {
+   "src": "/media/colecciones/sincretismo-religioso/flor-dorso-774.jpg",
+   "alt": "Flor de la Vida (dorso) — Sincretismo religioso, 2014",
+   "width": 774,
+   "height": 927,
+   "widths": [
+    640,
+    774
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACQBACdASoQABMAPu1iqk4ppaQiMAgBMB2JQBdmUFH/ijP+AASQeriKGJatgQAA/uuBOGKhPWw/K7Jc2eyGC44wbmf4i88gu3Y6my3LWlsGzQ5RQUJbA/fqdOrL1e6lgO+GQuNuJlAOZCjukXGsjV2HTNWUNa8fFLEsfyCy/rKmSZQAAAA=",
+   "color": "rgb(167 164 159)"
   }
  ],
  "year": 2014,
- "technique": "Estandarte: ensamble de textiles",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo."
+ "technique": "Mixta sobre tela; estandarte de textiles ensamblados",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo.",
+ "dimensions": "1,20 × 2,12 m"
 }

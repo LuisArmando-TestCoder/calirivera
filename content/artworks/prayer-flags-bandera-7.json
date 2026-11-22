@@ -5,21 +5,20 @@
  "aiAltered": false,
  "order": 7,
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "prayer-flags-bandera-7",
  "title": "Bandera 7",
  "images": [
   {
-   "src": "/media/memoria/2003-bandera12-480.jpg",
-   "alt": "Bandera 7 — Prayer Flags, 2003. Cementerio de San Rafael de Cartago",
-   "width": 480,
-   "height": 684,
+   "src": "/media/colecciones/prayer-flags/bandera-7-650.jpg",
+   "alt": "Bandera 7 — Prayer Flags, 2003",
+   "width": 650,
+   "height": 917,
    "widths": [
-    480
+    650
    ],
-   "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoQABcAPu1iqU2ppaOiMAgBMB2JYwCsACIPU8eVsk5MGpySQAD+04YiTNOzTP104SD/SJqVXe421zkJ4Apibe/GAAw+BYkNTgAFN1ct6VHgtZqMD+JCjfiMyvZKJh98pieVvwCsvE4h6+6Euq637b1pOYGw4PvRgAA=",
-   "color": "rgb(184 200 200)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQABcAPu1mq04ppaQiMAgBMB2JZQCsG1/AP90xGBlLP3woAAD+w/3EFUt7vt7/FeoyFUH494qVtQhI1fG7eYuOI0zOMSzqXQZeuY56XAdd4sj2oxHXX94hBodQaPfZWjJZCmf/sTnqT2Kv3mGes6C94egv7dCRcIAAAA==",
+   "color": "rgb(152 151 152)"
   }
  ],
  "year": 2003,

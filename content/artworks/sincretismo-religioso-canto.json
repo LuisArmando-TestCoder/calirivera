@@ -5,38 +5,35 @@
  "aiAltered": false,
  "order": 2,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "sincretismo-religioso-canto",
- "title": "Canto",
+ "title": "Canto a la Libertad",
  "images": [
   {
-   "src": "/media/memoria/2014-canto-frente-618.jpg",
-   "alt": "Canto (frente) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/canto-frente-673.jpg",
+   "alt": "Canto a la Libertad (frente) — Sincretismo religioso, 2014",
+   "width": 673,
+   "height": 991,
    "widths": [
-    480,
-    618
+    673
    ],
-   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1iqU2ppaQiMAgBMB2JZwAD5SoLv2VJJBniDQAA/vHemlVCMiPgl/mVuOrqr2ItMuck5a+kJEFhnl4jGdtaHnGpRquRzPRVQPZzm6aetcEp7f9ZCtVli1kodpzWBUW9C0VwKoI30pgAAA==",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwC09BSyvAFtU/R2QoZVikgAAP7oao/KlMKppXk/VwmCTOwoYSJ4faxl0E+iuCz/Fj16fJzS1JPIZjIHLYq2U5VTJ1X3/vqWpAERqdzJh0LDol/xZZNBcj4HTnXmjlKVgtk+9n37kXtpTodG304++7qdE1CkiVpY95SkX5/RiKWGz8RcrBs+HQEU9DkZKCOQ4CK4AAA=",
+   "color": "rgb(158 150 153)"
   },
   {
-   "src": "/media/memoria/2014-canto-dorso-618.jpg",
-   "alt": "Canto (dorso) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/canto-dorso-692.jpg",
+   "alt": "Canto a la Libertad (dorso) — Sincretismo religioso, 2014",
+   "width": 692,
+   "height": 991,
    "widths": [
-    480,
-    618
+    692
    ],
-   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JaAAAXgT/d5V0e+vGzAAA/vBKKRQfeJiWQdc76LG8rGTCrSBJOh0zgzXcWxTOD0MuORoqvV3EGK5qkABN36HkxwjQLmPDX3v4s9+4sRxFMSghH2wD82KUAgxgAA==",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAQBQCdASoQABcAPu1iqU2ppaOiMAgBMB2JbAC7H8IIB//40rHpPNZBsO52d095QnAAAP7obJJFWn0PgAzr5xsmktgfrzDDkq3J5f+DUwS0+Ilvinvxc/rz/+zgkklPzuEyO4tmdlcNwdwADiQCWse3YaKCqVzZj5r+2QvbvWW/Jul/QIVbV/YNtozQJ+HVyzBf476uKSsBqXVtSwN1YoLKZKfo6pVoYAA=",
+   "color": "rgb(178 180 184)"
   }
  ],
  "year": 2014,
- "technique": "Estandarte: ensamble de textiles",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo."
+ "technique": "Mixta sobre tela; estandarte de textiles ensamblados",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo.",
+ "dimensions": "1,41 × 2,45 m"
 }

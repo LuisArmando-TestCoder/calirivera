@@ -5,21 +5,20 @@
  "aiAltered": false,
  "order": 8,
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "prayer-flags-bandera-8",
  "title": "Bandera 8",
  "images": [
   {
-   "src": "/media/memoria/2003-bandera20-480.jpg",
-   "alt": "Bandera 8 — Prayer Flags, 2003. Paisaje costarricense",
-   "width": 480,
-   "height": 652,
+   "src": "/media/colecciones/prayer-flags/bandera-8-622.jpg",
+   "alt": "Bandera 8 — Prayer Flags, 2003",
+   "width": 622,
+   "height": 845,
    "widths": [
-    480
+    622
    ],
-   "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACdAB9q974o74dvu7KaQLWAAP4fPytN6RgNOpyOdO3T0bjW6CtvF/wPLV4THToQfi7p53Qlh+W9oNIqmkrOSM6ghQn49UfcZdZpNyZbONlWu9UzKNr3yyu0Ax8wvO8Stk6h6YnNjRECXOap9gGIg9GOQT/EIUdY5BUhPwY8AAAA",
-   "color": "rgb(72 104 152)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JbACxCX+gbGNzdyQPD06DzoAA/nL69syemhcseEMv/wgEd/SUe3XTgaJE820GbEH1/Dd9DsBKew6lGy6kgrTqP3PL0tB9TO4NIgndBifY7t2/3E2JtORQ+u16aCWvF50t60JxZqmMdnDS/pIAia4jX0LNAoJIPLV88ck3HgA=",
+   "color": "rgb(113 130 119)"
   }
  ],
  "year": 2003,

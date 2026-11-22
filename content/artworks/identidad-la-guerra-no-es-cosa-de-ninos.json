@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-la-guerra-no-es-cosa-de-ninos",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 19,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "identidad-la-guerra-no-es-cosa-de-ninos",
+ "title": "La guerra no es cosa de niños",
+ "images": [
+  {
+   "src": "/media/colecciones/identidad/la-guerra-no-es-cosa-de-ninos-400.jpg",
+   "alt": "La guerra no es cosa de niños — Identidad, 2000–2003",
+   "width": 400,
+   "height": 320,
+   "widths": [
+    400
+   ],
+   "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoQAA0AA4BaJbACdGaAEDiRL55TgAD+ihZp2ut3JW+bWiOd+DGlX4AUNkz+Yv6jo5PBEWdy4A9axcWQ9vvfIGL+X5udfyXhjYM0dk3lBmDxfwPKPEnfofQG5y8jTo/RGS+iNGDFkCrUu0wtJM6rHusi8zlSBAAA",
+   "color": "rgb(167 125 100)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2003",
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "49 × 38 cm",
+ "notes": "Serie Transmutación."
+}

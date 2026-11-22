@@ -1,0 +1,28 @@
+{
+ "slug": "banderas-de-corpus-christi-caridad",
+ "status": "published",
+ "collectionId": "banderas-de-corpus-christi",
+ "aiAltered": false,
+ "order": 1,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "banderas-de-corpus-christi-caridad",
+ "title": "Caridad",
+ "images": [
+  {
+   "src": "/media/colecciones/banderas-de-corpus-christi/caridad-342.jpg",
+   "alt": "Caridad — Banderas de Corpus Christi, 2009",
+   "width": 342,
+   "height": 853,
+   "widths": [
+    342
+   ],
+   "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQBACdASoQACgAPt1apE2opSOiNUgBEBuJZgCdH8G6AAiCPjPk9cGW9kW/RcIAAAD+9J1UjhuiEr66JoBk7xN0k2GtXOF5ZxSgx8wNbj4Rr9UQu0Dl3Gnx77f/wM/Wzw/9TQfWtwluoNRuApf3csXi/Ndk0o3xf6o9iamfZVyA24UV9uNJGj+l/vx1OphA8VQSyvZiSCfRgCjB0KX/0QrgAAA=",
+   "color": "rgb(53 34 34)"
+  }
+ ],
+ "year": 2009,
+ "technique": "Ensamble de textiles intervenido con pintura y objetos",
+ "dimensions": "88 × 187 cm",
+ "notes": "Taller de San Pedro La Laguna, Sololá, Guatemala. Confección: Rosario Hi González. La foto muestra el frente (arriba) y el reverso (abajo)."
+}

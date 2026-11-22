@@ -5,21 +5,20 @@
  "aiAltered": false,
  "order": 5,
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "prayer-flags-bandera-5",
  "title": "Bandera 5",
  "images": [
   {
-   "src": "/media/memoria/2003-bandera18-480.jpg",
-   "alt": "Bandera 5 — Prayer Flags, 2003. Paisaje costarricense",
-   "width": 480,
-   "height": 699,
+   "src": "/media/colecciones/prayer-flags/bandera-5-629.jpg",
+   "alt": "Bandera 5 — Prayer Flags, 2003",
+   "width": 629,
+   "height": 912,
    "widths": [
-    480
+    629
    ],
-   "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABcAPu1yrU+pp6QiMAgBMB2JbACdL11pQAX76vwukQTWINkAAP76P1P+XjcG3Y7hzLNUG8StFV9pbGmev1DvvxJXE6FAiwKzE2HKych4/dGP3C62AOr6RKPbz2cy68Uo42z7qMJMHgWrwDtQsQFWNd6MgTeCYdF2GASWyH9rvheOdmglrBZDNsmxhQeg4AA=",
-   "color": "rgb(216 232 232)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQBACdASoQABcAPu1mq04ppaQiMAgBMB2JbACdMoADUxXEUDTDyuA0rHErcQAA/uccgusXVUK+flXNZw3jzzOmVkPDpSPCzIQqfiQ84aJVxS7ukvLvz2xFhnovd3vuzRCrwofE468CbqOu5zJly4XJ/3+ud1P/n93uP4mq6tbyocBa2zxlN8T3R15PgjUdvymgAA==",
+   "color": "rgb(157 156 152)"
   }
  ],
  "year": 2003,

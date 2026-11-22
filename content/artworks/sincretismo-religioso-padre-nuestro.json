@@ -5,38 +5,35 @@
  "aiAltered": false,
  "order": 4,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "sincretismo-religioso-padre-nuestro",
- "title": "Padre nuestro",
+ "title": "Mantra: Padre nuestro que estás en los cielos",
  "images": [
   {
-   "src": "/media/memoria/2014-padre-nuestro-frente-618.jpg",
-   "alt": "Padre nuestro (frente) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/padre-nuestro-frente-340.jpg",
+   "alt": "Mantra: Padre nuestro que estás en los cielos (frente) — Sincretismo religioso, 2014",
+   "width": 340,
+   "height": 933,
    "widths": [
-    480,
-    618
+    340
    ],
-   "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JYwDE+IjCuT9fNkHvi0AA/vHgYtM7dz8tsUkUf+f+fJJvEfAXa8Rnvg0jptq2BuB1q9q045RhoEFtghRPSH7wMxc1YJwAAAA=",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASoQACwAPu1mqU6ppaOiKqwBMB2JYgCsIBo//KADJAy7LQIfnyBT8PvEok+QrKM0K8wAAP7iTLStxXdJRtWceYh51UvG1LvvmAvht2GMtRKptmpKrw8THExR7SZhxSgY2FVkbzF3UfKEJnsfdSE3PCkw5rnA9cZZNOgAIxSJZu4W+I488/JSB84zvO9HLu60G0XlyOXwMTjrbLEx4xADJja//Jufv8NZExGS+p82lzEips0ffmZDb0ZAUy5JlziG3d//4ZdGNPmnazszk8nlHCa83/vaX3CcAXzSySdxEEucjrVHwAA=",
+   "color": "rgb(201 182 156)"
   },
   {
-   "src": "/media/memoria/2014-rezo-del-agua-dorso-618.jpg",
-   "alt": "Padre nuestro (dorso) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "src": "/media/colecciones/sincretismo-religioso/padre-nuestro-dorso-344.jpg",
+   "alt": "Mantra: Padre nuestro que estás en los cielos (dorso) — Sincretismo religioso, 2014",
+   "width": 344,
+   "height": 942,
    "widths": [
-    480,
-    618
+    344
    ],
-   "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoQABUAPu1kqU2ppaQiMAgBMB2JQBOkCChZQWItkwlIcgXAAP7zgrj9Ueh/562WaPWc5Z2ZD8G/dMh+r4jsCu0qwUltSynkCbOPjM1LDt057wA9tZoQy0dZcRhtfa+AAAA=",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAAAQBwCdASoQACwAPt1Yo02opSMiNUgBEBuJbACdMoMlyYEh/zwF2zbygvwVoMsCqT5NEt36SCbpSCGTrkKUNRnQwAD+7lcuGwsyajZL4j/AdDENVNxAlzFYvxh0eUkpSrS3eQLdCBgT/NXL+rKqM+PP00NNwS4t0OOJgB1zb60QfJQvTskZDcy+bHhqGJwYFqtqJzYaI081c9bSAoSgPdOgOlU5W79bq5dd3TFsFU2l8iytKNnQj1iec7EZdScI4mCxcHpD6KZwVV34TonOH+XdvK0IDI6V0FvnQ2mCrfqnWr8bh05D4Jc7qKns26wvbS4yqTWXYAEGYeakeY6Bd8XHlAK1TmoiA5jhCZxLYmkl6+aF4lrImhhJF28khVNpXbfTC/axw0m2wAAA",
+   "color": "rgb(204 170 146)"
   }
  ],
  "year": 2014,
- "technique": "Estandarte: ensamble de textiles",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo."
+ "technique": "Mixta sobre tela; estandarte de textiles ensamblados",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo.",
+ "dimensions": "1,31 × 5,35 m"
 }

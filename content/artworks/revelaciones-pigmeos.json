@@ -5,23 +5,37 @@
  "aiAltered": false,
  "order": 9,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "revelaciones-pigmeos",
  "title": "Plegaria por África- el rezo a los Pigmeos",
  "images": [
   {
-   "src": "/media/colecciones/revelaciones/pigmeos-800.jpg",
+   "src": "/media/colecciones/revelaciones/pigmeos-frente-861.jpg",
+   "alt": "Plegaria por África- el rezo a los Pigmeos (frente) — Revelaciones, 2015",
+   "width": 861,
+   "height": 2000,
    "widths": [
     640,
-    800
+    861
    ],
-   "width": 800,
-   "height": 1149,
-   "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACQAwCdASoQABcAPu1kq04ppaQiMAgBMB2JZwAAVOUHnbnH/YoAAP7ifIrmQ0RxW+ySgqfIPUYFfW5miJd25aPXK7NQbzLCGifiBYsk1dJL9xNWNHSM51koh4kREyaxtzT0CcnyCB1GwjMHgvFud6/R7wFe5uZf3eo4ZFa+Tt44AA==",
-   "color": "rgb(170 167 164)",
-   "alt": "Plegaria por África- el rezo a los Pigmeos — Revelaciones, 2015"
+   "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoQACUAPu1srlCppiQiqqgBMB2JZQCzgBZVS0mo6LrxBiWPfl8DAAD+6J/de/1gxOzlSnuRt8F926LHmPatkjrej5a/Lg5MMAtkL9bU31CD4PEiCDDH6ptSchlxyyS46l18elLO5l6gw1Zo3Uo5Jw2s4ILJ3efSXTtODM8gf79ZPuXfQX5D+LUiCQIKuIgAAAA=",
+   "color": "rgb(158 153 148)"
+  },
+  {
+   "src": "/media/colecciones/revelaciones/pigmeos-reverso-870.jpg",
+   "alt": "Plegaria por África- el rezo a los Pigmeos (reverso) — Revelaciones, 2015",
+   "width": 870,
+   "height": 2000,
+   "widths": [
+    640,
+    870
+   ],
+   "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABwBACdASoQACUAPulkqk2pJiQiNVgIASAdCWcAADioQse4qTjvKlasyvDgAAD+7jhgTznYU7g+jbbwevETngpGYT36V92sDPxFxfNmqnqh/GdYfTwgLgla2xRm+aZulSlExYebCXuFuU2yF87HXBxX/Hx+iBPAz+Wi6Qk6tERGNzM90uK8c/vYs3YPr/1gAAAAAA==",
+   "color": "rgb(140 137 134)"
   }
  ],
  "year": 2015,
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive)."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "2,50 m × 66 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos"
 }

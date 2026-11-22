@@ -1,0 +1,28 @@
+{
+ "slug": "identidad-sueno-de-cambio",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 20,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "identidad-sueno-de-cambio",
+ "title": "Sueño de cambio",
+ "images": [
+  {
+   "src": "/media/colecciones/identidad/sueno-de-cambio-690.jpg",
+   "alt": "Sueño de cambio — Identidad, 2005",
+   "width": 690,
+   "height": 919,
+   "widths": [
+    690
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdOUAA2f3Zu5vZKShvL/wAAP7dno8NB03nuz/J/xMsf1MWaXVV7e2TTNiD58YBYG/8mAUoUXBhHtH8iZtj09GCiF5coopgCPuJvbx39w+IGPFNxRkct/sVCE0nSjzgYbPq38ARxqWQnJwi6xPFXwwgAA==",
+   "color": "rgb(98 87 99)"
+  }
+ ],
+ "year": 2005,
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "46 × 60 cm",
+ "notes": "Dedicada a ACERPA. Serie Transmutación."
+}

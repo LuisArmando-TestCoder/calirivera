@@ -5,13 +5,13 @@
  "aiAltered": false,
  "order": 5,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "alquimia-mericaba",
- "title": "Mericaba",
+ "title": "Merkaba",
  "images": [
   {
    "src": "/media/memoria/2016-5mericaba-700.jpg",
-   "alt": "Mericaba — Alquimia, 2008",
+   "alt": "Merkaba — Alquimia, 2008",
    "width": 700,
    "height": 715,
    "widths": [
@@ -24,6 +24,7 @@
   }
  ],
  "year": 2008,
- "technique": "Pintura",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas)."
+ "technique": "Técnica de investigación",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica pendiente (medidas).",
+ "dimensions": "60 × 60 cm"
 }

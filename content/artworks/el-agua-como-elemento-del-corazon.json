@@ -5,21 +5,20 @@
  "aiAltered": false,
  "order": 4,
  "createdAt": "2026-11-20T02:30:00Z",
- "updatedAt": "2026-11-20T02:30:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "el-agua-como-elemento-del-corazon",
  "title": "Del corazón",
  "images": [
   {
-   "src": "/media/memoria/2016-del-corazon-250.jpg",
-   "alt": "Del corazón — El agua como elemento",
-   "width": 250,
-   "height": 640,
+   "src": "/media/colecciones/el-agua-como-elemento/del-corazon-368.jpg",
+   "alt": "Del corazón — El agua como elemento, 2007",
+   "width": 368,
+   "height": 943,
    "widths": [
-    250
+    368
    ],
-   "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASoQACkAPu1eqE2ppKOiNVgIATAdiWwAnTLVP/hWb1xBW77QUZfzaiOPft0jAAD+6jhHetlHpNlFvTlWN7DiZrn/vj1lH5Qy9rNl+J74cEDsAtSFc2Ffv1BHToeGPL7S4qgPMjGZ9EgfNS9OlRENkrOpIPxhPt8KJ9h5OK+rbjaqjbK6jWh6AFJn2v4IK/uHSl6UbsYpZDMppF+rncWM+XGtZousZptjBp9sL3TZUmLWd07OJsAfysrXggYaDGX5w2P+T0598wAAAA==",
-   "color": "rgb(104 56 40)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAABwBQCdASoQACkAPuVipk2pJaOiNVgIASAciWwAnTKEf/hXCi4jySuH4FRIDF866fddOEAAAP7qOEd/LZr3Vxsh4GEP9eT4yq0grw8CBOyfX4H677c3agP1p1u6KWqQkDJ0jDHbAxh4qgPMjV3VWQgU3esjrvhsELt/WFEwUy5ZkL9RqsY45LQ9fBLAkr1AC/eACG9+aZKZENFgcDf0CHQ14+CAjRggQKXiH406v8xzCGbYs5CGsXD6fFQwdUhJFvJYBBPgEAqyz9144+Axl+cNj/k9QWLHqcAAAA==",
+   "color": "rgb(136 96 78)"
   },
   {
    "src": "/media/memoria/2016-detalle-del-corazon-640.jpg",
@@ -35,6 +34,8 @@
    "lowRes": true
   }
  ],
- "year": 2006,
- "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas)."
+ "year": 2007,
+ "notes": "Texto y fotos del sitio calirivera.com (2026). Ficha técnica pendiente (técnica, medidas).",
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "31 × 81 cm"
 }

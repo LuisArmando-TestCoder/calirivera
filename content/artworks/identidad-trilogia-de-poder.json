@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-trilogia-de-poder",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 17,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "identidad-trilogia-de-poder",
+ "title": "Trilogía de poder",
+ "images": [
+  {
+   "src": "/media/colecciones/identidad/trilogia-de-poder-400.jpg",
+   "alt": "Trilogía de poder — Identidad, 2000–2003",
+   "width": 400,
+   "height": 312,
+   "widths": [
+    400
+   ],
+   "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoQAAwAA4BaJZgCdAYtBv6J8+WsZADif8FePrVA2KlGGhNiVPdlTXI/9QQNhtvhMHoUORrhhH1Ye4gaApCAV2Il499vW8MTuTZYD/4yQdwnXm0C7AH5PN3NGHKa+pEwSawB5WXAQfd2os06aTY7wAAA",
+   "color": "rgb(143 132 122)",
+   "lowRes": true
+  }
+ ],
+ "year": "2000–2003",
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "49 × 38 cm",
+ "notes": "Serie Transmutación."
+}

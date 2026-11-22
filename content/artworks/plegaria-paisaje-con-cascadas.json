@@ -1,0 +1,27 @@
+{
+ "slug": "plegaria-paisaje-con-cascadas",
+ "status": "published",
+ "collectionId": "plegaria",
+ "aiAltered": false,
+ "order": 9,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "plegaria-paisaje-con-cascadas",
+ "title": "Paisaje con cascadas",
+ "images": [
+  {
+   "src": "/media/colecciones/plegaria/paisaje-con-cascadas-696.jpg",
+   "alt": "Paisaje con cascadas — Plegaria, 2001",
+   "width": 696,
+   "height": 877,
+   "widths": [
+    696
+   ],
+   "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JagCdMoAB3KGURtM1dSgA98zKuBc3rwcVke+UdF8XfPnljAE3Om1UbPBtMrlPMFZ5P1vLSkFxluiZNydlU0CgdfhVIjhLiJHJX9b/ASufkoO6sl/ZKtZZni3pDgHTN65RkL/yj/bh2Pno3gA=",
+   "color": "rgb(159 135 103)"
+  }
+ ],
+ "year": 2001,
+ "technique": "Acrílico sobre tela",
+ "dimensions": "200 × 150 cm"
+}

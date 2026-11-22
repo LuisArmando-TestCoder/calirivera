@@ -5,25 +5,35 @@
  "aiAltered": false,
  "order": 6,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "sincretismo-religioso-transmutacion",
  "title": "Transmutación",
  "images": [
   {
-   "src": "/media/memoria/2003-transmutacion-frente-618.jpg",
+   "src": "/media/colecciones/sincretismo-religioso/transmutacion-frente-612.jpg",
    "alt": "Transmutación (frente) — Sincretismo religioso, 2014",
-   "width": 618,
-   "height": 800,
+   "width": 612,
+   "height": 962,
    "widths": [
-    480,
-    618
+    612
    ],
-   "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JYwCdIP8DAAr2WnqzXU9AAP7yNHseCNptRm0S7PQXup2nasvyQSXdtUb6k/AwRFtzjDakldBNXqOJ1r/2xwOJYnMUM0EsZOPXRJm28+O4H6ts6vGx7enZ03awoHTPanhC0X/gtVwqXF8Ij0AAAA==",
-   "color": "rgb(248 248 248)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACQBACdASoQABkAPu1iqU2ppaOiMAgBMB2JaACdHYAILwRlq5ozRGSAzXYdPUAA/QCaTj+Ty84iRnEiwjpkwW0V/TrPUfE4pZvkQ/oHFZxOwevgSdBtAflOV1J95mktZDH3cr4yVL3FLidJMTooOHkmguikyMHeOwUo6vb3B2oPTpK7Hlo11VQIbm8C9CBN7uAjIg/YbABLobUD3dANSAa53KDRNlzkji8tX1+0APv6RJ5hZSD6Mh/Inz5rihpUFLlL3A70aQa4R5E+dKsAAA==",
+   "color": "rgb(162 136 121)"
+  },
+  {
+   "src": "/media/colecciones/sincretismo-religioso/transmutacion-dorso-612.jpg",
+   "alt": "Transmutación (dorso) — Sincretismo religioso, 2014",
+   "width": 612,
+   "height": 977,
+   "widths": [
+    612
+   ],
+   "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACwBACdASoQABoAPu1iqU2ppaOiMAgBMB2JbACdL14UBvABT/itQo4EFSA4Wl8AAP6a22MLU3XuyjzCqWUcnC7fR83dwTbxBpNlNrRy5YqmHIbTs/SBnTuFp8S3ARMqJYcgu3jJIn6mKiipw9qcliEIyFgtGlzhxM44DIt5/hZrGLyDvk9AvkEhyTPUnFZUBDUAlgQXMDHZS+cevntnk/XLvHnIFufyQh48PLYVf1NfO1/jeyvOxYMfZujZ87F7cPUJfLEe31x+bbBHP/AAAA==",
+   "color": "rgb(192 167 125)"
   }
  ],
  "year": 2014,
- "technique": "Estandarte: ensamble de textiles",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo."
+ "technique": "Mixta sobre tela; estandarte de textiles ensamblados",
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Ficha técnica en el catálogo.",
+ "dimensions": "1,30 × 2,05 m"
 }

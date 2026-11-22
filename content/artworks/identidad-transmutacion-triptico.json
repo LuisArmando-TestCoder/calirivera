@@ -1,0 +1,29 @@
+{
+ "slug": "identidad-transmutacion-triptico",
+ "status": "published",
+ "collectionId": "identidad",
+ "aiAltered": false,
+ "order": 22,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "identidad-transmutacion-triptico",
+ "title": "Transmutación (tríptico)",
+ "images": [
+  {
+   "src": "/media/colecciones/identidad/transmutacion-triptico-1260.jpg",
+   "alt": "Transmutación (tríptico) — Identidad, 2003",
+   "width": 1260,
+   "height": 512,
+   "widths": [
+    640,
+    1260
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAcAA4BaJQBOgBmVK+vAwADiSIC83XZvq0iB6xLWkgiwijKSCX+lDeYeZdJqX4547e5KIjJ2JdLkkcw2mGFnitZQrB20J5T7PL6IkIQIAA==",
+   "color": "rgb(149 120 151)"
+  }
+ ],
+ "year": 2003,
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "55 × 40 cm cada pieza",
+ "notes": "Serie Transmutación. El libro Elementos da otras medidas para el conjunto (150 × 65 cm)."
+}

@@ -5,23 +5,37 @@
  "aiAltered": false,
  "order": 10,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "revelaciones-grecia",
  "title": "Plegaria por Grecia",
  "images": [
   {
-   "src": "/media/colecciones/revelaciones/grecia-800.jpg",
+   "src": "/media/colecciones/revelaciones/grecia-frente-861.jpg",
+   "alt": "Plegaria por Grecia (frente) — Revelaciones, 2015",
+   "width": 861,
+   "height": 2000,
    "widths": [
     640,
-    800
+    861
    ],
-   "width": 800,
-   "height": 1149,
-   "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JYwAD5UIGvyIrujskwqUgAP7ifHlcIJ+6KyGhyxzb9mBtBCvBqdunptew2sDwApFne9RHZVa2SQ+LGzvl2+rqi8QASH30g/rcX2yCUeUJscbNXf0uZVQHILnsrl21CtJ3vh/v7n5Rh4Gi23H7sbiY9VizZoAA",
-   "color": "rgb(185 182 172)",
-   "alt": "Plegaria por Grecia — Revelaciones, 2015"
+   "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBQCdASoQACUAPuleqE2pJSQiNVgIASAdCUAVgALOpDtOeDPeZqRTzv1D2CBsiggAAP64RLO+y/92Bp/uXy2551XcpBckSzjFruL6DcFwEDFoIJvy6yDLH2Agl4VcouLJ4j+A+Tcoy2Mq+tUyaaunAP5Y4bndR7Zg+QfxFB1qaIWGivgyRdMVT4N16dfIZjdNNCtvC0eT8DazBnh8CWHA+/e2qCzNfAYJI4GVRCTuji7NgAA=",
+   "color": "rgb(167 159 144)"
+  },
+  {
+   "src": "/media/colecciones/revelaciones/grecia-reverso-869.jpg",
+   "alt": "Plegaria por Grecia (reverso) — Revelaciones, 2015",
+   "width": 869,
+   "height": 2000,
+   "widths": [
+    640,
+    869
+   ],
+   "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwBACdASoQACUAPt1apE2opSOiNUgBEBuJZQDLLCfdPtojc2riAFQ1WGf+YbIAAP7rvL+tDUyZM+7PZ9vmAqhF7UFdUHAp/6XhlR2EFlR5JK9thaEhBhLia+bC6A4KzilTIn2tRjyYBClFO7PAxmoGNOx+dxPhiWv9/bQ63jGVj+Orc9/P8fXK9j3YUrA8TYfIu+6HQYwAAA==",
+   "color": "rgb(160 158 147)"
   }
  ],
  "year": 2015,
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive)."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive).",
+ "dimensions": "2,40 m × 65 cm",
+ "technique": "Mixta: ensamble de textiles intervenido con pintura y objetos"
 }

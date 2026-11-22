@@ -5,13 +5,13 @@
  "aiAltered": false,
  "order": 3,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "identidad-geografia",
- "title": "Geografía",
+ "title": "Geografía de un territorio al tiempo",
  "images": [
   {
    "src": "/media/memoria/2001-geografia-582.jpg",
-   "alt": "Geografía — Identidad",
+   "alt": "Geografía de un territorio al tiempo — Identidad",
    "width": 582,
    "height": 400,
    "widths": [
@@ -25,5 +25,6 @@
  ],
  "year": "2000–2005",
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes.",
+ "dimensions": "154 × 114 cm"
 }

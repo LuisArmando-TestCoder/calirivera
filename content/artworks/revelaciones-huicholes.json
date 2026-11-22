@@ -5,21 +5,33 @@
  "aiAltered": false,
  "order": 6,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "revelaciones-huicholes",
  "title": "Plegaria por los Huicholes de la Sierra Mexicana",
  "images": [
   {
-   "src": "/media/colecciones/revelaciones/huicholes-480.jpg",
+   "src": "/media/colecciones/revelaciones/huicholes-frente-861.jpg",
+   "alt": "Plegaria por los Huicholes de la Sierra Mexicana (frente) — Revelaciones, 2015",
+   "width": 861,
+   "height": 2000,
    "widths": [
-    480
+    640,
+    861
    ],
-   "width": 480,
-   "height": 720,
-   "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAwCdASoQABgAPu1kqk2ppaQiMAgBMB2JYwAAXvVGzpYGT9AAAP7x3df4eW3ZnWKKjIY17Us86NizkHAFLJfJqlnlbrlgwSAEVy4dcZx+fiLHCcHbB/cr9zth/2QCl6VTAf4UAT4FAAAA",
-   "color": "rgb(191 193 193)",
-   "alt": "Plegaria por los Huicholes de la Sierra Mexicana — Revelaciones, 2015",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAQBQCdASoQACUAPu1irU2ppaSiKqwBMB2JQBOkBw+6tv8BQ/BdMtw5hINpqzpsgmWAAP6b5W3HBWThQDsHl7QqEgUouy30BFR7yWdb2C8gmsA0Amq/lWf3VdsphZCtjm5gJB0kYGMi1VdFcDejqzvQMy/UC6iNZrrPhGRYeOPaAonZ3oA5eer57zIyP34yvmOgWac15//XX+85zVyfDjuqWsQAAA==",
+   "color": "rgb(126 133 133)"
+  },
+  {
+   "src": "/media/colecciones/revelaciones/huicholes-reverso-869.jpg",
+   "alt": "Plegaria por los Huicholes de la Sierra Mexicana (reverso) — Revelaciones, 2015",
+   "width": 869,
+   "height": 2000,
+   "widths": [
+    640,
+    869
+   ],
+   "placeholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBACdASoQACUAPu1srVCppiQiqqgBMB2JbACdIMp8CAIAGdTDCjscuhn2xrptOMAA/mfa75fEi+JlzX1xJVKGGPvHkE4w8i5RCxmMl1+oMNE4DcQJqI08Id+KUEeKIlKjw9ObaueUix4NZ/NdD+KFRjol9KXYiO5JbdGV3Zpyy/GdZjmBAHEqhtLxp3a68Mdh9QOmolzINbEgtrj1d34tMNolUnPN+P/04gAJ1Eeqv2r0/2O0AkrrGV7G+IzoAAA=",
+   "color": "rgb(201 150 126)"
   }
  ],
  "year": 2015,

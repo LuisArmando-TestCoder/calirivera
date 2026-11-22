@@ -5,21 +5,32 @@
  "aiAltered": false,
  "order": 5,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "revelaciones-israel",
  "title": "Plegaria por la tierra de Israel",
  "images": [
   {
-   "src": "/media/colecciones/revelaciones/israel-480.jpg",
+   "src": "/media/colecciones/revelaciones/israel-frente-575.jpg",
+   "alt": "Plegaria por la tierra de Israel (frente) — Revelaciones, 2015",
+   "width": 575,
+   "height": 1361,
    "widths": [
-    480
+    575
    ],
-   "width": 480,
-   "height": 720,
-   "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoQABgAPu1kq04ppaQiMAgBMB2JZwAD5IIe8nvUP3wK2cJ24AD+8d+u/PSiR+Rxx/Ch5xVAkMxq1TvHU2NiQGGrS9bZXHRhZnpuvpQA+Ig2PPlUqlGqtG9STd8fCdXOQSN3Keckd3eQL3E2juAAAA==",
-   "color": "rgb(216 212 208)",
-   "alt": "Plegaria por la tierra de Israel — Revelaciones, 2015",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADwBACdASoQACYAPulep02pJSOiNVgIASAdCWUArhwW+EV84m/Vvk/KfzCG+0GhbRAA/QHPS20f7UHllbkizcifdWTy6+V2qd/Bgseos1jSeriKUJHiwn9E5krS5+85+zQ2WFKk5WTkBsrNHk03FEvjvH1ap+UaFBV/PtLF7Li7MibaoYlnjm0WpuIdzUDnSGeffGyJOe38+wTW7THCXz/zge2u/gmn+fK+N/GlJANo5GvgAAA=",
+   "color": "rgb(181 173 165)"
+  },
+  {
+   "src": "/media/colecciones/revelaciones/israel-reverso-869.jpg",
+   "alt": "Plegaria por la tierra de Israel (reverso) — Revelaciones, 2015",
+   "width": 869,
+   "height": 2000,
+   "widths": [
+    640,
+    869
+   ],
+   "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBACdASoQACUAPuleqE2pJSOiNVgIASAdCWMAs4AQbdDbzEASa1iofuTtcoUYX7gA/gmxZZj2VoCvk9ex/idReFjIF38uS0JUQiCLRMEDQhc4tGzqfxRNh1GjGTs+/KUoSUO8NwExA7EDxRMoroDlsIxkzEEHwbQEHLLI52wOJJo4XSLxYg3fjEX31LLQkPP8zizb23H8HJqA/hjOwSSXkx6IMPC0CLL8qpfdMA0G3jUozQFH5P95S+tuax+7WjH/RXYX1OCJxcivF6YAAA==",
+   "color": "rgb(158 151 141)"
   }
  ],
  "year": 2015,

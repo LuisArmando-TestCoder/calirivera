@@ -5,25 +5,25 @@
  "aiAltered": false,
  "order": 12,
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-20T03:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "id": "identidad-que-pasara",
- "title": "¿Qué pasará?",
+ "title": "¿Y qué pasará con las reservas de petróleo?",
  "images": [
   {
-   "src": "/media/memoria/2001-que-pasara-500.jpg",
-   "alt": "¿Qué pasará? — Identidad",
-   "width": 500,
-   "height": 363,
+   "src": "/media/colecciones/identidad/que-pasara-con-las-reservas-de-petroleo-947.jpg",
+   "alt": "¿Y qué pasará con las reservas de petróleo? — Identidad, 2005",
+   "width": 947,
+   "height": 678,
    "widths": [
-    480,
-    500
+    640,
+    947
    ],
-   "placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoQAAwAA4BaJaAC7AYwd2zKeNChjrsEAAD+moc8g7jPpIkAFbcdANeAjwxMi/fYubmxWfvLZenlay+ALKEqWwYfN9fj91dBJrpg9jEAwh5QOYL44mnq89xzaHetPRonUgAAAA==",
-   "color": "rgb(8 8 8)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAsAA4BaJZgCdAYt9KvCnUp/AAD+sMTKvFDJIi3rxj6jAhSQvn7b/aW7taoSfTulhD/FSmpy7o3Ojda9RI8OHNR57me4/fhoqhMfooqvqaAyqMBxCpj9/uMAAA==",
+   "color": "rgb(157 170 130)"
   }
  ],
- "year": "2000–2005",
+ "year": 2005,
  "technique": "Técnica mixta sobre tela, resina",
- "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes."
+ "notes": "Texto y fotos del sitio calirivera.com de 2025 (Internet Archive). Año exacto y medidas pendientes.",
+ "dimensions": "154 × 114 cm"
 }

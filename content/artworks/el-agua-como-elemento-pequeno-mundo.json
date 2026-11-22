@@ -1,0 +1,28 @@
+{
+ "slug": "el-agua-como-elemento-pequeno-mundo",
+ "status": "published",
+ "collectionId": "el-agua-como-elemento",
+ "aiAltered": false,
+ "order": 10,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "el-agua-como-elemento-pequeno-mundo",
+ "title": "Pequeño mundo",
+ "images": [
+  {
+   "src": "/media/colecciones/el-agua-como-elemento/pequeno-mundo-943.jpg",
+   "alt": "Pequeño mundo — El agua como elemento, 2007",
+   "width": 943,
+   "height": 601,
+   "widths": [
+    640,
+    943
+   ],
+   "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAoAA4BaJQBOgCPOEYbPDQAA/tl/prA5OwterEtmn7AydKE3HZpEO6chmjmIkq75qr+zAAA=",
+   "color": "rgb(85 70 75)"
+  }
+ ],
+ "year": 2007,
+ "technique": "Técnica mixta sobre tela, resina",
+ "dimensions": "152 × 89 cm"
+}

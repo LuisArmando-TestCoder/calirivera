@@ -3,7 +3,7 @@
  "slug": "detras-de-la-ventana-01",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-20T03:20:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "title": "Amanecer",
  "collectionId": "detras-de-la-ventana",
  "images": [
@@ -23,5 +23,7 @@
  "aiAltered": false,
  "order": 1,
  "year": "2000",
- "notes": "Título según la galería del sitio de 2006 (Internet Archive). Medidas pendientes."
+ "notes": "Título según la galería del sitio de 2006 (Internet Archive). Medidas pendientes.",
+ "technique": "Óleo sobre tela",
+ "dimensions": "90 × 60 cm"
 }

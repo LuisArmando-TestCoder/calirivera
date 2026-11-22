@@ -3,7 +3,7 @@
  "slug": "detras-de-la-ventana-10",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-19T23:44:17Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "title": "Madonna de los blancos cuerpos",
  "collectionId": "detras-de-la-ventana",
  "images": [
@@ -25,5 +25,6 @@
  "order": 10,
  "year": "2003",
  "notes": "Proyectada en Copacabana, Río de Janeiro, durante la Sinfonía n.º 8 de Mahler (Proyecto Aquarius, 26 de agosto de 2006). Ver /catalogos-and-proyectos/proyecto-aquarius-2006. En la galería del sitio de 2006 figura como «Madona». Faltan medidas.",
- "technique": "Óleo sobre tela"
+ "technique": "Óleo sobre tela",
+ "dimensions": "90 × 60 cm"
 }

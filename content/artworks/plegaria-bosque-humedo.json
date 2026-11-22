@@ -1,0 +1,28 @@
+{
+ "slug": "plegaria-bosque-humedo",
+ "status": "published",
+ "collectionId": "plegaria",
+ "aiAltered": false,
+ "order": 10,
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "id": "plegaria-bosque-humedo",
+ "title": "Bosque húmedo",
+ "images": [
+  {
+   "src": "/media/colecciones/plegaria/bosque-humedo-908.jpg",
+   "alt": "Bosque húmedo — Plegaria, 2001",
+   "width": 908,
+   "height": 689,
+   "widths": [
+    640,
+    908
+   ],
+   "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoQAAwAA4BaJbACdADbGAs2AAD+6iK6ffSMISVUGX1R0HMa5K/udqFgFfLePGJJWh+N8AG+cyaF9E/c+J+sWOVnfj4UZ0fz+rRN0dYby/KGWLdv7BvRVzlgAAA=",
+   "color": "rgb(92 137 164)"
+  }
+ ],
+ "year": 2001,
+ "technique": "Acrílico sobre tela",
+ "dimensions": "90 × 60 cm"
+}

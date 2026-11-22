@@ -3,11 +3,69 @@
  "slug": "elementos",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-10T23:54:17Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
  "kind": "catalog",
  "title": "Elementos",
- "body": [],
+ "body": [
+  {
+   "type": "heading",
+   "id": "elementos-prologo",
+   "text": "Bajo los cúmulos, cirros y estratos"
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-1",
+   "text": "Al pie del volcán Irazú, frente a la montaña la Carpintera, por la carretera a Tres Ríos, durante toda su vida frente al balcón de su casa, Cali Rivera, el niño artista, el hombre, el hermano, el amigo… año tras año vio pasar a los miles y miles de peregrinos que durante la noche caminaron para ir a visitar a la Virgen de los Ángeles."
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-2",
+   "text": "La tierra fértil de Cartago, el aire fresco de sus colinas, el agua bendita de la basílica y el fuego del cirio pascual son a la vez los elementos sagrados que alimentarán el proceso creativo, consecuente y organizado de este magnífico artista costarricense."
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-3",
+   "text": "Cali Rivera desde su territorio poético se proyecta al mundo como un creador que concilia su existencia con el arte."
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-4",
+   "text": "Amante de la vida, desde su infancia jugaba construyendo cementerios en el jardín para enterrar los miedos y convencionalismos, y desde siempre fue creador con explosiva energía innovadora: inquieto, sensible, tolerante, comunicativo, sorprendente, hiperactivo."
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-5",
+   "text": "Los elementos simbólicos, como iconografías en su producción, son a la vez la interacción de lo cotidiano con lo ceremonial. Así entonces el entorno de su taller se transforma en un espacio donde se conjugan todos los sabores, colores, sonidos y texturas."
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-6",
+   "text": "Cali comparte los componentes de su arte con los espectadores y, dándoles permanencia, los eterniza, adquiriendo un significado nuevo los pequeños juguetes, bolsitas de azúcar, hilos de colores, gotas de pintura, canicas y corbatines, en inmensos aeropuertos donde podemos despegar a un gran cielo de imaginación."
+  },
+  {
+   "type": "quote",
+   "id": "elementos-7",
+   "text": "La realidad y la fantasía son lo mismo. Cali nos transporta a un nuevo mundo.",
+   "cite": "Fabio Herrera, 2006"
+  },
+  {
+   "type": "heading",
+   "id": "elementos-epilogo",
+   "text": "Epílogo"
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-8",
+   "text": "El desarrollo de este manifiesto se convierte en mi más reciente epifanía, pues con él doy cierre a un trabajo de 12 años que comulga con un sentir común de supervivencia y que me enfila como un miembro más de una sociedad consciente que se sabe responsable de lo que como especie debemos atender en este momento histórico."
+  },
+  {
+   "type": "paragraph",
+   "id": "elementos-9",
+   "text": "Muchas son las personas a quienes debo agradecer su aporte en este esfuerzo, amigos todos: Luis Rojas, Tatiana Estrada, Daniel Argüello, Enrique León, Julián Trejos, Fabio Herrera, Mario Maffioli, Eugenia Bermúdez, Mario Gamboa, Maritza Urbano, Francesca King, Veronique Hannon, Peter Mobus, Alma Fernández, Manuel Delgado, Mercedes Sánchez y muchas otras más…"
+  }
+ ],
  "order": 3,
  "fileUrl": "/files/elementos2.pdf",
- "summary": "PDF · 6 MB"
+ "summary": "PDF · 6 MB",
+ "year": "2007"
 }

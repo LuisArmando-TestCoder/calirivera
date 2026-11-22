@@ -6,25 +6,25 @@
  "collectionId": "plegaria",
  "images": [
   {
-   "src": "/media/memoria/2001-frecuencia-534.jpg",
-   "alt": "Frecuencia — Plegaria, el fuego como elemento, 2001",
-   "width": 534,
-   "height": 700,
+   "src": "/media/colecciones/plegaria/frecuencia-1091.jpg",
+   "alt": "Frecuencia — Plegaria, 2001",
+   "width": 1091,
+   "height": 1442,
    "widths": [
-    480,
-    534
+    640,
+    1091
    ],
-   "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwABv4JVVtrSXRFuAA/uv9ffvOcUJ1mHprvCJFeHR193Ut8rZ1r7cgMKcTnDxeEe/Ab+s/f/ZkhLWeSdP2eb4L1Mvw6H+Sos+xnImWg0TkiTvuYz09GydX28jB24hDyUowKCNAAAA=",
-   "color": "rgb(8 24 104)",
-   "lowRes": true
+   "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JbACdMoRwBtA2gAbfR4mRkfuUAAD+8NuYP5+9BWcUE1PQ58gOsFKygjU/UvUCJtnaiidbRHt2lkdYD39YDJS0Lw/Xbb5WBJ8rR1owFUWl7tRK+s5G9HaaqvmVwNntMrlEHm/B3X6OXNdMkHcnFJF256rZDATl7cAAAA==",
+   "color": "rgb(71 110 181)"
   }
  ],
  "aiAltered": false,
  "order": 3,
  "year": 2001,
- "technique": "Acrílico",
+ "technique": "Acrílico sobre tela",
  "notes": "De «Plegaria, el fuego como elemento», Galería Nacional de Costa Rica, 2001. Foto rescatada del sitio anterior (Internet Archive). Medidas pendientes.",
  "sourceUrl": "https://web.archive.org/web/20161206195436id_/http://calirivera.com/images/obras-galeria/plegaria_fuego_elemento_2001/frecuencia.jpg",
  "createdAt": "2026-11-11T18:00:00Z",
- "updatedAt": "2026-11-11T18:00:00Z"
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "dimensions": "150 × 200 cm"
 }
