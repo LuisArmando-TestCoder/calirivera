@@ -1,0 +1,707 @@
+{
+ "id": "menu",
+ "slug": "menu",
+ "status": "published",
+ "createdAt": "2026-11-22T12:00:00Z",
+ "updatedAt": "2026-11-22T12:00:00Z",
+ "title": "Menú",
+ "description": "Explora, saborea, inspírate. La carta del Taller del Artista; los precios incluyen todos los impuestos.",
+ "menu": "taller",
+ "sections": [
+  {
+   "id": "entradas-y-tapas",
+   "layout": "auto",
+   "title": "Entradas y tapas",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-entradas-y-tapas",
+     "items": [
+      {
+       "name": "Papas Bravas",
+       "price": "₡4.800",
+       "text": "Cubos de papa cocidos en tres tiempos. Servidas en una canasta de trigo con salsa tipo Alioli y pimienta cayena. Un clásico del Taller."
+      },
+      {
+       "name": "Canasta de Pollo y Papas",
+       "price": "₡6.800",
+       "text": "Cubos de papa crujientes por fuera y suaves por dentro acompañados de tiras de pollo con el empanizado especial de la casa, salsa de queso y tartara."
+      },
+      {
+       "name": "Ceviche del Perú",
+       "price": "₡6.000",
+       "text": "Trozos de Pescado marinados al limón, cebolla y muchos secretos Incas. Se sirve con Maíz y camote frito."
+      },
+      {
+       "name": "Carpaccio de res",
+       "price": "₡8.500",
+       "text": "Lonjas de lomito fresco con el aderezo de la casa, queso grana y alcaparras servido con mini focaccias."
+      },
+      {
+       "name": "Hongos Empanizados",
+       "price": "₡5.500",
+       "text": "Champiñón entero relleno de su jugo con el empanizado especial del chef, servido con salsa agridulce y salsa de coco."
+      },
+      {
+       "name": "Hongos al Ajillo",
+       "price": "₡5.000",
+       "text": "Champiñón fresco salteado con mantequilla y ajo con hierbas verdes de la casa. Se acompaña con Tostadas."
+      },
+      {
+       "name": "Carpaccio de salmón",
+       "price": "₡8.500",
+       "text": "Lonjas de salmón fresco con el aderezo de la casa, queso grana y alcaparras servido con tostadas."
+      },
+      {
+       "name": "Tiradito de Pulpo",
+       "price": "₡10.950",
+       "text": "Delicados trozos de pulpo fresco, bañados en una exquisita salsa agridulce de inspiración oriental, servidos con mini focaccias doradas al punto perfecto."
+      },
+      {
+       "name": "Tiradito de Atún",
+       "price": "₡10.500",
+       "text": "Lonjas de atún fresco servidas con aguacate marinados en nuestra salsa oriental servido con mini focaccias."
+      },
+      {
+       "name": "Tartar de Atún",
+       "price": "₡9.500",
+       "text": "Trozos de atún fresco marinados en la salsa especial de la casa, coronado con aguacate y piña caramelizada servido con mini focaccias."
+      },
+      {
+       "name": "Tacos de Camarón",
+       "price": "₡9.950",
+       "text": "Tres tacos de jugosos camarones al ajillo o empanizados (A elección del comensal), envueltos en suaves tortillas de harina, con un toque fresco de cebolla y lechuga. Coronados con nuestra salsa especial de culantro."
+      },
+      {
+       "name": "Tacos de Pollo",
+       "price": "₡6.500",
+       "text": "Tres tacos de pollo empanizado, envueltos en suaves tortillas de harina, con un toque fresco de cebolla, lechuga y tomate. Coronados con aguacate y nuestra salsa especial de culantro y piña."
+      },
+      {
+       "name": "Tartar de Salmón",
+       "price": "₡9.500",
+       "text": "Trozos de salmón fresco marinados en la salsa especial de la casa, coronado con aguacate y mango servido con mini focaccias."
+      },
+      {
+       "name": "Hamburguesa Alquimia",
+       "price": "₡7.500",
+       "text": "Torta de media libra se fusiona con cebolla caramelizada dorada, crujiente tocineta y un delicioso queso provolone en pan ciabatta acompañada de papas en gajo o aros de cebolla."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sopas-y-ensaladas",
+   "layout": "auto",
+   "title": "Sopas y ensaladas",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-sopas-y-ensaladas",
+     "items": [
+      {
+       "name": "Sopa de Cebolla",
+       "price": "₡5.000",
+       "text": "Nuestra clásica sopa de cebolla, inspirada en las calles de París, elaborada con la receta secreta de nuestro chef. Servida con una tostada crujiente de pan, coronada con queso gratinado. Un verdadero ícono del Taller."
+      },
+      {
+       "name": "Crema de tomates rostizados",
+       "price": "₡5.000",
+       "text": "Tomate rostizados en crema, realzada con hierbas aromáticas y un toque de ajo. Servida con un chorrito de aceite de oliva virgen extra y decorada con albahaca fresca."
+      },
+      {
+       "name": "Crema de Pejibaye",
+       "price": "₡5.000",
+       "text": "Exquisita crema de pejibaye, un tesoro costarricense disponible solo en temporada. Este platillo galardonado ofrece una textura suave y un sabor único que te transportará al corazón de nuestra tierra. ¡No te la puedes perder!"
+      },
+      {
+       "name": "Ensalada Jardín del Taller",
+       "price": "₡6.900",
+       "text": "Una fresca mezcla de lechugas, tomates cherry, almendras crujientes, hongos frescos y queso gorgonzola, con notas de frutas tropicales, todo aderezado con nuestra irresistible salsa de maracuyá."
+      },
+      {
+       "name": "Ensalada Cesar",
+       "price": "₡6.900",
+       "text": "Una cama de lechuga romana fresca, aderezada con nuestra deliciosa interpretación de la clásica ensalada César. Complementada con crujiente tocineta y queso parmesano (Anchoas si lo deseas)"
+      }
+     ],
+     "note": "Da un toque personal a tus ensaladas eligiendo una de nuestras proteínas: pollo: ₡2.500; camarones: ₡3.500; salmón: ₡3.500. ¡Haz que tu ensalada brille con sabor!"
+    }
+   ]
+  },
+  {
+   "id": "platos-fuertes-de-la-tierra",
+   "layout": "auto",
+   "title": "Platos fuertes de la tierra",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-platos-fuertes-de-la-tierra",
+     "items": [
+      {
+       "name": "Lomito a la Pimienta",
+       "price": "₡14.500",
+       "text": "Delicioso corte de 220 g de lomito bañado en vino tinto y acompañado de una salsa de pimienta, elaborada con una mezcla de tres tipos de pimienta: blanca, negra y rosa. Un toque ligeramente picante que despierta los sentidos."
+      },
+      {
+       "name": "Filet Mignon",
+       "price": "₡14.500",
+       "text": "Jugoso medallón de lomito envuelto en crujiente tocineta, cocido a tu termino de preferencia y acompañado de la exquisita salsa de hongos frescos del chef."
+      },
+      {
+       "name": "Lomito con camarones",
+       "price": "₡17.950",
+       "text": "220g de Lomito a la parrilla, tierno y jugoso, servido con nuestra mágica salsa de camarones, la favorita por casi dos décadas. Esta salsa blanca, rica y cremosa, captura la esencia del mar en cada bocado."
+      },
+      {
+       "name": "Pollo Naranja",
+       "price": "₡8.500",
+       "text": "Jugosa pechuga de pollo bañada en una exquisita salsa de naranja natural, inspirada en la tradición China con el frescura de las naranjas naturales y un toque de mantequilla."
+      },
+      {
+       "name": "Pollo en salsa Pejibaye",
+       "price": "₡11.200",
+       "text": "Pechuga de pollo bañada en una especial salsa de pejibaye y hongos frescos. Un plato que celebra los sabores auténticos de nuestra tierra."
+      },
+      {
+       "name": "Pollo Reina",
+       "price": "₡12.000",
+       "text": "Pechuga de pollo empanizada, rellena de queso derretido y crujiente tocineta. Esta exquisita fusión del clásico cordon bleu se sirve con una suave salsa blanca de hongos, mejorada para ofrecerte una experiencia de sabor única y deliciosa."
+      }
+     ],
+     "note": "Todos nuestros platos fuertes incluyen dos acompañamientos a elegir: arroz, vegetales, puré de papa, ensalada verde, papas en gajo."
+    }
+   ]
+  },
+  {
+   "id": "platos-fuertes-del-mar",
+   "layout": "auto",
+   "title": "Platos fuertes del mar",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-platos-fuertes-del-mar",
+     "items": [
+      {
+       "name": "Camarones al Coco",
+       "price": "₡10.650",
+       "text": "Camarones empanizados con una mezcla japonesa, crujiente y dorada. Se sirven con una exquisita salsa de coco del chef, que incorpora notas caribeñas."
+      },
+      {
+       "name": "Camarones al Ajillo",
+       "price": "₡10.650",
+       "text": "Frescos camarones salteados en mantequilla dorada, intensificados con un delicado toque de ajo y hierbas aromáticas."
+      },
+      {
+       "name": "Pulpo a la Gallega",
+       "price": "₡15.500",
+       "text": "La esencia de Galicia en nuestro pulpo salteado en pimentón de la Vera, acompañado de un suave alioli servido con papas, este plato evoca la tradición española con un giro contemporáneo, ofreciendo una experiencia gastronómica llena de sabor y autenticidad."
+      },
+      {
+       "name": "Salmón del Rey",
+       "price": "₡12.000",
+       "text": "Fresco salmón cocido en mantequilla suave presentado sobre un espejo de salsa blanca con eneldo aromático. Digno de reyes."
+      },
+      {
+       "name": "Arroz del Pescador",
+       "price": "₡13.500",
+       "text": "Una deliciosa fusión de mariscos en una crujiente canasta de tortilla. Este plato combina arroz cocido con jugosos mejillones, salmón y camarones, todo salteado y ligado con salsas aromáticas y notas de sésamo."
+      },
+      {
+       "name": "Mariscada Olas del Caribe",
+       "price": "₡15.500",
+       "text": "Mariscada que combina camarones jugosos, mejillones tiernos, pulpo, calamares y pescado fresco en una seductora salsa de tomates y coco, adornada con trozos de piña dulce. Cada bocado es un susurro del mar, evocando la brisa tropical y la calidez del sol caribeño."
+      }
+     ],
+     "note": "Todos nuestros platos fuertes incluyen dos acompañamientos a elegir: arroz, vegetales, puré de papa, ensalada verde, papas en gajo."
+    }
+   ]
+  },
+  {
+   "id": "pastas-y-bocatas",
+   "layout": "auto",
+   "title": "Pastas y bocatas",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-pastas-y-bocatas",
+     "items": [
+      {
+       "name": "Pasta Sensación",
+       "price": "₡9.000",
+       "text": "Deliciosa pasta bañada en una suave salsa blanca, realzada con trocitos de salmón fresco, queso cremoso, jamón y un toque de cebollino. Esta exquisita combinación se puede personalizar con pollo en lugar de salmón y puedes elegir Fetuccini o Espagueti."
+      },
+      {
+       "name": "Pasta Pescador (Frutos del mar)",
+       "price": "₡13.500",
+       "text": "Fusión de mariscos. Este plato combina pasta al dente con jugosos camarones, mejillones, salmón, pulpo y calamares, todo salteado con salsas aromáticas y notas de sésamo."
+      },
+      {
+       "name": "Pasta Pomodoro",
+       "price": "₡6.000",
+       "text": "Pasta en una deliciosa salsa pomodoro de tomate fresco y albahaca con queso fresco que se derrite en cada bocado. Una fusión de sabores que evoca la esencia del Mediterráneo."
+      },
+      {
+       "name": "Bocata de Pollo",
+       "price": "₡6.750",
+       "text": "Pan crujiente relleno de pollo jugoso, lechuga, tomate, queso, chiles morrones y salsa del chef, acompañado de papas en gajo."
+      },
+      {
+       "name": "Bocata de Roast Beef",
+       "price": "₡6.750",
+       "text": "Pan crujiente relleno de carne asada al horno, lechuga, tomate, queso, chiles morrones y salsa del chef, acompañado de papas en gajo."
+      },
+      {
+       "name": "Brusquetas Mediterráneas",
+       "price": "₡9.950",
+       "text": "Deliciosa combinación de pan crujiente con tomate español fresco, salmón fresco, hierbas aromáticas y chiles morrones. Un bocado que evoca los sabores auténticos de las calles de Madrid."
+      },
+      {
+       "name": "Bocata de Camarones",
+       "price": "₡10.000",
+       "text": "Pan crujiente relleno de camarones empanizados, tomate al estilo español, queso, chiles morrones y salsa tártara, acompañado de papas en gajo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "para-compartir",
+   "layout": "auto",
+   "title": "Para compartir",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-para-compartir",
+     "items": [
+      {
+       "name": "Buñuelos",
+       "price": "₡6.000",
+       "text": "5 unidades de crujientes saquitos de trigo fritos, rellenos de suculento pollo y hongos frescos, acompañados de una suave y cremosa salsa de queso."
+      },
+      {
+       "name": "Tabla de Pates",
+       "price": "₡7.500",
+       "text": "Incluye tres deliciosas opciones: paté de pimienta, paté de hierbas frescas y paté de camarón. Cada uno, elaborado con ingredientes de calidad, ofrece un sabor único y sofisticado. Se sirve con crujientes tostadas, perfectas para untar y disfrutar."
+      },
+      {
+       "name": "Fajitas Mixtas Especiales",
+       "price": "₡11.000",
+       "text": "Combinan jugoso lomito y pollo con chile y cebolla, todo cocinado a la perfección en nuestra deliciosa salsa de vino con hongos frescos. Se sirven con crujientes tostadas."
+      },
+      {
+       "name": "Tabla Mixta del Taller",
+       "price": "₡21.650",
+       "text": "Una celebración de sabores para 3 personas que incluye jugosas fajitas mixtas, crujientes papas bravas, hongos al ajillo, exclusivos patés de la casa, una selección de antipasto gourmet y tostadas recién horneadas. Perfecta para compartir y transformar cualquier reunión en una experiencia memorable."
+      },
+      {
+       "name": "Tabla de Mariscos Deluxe",
+       "price": "₡30.000",
+       "text": "Ideal para tres personas. Saborea canastas de plátano rellenas de ceviche fresco, tacos de pescado frito crujiente, papas bravas, tiradito de atún y pulpo al ajillo. Cada bocado es un viaje a la costa, perfecto para los amantes del mar."
+      },
+      {
+       "name": "Tabla de Appetizers",
+       "price": "2 personas ₡16.000 · 3 personas ₡22.000 · 4 personas ₡28.000",
+       "text": "Una selección perfecta para quienes quieren probar de todo. Incluye crujientes papas bravas, buñuelos de pollo con salsa de queso, camarones empanizados al coco, hongos empanizados y nuestros exclusivos patés con tostadas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "postres",
+   "layout": "auto",
+   "title": "Postres",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-postres",
+     "items": [
+      {
+       "name": "Cheesecake de Arándanos",
+       "price": "₡4.500",
+       "text": "La suavidad de la crema y los arándanos con la frescura vibrante de frutos rojos. Esta delicia reposa sobre una crujiente base de galleta Julieta molida, logrando un contraste perfecto entre cremosidad y textura."
+      },
+      {
+       "name": "Helado de la casa",
+       "price": "₡4.000",
+       "text": "Un clásico del taller. Delicioso y cremoso helado de queso acompañado de marshmallows y frutas. Receta secreta traída por nuestro director desde Los Ángeles, California. Una afortunada equivocación."
+      },
+      {
+       "name": "Crêpe Suzette",
+       "price": "₡5.500",
+       "text": "Una deliciosa variación de la crêpe suzette de Francia. Arepa de harina al estilo costarricense rellena de helado con salsa de naranja flambeada con cointreau."
+      },
+      {
+       "name": "Selva negra",
+       "price": "₡4.500",
+       "text": "De la cocina de Baden, torta fría de bizcochuelo con chocolate y el toque especial de la casa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cafes-calientes",
+   "layout": "auto",
+   "title": "Galería de cafés calientes",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "id": "menu-cafes-nota",
+     "text": "Cada café lleva el nombre de un artista costarricense."
+    },
+    {
+     "type": "menu",
+     "id": "menu-cafes-calientes",
+     "items": [
+      {
+       "name": "Chocolate Café Arte",
+       "price": "₡4.000",
+       "text": "Con licores de naranja, café y violeta."
+      },
+      {
+       "name": "Chocolate Caliente",
+       "price": "₡3.500",
+       "text": "Clásico con marshmallows y chantilly."
+      },
+      {
+       "name": "Juan Manuel Sánchez",
+       "price": "₡2.000",
+       "text": "Expresso, leche espumada y canela."
+      },
+      {
+       "name": "Mario Maffioli",
+       "price": "₡2.500",
+       "text": "Capuccino con chocolate líquido y canela."
+      },
+      {
+       "name": "Juan Ramón Bonilla",
+       "price": "₡2.500",
+       "text": "Capuccino con licor de anís."
+      },
+      {
+       "name": "Rafael «Felo» García",
+       "price": "₡2.500",
+       "text": "Capuccino con licor de café."
+      },
+      {
+       "name": "Luis Dael",
+       "price": "₡2.500",
+       "text": "Capuccino con crema irlandesa."
+      },
+      {
+       "name": "Adrián Arguedas",
+       "price": "₡2.500",
+       "text": "Capuccino con crema irlandesa."
+      },
+      {
+       "name": "Cali Rivera",
+       "price": "₡2.700",
+       "text": "Capuccino con sirope a elegir."
+      },
+      {
+       "name": "Fabio Herrera",
+       "price": "₡4.000",
+       "text": "Capuccino con Baileys."
+      },
+      {
+       "name": "Macedonio Quesada",
+       "price": "₡1.200",
+       "text": "Café negro clásico."
+      },
+      {
+       "name": "Jorge Gallardo",
+       "price": "₡1.500",
+       "text": "Café con leche clásico."
+      },
+      {
+       "name": "Mireya Barboza",
+       "price": "₡1.000",
+       "text": "Expresso regular."
+      },
+      {
+       "name": "Carlos Salazar",
+       "price": "₡1.500",
+       "text": "Expresso doble."
+      },
+      {
+       "name": "Néstor Zeledón",
+       "price": "₡1.500",
+       "text": "Expresso cortado."
+      },
+      {
+       "name": "Zulay Soto",
+       "price": "₡2.500",
+       "text": "Expresso con brandy."
+      },
+      {
+       "name": "Fausto Pacheco",
+       "price": "₡2.500",
+       "text": "Expresso con crema chantilly."
+      },
+      {
+       "name": "Lola Fernández",
+       "price": "₡2.500",
+       "text": "Expresso con Baileys."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cafes-frios",
+   "layout": "auto",
+   "title": "Galería de cafés fríos",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-cafes-frios",
+     "items": [
+      {
+       "name": "Rafa Fernández",
+       "price": "₡4.500",
+       "text": "Con helado de vainilla, chocolate y chantilly."
+      },
+      {
+       "name": "Enrique Echandi",
+       "price": "₡3.000",
+       "text": "Clavos de olor y chantilly."
+      },
+      {
+       "name": "Mélico Salazar",
+       "price": "₡4.500",
+       "text": "Licor de café y chantilly."
+      },
+      {
+       "name": "Emilia Cersosimo",
+       "price": "₡4.000",
+       "text": "Jugo de cerezas y chantilly."
+      },
+      {
+       "name": "César Valverde",
+       "price": "₡3.600",
+       "text": "Licor de naranja y chantilly."
+      },
+      {
+       "name": "Carmen Lyra",
+       "price": "₡4.000",
+       "text": "Licor de melocotón y chantilly."
+      },
+      {
+       "name": "Graciela Moreno",
+       "price": "₡3.000",
+       "text": "Helado de vainilla con expresso y chantilly."
+      },
+      {
+       "name": "Roxana Campos",
+       "price": "₡4.000",
+       "text": "Licor de chocolate, amaretto y chantilly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cocteles",
+   "layout": "auto",
+   "title": "Cócteles",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-cocteles",
+     "items": [
+      {
+       "name": "Piña Colada",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Tequila Sunrise",
+       "price": "₡4.500"
+      },
+      {
+       "name": "Frozen Daiquirí",
+       "price": "₡5.000"
+      },
+      {
+       "name": "Long Island Ice Tea",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Manhattan",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Martini",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Negroni",
+       "price": "₡6.500"
+      },
+      {
+       "name": "Orgasmo",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Cosmopolitan",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Tinto de Verano",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Aperol Spritz",
+       "price": "₡7.500"
+      },
+      {
+       "name": "Moscow Mule",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Margarita Clásica",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Margarita de Maracuyá",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Margarita de Fresa",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Blue Margarita",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Margarita Premium",
+       "price": "₡7.500"
+      },
+      {
+       "name": "Mojito Clásico",
+       "price": "₡5.000"
+      },
+      {
+       "name": "Mojito de Fresa",
+       "price": "₡5.000"
+      },
+      {
+       "name": "Mojito de Maracuyá",
+       "price": "₡5.000"
+      },
+      {
+       "name": "Gin Tonic de Lima Limón",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Gin Tonic de Naranja",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Gin Tonic Frutos Rojos",
+       "price": "₡5.500"
+      },
+      {
+       "name": "Gin Tonic Tropical",
+       "price": "₡5.500"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cervezas-y-bebidas",
+   "layout": "auto",
+   "title": "Cervezas y bebidas",
+   "blocks": [
+    {
+     "type": "menu",
+     "id": "menu-cervezas-y-bebidas",
+     "items": [
+      {
+       "name": "Cerveza Nacional",
+       "price": "₡1.800",
+       "text": "Imperial, Light, Silver, Ultra, Cero, Pilsen, Pilsen 6.0."
+      },
+      {
+       "name": "Cerveza Nacional Premium",
+       "price": "₡2.500",
+       "text": "Heineken, Corona, Sol, Toña, Stella."
+      },
+      {
+       "name": "Cerveza Internacional",
+       "price": "₡2.500",
+       "text": "Bavaria Master, Gold, Smirnoff Roja, Negra, Guarana, Verde."
+      },
+      {
+       "name": "Gaseosas",
+       "price": "₡1.850",
+       "text": "Coca Cola, Coca Cola Zero, Ginger Ale, Fanta Roja, Fresca, Soda."
+      },
+      {
+       "name": "Batido en Agua",
+       "price": "₡2.500"
+      },
+      {
+       "name": "Batido en Leche",
+       "price": "₡3.000"
+      }
+     ],
+     "note": "Batidos: consultar al salonero por las frutas de temporada."
+    }
+   ]
+  },
+  {
+   "id": "espacio-de-arte",
+   "layout": "auto",
+   "title": "Espacio de arte",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "id": "menu-arte-1",
+     "text": "Aquí, el arte no solo se observa, sino que también se siente. Si una obra te inspira, ¡díselo! Si te hace reír, ¡ríe a carcajadas! Y si sientes una conexión mística, no dudes en compartirlo. Recuerda: en este espacio, cada pincelada cuenta una historia y cada color tiene algo que decir. ¡Déjanos ser parte de tu experiencia artística!"
+    },
+    {
+     "type": "paragraph",
+     "id": "menu-arte-2",
+     "text": "¡Y no olvides tomar una selfie con tu obra favorita! Todas las obras están disponibles para la venta. Pregunta a nuestro personal si estás interesado."
+    },
+    {
+     "type": "quote",
+     "id": "menu-cierre",
+     "text": "Aceptar la vida como un regalo y ver como de los escombros nace una nueva oportunidad, nos recuerda que es el tiempo del abrazo y momento del cambio de conciencia que como magia, nace de la fusión de un beso. No es tiempo de rencores ni egos inflados, este es el momento de darnos un abrazo y levantar la voz, de comulgar con ese sentir de supervivencia que busca un giro en la humanidad",
+     "cite": "Cali Rivera"
+    },
+    {
+     "type": "links",
+     "id": "menu-enlaces",
+     "items": [
+      {
+       "label": "Reservar por WhatsApp",
+       "href": "https://wa.me/50683483785",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "El menú en PDF, como se entrega en la mesa",
+       "href": "/files/menu-taller-del-artista.pdf",
+       "note": "PDF · 32 MB",
+       "kind": "pdf"
+      },
+      {
+       "label": "Taller del Artista",
+       "href": "/taller-del-artista",
+       "kind": "internal"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "title": "Menú del Taller del Artista",
+  "description": "La carta del restaurante del Taller del Artista, en Tres Ríos: entradas, platos fuertes, pastas, postres, cafés con nombre de artista y cócteles, con precios."
+ }
+}

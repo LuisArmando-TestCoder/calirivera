@@ -3,7 +3,7 @@
  "slug": "taller-del-artista",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-19T12:00:00Z",
+ "updatedAt": "2026-11-22T08:15:17Z",
  "title": "Taller del Artista",
  "description": "Desde el año 2000, un espacio en Tres Ríos donde el arte, la gastronomía y la historia se encuentran.",
  "hero": {
@@ -48,6 +48,16 @@
      "type": "paragraph",
      "id": "taller-4",
      "text": "Desde entonces, Taller del Artista ha permanecido como un espacio independiente donde la creatividad no solo se contempla: se comparte, se experimenta y se convierte en parte de la vida cotidiana."
+    },
+    {
+     "type": "paragraph",
+     "id": "taller-gastronomia",
+     "text": "En 2003 el Taller sumó la gastronomía: una cocina que reúne lo mejor de las mesas mediterráneas y de otras culturas del mundo, con un menú que perdura hasta hoy. Por ella han pasado chefs de trayectoria nacional e internacional, entre ellos el alemán Peter Mobus y el costarricense Carlos Umaña."
+    },
+    {
+     "type": "paragraph",
+     "id": "taller-reconocimientos",
+     "text": "En sus paredes se firmó la Carta de la Tierra. La propuesta ha sido reconocida con la Palma Dorada de Madrid y con tres tenedores del Instituto Costarricense de Turismo."
     },
     {
      "type": "image",
@@ -107,7 +117,13 @@
        "kind": "map"
       },
       {
-       "label": "Menú del Taller",
+       "label": "Ver el menú",
+       "href": "/menu",
+       "note": "Platos y precios",
+       "kind": "internal"
+      },
+      {
+       "label": "El menú en PDF",
        "href": "/files/menu-taller-del-artista.pdf",
        "note": "PDF · 32 MB",
        "kind": "pdf"

@@ -10,7 +10,8 @@
   {
    "type": "heading",
    "id": "elementos-prologo",
-   "text": "Bajo los cúmulos, cirros y estratos"
+   "text": "Bajo los cúmulos, cirros y estratos",
+   "level": 2
   },
   {
    "type": "paragraph",
@@ -51,7 +52,8 @@
   {
    "type": "heading",
    "id": "elementos-epilogo",
-   "text": "Epílogo"
+   "text": "Epílogo",
+   "level": 2
   },
   {
    "type": "paragraph",

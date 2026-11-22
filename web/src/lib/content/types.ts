@@ -58,7 +58,15 @@ export type ExtraBlock =
   | { type: "links"; id: string; title?: string; items: LinkItem[] }
   | { type: "video"; id: string; url: string; title?: string; poster?: string }
   | { type: "audio"; id: string; src: string; title?: string }
-  | { type: "timeline"; id: string; items: TimelineItem[] };
+  | { type: "timeline"; id: string; items: TimelineItem[] }
+  | { type: "menu"; id: string; note?: string; items: MenuItem[] };
+
+/** Un renglón de una carta: nombre, precio tal como se muestra («₡4.800») y descripción. */
+export interface MenuItem {
+  name: string;
+  price?: string;
+  text?: string;
+}
 
 /** Lo que puede venir en cualquier lista de bloques del contenido. */
 export type AnyBlock = Block | ExtraBlock;

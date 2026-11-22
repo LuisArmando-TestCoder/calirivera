@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { EditableList, EditableText } from "@/components/cms/editable";
 import { ArtImage } from "@/components/media/ArtImage";
-import type { AnyBlock as Block, LinkItem, TimelineItem } from "@/lib/content/types";
+import type { AnyBlock as Block, LinkItem, MenuItem, TimelineItem } from "@/lib/content/types";
 import { LiteVideo } from "./LiteVideo";
 import s from "./Blocks.module.scss";
 
@@ -12,13 +12,14 @@ export function BlockView({ block, base, index, sizes, reveal = true, marks = fa
   const p = `${base}.${index}`;
   switch (block.type) {
     case "heading": {
-      const Tag = (`h${Math.min(4, Math.max(2, block.level))}`) as "h2" | "h3" | "h4";
+      const level = [2, 3, 4].includes(block.level) ? block.level : 2; // contenido migrado sin nivel: nunca una etiqueta inválida
+      const Tag = (`h${level}`) as "h2" | "h3" | "h4";
       return (
         <EditableText
           path={`${p}.text`}
           value={block.text}
           as={Tag}
-          className={`${s.heading} ${s[`h${block.level}`] ?? ""}`}
+          className={`${s.heading} ${s[`h${level}`] ?? ""}`}
         />
       );
     }
@@ -79,6 +80,8 @@ export function BlockView({ block, base, index, sizes, reveal = true, marks = fa
       );
     case "timeline":
       return <Timeline items={block.items} path={p} />;
+    case "menu":
+      return <Menu items={block.items} note={block.note} path={p} />;
   }
 }
 
@@ -106,6 +109,27 @@ export function Links({ items, title, path }: { items: LinkItem[]; title?: strin
         })}
       </EditableList>
     </nav>
+  );
+}
+
+/** Una carta: cada renglón con su nombre, su precio y su descripción; todo se edita en el lugar. */
+export function Menu({ items, note, path }: { items: MenuItem[]; note?: string; path: string }) {
+  return (
+    <div className={s.menu}>
+      <ul className={s.menuList}>
+        {items.map((it, i) => (
+          <li key={i} className={s.menuItem}>
+            <div className={s.menuHead}>
+              <EditableText path={`${path}.items.${i}.name`} value={it.name} as="span" className={s.menuName} />
+              <span className={s.menuRule} aria-hidden />
+              {it.price && <EditableText path={`${path}.items.${i}.price`} value={it.price} as="span" className={s.menuPrice} />}
+            </div>
+            {it.text && <EditableText path={`${path}.items.${i}.text`} value={it.text} as="p" multiline className={s.menuText} />}
+          </li>
+        ))}
+      </ul>
+      {note && <EditableText path={`${path}.note`} value={note} as="p" multiline className={s.menuNote} />}
+    </div>
   );
 }
 

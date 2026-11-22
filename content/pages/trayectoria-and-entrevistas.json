@@ -3,7 +3,7 @@
  "slug": "trayectoria-and-entrevistas",
  "status": "published",
  "createdAt": "2026-11-10T23:54:17Z",
- "updatedAt": "2026-11-21T23:36:13Z",
+ "updatedAt": "2026-11-22T08:15:17Z",
  "title": "Trayectoria & Entrevistas",
  "description": "Exposiciones, currículum y entrevistas sobre la obra de Cali Rivera.",
  "sections": [
@@ -315,6 +315,89 @@
      "url": "https://www.youtube.com/watch?v=Z9gIVTIjuzw",
      "title": "Entrevista a Cali Rivera en el Taller del Artista",
      "poster": "https://i.ytimg.com/vi/Z9gIVTIjuzw/hqdefault.jpg"
+    }
+   ]
+  },
+  {
+   "id": "semblanza",
+   "layout": "editorial-columns",
+   "title": "Currículum resumido",
+   "blocks": [
+    {
+     "type": "heading",
+     "id": "cv-h1",
+     "text": "Perfil profesional",
+     "level": 3
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-1",
+     "text": "Artista visual, gestor cultural y emprendedor creativo costarricense con más de tres décadas de trayectoria en pintura, instalación, arte objeto, intervención espacial y producción cultural. Su obra ha sido presentada en exposiciones individuales y colectivas en Costa Rica y en espacios internacionales de relevancia en Europa, Asia y Centroamérica. Entre sus participaciones más destacadas figuran la exposición individual «Sincretismo religioso: un camino para la paz» en el Museo Central de Arte Textil de Łódź, Polonia, y su participación en la Trienal de Riga, Letonia, ambas en 2015. Paralelamente, ha desarrollado una labor sostenida como fundador y director de Taller del Artista, proyecto independiente que integra creación, exhibición, literatura, encuentro comunitario y gastronomía cultural."
+    },
+    {
+     "type": "heading",
+     "id": "cv-h2",
+     "text": "Formación",
+     "level": 3
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-2",
+     "text": "Realizó estudios de arte y pintura al óleo con el maestro sueco Arvid Röström entre 1994 y 1998. En 2001 cursó taller de dibujo con Fabio Herrera y taller de grabado con Mario Maffioli y Fabio Herrera. Concluyó estudios en Publicidad en la Universidad Latina de Costa Rica en 1992 y llevó cursos para la Maestría en Comunicación y Mercadeo en 1998. También cursó estudios de Arquitectura en el Collegium Veritas de la UACA en 1986, además de cursos avanzados de preproducción y posproducción de video en el Collegium Latinum, UACA."
+    },
+    {
+     "type": "heading",
+     "id": "cv-h3",
+     "text": "Producción, gestión cultural y desarrollo interdisciplinario",
+     "level": 3
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-3",
+     "text": "Además de su trayectoria como artista visual, ha desarrollado una importante labor en producción y gestión cultural a través de la creación y consolidación de Taller del Artista, espacio independiente dedicado a la exhibición, el encuentro interdisciplinario y la promoción de experiencias culturales integrales en Costa Rica."
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-4",
+     "text": "En 2003 integró al proyecto un espacio para la gastronomía, ampliando el concepto hacia una experiencia cultural más amplia, donde arte, convivencia y creación culinaria dialogan en un mismo entorno. Por este espacio han pasado chefs de trayectoria nacional e internacional, entre ellos el chef alemán Peter Mobus y el artista gastronómico costarricense Carlos Umaña, junto a otros profesionales vinculados a la excelencia culinaria."
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-5",
+     "text": "Esta visión de arte y emprendimiento cultural dio lugar a una propuesta singular y sostenida en el tiempo, reconocida con la Palma Dorada de Madrid y con tres tenedores del Instituto Costarricense de Turismo."
+    },
+    {
+     "type": "heading",
+     "id": "cv-h4",
+     "text": "Experiencia profesional complementaria",
+     "level": 3
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-6",
+     "text": "Su trayectoria incluye también experiencia en dirección y producción en otros campos: gerente general de Servicentro Petatlán S. A. entre 1993 y 1998 y nuevamente en 2001; encargado de la apertura del departamento de promoción de Righetti Internacional en 1991; asistente de reclutamiento y extra talent en CENEX, productora de cine y televisión en Hollywood, California, entre 1989 y 1990; creativo publicitario en Siboney en 1987; y productor general de diversos eventos de moda en 1986."
+    },
+    {
+     "type": "heading",
+     "id": "cv-h5",
+     "text": "Publicaciones y referencias",
+     "level": 3
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-7",
+     "text": "Su trayectoria ha sido reseñada en publicaciones como Revista Rumbo, Revista Join Us, el Anuarium de arte y cultura costarricense, Art-En Costa Rica II, Revista Estilos & Casas y Fragua. Cultura Política. También figura un comentario del escritor Alfonso Chase publicado en La Prensa Libre el 5 de marzo de 2009, en el que destaca la singularidad y audacia de su propuesta artística."
+    },
+    {
+     "type": "heading",
+     "id": "cv-h6",
+     "text": "Áreas de experiencia",
+     "level": 3
+    },
+    {
+     "type": "paragraph",
+     "id": "cv-8",
+     "text": "Artes visuales; pintura; instalación; arte objeto; intervención del espacio; producción cultural; gestión de espacios independientes; coordinación de exposiciones; curaduría de procesos artísticos; organización de actividades interdisciplinarias; desarrollo de proyectos culturales y gastronómicos; conceptualización de experiencias culturales."
     }
    ]
   }

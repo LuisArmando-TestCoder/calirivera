@@ -36,3 +36,13 @@
 .pvTitle { grid-area: title; @include display(70, 820); font-size: min(clamp(2.6rem, 9vw, 8rem), var(--title-cap)); line-height: 0.88; letter-spacing: -0.02em; }
 .pvGo { grid-area: go; @include display(70, 400); font-size: min(clamp(2.6rem, 9vw, 8rem), var(--title-cap)); line-height: 0.88; @include motion { transition: transform 0.4s var(--ease-out), color 0.3s; } }
 .sideBlock { display: grid; gap: var(--space-s); }
+
+// Currículum resumido: texto corrido en una columna de lectura; en pantallas anchas, cada apartado con su
+// título a la izquierda y su texto a la derecha.
+.cv { @include wrap; padding-block: var(--space-2xl); border-top: 2px solid var(--c-fg); margin-top: var(--space-2xl); }
+.cvBody {
+  display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-s); margin-top: var(--space-l);
+  @include above($bp-m) { grid-template-columns: minmax(0, 16rem) minmax(0, 44rem); column-gap: var(--space-xl); row-gap: var(--space-m); }
+}
+.cvHead { margin-top: var(--space-m); @include above($bp-m) { grid-column: 1; margin-top: 0; } :is(h2, h3, h4) { @include display(70, 760); font-size: var(--step-1); line-height: 1.15; margin: 0; } }
+.cvText { @include above($bp-m) { grid-column: 2; } p { margin: 0; } }

@@ -45,7 +45,8 @@
   {
    "type": "heading",
    "id": "aquarius-5",
-   "text": "Una Madonna costarricense frente a Copacabana"
+   "text": "Una Madonna costarricense frente a Copacabana",
+   "level": 2
   },
   {
    "type": "image",
@@ -82,7 +83,8 @@
   {
    "type": "heading",
    "id": "aquarius-10",
-   "text": "Una imagen que quedó registrada"
+   "text": "Una imagen que quedó registrada",
+   "level": 2
   },
   {
    "type": "paragraph",
@@ -97,7 +99,8 @@
   {
    "type": "heading",
    "id": "aquarius-13",
-   "text": "Lo que sobrevivió a la pérdida"
+   "text": "Lo que sobrevivió a la pérdida",
+   "level": 2
   },
   {
    "type": "paragraph",
@@ -123,7 +126,8 @@
   {
    "type": "heading",
    "id": "aquarius-18",
-   "text": "Ficha"
+   "text": "Ficha",
+   "level": 2
   },
   {
    "type": "paragraph",

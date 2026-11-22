@@ -83,7 +83,8 @@
   {
    "type": "heading",
    "id": "el-beso-hoy-t",
-   "text": "La obra hoy"
+   "text": "La obra hoy",
+   "level": 2
   },
   {
    "type": "paragraph",

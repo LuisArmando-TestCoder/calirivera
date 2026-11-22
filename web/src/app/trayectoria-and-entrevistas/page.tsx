@@ -25,6 +25,9 @@ export default async function Trayectoria() {
       : null;
   };
   const expo = sec("exposiciones");
+  // el currículum resumido (perfil, formación, gestión cultural), como texto y no solo como descarga
+  const cvI = page?.sections.findIndex((x) => x.id === "semblanza") ?? -1;
+  const cv = page && cvI >= 0 ? { s: page.sections[cvI], i: cvI } : null;
   const side = ["curriculum", "entrevistas"].map(sec).filter(Boolean) as NonNullable<ReturnType<typeof sec>>[];
   const timelineBlock = expo?.s.blocks.findIndex((b) => b.type === "timeline") ?? -1;
   const years = expo && timelineBlock >= 0 && expo.s.blocks[timelineBlock].type === "timeline"
@@ -59,6 +62,18 @@ export default async function Trayectoria() {
           ))}
         </aside>
       </div>
+      {cv && (
+        <section className={s.cv} id="curriculum" aria-labelledby="tray-cv">
+          <h2 id="tray-cv" className={s.h2}>{cv.s.title ?? "Currículum"}</h2>
+          <div className={s.cvBody}>
+            {(cv.s.blocks as AnyBlock[]).map((b, i) => (
+              <div key={b.id ?? i} className={b.type === "heading" ? s.cvHead : s.cvText}>
+                <BlockView block={b} base={`pages/trayectoria-and-entrevistas#sections.${cv.i}.blocks`} index={i} />
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
       <Link href="/puntos-de-vista" className={s.pv}>
         <span className={s.pvKicker}>Crítica y prensa, 1995–2011</span>
         <span className={s.pvTitle}>Puntos de vista</span>
