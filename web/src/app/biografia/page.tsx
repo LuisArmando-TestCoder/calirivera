@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Fragment } from "react";
 import { FireChapter } from "@/components/bio/FireChapter";
+import { BlockView } from "@/components/layout-engine/Blocks";
 import { SectionRenderer } from "@/components/layout-engine/SectionRenderer";
 import { NarrationSlot } from "@/components/narration/NarrationSlot";
 import { EditableText } from "@/components/cms/editable";
 import { getPage } from "@/lib/content/repo";
+import type { AnyBlock, Section } from "@/lib/content/types";
 import s from "./bio.module.scss";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -22,6 +25,19 @@ const CHAPTERS: Record<string, { year: string; beat: string }> = {
   "crear-tambien-es-tomar-posicion": { year: "2009", beat: "06" },
   "una-obra-que-traspasa-fronteras": { year: "2014", beat: "07" },
 };
+
+/** La escena del incendio solo muestra sus párrafos y fotos; los enlaces del capítulo van debajo, cuando el fondo ya volvió a ceniza. */
+function AfterTheFire({ section, base }: { section: Section; base: string }) {
+  const links = (section.blocks as AnyBlock[]).map((block, index) => ({ block, index })).filter(({ block }) => block.type === "links");
+  if (!links.length) return null;
+  return (
+    <div className={s.after}>
+      {links.map(({ block, index }) => (
+        <BlockView key={block.id} block={block} base={`${base}.blocks`} index={index} />
+      ))}
+    </div>
+  );
+}
 
 export default async function Biografia() {
   const page = await getPage("biografia");
@@ -42,7 +58,14 @@ export default async function Biografia() {
 
       {page.sections.map((sec, i) => {
         const base = `pages/biografia#sections.${i}`;
-        if (sec.id === "de-las-cenizas") return <FireChapter key={sec.id} section={sec} base={base} />;
+        if (sec.id === "de-las-cenizas") {
+          return (
+            <Fragment key={sec.id}>
+              <FireChapter section={sec} base={base} />
+              <AfterTheFire section={sec} base={base} />
+            </Fragment>
+          );
+        }
         const ch = CHAPTERS[sec.id];
         return (
           <div key={sec.id} className={s.chapter}>

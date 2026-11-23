@@ -3,7 +3,7 @@
  "slug": "casa-museo-ave-fenix",
  "status": "published",
  "createdAt": "2026-11-20T03:00:00Z",
- "updatedAt": "2026-11-19T12:00:00Z",
+ "updatedAt": "2026-11-23T02:30:00Z",
  "kind": "project",
  "title": "Casa Museo Ave Fénix",
  "year": "2018–2020",
@@ -71,6 +71,19 @@
     }
    ],
    "title": "Más imágenes"
+  },
+  {
+   "type": "links",
+   "id": "fenix-estandartes",
+   "title": "Obra nacida del incendio",
+   "items": [
+    {
+     "label": "Luto y El santo de los imposibles",
+     "href": "/bitacora/luto-y-el-santo-de-los-imposibles",
+     "kind": "internal",
+     "note": "Dos estandartes de 2018"
+    }
+   ]
   }
  ]
 }

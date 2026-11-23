@@ -43,6 +43,8 @@
   @include below($bp-m) { position: relative; top: 0; right: 0; padding: var(--space-xl) var(--gutter) 0; margin-bottom: calc(var(--space-3xl) * -1); }
 }
 
+.after { @include wrap; padding-top: var(--space-2xl); > * { max-width: 44rem; } }
+
 .next {
   @include wrap;
   display: grid; gap: var(--space-s);

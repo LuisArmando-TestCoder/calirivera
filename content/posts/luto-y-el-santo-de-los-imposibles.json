@@ -1,0 +1,133 @@
+{
+ "id": "luto-y-el-santo-de-los-imposibles",
+ "slug": "luto-y-el-santo-de-los-imposibles",
+ "status": "published",
+ "createdAt": "2026-11-23T02:30:00Z",
+ "updatedAt": "2026-11-23T02:30:00Z",
+ "title": "Luto y El santo de los imposibles",
+ "excerpt": "Dos estandartes nacidos del incendio de 2017, un díptico de catarsis entre la pena y la esperanza, se exponen por primera vez en la No Bienal.",
+ "body": [
+  {
+   "type": "paragraph",
+   "id": "luto-1",
+   "text": "Después del incendio de noviembre de 2017, cuando el fuego se llevó gran parte de mi mundo, el arte se convirtió en refugio y en una forma de seguir respirando.",
+   "lead": true
+  },
+  {
+   "type": "gallery",
+   "id": "luto-estandartes",
+   "images": [
+    {
+     "src": "/media/obras/luto-frente-533.jpg",
+     "alt": "Luto (frente) — Cali Rivera, 2018: estandarte rojo con un corazón de metal, el emblema del Taller del Artista, bordados, borlas y objetos obsequiados por artistas",
+     "width": 533,
+     "height": 1600,
+     "widths": [
+      533
+     ],
+     "placeholder": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAABQBwCdASoQADAAPu1krE4ppaSiKqwBMB2JbACdOUE6+3DtBBgNsBzvO6O+qB6ABO0e70r2saOgqxF98il+oIkjtMIAAPa7xcW8unMRnPSgX+QYcKMokwgqW2oXDRPp8D0KM7yg9Idfq2KtTY27XJCqplKMWq6cX+XPWJaLGZn821dnBjfhvqiDtgZZhuhCQVjgQo8JHu7zzle95TyZPmif8NcfFjzvudmL+NMN7fXgtHgiTPr2zmRezgHNIt9gIuzCj32MI04PinEFOJnRHZREyygtOeivferVeuGPxfdde4g4+PcqyghcEqW4o3YMWTYys6kQqQ6b7dHUWrVsOy66DJsd19g3f8EumM22QO2IcAAA",
+     "color": "rgb(149 86 72)"
+    },
+    {
+     "src": "/media/obras/luto-reverso-533.jpg",
+     "alt": "Luto (reverso) — Cali Rivera, 2018: encaje negro con lentejuelas sobre tela dorada; en la franja central, la firma del artista y el año",
+     "width": 533,
+     "height": 1600,
+     "widths": [
+      533
+     ],
+     "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBACdASoQADAAPu1irE4ppaSiKqwBMB2JZQALBSc0z7gWvaIKL6rysxLGjNfFuoAA/k8+5ZcSXtRVxWs6sQbnpT6RLCDLzXtO7fqkENZHFLgN0SNSZKvjbwUN+9XYjrMLDQq3P58gVdRbsNUWXN7TWd5WARdgWRBjZ5nYMRirEJcLnQCQXhIWwRKywiZu3cAfLf5g29CikMTfgpaXEmXWWjay2wjx7lUlxN+DG2uXOqSHswfn2rZuFxsX+uy3r1CkftGg8AiSUfat5AAAAA==",
+     "color": "rgb(96 87 81)"
+    },
+    {
+     "src": "/media/obras/el-santo-de-los-imposibles-frente-535.jpg",
+     "alt": "El santo de los imposibles (frente) — Cali Rivera, 2018: imagen de san Judas Tadeo con manto verde sobre brocado turquesa, entre tejidos y cuatro corazones colgantes",
+     "width": 535,
+     "height": 1600,
+     "widths": [
+      535
+     ],
+     "placeholder": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAABwBQCdASoQADAAPt1apE2opSOiNUgBEBuJagCdMt1q0SLbVSljDn1THH5aiIYqBJkM+OYAAPzfwY0N6HQYHVyfwmRUfAcPIJVOmnbBAIWFvoOe15C+tbgv6HiM0CgtA3XEJgxLyStGN0CxvzDgX8FdH0RZ1n5gvPJrdXZRLZ+KYJZTS1IQUJxC5084HvcrgJxoscaLYFfaMtiGlYx2AyaFsa+39U+cmhMtwi80bOJk2Jfk+xTEpxquUS3PaM+D7NyB769Qz7bHVrLfzvTugd6o8FgC4vrmVKGb7HLMuzRk3zq3Zx73bbO2dPIZMcAA",
+     "color": "rgb(122 125 108)"
+    },
+    {
+     "src": "/media/obras/el-santo-de-los-imposibles-reverso-533.jpg",
+     "alt": "El santo de los imposibles (reverso) — Cali Rivera, 2018: tejidos rayados sobre verde con un calendario maya circular y, debajo, la firma del artista y el año",
+     "width": 533,
+     "height": 1600,
+     "widths": [
+      533
+     ],
+     "placeholder": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASoQADAAPu1aqE2ppKQiNVgIATAdiWgAnQ7AD/AQ4DrmO2kiFRy0y+6qN9RSC03+kvY+gAD2viCUju0p7x60BxFtTbMyMBBVke/nxQYcFZbsiQVM7O1JehXB3Dbpb46v3mPov1BHIDmSCuBm1lQOZ/zWs+0BFuY8W3k2JFKMDOhx4FrUQwUgIXrxoJmcQ+8FZHPYSsGACcsYmxAJASqnt05jStjsj0XTRCZOv1VQdVnwlFOzfn513f7OZ9exW9o5ODCIWPRk3Q9tvQJgzBOZu0nhVbe631HSsY2fVZwA",
+     "color": "rgb(148 131 108)"
+    }
+   ],
+   "caption": "Luto y El santo de los imposibles, frente y reverso de cada estandarte. Cali Rivera, 2018."
+  },
+  {
+   "type": "paragraph",
+   "id": "luto-2",
+   "text": "De esa herida —profunda, real y transformadora— nacieron estos dos estandartes: Luto y El santo de los imposibles, un díptico de catarsis tejido entre la pena y la esperanza, entre el duelo y la inquebrantable convicción de seguir creando."
+  },
+  {
+   "type": "paragraph",
+   "id": "luto-3",
+   "text": "Luto está hecho con ofrendas: telas, objetos y bordados obsequiados por los artistas que habitaron la casa y compartieron conmigo la vida, la creación y la amistad. En su entramado vive también un encaje de bronce de una mesa de marquetería francesa, rescatado de la entrada, como una memoria tangible de lo que fuimos y de lo que aún perdura."
+  },
+  {
+   "type": "paragraph",
+   "id": "luto-4",
+   "text": "El santo de los imposibles es la plegaria del que, en medio de los escombros, se atreve a pedir lo inesperado: que el arte vuelva a encender la vida."
+  },
+  {
+   "type": "paragraph",
+   "id": "luto-5",
+   "text": "Ocho años después de su confección, estas piezas se exponen por primera vez en la No Bienal, como testimonio de que, incluso entre las ruinas, siempre existe la posibilidad de un nuevo comienzo."
+  },
+  {
+   "type": "paragraph",
+   "id": "luto-firma",
+   "text": "Cali Rivera, 2026"
+  },
+  {
+   "type": "links",
+   "id": "luto-obras",
+   "title": "Las dos obras",
+   "items": [
+    {
+     "label": "Luto",
+     "href": "/obra/luto",
+     "kind": "internal",
+     "note": "2018 · frente y reverso"
+    },
+    {
+     "label": "El santo de los imposibles",
+     "href": "/obra/el-santo-de-los-imposibles",
+     "kind": "internal",
+     "note": "2018 · frente y reverso"
+    },
+    {
+     "label": "Casa Museo Ave Fénix",
+     "href": "/catalogos-and-proyectos/casa-museo-ave-fenix",
+     "kind": "internal",
+     "note": "La reconstrucción después del incendio"
+    }
+   ]
+  }
+ ],
+ "publishedAt": "2026-11-22T12:00:00Z",
+ "tags": [
+  "exposición"
+ ],
+ "cover": {
+  "src": "/media/obras/luto-reverso-533.jpg",
+  "alt": "Luto (reverso) — Cali Rivera, 2018: encaje negro con lentejuelas sobre tela dorada; en la franja central, la firma del artista y el año",
+  "width": 533,
+  "height": 1600,
+  "widths": [
+   533
+  ],
+  "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBACdASoQADAAPu1irE4ppaSiKqwBMB2JZQALBSc0z7gWvaIKL6rysxLGjNfFuoAA/k8+5ZcSXtRVxWs6sQbnpT6RLCDLzXtO7fqkENZHFLgN0SNSZKvjbwUN+9XYjrMLDQq3P58gVdRbsNUWXN7TWd5WARdgWRBjZ5nYMRirEJcLnQCQXhIWwRKywiZu3cAfLf5g29CikMTfgpaXEmXWWjay2wjx7lUlxN+DG2uXOqSHswfn2rZuFxsX+uy3r1CkftGg8AiSUfat5AAAAA==",
+  "color": "rgb(96 87 81)"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "el-santo-de-los-imposibles",
+ "slug": "el-santo-de-los-imposibles",
+ "title": "El santo de los imposibles",
+ "images": [
+  {
+   "src": "/media/obras/el-santo-de-los-imposibles-frente-535.jpg",
+   "alt": "El santo de los imposibles (frente) — Cali Rivera, 2018: imagen de san Judas Tadeo con manto verde sobre brocado turquesa, entre tejidos y cuatro corazones colgantes",
+   "width": 535,
+   "height": 1600,
+   "widths": [
+    535
+   ],
+   "placeholder": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAABwBQCdASoQADAAPt1apE2opSOiNUgBEBuJagCdMt1q0SLbVSljDn1THH5aiIYqBJkM+OYAAPzfwY0N6HQYHVyfwmRUfAcPIJVOmnbBAIWFvoOe15C+tbgv6HiM0CgtA3XEJgxLyStGN0CxvzDgX8FdH0RZ1n5gvPJrdXZRLZ+KYJZTS1IQUJxC5084HvcrgJxoscaLYFfaMtiGlYx2AyaFsa+39U+cmhMtwi80bOJk2Jfk+xTEpxquUS3PaM+D7NyB769Qz7bHVrLfzvTugd6o8FgC4vrmVKGb7HLMuzRk3zq3Zx73bbO2dPIZMcAA",
+   "color": "rgb(122 125 108)"
+  },
+  {
+   "src": "/media/obras/el-santo-de-los-imposibles-reverso-533.jpg",
+   "alt": "El santo de los imposibles (reverso) — Cali Rivera, 2018: tejidos rayados sobre verde con un calendario maya circular y, debajo, la firma del artista y el año",
+   "width": 533,
+   "height": 1600,
+   "widths": [
+    533
+   ],
+   "placeholder": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASoQADAAPu1aqE2ppKQiNVgIATAdiWgAnQ7AD/AQ4DrmO2kiFRy0y+6qN9RSC03+kvY+gAD2viCUju0p7x60BxFtTbMyMBBVke/nxQYcFZbsiQVM7O1JehXB3Dbpb46v3mPov1BHIDmSCuBm1lQOZ/zWs+0BFuY8W3k2JFKMDOhx4FrUQwUgIXrxoJmcQ+8FZHPYSsGACcsYmxAJASqnt05jStjsj0XTRCZOv1VQdVnwlFOzfn513f7OZ9exW9o5ODCIWPRk3Q9tvQJgzBOZu0nhVbe631HSsY2fVZwA",
+   "color": "rgb(148 131 108)"
+  }
+ ],
+ "order": 2,
+ "status": "published",
+ "aiAltered": false,
+ "year": 2018,
+ "createdAt": "2026-11-23T02:30:00Z",
+ "updatedAt": "2026-11-23T02:30:00Z",
+ "notes": "La plegaria de quien, en medio de los escombros, se atreve a pedir lo inesperado: que el arte vuelva a encender la vida. Nació después del incendio de noviembre de 2017 y forma un díptico con Luto. Se expone por primera vez en la No Bienal, en 2026."
+}

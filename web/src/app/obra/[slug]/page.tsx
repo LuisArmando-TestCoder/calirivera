@@ -7,8 +7,10 @@ import { ArtImage } from "@/components/media/ArtImage";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { artworkLd, breadcrumbLd } from "@/lib/seo";
 import { ZoomView } from "@/components/media/ZoomView";
+import { Faces } from "@/components/media/Faces";
 import { GLReveal } from "@/components/media/GLReveal";
 import { getArtwork, getCollection, listArtworks, listSlugs } from "@/lib/content/repo";
+import { facesOf } from "@/lib/content/faces";
 import { COLLECTIONS } from "@/lib/content/types";
 import s from "./obra.module.scss";
 
@@ -52,19 +54,20 @@ async function ObraContent({ params }: { params: PageProps<"/obra/[slug]">["para
     ["Medidas", "dimensions", w.dimensions ?? ""],
     ["Estado", "availability", w.availability ? AVAILABILITY[w.availability] : ""],
   ];
+  // Una obra puede tener varias fotos: frente y reverso de un estandarte, detalles.
+  const faces = facesOf(w.images);
+  const views = w.images.map((image, n) => (
+    <ZoomView key={image.src} image={image} label={faces.length > 1 ? `${w.title}, ${faces[n].label.toLowerCase()}` : w.title}>
+      <ArtImage image={image} path={`${path}#images.${n}`} priority={n === 0} sizes="(min-width: 60em) 62vw, 100vw" />
+    </ZoomView>
+  ));
   return (
     <GLReveal as="article" className={s.page} slot={1024}>
       <JsonLd data={artworkLd(w, c ?? null)} />
       <JsonLd data={breadcrumbLd([{ name: "Colecciones", path: "/colecciones" }, ...(c ? [{ name: c.title, path: `/colecciones/${c.slug}` }] : []), { name: w.title, path: `/obra/${w.slug}` }])} />
       <div className={s.media}>
         <ViewTransition name={`obra-${w.slug}`}>
-          <div className={s.frame}>
-            {w.images[0] && (
-              <ZoomView image={w.images[0]} label={w.title}>
-                <ArtImage image={w.images[0]} path={`${path}#images.0`} priority sizes="(min-width: 60em) 62vw, 100vw" />
-              </ZoomView>
-            )}
-          </div>
+          <div className={s.frame}>{views.length > 1 ? <Faces faces={faces}>{views}</Faces> : views[0]}</div>
         </ViewTransition>
       </div>
       <aside className={s.label}>
@@ -79,11 +82,13 @@ async function ObraContent({ params }: { params: PageProps<"/obra/[slug]">["para
           ))}
         </dl>
         {w.notes && <EditableText path={`${path}#notes`} value={w.notes} as="p" multiline className={s.notes} />}
-        <nav className={s.pager} aria-label="Otras obras de la colección">
-          {prev ? <Link href={`/obra/${prev.slug}`} rel="prev">Anterior</Link> : <span />}
-          {siblings.length > 0 && <span className={s.count}>{i + 1} de {siblings.length}</span>}
-          {next ? <Link href={`/obra/${next.slug}`} rel="next">Siguiente</Link> : <span />}
-        </nav>
+        {siblings.length > 0 && (
+          <nav className={s.pager} aria-label="Otras obras de la colección">
+            {prev ? <Link href={`/obra/${prev.slug}`} rel="prev">Anterior</Link> : <span />}
+            <span className={s.count}>{i + 1} de {siblings.length}</span>
+            {next ? <Link href={`/obra/${next.slug}`} rel="next">Siguiente</Link> : <span />}
+          </nav>
+        )}
       </aside>
     </GLReveal>
   );

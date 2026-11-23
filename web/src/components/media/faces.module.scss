@@ -1,0 +1,42 @@
+@use "../../styles/tokens" as *;
+
+.faces {
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  gap: var(--space-s);
+}
+// El escenario es el contenedor de medida: la obra entra entera en lo que dejan libre las pestañas.
+.stage { container-type: size; min-width: 0; min-height: 0; display: grid; }
+.view {
+  position: relative; // ancla el botón «Ver de cerca»
+  grid-area: 1 / 1;
+  display: grid;
+  place-items: center;
+  min-width: 0;
+  min-height: 0;
+  &[hidden] { display: none; }
+}
+// Al cambiar de vista la pieza gira, como quien da vuelta un estandarte.
+.faces[data-turned] .view { @include motion { animation: turn 0.55s var(--ease-out); } }
+@keyframes turn { from { opacity: 0; transform: perspective(70rem) rotateY(-16deg); } }
+
+.tabs { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--space-xs); }
+.tab {
+  @include label;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: 44px;
+  padding: 0.3rem 1rem 0.3rem 0.35rem;
+  border: 1px solid var(--c-linea);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--c-muted);
+  cursor: pointer;
+  img { width: 2rem; height: 2rem; border-radius: 50%; object-fit: cover; }
+  &[aria-selected="true"] { color: var(--c-fg); border-color: currentColor; }
+  &:hover, &:focus-visible { color: var(--c-accent); border-color: currentColor; }
+}

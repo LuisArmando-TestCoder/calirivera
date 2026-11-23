@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { EditableList, EditableText } from "@/components/cms/editable";
 import { ArtImage } from "@/components/media/ArtImage";
-import type { AnyBlock as Block, LinkItem, MenuItem, TimelineItem } from "@/lib/content/types";
+import type { AnyBlock as Block, ImageAsset, LinkItem, MenuItem, TimelineItem } from "@/lib/content/types";
 import { LiteVideo } from "./LiteVideo";
 import s from "./Blocks.module.scss";
 
@@ -61,11 +61,14 @@ export function BlockView({ block, base, index, sizes, reveal = true, marks = fa
       );
     case "gallery":
       return (
-        <EditableList path={`${p}.images`} itemType="image" className={s.gallery}>
-          {block.images.map((im, i) => (
-            <ArtImage key={im.src + i} image={im} path={`${p}.images.${i}`} sizes="(min-width: 60em) 33vw, 50vw" />
-          ))}
-        </EditableList>
+        <>
+          <EditableList path={`${p}.images`} itemType="image" className={`${s.gallery} ${hangsTogether(block.images) ? s.hanging : ""}`}>
+            {block.images.map((im, i) => (
+              <ArtImage key={im.src + i} image={im} path={`${p}.images.${i}`} sizes="(min-width: 60em) 33vw, 50vw" />
+            ))}
+          </EditableList>
+          {block.caption && <EditableText path={`${p}.caption`} value={block.caption} as="p" className={s.caption} />}
+        </>
       );
     case "links":
       return <Links items={block.items} title={block.title} path={p} />;
@@ -83,6 +86,11 @@ export function BlockView({ block, base, index, sizes, reveal = true, marks = fa
     case "menu":
       return <Menu items={block.items} note={block.note} path={p} />;
   }
+}
+
+/** Pocas piezas muy verticales (estandartes, banderas): se cuelgan una al lado de la otra, como en la sala. */
+function hangsTogether(images: ImageAsset[]): boolean {
+  return images.length >= 2 && images.length <= 4 && images.every((im) => (im.width ?? 1) / (im.height ?? 1) < 0.5);
 }
 
 export function Links({ items, title, path }: { items: LinkItem[]; title?: string; path: string }) {

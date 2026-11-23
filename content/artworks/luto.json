@@ -1,0 +1,36 @@
+{
+ "id": "luto",
+ "slug": "luto",
+ "title": "Luto",
+ "images": [
+  {
+   "src": "/media/obras/luto-frente-533.jpg",
+   "alt": "Luto (frente) — Cali Rivera, 2018: estandarte rojo con un corazón de metal, el emblema del Taller del Artista, bordados, borlas y objetos obsequiados por artistas",
+   "width": 533,
+   "height": 1600,
+   "widths": [
+    533
+   ],
+   "placeholder": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAABQBwCdASoQADAAPu1krE4ppaSiKqwBMB2JbACdOUE6+3DtBBgNsBzvO6O+qB6ABO0e70r2saOgqxF98il+oIkjtMIAAPa7xcW8unMRnPSgX+QYcKMokwgqW2oXDRPp8D0KM7yg9Idfq2KtTY27XJCqplKMWq6cX+XPWJaLGZn821dnBjfhvqiDtgZZhuhCQVjgQo8JHu7zzle95TyZPmif8NcfFjzvudmL+NMN7fXgtHgiTPr2zmRezgHNIt9gIuzCj32MI04PinEFOJnRHZREyygtOeivferVeuGPxfdde4g4+PcqyghcEqW4o3YMWTYys6kQqQ6b7dHUWrVsOy66DJsd19g3f8EumM22QO2IcAAA",
+   "color": "rgb(149 86 72)"
+  },
+  {
+   "src": "/media/obras/luto-reverso-533.jpg",
+   "alt": "Luto (reverso) — Cali Rivera, 2018: encaje negro con lentejuelas sobre tela dorada; en la franja central, la firma del artista y el año",
+   "width": 533,
+   "height": 1600,
+   "widths": [
+    533
+   ],
+   "placeholder": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBACdASoQADAAPu1irE4ppaSiKqwBMB2JZQALBSc0z7gWvaIKL6rysxLGjNfFuoAA/k8+5ZcSXtRVxWs6sQbnpT6RLCDLzXtO7fqkENZHFLgN0SNSZKvjbwUN+9XYjrMLDQq3P58gVdRbsNUWXN7TWd5WARdgWRBjZ5nYMRirEJcLnQCQXhIWwRKywiZu3cAfLf5g29CikMTfgpaXEmXWWjay2wjx7lUlxN+DG2uXOqSHswfn2rZuFxsX+uy3r1CkftGg8AiSUfat5AAAAA==",
+   "color": "rgb(96 87 81)"
+  }
+ ],
+ "order": 1,
+ "status": "published",
+ "aiAltered": false,
+ "year": 2018,
+ "createdAt": "2026-11-23T02:30:00Z",
+ "updatedAt": "2026-11-23T02:30:00Z",
+ "notes": "Hecho con ofrendas: telas, objetos y bordados obsequiados por los artistas que habitaron la casa, y un encaje de bronce de una mesa de marquetería francesa, rescatado de la entrada. Nació después del incendio de noviembre de 2017 y forma un díptico con El santo de los imposibles. Se expone por primera vez en la No Bienal, en 2026."
+}
